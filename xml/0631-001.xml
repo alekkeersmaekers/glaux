@@ -1,0 +1,30 @@
+<treebank version="2" xml:lang="grc">
+  <sentence struct_id="19904" id="1" document_id="0631-001" analysis="auto">
+    <word id="100292663" form="ἔχοντα" line="1" lemma="ἔχω" postag="v-sppama-" head="100292670" relation="ADV"/>
+    <word id="100292664" form="δεῖ" line="1" lemma="δέω" postag="v3spia---" head="0" relation="PRED"/>
+    <word id="100292665" form="τόξον" line="1" lemma="τόξον" postag="n-s---na-" head="100292667" relation="OBJ_CO"/>
+    <word id="100292666" form="τε" line="1" lemma="τε" postag="c--------" head="100292667" relation="AuxY"/>
+    <word id="100292667" form="καὶ" line="1" lemma="καί" postag="c--------" head="100292670" relation="COORD"/>
+    <word id="100292668" form="ἰοδόκον" line="1" lemma="ἰοδόκος" postag="a-s---fa-" head="100292669" relation="ATR"/>
+    <word id="100292669" form="φαρέτραν" line="1" lemma="φαρέτρα" postag="n-s---fa-" head="100292667" relation="OBJ_CO"/>
+    <word id="100292670" form="στείχειν" line="2" lemma="στείχω" postag="v--pna---" head="100292664" relation="SBJ"/>
+    <word id="100292671" form="ποτὶ" line="2" lemma="πρός" postag="r--------" head="100292670" relation="AuxP"/>
+    <word id="100292672" form="φῶτα" line="2" lemma="φώς" postag="n-s---ma-" head="100292671" relation="OBJ"/>
+    <word id="100292673" form="κακόν" line="2" lemma="κακός" postag="a-s---ma-" head="100292672" relation="ATR"/>
+    <word id="100292674" form="·" line="2" lemma="·" postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="19905" id="2" document_id="0631-001" analysis="auto">
+    <word id="100292675" form="πιστὸν" line="3" lemma="πιστός" postag="a-s---na-" head="100292677" relation="ATR"/>
+    <word id="100292676" form="γὰρ" line="3" lemma="γάρ" postag="g--------" head="100292681" relation="AuxY"/>
+    <word id="100292677" form="οὐδὲν" line="3" lemma="οὐδείς" postag="p-s---na-" head="100292681" relation="ADV"/>
+    <word id="100292678" form="γλῶσσα" line="3" lemma="γλῶσσα" postag="n-s---fn-" head="100292681" relation="SBJ"/>
+    <word id="100292679" form="διὰ" line="3" lemma="διά" postag="r--------" head="100292681" relation="AuxP"/>
+    <word id="100292680" form="στόματος" line="3" lemma="στόμα" postag="n-s---ng-" head="100292679" relation="ADV"/>
+    <word id="100292681" form="λαλεῖ" line="4" lemma="λαλέω" postag="v3spia---" head="0" relation="PRED"/>
+    <word id="100292682" form="διχόμυθον" line="4" lemma="διχόμυθος" postag="a-s---na-" head="100292685" relation="ATR"/>
+    <word id="100292683" form="ἔχουσι" line="4" lemma="ἔχω" postag="v-pppamd-" head="100292681" relation="ADV"/>
+    <word id="100292684" form="καρδίᾳ" line="4" lemma="καρδία" postag="n-s---fd-" head="100292683" relation="ADV"/>
+    <word id="100292685" form="νόημα" line="4" lemma="νόημα" postag="n-s---na-" head="100292681" relation="OBJ"/>
+    <word id="100292686" form="." line="4" lemma="." postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+</treebank>

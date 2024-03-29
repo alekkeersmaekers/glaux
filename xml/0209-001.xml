@@ -1,0 +1,29 @@
+<treebank version="2" xml:lang="grc">
+  <sentence struct_id="411573" id="1" document_id="0209-001" analysis="auto">
+    <word id="107845165" form="κα-" line="1" lemma="καί" postag="c--------" head="107845166" relation="AuxZ"/>
+    <word id="107845166" form="κἀγὼ" line="1" lemma="ἐγώ" postag="p-s---cn-" head="107845167" relation="SBJ"/>
+    <word id="107845167" form="παιδοφιλήσω" line="1" lemma="παιδοφιλέω" postag="v1sfia---" head="0" relation="PRED"/>
+    <word id="107845168" form="·" line="1" lemma="·" postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="411574" id="2" document_id="0209-001" analysis="auto">
+    <word id="107845169" form="πολύ" line="1" lemma="πολύς" postag="a-s---na-" head="107845171" relation="ADV"/>
+    <word id="107845170" form="μοι" line="1" lemma="ἐγώ" postag="p-s---cd-" head="1000273063" relation="ADV"/>
+    <word id="107845171" form="κάλλιον" line="1" lemma="καλός" postag="a-s---nnc" head="1000273063" relation="PNOM"/>
+    <word id="107845172" form="ἢ" line="1" lemma="ἤ" postag="c--------" head="107845171" relation="AuxC"/>
+    <word id="107845173" form="γαμεῖν" line="1" lemma="γαμέω" postag="v--pna---" head="107845172" relation="ADV"/>
+    <word id="107845174" form="·" line="1" lemma="·" postag="u--------" head="0" relation="AuxK"/>
+    <word id="1000273063" form="E" lemma="E" postag="z--------" head="0" relation="PRED" artificial="elliptic" line="1"/>
+  </sentence>
+  <sentence struct_id="411575" id="3" document_id="0209-001" analysis="auto">
+    <word id="107845175" form="παῖς" line="2" lemma="παῖς" postag="n-s---cn-" head="107845183" relation="SBJ"/>
+    <word id="107845176" form="μὲν" line="2" lemma="μέν" postag="g--------" head="107845183" relation="AuxY"/>
+    <word id="107845177" form="γὰρ" line="2" lemma="γάρ" postag="g--------" head="107845183" relation="AuxY"/>
+    <word id="107845178" form="παρεὼν" line="2" lemma="πάρειμι" postag="v-sppamn-" head="107845183" relation="ADV"/>
+    <word id="107845179" form="κα-" line="2" lemma="καί" postag="c--------" head="107845182" relation="AuxZ"/>
+    <word id="107845180" form="κἠν" line="2" lemma="ἐν" postag="r--------" head="107845183" relation="AuxP"/>
+    <word id="107845181" form="πολέμῳ" line="2" lemma="πόλεμος" postag="n-s---md-" head="107845180" relation="ADV"/>
+    <word id="107845182" form="μᾶλλον" line="2" lemma="μάλα" postag="d-------c" head="107845183" relation="ADV"/>
+    <word id="107845183" form="ἐπωφελεῖ" line="2" lemma="ἐπωφελέω" postag="v3spia---" head="0" relation="PRED"/>
+    <word id="107845184" form="." line="2" lemma="." postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+</treebank>

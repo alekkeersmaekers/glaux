@@ -1,0 +1,26 @@
+<treebank version="2" xml:lang="grc">
+  <sentence struct_id="327060" id="1" document_id="1735-002" analysis="auto">
+    <word id="105860037" form="τίς" line="11.296.1" div_book="11" div_chapter="11.296" lemma="τίς" postag="p-s---cn-" head="105860040" relation="ATR"/>
+    <word id="105860038" form="δ’" line="11.296.1" div_book="11" div_chapter="11.296" lemma="δέ" postag="c--------" head="105860042" relation="AuxY"/>
+    <word id="105860039" form="οὗτος" line="11.296.1" div_book="11" div_chapter="11.296" lemma="οὗτος" postag="p-s---mn-" head="105860040" relation="ATR"/>
+    <word id="105860040" form="κτίλος" line="11.296.1" div_book="11" div_chapter="11.296" lemma="κτίλος" postag="n-s---mn-" head="1000450116" relation="SBJ"/>
+    <word id="105860041" form="ὣς" line="11.296.1" div_book="11" div_chapter="11.296" lemma="ὡς" postag="c--------" head="1000450116" relation="ADV"/>
+    <word id="105860042" form="ἐπιπωλεῖται" line="11.296.1" div_book="11" div_chapter="11.296" lemma="ἐπιπωλέομαι" postag="v3spim---" head="0" relation="PRED"/>
+    <word id="105860043" form="στίχας" line="11.296.1" div_book="11" div_chapter="11.296" lemma="στίξ" postag="n-p---fa-" head="105860042" relation="OBJ"/>
+    <word id="105860044" form="ἀνδρῶν" line="11.296.1" div_book="11" div_chapter="11.296" lemma="ἀνήρ" postag="n-p---mg-" head="105860043" relation="ATR"/>
+    <word id="105860045" form=";" line="11.296.1" div_book="11" div_chapter="11.296" lemma=";" postag="u--------" head="0" relation="AuxK"/>
+    <word id="1000450116" form="E" lemma="E" postag="z--------" head="105860045" relation="UNLINKED" artificial="elliptic" line="11.296.1" div_book="11" div_chapter="11.296"/>
+  </sentence>
+  <sentence struct_id="327061" id="2" document_id="1735-002" analysis="auto">
+    <word id="105860046" form="μωλύτης" line="11.296.2" div_book="11" div_chapter="11.296" lemma="μωλύτης" postag="n-s---mn-" head="1000450117" relation="SBJ"/>
+    <word id="105860047" form="," line="11.296.2" div_book="11" div_chapter="11.296" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="105860048" form="ἐπέων" line="11.296.2" div_book="11" div_chapter="11.296" lemma="ἔπος" postag="n-p---ng-" head="105860049" relation="ATR"/>
+    <word id="105860049" form="λίθος" line="11.296.2" div_book="11" div_chapter="11.296" lemma="λίθος" postag="n-s---mn-" head="105860046" relation="APOS"/>
+    <word id="105860050" form="Ἄσσιος" line="11.296.2" div_book="11" div_chapter="11.296" lemma="Ἄσσιος" postag="a-s---mn-" head="105860049" relation="ATR"/>
+    <word id="105860051" form="," line="11.296.2" div_book="11" div_chapter="11.296" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="105860052" form="ὅλμος" line="11.296.2" div_book="11" div_chapter="11.296" lemma="ὅλμος" postag="n-s---mn-" head="105860049" relation="CO"/>
+    <word id="105860053" form="ἄτολμος" line="11.296.2" div_book="11" div_chapter="11.296" lemma="ἄτολμος" postag="a-s---mn-" head="105860052" relation="ATR"/>
+    <word id="105860054" form="." line="11.296.2" div_book="11" div_chapter="11.296" lemma="." postag="u--------" head="0" relation="AuxK"/>
+    <word id="1000450117" form="E" lemma="E" postag="z--------" head="0" relation="PRED" artificial="elliptic" line="11.296.2" div_book="11" div_chapter="11.296"/>
+  </sentence>
+</treebank>

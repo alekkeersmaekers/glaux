@@ -1,0 +1,987 @@
+<treebank version="2" xml:lang="grc">
+  <sentence struct_id="172209" id="1" document_id="0627-035" analysis="auto">
+    <word id="102841240" form="περὶ" div_chapter="10" lemma="περί" postag="r--------" head="102841250" relation="AuxP"/>
+    <word id="102841241" form="δὲ" div_chapter="10" lemma="δέ" postag="c--------" head="102841244" relation="AuxY"/>
+    <word id="102841242" form="ὀκταμήνου" div_chapter="10" lemma="ὀκτάμηνος" postag="a-s---fg-" head="102841243" relation="ATR"/>
+    <word id="102841243" form="γενέσιος" div_chapter="10" lemma="γένεσις" postag="n-s---fg-" head="102841240" relation="ADV"/>
+    <word id="102841244" form="φημὶ" div_chapter="10" lemma="φημί" postag="v1spia---" head="0" relation="PRED"/>
+    <word id="102841245" form="δισσὰς" div_chapter="10" lemma="δισσός" postag="a-p---fa-" head="102841247" relation="ATR"/>
+    <word id="102841246" form="ἐφεξῆς" div_chapter="10" lemma="ἐφεξῆς" postag="d--------" head="102841248" relation="ADV"/>
+    <word id="102841247" form="κακοπαθείας" div_chapter="10" lemma="κακοπάθεια" postag="n-p---fa-" head="102841248" relation="PNOM"/>
+    <word id="102841248" form="γενομένας" div_chapter="10" lemma="γίγνομαι" postag="v-papmfa-" head="102841251" relation="ADV"/>
+    <word id="102841249" form="ἀδυνάτους" div_chapter="10" lemma="ἀδύνατος" postag="a-p---fa-" head="102841250" relation="PNOM"/>
+    <word id="102841250" form="εἶναι" div_chapter="10" lemma="εἰμί" postag="v--pna---" head="102841256" relation="OBJ_CO"/>
+    <word id="102841251" form="ποιέειν" div_chapter="10" lemma="ποιέω" postag="v--pna---" head="102841250" relation="SBJ"/>
+    <word id="102841252" form="φέρειν" div_chapter="10" lemma="φέρω" postag="v--pna---" head="102841250" relation="SBJ"/>
+    <word id="102841253" form="τὰ" div_chapter="10" lemma="ὁ" postag="l-p---na-" head="102841254" relation="ATR"/>
+    <word id="102841254" form="παιδία" div_chapter="10" lemma="παιδίον" postag="n-p---na-" head="102841252" relation="OBJ"/>
+    <word id="102841255" form="," div_chapter="10" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="102841256" form="καὶ" div_chapter="10" lemma="καί" postag="c--------" head="102841244" relation="COORD"/>
+    <word id="102841257" form="διὰ" div_chapter="10" lemma="διά" postag="r--------" head="102841260" relation="AuxP"/>
+    <word id="102841258" form="τοῦτο" div_chapter="10" lemma="οὗτος" postag="p-s---na-" head="102841257" relation="ADV"/>
+    <word id="102841259" form="οὐ" div_chapter="10" lemma="οὐ" postag="d--------" head="102841260" relation="AuxZ"/>
+    <word id="102841260" form="περιγίνεσθαι" div_chapter="10" lemma="περιγίγνομαι" postag="v--pnm---" head="102841256" relation="OBJ_CO"/>
+    <word id="102841261" form="τὰ" div_chapter="10" lemma="ὁ" postag="l-p---na-" head="102841262" relation="ATR"/>
+    <word id="102841262" form="ὀκτάμηνα" div_chapter="10" lemma="ὀκτάμηνος" postag="a-p---na-" head="102841260" relation="OBJ"/>
+    <word id="102841263" form="·" div_chapter="10" lemma="·" postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="172210" id="2" document_id="0627-035" analysis="auto">
+    <word id="102841264" form="συγκυρεῖ" div_chapter="10" lemma="συγκυρέω" postag="v3spia---" head="102841283" relation="PRED_CO"/>
+    <word id="102841265" form="γὰρ" div_chapter="10" lemma="γάρ" postag="g--------" head="102841283" relation="AuxY"/>
+    <word id="102841266" form="αὐτέοις" div_chapter="10" lemma="αύ̓τεος" postag="a-p---md-" head="102841268" relation="OBJ"/>
+    <word id="102841267" form="ἐφεξῆς" div_chapter="10" lemma="ἐφεξῆς" postag="d--------" head="102841268" relation="ADV"/>
+    <word id="102841268" form="κακοπαθεῖν" div_chapter="10" lemma="κακοπαθέω" postag="v--pna---" head="102841264" relation="OBJ"/>
+    <word id="102841269" form="τήν" div_chapter="10" lemma="ὁ" postag="l-s---fa-" head="102841275" relation="ATR"/>
+    <word id="102841270" form="τε" div_chapter="10" lemma="τε" postag="c--------" head="102841275" relation="AuxY"/>
+    <word id="102841271" form="ἐν" div_chapter="10" lemma="ἐν" postag="r--------" head="102841274" relation="AuxP"/>
+    <word id="102841272" form="τῇ" div_chapter="10" lemma="ὁ" postag="l-s---fd-" head="102841273" relation="ATR"/>
+    <word id="102841273" form="μήτρῃ" div_chapter="10" lemma="μήτρα" postag="n-s---fd-" head="102841271" relation="PNOM"/>
+    <word id="102841274" form="γενομένην" div_chapter="10" lemma="γίγνομαι" postag="v-sapmfa-" head="102841275" relation="ATR"/>
+    <word id="102841275" form="κακοπαθείην" div_chapter="10" lemma="κακοπάθεια" postag="n-s---fa-" head="102841268" relation="SBJ"/>
+    <word id="102841276" form="καὶ" div_chapter="10" lemma="καί" postag="c--------" head="102841278" relation="AuxY"/>
+    <word id="102841277" form="τὴν" div_chapter="10" lemma="ὁ" postag="l-s---fa-" head="102841275" relation="ATR"/>
+    <word id="102841278" form="ὅταν" div_chapter="10" lemma="ὅταν" postag="c--------" head="102841275" relation="AuxC"/>
+    <word id="102841279" form="ὁ" div_chapter="10" lemma="ὁ" postag="l-s---mn-" head="102841280" relation="ATR"/>
+    <word id="102841280" form="τόκος" div_chapter="10" lemma="τόκος" postag="n-s---mn-" head="102841281" relation="SBJ"/>
+    <word id="102841281" form="γένηται" div_chapter="10" lemma="γίγνομαι" postag="v3sasm---" head="102841278" relation="ADV"/>
+    <word id="102841282" form="," div_chapter="10" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="102841283" form="καὶ" div_chapter="10" lemma="καί" postag="c--------" head="0" relation="COORD"/>
+    <word id="102841284" form="διὰ" div_chapter="10" lemma="διά" postag="r--------" head="102841289" relation="AuxP"/>
+    <word id="102841285" form="τοῦτο" div_chapter="10" lemma="οὗτος" postag="p-s---na-" head="102841284" relation="ADV"/>
+    <word id="102841286" form="τῶν" div_chapter="10" lemma="ὁ" postag="l-p---ng-" head="102841287" relation="ATR"/>
+    <word id="102841287" form="ὀκταμήνων" div_chapter="10" lemma="ὀκτάμηνος" postag="a-p---ng-" head="102841288" relation="ATR"/>
+    <word id="102841288" form="οὐδὲν" div_chapter="10" lemma="οὐδείς" postag="p-s---nn-" head="102841289" relation="SBJ"/>
+    <word id="102841289" form="περιγίνεται" div_chapter="10" lemma="περιγίγνομαι" postag="v3spim---" head="102841283" relation="PRED_CO"/>
+    <word id="102841290" form="." div_chapter="10" lemma="." postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="172211" id="3" document_id="0627-035" analysis="auto">
+    <word id="102841291" form="ἐπεὶ" div_chapter="10" lemma="ἐπεί" postag="g--------" head="102841296" relation="AuxY"/>
+    <word id="102841292" form="καὶ" div_chapter="10" lemma="καί" postag="c--------" head="102841296" relation="AuxY"/>
+    <word id="102841293" form="τὰ" div_chapter="10" lemma="ὁ" postag="l-p---na-" head="102841295" relation="ATR"/>
+    <word id="102841294" form="δεκάμηνα" div_chapter="10" lemma="δεκάμηνος" postag="a-p---na-" head="102841295" relation="PNOM"/>
+    <word id="102841295" form="καλεόμενα" div_chapter="10" lemma="καλέω" postag="v-pppmna-" head="102841302" relation="SBJ"/>
+    <word id="102841296" form="λέγω" div_chapter="10" lemma="λέγω" postag="v1spia---" head="0" relation="PRED"/>
+    <word id="102841297" form="ἐν" div_chapter="10" lemma="ἐν" postag="r--------" head="102841302" relation="AuxP"/>
+    <word id="102841298" form="ἑπτὰ" div_chapter="10" lemma="ἑπτά" postag="m--------" head="102841300" relation="ATR"/>
+    <word id="102841299" form="τέσσαράκονθ’" div_chapter="10" lemma="τέσσαρακονθʹ" postag="m--------" head="102841300" relation="ATR"/>
+    <word id="102841300" form="ἡμέρῃσι" div_chapter="10" lemma="ἡμέρα" postag="n-p---fd-" head="102841297" relation="ADV"/>
+    <word id="102841301" form="μᾶλλον" div_chapter="10" lemma="μάλα" postag="d-------c" head="102841302" relation="ADV"/>
+    <word id="102841302" form="τίκτεσθαι" div_chapter="10" lemma="τίκτω" postag="v--pnm---" head="102841296" relation="OBJ"/>
+    <word id="102841303" form="·" div_chapter="10" lemma="·" postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="172212" id="4" document_id="0627-035" analysis="auto">
+    <word id="102841304" form="καὶ" div_chapter="10" lemma="καί" postag="c--------" head="102841306" relation="AuxY"/>
+    <word id="102841305" form="μάλιστα" div_chapter="10" lemma="μάλα" postag="d-------s" head="102841306" relation="ADV"/>
+    <word id="102841306" form="προσήκει" div_chapter="10" lemma="προσήκω" postag="v3spia---" head="0" relation="PRED"/>
+    <word id="102841307" form="ἐκτρέφεσθαι" div_chapter="10" lemma="ἐκτρέφω" postag="v--pnm---" head="102841306" relation="SBJ"/>
+    <word id="102841308" form="·" div_chapter="10" lemma="·" postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="172213" id="5" document_id="0627-035" analysis="auto">
+    <word id="102841309" form="καὶ" div_chapter="10" lemma="καί" postag="c--------" head="102841311" relation="AuxY"/>
+    <word id="102841310" form="τελεώτατόν" div_chapter="10" lemma="τέλειος" postag="a-s---nns" head="102841311" relation="PNOM"/>
+    <word id="102841311" form="ἐστιν" div_chapter="10" lemma="εἰμί" postag="v3spia---" head="0" relation="PRED"/>
+    <word id="102841312" form="ἐν" div_chapter="10" lemma="ἐν" postag="r--------" head="102841311" relation="AuxP"/>
+    <word id="102841313" form="τῇσι" div_chapter="10" lemma="ὁ" postag="l-p---fd-" head="102841316" relation="ATR"/>
+    <word id="102841314" form="ταύτῃσι" div_chapter="10" lemma="οὗτος" postag="p-p---fd-" head="102841316" relation="ATR"/>
+    <word id="102841315" form="τεσσαράκοντα" div_chapter="10" lemma="τεσσαράκοντα" postag="m--------" head="102841316" relation="ATR"/>
+    <word id="102841316" form="ἡμέρῃσι" div_chapter="10" lemma="ἡμέρα" postag="n-p---fd-" head="102841312" relation="ADV"/>
+    <word id="102841317" form="." div_chapter="10" lemma="." postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="172214" id="6" document_id="0627-035" analysis="auto">
+    <word id="102841318" form="ἐπήν" div_chapter="10" lemma="ἐπήν" postag="c--------" head="102841323" relation="AuxC"/>
+    <word id="102841319" form="δὲ" div_chapter="10" lemma="δέ" postag="c--------" head="102841323" relation="AuxY"/>
+    <word id="102841320" form="γένηται" div_chapter="10" lemma="γίγνομαι" postag="v3sasm---" head="102841318" relation="ADV"/>
+    <word id="102841321" form="," div_chapter="10" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="102841322" form="πλείω" div_chapter="10" lemma="πολύς" postag="a-p---nnc" head="102841323" relation="SBJ"/>
+    <word id="102841323" form="ἀπόλλυται" div_chapter="10" lemma="ἀπόλλυμι" postag="v3spim---" head="0" relation="PRED"/>
+    <word id="102841324" form="·" div_chapter="10" lemma="·" postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="172215" id="7" document_id="0627-035" analysis="auto">
+    <word id="102841325" form="ἀναγκάζεται" div_chapter="10" lemma="ἀναγκάζω" postag="v3spim---" head="0" relation="PRED"/>
+    <word id="102841326" form="γὰρ" div_chapter="10" lemma="γάρ" postag="g--------" head="102841325" relation="AuxY"/>
+    <word id="102841327" form="πολλὰ" div_chapter="10" lemma="πολύς" postag="a-p---na-" head="102841328" relation="OBJ"/>
+    <word id="102841328" form="μεταλαμβάνοντα" div_chapter="10" lemma="μεταλαμβάνω" postag="v-pppana-" head="102841333" relation="ADV"/>
+    <word id="102841329" form="ἐν" div_chapter="10" lemma="ἐν" postag="r--------" head="102841328" relation="AuxP"/>
+    <word id="102841330" form="ὀλίγῳ" div_chapter="10" lemma="ὀλίγος" postag="a-s---md-" head="102841331" relation="ATR"/>
+    <word id="102841331" form="χρόνῳ" div_chapter="10" lemma="χρόνος" postag="n-s---md-" head="102841329" relation="ADV"/>
+    <word id="102841332" form="πολλὰ" div_chapter="10" lemma="πολύς" postag="a-p---na-" head="102841333" relation="OBJ"/>
+    <word id="102841333" form="νοσέειν" div_chapter="10" lemma="νοσέω" postag="v--pna---" head="102841325" relation="OBJ"/>
+    <word id="102841334" form="," div_chapter="10" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="102841335" form="ἐξ" div_chapter="10" lemma="ἐκ" postag="r--------" head="102841339" relation="AuxP"/>
+    <word id="102841336" form="ὧν" div_chapter="10" lemma="ὅς" postag="p-p---ng-" head="102841335" relation="ADV"/>
+    <word id="102841337" form="οἱ" div_chapter="10" lemma="ὁ" postag="l-p---mn-" head="102841338" relation="ATR"/>
+    <word id="102841338" form="θάνατοι" div_chapter="10" lemma="θάνατος" postag="n-p---mn-" head="102841339" relation="SBJ"/>
+    <word id="102841339" form="γίνονται" div_chapter="10" lemma="γίγνομαι" postag="v3ppim---" head="102841332" relation="ATR"/>
+    <word id="102841340" form="." div_chapter="10" lemma="." postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="172216" id="8" document_id="0627-035" analysis="auto">
+    <word id="102841341" form="ἄρχεται" div_chapter="10" lemma="ἄρχω" postag="v3spim---" head="0" relation="PRED"/>
+    <word id="102841342" form="δὲ" div_chapter="10" lemma="δέ" postag="c--------" head="102841341" relation="AuxY"/>
+    <word id="102841343" form="πονέειν" div_chapter="10" lemma="πονέω" postag="v--pna---" head="102841350" relation="OBJ_CO"/>
+    <word id="102841344" form="τὸ" div_chapter="10" lemma="ὁ" postag="l-s---na-" head="102841345" relation="ATR"/>
+    <word id="102841345" form="παιδίον" div_chapter="10" lemma="παιδίον" postag="n-s---na-" head="102841343" relation="OBJ"/>
+    <word id="102841346" form="πρὸς" div_chapter="10" lemma="πρός" postag="r--------" head="102841349" relation="AuxP"/>
+    <word id="102841347" form="τοῦ" div_chapter="10" lemma="ὁ" postag="l-s---mg-" head="102841348" relation="ATR"/>
+    <word id="102841348" form="τόκου" div_chapter="10" lemma="τόκος" postag="n-s---mg-" head="102841346" relation="ADV"/>
+    <word id="102841349" form="γινόμενον" div_chapter="10" lemma="γίγνομαι" postag="v-sppmna-" head="102841343" relation="ADV"/>
+    <word id="102841350" form="καὶ" div_chapter="10" lemma="καί" postag="c--------" head="102841341" relation="COORD"/>
+    <word id="102841351" form="κινδυνεύειν" div_chapter="10" lemma="κινδυνεύω" postag="v--pna---" head="102841350" relation="OBJ_CO"/>
+    <word id="102841352" form="ἀπολέσθαι" div_chapter="10" lemma="ἀπόλλυμι" postag="v--anm---" head="102841351" relation="OBJ"/>
+    <word id="102841353" form="," div_chapter="10" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="102841354" form="ὅταν" div_chapter="10" lemma="ὅταν" postag="c--------" head="102841352" relation="AuxC"/>
+    <word id="102841355" form="ἐν" div_chapter="10" lemma="ἐν" postag="r--------" head="102841358" relation="AuxP"/>
+    <word id="102841356" form="τῇ" div_chapter="10" lemma="ὁ" postag="l-s---fd-" head="102841357" relation="ATR"/>
+    <word id="102841357" form="μήτρῃ" div_chapter="10" lemma="μήτρα" postag="n-s---fd-" head="102841355" relation="ADV"/>
+    <word id="102841358" form="στρέφηται" div_chapter="10" lemma="στρέφω" postag="v3spsm---" head="102841354" relation="ADV"/>
+    <word id="102841359" form="·" div_chapter="10" lemma="·" postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="172217" id="9" document_id="0627-035" analysis="auto">
+    <word id="102841360" form="φύεται" div_chapter="10" lemma="φύω" postag="v3spim---" head="0" relation="PRED"/>
+    <word id="102841361" form="γὰρ" div_chapter="10" lemma="γάρ" postag="g--------" head="102841360" relation="AuxY"/>
+    <word id="102841362" form="πάντα" div_chapter="10" lemma="πᾶς" postag="p-p---nn-" head="102841360" relation="SBJ"/>
+    <word id="102841363" form="ἄνω" div_chapter="10" lemma="ἄνω" postag="d--------" head="102841366" relation="ADV"/>
+    <word id="102841364" form="τὴν" div_chapter="10" lemma="ὁ" postag="l-s---fa-" head="102841365" relation="ATR"/>
+    <word id="102841365" form="κεφαλὴν" div_chapter="10" lemma="κεφαλή" postag="n-s---fa-" head="102841366" relation="OBJ"/>
+    <word id="102841366" form="ἔχοντα" div_chapter="10" lemma="ἔχω" postag="v-pppann-" head="102841360" relation="PNOM"/>
+    <word id="102841367" form="·" div_chapter="10" lemma="·" postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="172218" id="10" document_id="0627-035" analysis="auto">
+    <word id="102841368" form="τίκτεται" div_chapter="10" lemma="τίκτω" postag="v3spim---" head="0" relation="PRED"/>
+    <word id="102841369" form="δὲ" div_chapter="10" lemma="δέ" postag="c--------" head="102841368" relation="AuxY"/>
+    <word id="102841370" form="τὰ" div_chapter="10" lemma="ὁ" postag="l-p---nn-" head="102841371" relation="ATR"/>
+    <word id="102841371" form="πολλὰ" div_chapter="10" lemma="πολύς" postag="a-p---nn-" head="102841368" relation="SBJ"/>
+    <word id="102841372" form="ἐπὶ" div_chapter="10" lemma="ἐπί" postag="r--------" head="102841368" relation="AuxP"/>
+    <word id="102841373" form="κεφαλήν" div_chapter="10" lemma="κεφαλή" postag="n-s---fa-" head="102841372" relation="ADV"/>
+    <word id="102841374" form="·" div_chapter="10" lemma="·" postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="172219" id="11" document_id="0627-035" analysis="auto">
+    <word id="102841375" form="καὶ" div_chapter="10" lemma="καί" postag="c--------" head="102841377" relation="AuxY"/>
+    <word id="102841376" form="ἀσφαλέστερον" div_chapter="10" lemma="ἀσφαλής" postag="a-s---nac" head="102841377" relation="ADV"/>
+    <word id="102841377" form="ἀπαλλάσσει" div_chapter="10" lemma="ἀπαλλάσσω" postag="v3spia---" head="0" relation="PRED"/>
+    <word id="102841378" form="τῶν" div_chapter="10" lemma="ὁ" postag="l-p---ng-" head="102841381" relation="ATR"/>
+    <word id="102841379" form="ἐπὶ" div_chapter="10" lemma="ἐπί" postag="r--------" head="102841381" relation="AuxP"/>
+    <word id="102841380" form="πόδας" div_chapter="10" lemma="πούς" postag="n-p---ma-" head="102841379" relation="ADV"/>
+    <word id="102841381" form="τικτομένων" div_chapter="10" lemma="τίκτω" postag="v-pppmng-" head="102841376" relation="ADV"/>
+    <word id="102841382" form="·" div_chapter="10" lemma="·" postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="172220" id="12" document_id="0627-035" analysis="auto">
+    <word id="102841383" form="τὰ" div_chapter="10" lemma="ὁ" postag="l-p---nn-" head="102841385" relation="ATR"/>
+    <word id="102841384" form="γὰρ" div_chapter="10" lemma="γάρ" postag="g--------" head="102841391" relation="AuxY"/>
+    <word id="102841385" form="συγκαμπτόμενα" div_chapter="10" lemma="συγκάμπτω" postag="v-pppmnn-" head="102841391" relation="SBJ"/>
+    <word id="102841386" form="τοῦ" div_chapter="10" lemma="ὁ" postag="l-s---ng-" head="102841387" relation="ATR"/>
+    <word id="102841387" form="σώματος" div_chapter="10" lemma="σῶμα" postag="n-s---ng-" head="102841385" relation="ATR"/>
+    <word id="102841388" form="ἐπὶ" div_chapter="10" lemma="ἐπί" postag="r--------" head="102841385" relation="AuxP"/>
+    <word id="102841389" form="κεφαλὴν" div_chapter="10" lemma="κεφαλή" postag="n-s---fa-" head="102841388" relation="ADV"/>
+    <word id="102841390" form="οὔπω" div_chapter="10" lemma="οὔπω" postag="d--------" head="102841391" relation="AuxZ"/>
+    <word id="102841391" form="κωλύει" div_chapter="10" lemma="κωλύω" postag="v3spia---" head="0" relation="PRED"/>
+    <word id="102841392" form="ἰόντος" div_chapter="10" lemma="ἔρχομαι" postag="v-sppang-" head="102841391" relation="ADV"/>
+    <word id="102841393" form="τοῦ" div_chapter="10" lemma="ὁ" postag="l-s---ng-" head="102841394" relation="ATR"/>
+    <word id="102841394" form="παιδίου" div_chapter="10" lemma="παιδίον" postag="n-s---ng-" head="102841392" relation="SBJ"/>
+    <word id="102841395" form="·" div_chapter="10" lemma="·" postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="172221" id="13" document_id="0627-035" analysis="auto">
+    <word id="102841396" form="ἀλλὰ" div_chapter="10" lemma="ἀλλά" postag="c--------" head="102841406" relation="AuxY"/>
+    <word id="102841397" form="μᾶλλον" div_chapter="10" lemma="μάλα" postag="d-------c" head="102841406" relation="ADV"/>
+    <word id="102841398" form="," div_chapter="10" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="102841399" form="ὅταν" div_chapter="10" lemma="ὅταν" postag="c--------" head="102841406" relation="AuxC"/>
+    <word id="102841400" form="ἐπὶ" div_chapter="10" lemma="ἐπί" postag="r--------" head="102841402" relation="AuxP"/>
+    <word id="102841401" form="πόδας" div_chapter="10" lemma="πούς" postag="n-p---ma-" head="102841400" relation="ADV"/>
+    <word id="102841402" form="ὁρμήσῃ" div_chapter="10" lemma="ὁρμάω" postag="v3sasa---" head="102841399" relation="ADV"/>
+    <word id="102841403" form="," div_chapter="10" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="102841404" form="τὰ" div_chapter="10" lemma="ὁ" postag="l-p---nn-" head="102841405" relation="ATR"/>
+    <word id="102841405" form="ἐμφράγματα" div_chapter="10" lemma="ἔμφραγμα" postag="n-p---nn-" head="102841406" relation="SBJ"/>
+    <word id="102841406" form="γίνεται" div_chapter="10" lemma="γίγνομαι" postag="v3spim---" head="0" relation="PRED"/>
+    <word id="102841407" form="." div_chapter="10" lemma="." postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="172222" id="14" document_id="0627-035" analysis="auto">
+    <word id="102841408" form="αἱ" div_chapter="10" lemma="ὁ" postag="l-p---fn-" head="102841410" relation="ATR"/>
+    <word id="102841409" form="γὰρ" div_chapter="10" lemma="γάρ" postag="g--------" head="1000374187" relation="AuxY"/>
+    <word id="102841410" form="στροφαὶ" div_chapter="10" lemma="στροφή" postag="n-p---fn-" head="102841414" relation="SBJ_CO"/>
+    <word id="102841411" form="ἐν" div_chapter="10" lemma="ἐν" postag="r--------" head="1000374187" relation="AuxP"/>
+    <word id="102841412" form="τῇ" div_chapter="10" lemma="ὁ" postag="l-s---fd-" head="102841413" relation="ATR"/>
+    <word id="102841413" form="γαστρὶ" div_chapter="10" lemma="γαστήρ" postag="n-s---fd-" head="102841411" relation="ADV"/>
+    <word id="102841414" form="καὶ" div_chapter="10" lemma="καί" postag="c--------" head="1000374187" relation="COORD"/>
+    <word id="102841415" form="ἄλλος" div_chapter="10" lemma="ἄλλος" postag="p-s---mn-" head="102841416" relation="ATR"/>
+    <word id="102841416" form="κίνδυνος" div_chapter="10" lemma="κίνδυνος" postag="n-s---mn-" head="102841414" relation="SBJ_CO"/>
+    <word id="102841417" form="·" div_chapter="10" lemma="·" postag="u--------" head="0" relation="AuxK"/>
+    <word id="1000374187" form="E" lemma="E" postag="z--------" head="0" relation="PRED" artificial="elliptic" div_chapter="10"/>
+  </sentence>
+  <sentence struct_id="172223" id="15" document_id="0627-035" analysis="auto">
+    <word id="102841418" form="καὶ" div_chapter="10" lemma="καί" postag="c--------" head="102841425" relation="AuxY"/>
+    <word id="102841419" form="οἱ" div_chapter="10" lemma="ὁ" postag="l-p---mn-" head="102841420" relation="ATR"/>
+    <word id="102841420" form="ὀμφαλοὶ" div_chapter="10" lemma="ὀμφαλός" postag="n-p---mn-" head="102841425" relation="SBJ"/>
+    <word id="102841421" form="πολλάκις" div_chapter="10" lemma="πολλάκις" postag="d--------" head="102841425" relation="ADV"/>
+    <word id="102841422" form="ἤδη" div_chapter="10" lemma="ἤδη" postag="d--------" head="102841425" relation="ADV"/>
+    <word id="102841423" form="τῶν" div_chapter="10" lemma="ὁ" postag="l-p---ng-" head="102841424" relation="ATR"/>
+    <word id="102841424" form="παιδίων" div_chapter="10" lemma="παιδίον" postag="n-p---ng-" head="102841420" relation="ATR"/>
+    <word id="102841425" form="ἐφάνησαν" div_chapter="10" lemma="φαίνω" postag="v3paip---" head="0" relation="PRED"/>
+    <word id="102841426" form="περὶ" div_chapter="10" lemma="περί" postag="r--------" head="102841425" relation="AuxP"/>
+    <word id="102841427" form="τοὺς" div_chapter="10" lemma="ὁ" postag="l-p---ma-" head="102841428" relation="ATR"/>
+    <word id="102841428" form="τραχήλους" div_chapter="10" lemma="τράχηλος" postag="n-p---ma-" head="102841426" relation="ADV"/>
+    <word id="102841429" form="·" div_chapter="10" lemma="·" postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="172224" id="16" document_id="0627-035" analysis="auto">
+    <word id="102841430" form="ἢν" div_chapter="10" lemma="ἐάν" postag="c--------" head="102841472" relation="AuxC"/>
+    <word id="102841431" form="γὰρ" div_chapter="10" lemma="γάρ" postag="g--------" head="102841475" relation="AuxY"/>
+    <word id="102841432" form="κατὰ" div_chapter="10" lemma="κατά" postag="r--------" head="102841453" relation="AuxP"/>
+    <word id="102841433" form="τὸ" div_chapter="10" lemma="ὁ" postag="l-s---na-" head="102841434" relation="ATR"/>
+    <word id="102841434" form="μόριον" div_chapter="10" lemma="μόριον" postag="n-s---na-" head="102841432" relation="ADV"/>
+    <word id="102841435" form="," div_chapter="10" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="102841436" form="ὁποτέρωθεν" div_chapter="10" lemma="ὁποτέρωθες" postag="p-p---na-" head="102841438" relation="OBJ"/>
+    <word id="102841437" form="ἂν" div_chapter="10" lemma="ἄν" postag="g--------" head="102841438" relation="AuxY"/>
+    <word id="102841438" form="τύχῃ" div_chapter="10" lemma="τυγχάνω" postag="v3sasa---" head="102841434" relation="ATR"/>
+    <word id="102841439" form="ὁ" div_chapter="10" lemma="ὁ" postag="l-s---mn-" head="102841440" relation="ATR"/>
+    <word id="102841440" form="ὀμφαλὸς" div_chapter="10" lemma="ὀμφαλός" postag="n-s---mn-" head="102841438" relation="SBJ"/>
+    <word id="102841441" form="τῇ" div_chapter="10" lemma="ὁ" postag="l-s---fd-" head="102841442" relation="ATR"/>
+    <word id="102841442" form="μήτρῃ" div_chapter="10" lemma="μήτρα" postag="n-s---fd-" head="102841444" relation="OBJ"/>
+    <word id="102841443" form="μᾶλλον" div_chapter="10" lemma="μάλα" postag="d-------c" head="102841444" relation="ADV"/>
+    <word id="102841444" form="παρατεταμένος" div_chapter="10" lemma="παρατείνω" postag="v-srpmmn-" head="102841438" relation="PNOM"/>
+    <word id="102841445" form="," div_chapter="10" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="102841446" form="ταύτῃ" div_chapter="10" lemma="οὗτος" postag="p-s---fd-" head="102841453" relation="ADV"/>
+    <word id="102841447" form="τὸ" div_chapter="10" lemma="ὁ" postag="l-s---nn-" head="102841448" relation="ATR"/>
+    <word id="102841448" form="παιδίον" div_chapter="10" lemma="παιδίον" postag="n-s---nn-" head="102841453" relation="SBJ"/>
+    <word id="102841449" form="τῆς" div_chapter="10" lemma="ὁ" postag="l-s---fg-" head="102841450" relation="ATR"/>
+    <word id="102841450" form="κεφαλῆς" div_chapter="10" lemma="κεφαλή" postag="n-s---fg-" head="102841448" relation="ATR"/>
+    <word id="102841451" form="τὴν" div_chapter="10" lemma="ὁ" postag="l-s---fa-" head="102841452" relation="ATR"/>
+    <word id="102841452" form="περιαγωγὴν" div_chapter="10" lemma="περιαγωγή" postag="n-s---fa-" head="102841453" relation="OBJ"/>
+    <word id="102841453" form="ποιήσηται" div_chapter="10" lemma="ποιέω" postag="v3sasm---" head="102841475" relation="ADV_CO"/>
+    <word id="102841454" form="," div_chapter="10" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="102841455" form="τοῦ" div_chapter="10" lemma="ὁ" postag="l-s---ng-" head="102841456" relation="ATR"/>
+    <word id="102841456" form="ὀμφαλοῦ" div_chapter="10" lemma="ὀμφαλός" postag="n-s---mg-" head="102841457" relation="SBJ"/>
+    <word id="102841457" form="στρεφομένου" div_chapter="10" lemma="στρέφω" postag="v-sppmng-" head="102841453" relation="ADV"/>
+    <word id="102841458" form="ἢ" div_chapter="10" lemma="ἤ" postag="c--------" head="102841462" relation="AuxY"/>
+    <word id="102841459" form="περὶ" div_chapter="10" lemma="περί" postag="r--------" head="102841462" relation="AuxP"/>
+    <word id="102841460" form="τὸν" div_chapter="10" lemma="ὁ" postag="l-s---ma-" head="102841461" relation="ATR"/>
+    <word id="102841461" form="αὐχένα" div_chapter="10" lemma="αὐχήν" postag="n-s---ma-" head="102841459" relation="ADV_CO"/>
+    <word id="102841462" form="ἢ" div_chapter="10" lemma="ἤ" postag="c--------" head="102841475" relation="AuxY"/>
+    <word id="102841463" form="καὶ" div_chapter="10" lemma="καί" postag="c--------" head="102841466" relation="AuxZ"/>
+    <word id="102841464" form="κατὰ" div_chapter="10" lemma="κατά" postag="r--------" head="102841462" relation="AuxP"/>
+    <word id="102841465" form="τὸν" div_chapter="10" lemma="ὁ" postag="l-s---ma-" head="102841466" relation="ATR"/>
+    <word id="102841466" form="ὦμον" div_chapter="10" lemma="ὦμος" postag="n-s---ma-" head="102841464" relation="ADV_CO"/>
+    <word id="102841467" form="," div_chapter="10" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="102841468" form="τὴν" div_chapter="10" lemma="ὁ" postag="l-s---fa-" head="102841469" relation="ATR"/>
+    <word id="102841469" form="περιβολὴν" div_chapter="10" lemma="περιβολή" postag="n-s---fa-" head="102841472" relation="OBJ"/>
+    <word id="102841470" form="τοῦ" div_chapter="10" lemma="ὁ" postag="l-s---ng-" head="102841471" relation="ATR"/>
+    <word id="102841471" form="ὀμφαλοῦ" div_chapter="10" lemma="ὀμφαλός" postag="n-s---mg-" head="102841469" relation="ATR"/>
+    <word id="102841472" form="ἀντιτείνειν" div_chapter="10" lemma="ἀντιτείνω" postag="v--pna---" head="0" relation="PRED"/>
+    <word id="102841473" form="," div_chapter="10" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="102841474" form="τουτέου" div_chapter="10" lemma="οὗτος" postag="p-s---ng-" head="102841476" relation="SBJ"/>
+    <word id="102841475" form="δὲ" div_chapter="10" lemma="δέ" postag="c--------" head="102841430" relation="COORD"/>
+    <word id="102841476" form="γενομένου" div_chapter="10" lemma="γίγνομαι" postag="v-sapmng-" head="102841481" relation="ADV"/>
+    <word id="102841477" form="καὶ" div_chapter="10" lemma="καί" postag="c--------" head="102841479" relation="AuxZ"/>
+    <word id="102841478" form="τὴν" div_chapter="10" lemma="ὁ" postag="l-s---fa-" head="102841479" relation="ATR"/>
+    <word id="102841479" form="μητέρα" div_chapter="10" lemma="μήτηρ" postag="n-s---fa-" head="102841481" relation="OBJ"/>
+    <word id="102841480" form="ἀνάγκη" div_chapter="10" lemma="ἀνάγκη" postag="n-s---fn-" head="1000374188" relation="PNOM"/>
+    <word id="102841481" form="πονῆσαι" div_chapter="10" lemma="πονέω" postag="v--ana---" head="1000374188" relation="SBJ"/>
+    <word id="102841482" form="μᾶλλον" div_chapter="10" lemma="μάλα" postag="d-------c" head="102841481" relation="ADV"/>
+    <word id="102841483" form="καὶ" div_chapter="10" lemma="καί" postag="c--------" head="102841488" relation="AuxY"/>
+    <word id="102841484" form="τὸ" div_chapter="10" lemma="ὁ" postag="l-s---na-" head="102841485" relation="ATR"/>
+    <word id="102841485" form="παιδίον" div_chapter="10" lemma="παιδίον" postag="n-s---na-" head="102841481" relation="OBJ"/>
+    <word id="102841486" form="ἢ" div_chapter="10" lemma="ἤ" postag="c--------" head="102841482" relation="AuxC"/>
+    <word id="102841487" form="ἀπολέσθαι" div_chapter="10" lemma="ἀπόλλυμι" postag="v--anm---" head="102841486" relation="ADV"/>
+    <word id="102841488" form="ἢ" div_chapter="10" lemma="ἤ" postag="c--------" head="102841482" relation="AuxC"/>
+    <word id="102841489" form="χαλεπώτερον" div_chapter="10" lemma="χαλεπός" postag="a-s---nac" head="102841490" relation="ADV"/>
+    <word id="102841490" form="ἐξελθεῖν" div_chapter="10" lemma="ἐξέρχομαι" postag="v--ana---" head="102841487" relation="CO"/>
+    <word id="102841491" form="." div_chapter="10" lemma="." postag="u--------" head="0" relation="AuxK"/>
+    <word id="1000374188" form="E" lemma="E" postag="z--------" head="102841475" relation="ADV_CO" artificial="elliptic" div_chapter="10"/>
+  </sentence>
+  <sentence struct_id="172225" id="17" document_id="0627-035" analysis="auto">
+    <word id="102841492" form="ὥστε" div_chapter="10" lemma="ὥστε" postag="c--------" head="102841503" relation="AuxY"/>
+    <word id="102841493" form="ἤδη" div_chapter="10" lemma="ἤδη" postag="d--------" head="102841503" relation="ADV"/>
+    <word id="102841494" form="καὶ" div_chapter="10" lemma="καί" postag="c--------" head="102841495" relation="AuxZ"/>
+    <word id="102841495" form="πολλὰ" div_chapter="10" lemma="πολύς" postag="a-p---nn-" head="102841503" relation="SBJ"/>
+    <word id="102841496" form="ἔνδον" div_chapter="10" lemma="ἔνδον" postag="d--------" head="102841503" relation="ADV"/>
+    <word id="102841497" form="τὴν" div_chapter="10" lemma="ὁ" postag="l-s---fa-" head="102841498" relation="ATR"/>
+    <word id="102841498" form="ἀρχὴν" div_chapter="10" lemma="ἀρχή" postag="n-s---fa-" head="102841503" relation="OBJ"/>
+    <word id="102841499" form="τῆς" div_chapter="10" lemma="ὁ" postag="l-s---fg-" head="102841500" relation="ATR"/>
+    <word id="102841500" form="νούσου" div_chapter="10" lemma="νόσος" postag="n-s---fg-" head="102841498" relation="ATR"/>
+    <word id="102841501" form="τῶν" div_chapter="10" lemma="ὁ" postag="l-p---ng-" head="102841502" relation="ATR"/>
+    <word id="102841502" form="παιδίων" div_chapter="10" lemma="παιδίον" postag="n-p---ng-" head="102841500" relation="ATR"/>
+    <word id="102841503" form="ἦλθεν" div_chapter="10" lemma="ἔρχομαι" postag="v3saia---" head="0" relation="PRED"/>
+    <word id="102841504" form="ἔχοντα" div_chapter="10" lemma="ἔχω" postag="v-pppann-" head="102841503" relation="ADV"/>
+    <word id="102841505" form="," div_chapter="10" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="102841506" form="ἐξ" div_chapter="10" lemma="ἐκ" postag="r--------" head="102841513" relation="AuxP"/>
+    <word id="102841507" form="ἧς" div_chapter="10" lemma="ὅς" postag="p-s---fg-" head="102841506" relation="ADV"/>
+    <word id="102841508" form="τὰ" div_chapter="10" lemma="ὁ" postag="l-p---nn-" head="102841510" relation="SBJ"/>
+    <word id="102841509" form="μὲν" div_chapter="10" lemma="μέν" postag="g--------" head="102841513" relation="AuxY"/>
+    <word id="102841510" form="ἀπώλετο" div_chapter="10" lemma="ἀπόλλυμι" postag="v3saim---" head="102841513" relation="OBJ_CO"/>
+    <word id="102841511" form="," div_chapter="10" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="102841512" form="τὰ" div_chapter="10" lemma="ὁ" postag="l-p---nn-" head="102841515" relation="SBJ"/>
+    <word id="102841513" form="δὲ" div_chapter="10" lemma="δέ" postag="c--------" head="102841504" relation="COORD"/>
+    <word id="102841514" form="νοσήσαντα" div_chapter="10" lemma="νοσέω" postag="v-papann-" head="102841515" relation="ADV"/>
+    <word id="102841515" form="περιεγένετο" div_chapter="10" lemma="περιγίγνομαι" postag="v3saim---" head="102841513" relation="OBJ_CO"/>
+    <word id="102841516" form="." div_chapter="10" lemma="." postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="172226" id="18" document_id="0627-035" analysis="auto">
+    <word id="102841517" form="ὁκόσα" div_chapter="11" lemma="ὁπόσος" postag="p-p---nn-" head="102841521" relation="SBJ"/>
+    <word id="102841518" form="δ’" div_chapter="11" lemma="δέ" postag="c--------" head="102841545" relation="AuxY"/>
+    <word id="102841519" form="ἂν" div_chapter="11" lemma="ἄν" postag="g--------" head="102841521" relation="AuxY"/>
+    <word id="102841520" form="εὐπορήσῃ" div_chapter="11" lemma="εὐπορέω" postag="v3sasa---" head="102841521" relation="SBJ_CO"/>
+    <word id="102841521" form="καὶ" div_chapter="11" lemma="καί" postag="c--------" head="1000374189" relation="COORD"/>
+    <word id="102841522" form="ἀσφαλέως" div_chapter="11" lemma="ἀσφαλής" postag="d--------" head="102841526" relation="ADV"/>
+    <word id="102841523" form="ἐς" div_chapter="11" lemma="εἰς" postag="r--------" head="102841526" relation="AuxP"/>
+    <word id="102841524" form="το-" div_chapter="11" lemma="ὁ" postag="l-s---na-" head="102841525" relation="ATR"/>
+    <word id="102841525" form="τοὐμφανὲς" div_chapter="11" lemma="ἐμφανής" postag="a-s---na-" head="102841523" relation="OBJ"/>
+    <word id="102841526" form="ἐξίῃ" div_chapter="11" lemma="ἐξέρχομαι" postag="v3spsa---" head="102841521" relation="SBJ_CO"/>
+    <word id="102841527" form="," div_chapter="11" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="102841528" form="ἀνεθέντα" div_chapter="11" lemma="ἀνίημι" postag="v-pappnn-" head="102841526" relation="ADV"/>
+    <word id="102841529" form="ἐξαίφνης" div_chapter="11" lemma="ἐξαίφνης" postag="d--------" head="102841528" relation="ADV"/>
+    <word id="102841530" form="ἐκ" div_chapter="11" lemma="ἐκ" postag="r--------" head="102841528" relation="AuxP"/>
+    <word id="102841531" form="τῆς" div_chapter="11" lemma="ὁ" postag="l-s---fg-" head="102841532" relation="ATR"/>
+    <word id="102841532" form="ἀνάγκης" div_chapter="11" lemma="ἀνάγκη" postag="n-s---fg-" head="102841530" relation="ADV"/>
+    <word id="102841533" form="τῆς" div_chapter="11" lemma="ὁ" postag="l-s---fg-" head="102841532" relation="ATR"/>
+    <word id="102841534" form="ἐν" div_chapter="11" lemma="ἐν" postag="r--------" head="102841532" relation="AuxP"/>
+    <word id="102841535" form="τῇ" div_chapter="11" lemma="ὁ" postag="l-s---fd-" head="102841536" relation="ATR"/>
+    <word id="102841536" form="γαστρὶ" div_chapter="11" lemma="γαστήρ" postag="n-s---fd-" head="102841534" relation="ATR"/>
+    <word id="102841537" form="," div_chapter="11" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="102841538" form="παχύτερα" div_chapter="11" lemma="παχύς" postag="a-p---nnc" head="102841539" relation="PNOM_CO"/>
+    <word id="102841539" form="καὶ" div_chapter="11" lemma="καί" postag="c--------" head="102841545" relation="COORD"/>
+    <word id="102841540" form="μέζω" div_chapter="11" lemma="μέγας" postag="a-p---nnc" head="102841539" relation="PNOM_CO"/>
+    <word id="102841541" form="παραυτίκα" div_chapter="11" lemma="παραυτίκα" postag="d--------" head="102841545" relation="ADV"/>
+    <word id="102841542" form="ἢ" div_chapter="11" lemma="ἤ" postag="c--------" head="102841541" relation="AuxC"/>
+    <word id="102841543" form="κατὰ" div_chapter="11" lemma="κατά" postag="r--------" head="1000374189" relation="AuxP"/>
+    <word id="102841544" form="λόγον" div_chapter="11" lemma="λόγος" postag="n-s---ma-" head="102841543" relation="ADV"/>
+    <word id="102841545" form="ἐγένετο" div_chapter="11" lemma="γίγνομαι" postag="v3saim---" head="0" relation="PRED"/>
+    <word id="102841546" form="," div_chapter="11" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="102841547" form="οὐκ" div_chapter="11" lemma="οὐ" postag="d--------" head="102841548" relation="AuxZ"/>
+    <word id="102841548" form="αὐξήματος" div_chapter="11" lemma="αὔξημα" postag="n-s---ng-" head="102841550" relation="PNOM_CO"/>
+    <word id="102841549" form="," div_chapter="11" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="102841550" form="ἀλλ’" div_chapter="11" lemma="ἀλλά" postag="c--------" head="102841552" relation="COORD"/>
+    <word id="102841551" form="οἰδήματος" div_chapter="11" lemma="οἴδημα" postag="n-s---ng-" head="102841550" relation="PNOM_CO"/>
+    <word id="102841552" form="γενομένου" div_chapter="11" lemma="γίγνομαι" postag="v-sapmng-" head="102841545" relation="ADV"/>
+    <word id="102841553" form="," div_chapter="11" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="102841554" form="ἐξ" div_chapter="11" lemma="ἐκ" postag="r--------" head="102841558" relation="AuxP"/>
+    <word id="102841555" form="ὧν" div_chapter="11" lemma="ὅς" postag="p-p---ng-" head="102841554" relation="ADV"/>
+    <word id="102841556" form="δὴ" div_chapter="11" lemma="δή" postag="g--------" head="102841558" relation="AuxY"/>
+    <word id="102841557" form="πολλὰ" div_chapter="11" lemma="πολύς" postag="a-p---nn-" head="102841558" relation="SBJ"/>
+    <word id="102841558" form="ἀπώλετο" div_chapter="11" lemma="ἀπόλλυμι" postag="v3saim---" head="102841551" relation="ATR"/>
+    <word id="102841559" form="·" div_chapter="11" lemma="·" postag="u--------" head="0" relation="AuxK"/>
+    <word id="1000374189" form="E" lemma="E" postag="z--------" head="102841542" relation="ADV" artificial="elliptic" div_chapter="11"/>
+  </sentence>
+  <sentence struct_id="172227" id="19" document_id="0627-035" analysis="auto">
+    <word id="102841560" form="ἢν" div_chapter="11" lemma="ἐάν" postag="c--------" head="102841575" relation="AuxC"/>
+    <word id="102841561" form="γὰρ" div_chapter="11" lemma="γάρ" postag="g--------" head="102841575" relation="AuxY"/>
+    <word id="102841562" form="μὴ" div_chapter="11" lemma="μή" postag="d--------" head="102841563" relation="AuxZ"/>
+    <word id="102841563" form="συνίζῃ" div_chapter="11" lemma="συνίζω" postag="v3spsa---" head="102841560" relation="ADV"/>
+    <word id="102841564" form="τὸ" div_chapter="11" lemma="ὁ" postag="l-s---nn-" head="102841565" relation="ATR"/>
+    <word id="102841565" form="οἴδημα" div_chapter="11" lemma="οἴδημα" postag="n-s---nn-" head="102841563" relation="SBJ"/>
+    <word id="102841566" form="θᾶσσον" div_chapter="11" lemma="ταχύς" postag="a-s---nac" head="102841563" relation="ADV"/>
+    <word id="102841567" form="," div_chapter="11" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="102841568" form="ἢ" div_chapter="11" lemma="ἤ" postag="c--------" head="102841570" relation="AuxY"/>
+    <word id="102841569" form="τριταῖον" div_chapter="11" lemma="τριταῖος" postag="a-s---na-" head="102841570" relation="PNOM_CO"/>
+    <word id="102841570" form="ἢ" div_chapter="11" lemma="ἤ" postag="c--------" head="1000374190" relation="COORD"/>
+    <word id="102841571" form="ὀλίγῳ" div_chapter="11" lemma="ὀλίγος" postag="a-s---nd-" head="102841572" relation="ADV"/>
+    <word id="102841572" form="πολυχρονιώτερον" div_chapter="11" lemma="πολυχρόνιος" postag="a-s---nac" head="102841570" relation="PNOM_CO"/>
+    <word id="102841573" form="," div_chapter="11" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="102841574" form="νοῦσοι" div_chapter="11" lemma="νόσος" postag="n-p---fn-" head="102841575" relation="SBJ"/>
+    <word id="102841575" form="γίνονται" div_chapter="11" lemma="γίγνομαι" postag="v3ppim---" head="0" relation="PRED"/>
+    <word id="102841576" form="ἀπ’" div_chapter="11" lemma="ἀπό" postag="r--------" head="102841575" relation="AuxP"/>
+    <word id="102841577" form="αὐτέου" div_chapter="11" lemma="αὔτεος" postag="a-s---ng-" head="102841576" relation="ADV"/>
+    <word id="102841578" form="." div_chapter="11" lemma="." postag="u--------" head="0" relation="AuxK"/>
+    <word id="1000374190" form="E" lemma="E" postag="z--------" head="102841578" relation="UNLINKED" artificial="elliptic" div_chapter="11"/>
+  </sentence>
+  <sentence struct_id="172228" id="20" document_id="0627-035" analysis="auto">
+    <word id="102841579" form="αἵ" div_chapter="12" lemma="ὁ" postag="l-p---fn-" head="102841581" relation="ATR"/>
+    <word id="102841580" form="τε" div_chapter="12" lemma="τε" postag="c--------" head="102841582" relation="AuxY"/>
+    <word id="102841581" form="τροφαὶ" div_chapter="12" lemma="τροφή" postag="n-p---fn-" head="102841582" relation="SBJ_CO"/>
+    <word id="102841582" form="καὶ" div_chapter="12" lemma="καί" postag="c--------" head="1000374191" relation="COORD"/>
+    <word id="102841583" form="αἱ" div_chapter="12" lemma="ὁ" postag="l-p---fn-" head="102841584" relation="ATR"/>
+    <word id="102841584" form="ἀναπνοαὶ" div_chapter="12" lemma="ἀναπνοή" postag="n-p---fn-" head="102841582" relation="SBJ_CO"/>
+    <word id="102841585" form="σφαλεραὶ" div_chapter="12" lemma="σφαλερός" postag="a-p---fn-" head="102841584" relation="ATR"/>
+    <word id="102841586" form="μεταλλασσόμεναι" div_chapter="12" lemma="μεταλλάσσω" postag="v-pppmfn-" head="1000374191" relation="ADV"/>
+    <word id="102841587" form="·" div_chapter="12" lemma="·" postag="u--------" head="0" relation="AuxK"/>
+    <word id="1000374191" form="E" lemma="E" postag="z--------" head="0" relation="PRED" artificial="elliptic" div_chapter="12"/>
+  </sentence>
+  <sentence struct_id="172229" id="21" document_id="0627-035" analysis="auto">
+    <word id="102841588" form="ἤν" div_chapter="12" lemma="ἐάν" postag="c--------" head="102841601" relation="AuxC"/>
+    <word id="102841589" form="τι" div_chapter="12" lemma="τις" postag="p-s---na-" head="102841592" relation="OBJ"/>
+    <word id="102841590" form="γὰρ" div_chapter="12" lemma="γάρ" postag="g--------" head="102841601" relation="AuxY"/>
+    <word id="102841591" form="νοσηρὸν" div_chapter="12" lemma="νοσηρός" postag="a-s---na-" head="102841589" relation="ATR"/>
+    <word id="102841592" form="ἐσάγωνται" div_chapter="12" lemma="εἰσάγω" postag="v3ppsm---" head="102841588" relation="ADV"/>
+    <word id="102841593" form="," div_chapter="12" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="102841594" form="κατὰ" div_chapter="12" lemma="κατά" postag="r--------" head="102841597" relation="AuxP"/>
+    <word id="102841595" form="τὸ" div_chapter="12" lemma="ὁ" postag="l-s---na-" head="102841596" relation="ATR"/>
+    <word id="102841596" form="στόμα" div_chapter="12" lemma="στόμα" postag="n-s---na-" head="102841594" relation="ADV_CO"/>
+    <word id="102841597" form="καὶ" div_chapter="12" lemma="καί" postag="c--------" head="102841601" relation="COORD"/>
+    <word id="102841598" form="κατὰ" div_chapter="12" lemma="κατά" postag="r--------" head="102841597" relation="AuxP"/>
+    <word id="102841599" form="τὰς" div_chapter="12" lemma="ὁ" postag="l-p---fa-" head="102841600" relation="ATR"/>
+    <word id="102841600" form="ῥῖνας" div_chapter="12" lemma="ῥίς" postag="n-p---fa-" head="102841598" relation="ADV_CO"/>
+    <word id="102841601" form="ἐσάγονται" div_chapter="12" lemma="εἰσάγω" postag="v3ppim---" head="0" relation="PRED"/>
+    <word id="102841602" form="·" div_chapter="12" lemma="·" postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="172230" id="22" document_id="0627-035" analysis="auto">
+    <word id="102841603" form="καὶ" div_chapter="12" lemma="καί" postag="c--------" head="102841618" relation="AuxY"/>
+    <word id="102841604" form="ἀντὶ" div_chapter="12" lemma="ἀντί" postag="r--------" head="102841618" relation="AuxP"/>
+    <word id="102841605" form="τοῦ" div_chapter="12" lemma="ὁ" postag="l-s---ng-" head="102841607" relation="ATR"/>
+    <word id="102841606" form="τοσαῦτα" div_chapter="12" lemma="τοσοῦτος" postag="p-p---na-" head="102841607" relation="SBJ"/>
+    <word id="102841607" form="εἶναι" div_chapter="12" lemma="εἰμί" postag="v--pna---" head="102841612" relation="ADV_CO"/>
+    <word id="102841608" form="τὰ" div_chapter="12" lemma="ὁ" postag="l-p---na-" head="102841609" relation="ATR"/>
+    <word id="102841609" form="ἐσιόντα" div_chapter="12" lemma="εἰσέρχομαι" postag="v-pppana-" head="102841607" relation="SBJ"/>
+    <word id="102841610" form="ὅσα" div_chapter="12" lemma="ὅσος" postag="p-p---nn-" head="102841611" relation="SBJ"/>
+    <word id="102841611" form="ἐξαρκέει" div_chapter="12" lemma="ἐξαρκέω" postag="v3spia---" head="102841609" relation="ATR"/>
+    <word id="102841612" form="καὶ" div_chapter="12" lemma="καί" postag="c--------" head="102841604" relation="COORD"/>
+    <word id="102841613" form="μὴ" div_chapter="12" lemma="μή" postag="d--------" head="102841614" relation="AuxZ"/>
+    <word id="102841614" form="περιγίνεσθαι" div_chapter="12" lemma="περιγίγνομαι" postag="v--pnm---" head="102841612" relation="ADV_CO"/>
+    <word id="102841615" form="," div_chapter="12" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="102841616" form="πολλῷ" div_chapter="12" lemma="πολύς" postag="a-s---nd-" head="102841617" relation="ADV"/>
+    <word id="102841617" form="πλέω" div_chapter="12" lemma="πολύς" postag="a-p---nnc" head="102841618" relation="SBJ"/>
+    <word id="102841618" form="εἰσέρχεται" div_chapter="12" lemma="εἰσέρχομαι" postag="v3spim---" head="0" relation="PRED"/>
+    <word id="102841619" form="," div_chapter="12" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="102841620" form="ὥστε" div_chapter="12" lemma="ὥστε" postag="c--------" head="102841618" relation="AuxC"/>
+    <word id="102841621" form="ἀναγκάζεσθαι" div_chapter="12" lemma="ἀναγκάζω" postag="v--pnm---" head="102841620" relation="ADV"/>
+    <word id="102841622" form="ὑπὸ" div_chapter="12" lemma="ὑπό" postag="r--------" head="102841627" relation="AuxP"/>
+    <word id="102841623" form="τοῦ" div_chapter="12" lemma="ὁ" postag="l-s---ng-" head="102841624" relation="ATR"/>
+    <word id="102841624" form="πλήθεος" div_chapter="12" lemma="πλῆθος" postag="n-s---ng-" head="102841622" relation="OBJ_CO"/>
+    <word id="102841625" form="τῶν" div_chapter="12" lemma="ὁ" postag="l-p---ng-" head="102841626" relation="ATR"/>
+    <word id="102841626" form="ἐσιόντων" div_chapter="12" lemma="εἰσέρχομαι" postag="v-pppang-" head="102841624" relation="ATR"/>
+    <word id="102841627" form="καὶ" div_chapter="12" lemma="καί" postag="c--------" head="102841621" relation="COORD"/>
+    <word id="102841628" form="ὑπὸ" div_chapter="12" lemma="ὑπό" postag="r--------" head="102841627" relation="AuxP"/>
+    <word id="102841629" form="τῆς" div_chapter="12" lemma="ὁ" postag="l-s---fg-" head="102841630" relation="ATR"/>
+    <word id="102841630" form="διαθέσιος" div_chapter="12" lemma="διάθεσις" postag="n-s---fg-" head="102841628" relation="OBJ_CO"/>
+    <word id="102841631" form="ἧς" div_chapter="12" lemma="ὅς" postag="p-s---fg-" head="102841632" relation="OBJ"/>
+    <word id="102841632" form="διάκειται" div_chapter="12" lemma="διάκειμαι" postag="v3spim---" head="102841630" relation="ATR"/>
+    <word id="102841633" form="τὸ" div_chapter="12" lemma="ὁ" postag="l-s---nn-" head="102841634" relation="ATR"/>
+    <word id="102841634" form="σῶμα" div_chapter="12" lemma="σῶμα" postag="n-s---nn-" head="102841632" relation="SBJ"/>
+    <word id="102841635" form="τοῦ" div_chapter="12" lemma="ὁ" postag="l-s---ng-" head="102841636" relation="ATR"/>
+    <word id="102841636" form="παιδίου" div_chapter="12" lemma="παιδίον" postag="n-s---ng-" head="102841634" relation="ATR"/>
+    <word id="102841637" form="ἤδη" div_chapter="12" lemma="ἤδη" postag="d--------" head="102841648" relation="ADV"/>
+    <word id="102841638" form="τὰ" div_chapter="12" lemma="ὁ" postag="l-p---na-" head="102841648" relation="OBJ"/>
+    <word id="102841639" form="μὲν" div_chapter="12" lemma="μέν" postag="g--------" head="102841651" relation="AuxY"/>
+    <word id="102841640" form="κατὰ" div_chapter="12" lemma="κατά" postag="r--------" head="102841648" relation="AuxP"/>
+    <word id="102841641" form="τὸ" div_chapter="12" lemma="ὁ" postag="l-s---na-" head="102841642" relation="ATR"/>
+    <word id="102841642" form="στόμα" div_chapter="12" lemma="στόμα" postag="n-s---na-" head="102841644" relation="ADV_CO"/>
+    <word id="102841643" form="τε" div_chapter="12" lemma="τε" postag="c--------" head="102841644" relation="AuxY"/>
+    <word id="102841644" form="καὶ" div_chapter="12" lemma="καί" postag="c--------" head="102841640" relation="COORD"/>
+    <word id="102841645" form="τὰς" div_chapter="12" lemma="ὁ" postag="l-p---fa-" head="102841646" relation="ATR"/>
+    <word id="102841646" form="ῥῖνας" div_chapter="12" lemma="ῥίς" postag="n-p---fa-" head="102841644" relation="ADV_CO"/>
+    <word id="102841647" form="πάλιν" div_chapter="12" lemma="πάλιν" postag="d--------" head="102841648" relation="ADV"/>
+    <word id="102841648" form="ἐξιέναι" div_chapter="12" lemma="ἐξέρχομαι" postag="v--pna---" head="102841651" relation="OBJ_CO"/>
+    <word id="102841649" form="," div_chapter="12" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="102841650" form="τὰ" div_chapter="12" lemma="ὁ" postag="l-p---na-" head="102841659" relation="SBJ"/>
+    <word id="102841651" form="δὲ" div_chapter="12" lemma="δέ" postag="c--------" head="102841632" relation="COORD"/>
+    <word id="102841652" form="κατὰ" div_chapter="12" lemma="κατά" postag="r--------" head="102841650" relation="AuxP"/>
+    <word id="102841653" form="τὸ" div_chapter="12" lemma="ὁ" postag="l-s---na-" head="102841654" relation="ATR"/>
+    <word id="102841654" form="ἔντερον" div_chapter="12" lemma="ἔντερον" postag="n-s---na-" head="102841655" relation="ATR_CO"/>
+    <word id="102841655" form="καὶ" div_chapter="12" lemma="καί" postag="c--------" head="102841652" relation="COORD"/>
+    <word id="102841656" form="τὴν" div_chapter="12" lemma="ὁ" postag="l-s---fa-" head="102841657" relation="ATR"/>
+    <word id="102841657" form="κύστιν" div_chapter="12" lemma="κύστις" postag="n-s---fa-" head="102841655" relation="ATR_CO"/>
+    <word id="102841658" form="κάτω" div_chapter="12" lemma="κάτω" postag="d--------" head="102841659" relation="ADV"/>
+    <word id="102841659" form="περαιοῦσθαι" div_chapter="12" lemma="περαιόω" postag="v--pnm---" head="102841651" relation="OBJ_CO"/>
+    <word id="102841660" form="," div_chapter="12" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="102841661" form="πρόσθεν" div_chapter="12" lemma="πρόσθεν" postag="d--------" head="102841665" relation="ADV"/>
+    <word id="102841662" form="οὐδενὸς" div_chapter="12" lemma="οὐδείς" postag="p-s---ng-" head="102841665" relation="SBJ"/>
+    <word id="102841663" form="τουτέων" div_chapter="12" lemma="οὗτος" postag="p-p---fg-" head="102841665" relation="SBJ"/>
+    <word id="102841664" form="οὕτω" div_chapter="12" lemma="οὕτως" postag="d--------" head="102841665" relation="ADV"/>
+    <word id="102841665" form="γενομένου" div_chapter="12" lemma="γίγνομαι" postag="v-sapmng-" head="102841659" relation="ADV"/>
+    <word id="102841666" form="." div_chapter="12" lemma="." postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="172231" id="23" document_id="0627-035" analysis="auto">
+    <word id="102841667" form="καὶ" div_chapter="12" lemma="καί" postag="c--------" head="0" relation="COORD"/>
+    <word id="102841668" form="ἀντὶ" div_chapter="12" lemma="ἀντί" postag="r--------" head="102841691" relation="AuxP"/>
+    <word id="102841669" form="πνευμάτων" div_chapter="12" lemma="πνεῦμα" postag="n-p---ng-" head="102841671" relation="ADV_CO"/>
+    <word id="102841670" form="τε" div_chapter="12" lemma="τε" postag="c--------" head="102841671" relation="AuxY"/>
+    <word id="102841671" form="καὶ" div_chapter="12" lemma="καί" postag="c--------" head="102841668" relation="COORD"/>
+    <word id="102841672" form="χυμῶν" div_chapter="12" lemma="χυμός" postag="n-p---mg-" head="102841671" relation="ADV_CO"/>
+    <word id="102841673" form="οὕτω" div_chapter="12" lemma="οὕτως" postag="d--------" head="102841674" relation="ADV"/>
+    <word id="102841674" form="συγγενέων" div_chapter="12" lemma="συγγενής" postag="a-p---ng-" head="102841669" relation="ATR"/>
+    <word id="102841675" form="," div_chapter="12" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="102841676" form="ὅκως" div_chapter="12" lemma="ὅπως" postag="c--------" head="102841673" relation="AuxC"/>
+    <word id="102841677" form="ἀεὶ" div_chapter="12" lemma="ἀεί" postag="d--------" head="1000374193" relation="ADV"/>
+    <word id="102841678" form="ἀνάγκη" div_chapter="12" lemma="ἀνάγκη" postag="n-s---fn-" head="1000374193" relation="PNOM"/>
+    <word id="102841679" form="ἐν" div_chapter="12" lemma="ἐν" postag="r--------" head="102841682" relation="AuxP"/>
+    <word id="102841680" form="τῇσι" div_chapter="12" lemma="ὁ" postag="l-p---fd-" head="102841681" relation="ATR"/>
+    <word id="102841681" form="μήτρῃσι" div_chapter="12" lemma="μήτρα" postag="n-p---fd-" head="102841679" relation="ADV"/>
+    <word id="102841682" form="γίνεσθαι" div_chapter="12" lemma="γίγνομαι" postag="v--pnm---" head="1000374193" relation="SBJ"/>
+    <word id="102841683" form="συνηθείην" div_chapter="12" lemma="συνήθεια" postag="n-s---fa-" head="102841686" relation="OBJ_CO"/>
+    <word id="102841684" form="τε" div_chapter="12" lemma="τε" postag="c--------" head="102841686" relation="AuxY"/>
+    <word id="102841685" form="ἔχοντα" div_chapter="12" lemma="ἔχω" postag="v-sppama-" head="102841682" relation="ADV"/>
+    <word id="102841686" form="καὶ" div_chapter="12" lemma="καί" postag="c--------" head="102841685" relation="COORD"/>
+    <word id="102841687" form="εὐμενείην" div_chapter="12" lemma="εὐμένεια" postag="n-s---fa-" head="102841686" relation="OBJ_CO"/>
+    <word id="102841688" form="," div_chapter="12" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="102841689" form="πᾶσι" div_chapter="12" lemma="πᾶς" postag="p-p---md-" head="102841690" relation="ATR"/>
+    <word id="102841690" form="ξένοισι" div_chapter="12" lemma="ξένος" postag="a-p---md-" head="102841691" relation="OBJ"/>
+    <word id="102841691" form="χρῆται" div_chapter="12" lemma="χράω" postag="v3spim---" head="102841667" relation="PRED_CO"/>
+    <word id="102841692" form="ὠμοτέροισι" div_chapter="12" lemma="ὠμός" postag="a-p---mdc" head="102841695" relation="ATR_CO"/>
+    <word id="102841693" form="καὶ" div_chapter="12" lemma="καί" postag="c--------" head="102841695" relation="AuxY"/>
+    <word id="102841694" form="ξηροτέροισι" div_chapter="12" lemma="ξηρός" postag="a-p---mdc" head="102841695" relation="ATR_CO"/>
+    <word id="102841695" form="καὶ" div_chapter="12" lemma="καί" postag="c--------" head="102841690" relation="COORD"/>
+    <word id="102841696" form="ἧσσον" div_chapter="12" lemma="ἥσσων" postag="a-s---nac" head="102841695" relation="ATR_CO"/>
+    <word id="102841697" form="ἐξηνθρωπισμένοισιν" div_chapter="12" lemma="ἐξανθρωπίζω" postag="v-prpmmd-" head="102841692" relation="CO"/>
+    <word id="102841698" form="," div_chapter="12" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="102841699" form="ἐξ" div_chapter="12" lemma="ἐκ" postag="r--------" head="1000374192" relation="AuxP"/>
+    <word id="102841700" form="ὧν" div_chapter="12" lemma="ὅς" postag="p-p---mg-" head="102841699" relation="ADV"/>
+    <word id="102841701" form="ἀνάγκη" div_chapter="12" lemma="ἀνάγκη" postag="n-s---fn-" head="1000374192" relation="PNOM"/>
+    <word id="102841702" form="πόνους" div_chapter="12" lemma="πόνος" postag="n-p---ma-" head="102841707" relation="SBJ_CO"/>
+    <word id="102841703" form="γίνεσθαι" div_chapter="12" lemma="γίγνομαι" postag="v--pnm---" head="1000374192" relation="SBJ"/>
+    <word id="102841704" form="πολλοὺς" div_chapter="12" lemma="πολύς" postag="a-p---ma-" head="102841702" relation="ATR"/>
+    <word id="102841705" form="," div_chapter="12" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="102841706" form="πολλοὺς" div_chapter="12" lemma="πολύς" postag="a-p---ma-" head="102841709" relation="ATR"/>
+    <word id="102841707" form="δὲ" div_chapter="12" lemma="δέ" postag="c--------" head="102841703" relation="COORD"/>
+    <word id="102841708" form="καὶ" div_chapter="12" lemma="καί" postag="c--------" head="102841709" relation="AuxZ"/>
+    <word id="102841709" form="θανάτους" div_chapter="12" lemma="θάνατος" postag="n-p---ma-" head="102841707" relation="SBJ_CO"/>
+    <word id="102841710" form="·" div_chapter="12" lemma="·" postag="u--------" head="0" relation="AuxK"/>
+    <word id="1000374192" form="E" lemma="E" postag="z--------" head="102841667" relation="PRED_CO" artificial="elliptic" div_chapter="12"/>
+    <word id="1000374193" form="E" lemma="E" postag="z--------" head="1000374192" relation="UNLINKED" artificial="elliptic" div_chapter="12"/>
+  </sentence>
+  <sentence struct_id="172232" id="24" document_id="0627-035" analysis="auto">
+    <word id="102841711" form="ἐπεὶ" div_chapter="12" lemma="ἐπεί" postag="g--------" head="102841726" relation="AuxY"/>
+    <word id="102841712" form="καὶ" div_chapter="12" lemma="καί" postag="c--------" head="102841714" relation="AuxZ"/>
+    <word id="102841713" form="τοῖσιν" div_chapter="12" lemma="ὁ" postag="l-p---md-" head="102841714" relation="ATR"/>
+    <word id="102841714" form="ἀνδράσι" div_chapter="12" lemma="ἀνήρ" postag="n-p---md-" head="102841726" relation="OBJ"/>
+    <word id="102841715" form="πολλάκις" div_chapter="12" lemma="πολλάκις" postag="d--------" head="102841726" relation="ADV"/>
+    <word id="102841716" form="αἱ" div_chapter="12" lemma="ὁ" postag="l-p---fn-" head="102841717" relation="ATR"/>
+    <word id="102841717" form="μεταλλαγαὶ" div_chapter="12" lemma="μεταλλαγή" postag="n-p---fn-" head="102841726" relation="SBJ"/>
+    <word id="102841718" form="τῶν" div_chapter="12" lemma="ὁ" postag="l-p---ng-" head="102841719" relation="ATR"/>
+    <word id="102841719" form="χωρίων" div_chapter="12" lemma="χωρίον" postag="n-p---ng-" head="102841721" relation="ATR_CO"/>
+    <word id="102841720" form="τε" div_chapter="12" lemma="τε" postag="c--------" head="102841721" relation="AuxY"/>
+    <word id="102841721" form="καὶ" div_chapter="12" lemma="καί" postag="c--------" head="102841725" relation="COORD"/>
+    <word id="102841722" form="τῶν" div_chapter="12" lemma="ὁ" postag="l-p---ng-" head="102841723" relation="ATR"/>
+    <word id="102841723" form="διαιτημάτων" div_chapter="12" lemma="διαίτημα" postag="n-p---ng-" head="102841721" relation="ATR_CO"/>
+    <word id="102841724" form="τὰς" div_chapter="12" lemma="ὁ" postag="l-p---fa-" head="102841725" relation="ATR"/>
+    <word id="102841725" form="νούσους" div_chapter="12" lemma="νόσος" postag="n-p---fa-" head="102841726" relation="OBJ"/>
+    <word id="102841726" form="ποιέουσιν" div_chapter="12" lemma="ποιέω" postag="v3ppia---" head="0" relation="PRED"/>
+    <word id="102841727" form="." div_chapter="12" lemma="." postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="172233" id="25" document_id="0627-035" analysis="auto">
+    <word id="102841728" form="ὁ" div_chapter="12" lemma="ὁ" postag="l-s---mn-" head="102841731" relation="ATR"/>
+    <word id="102841729" form="δ’" div_chapter="12" lemma="δέ" postag="c--------" head="102841732" relation="AuxY"/>
+    <word id="102841730" form="αὐτὸς" div_chapter="12" lemma="αὐτός" postag="p-s---mn-" head="102841731" relation="ATR"/>
+    <word id="102841731" form="λόγος" div_chapter="12" lemma="λόγος" postag="n-s---mn-" head="102841732" relation="SBJ"/>
+    <word id="102841732" form="ἐστὶ" div_chapter="12" lemma="εἰμί" postag="v3spia---" head="0" relation="PRED"/>
+    <word id="102841733" form="καὶ" div_chapter="12" lemma="καί" postag="c--------" head="102841736" relation="AuxZ"/>
+    <word id="102841734" form="περὶ" div_chapter="12" lemma="περί" postag="r--------" head="102841732" relation="AuxP"/>
+    <word id="102841735" form="τῶν" div_chapter="12" lemma="ὁ" postag="l-p---ng-" head="102841736" relation="ATR"/>
+    <word id="102841736" form="ἐσθημάτων" div_chapter="12" lemma="ἔσθημα" postag="n-p---ng-" head="102841734" relation="ADV"/>
+    <word id="102841737" form="·" div_chapter="12" lemma="·" postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="172234" id="26" document_id="0627-035" analysis="auto">
+    <word id="102841738" form="ἀντὶ" div_chapter="12" lemma="ἀντί" postag="r--------" head="102841744" relation="AuxP"/>
+    <word id="102841739" form="γὰρ" div_chapter="12" lemma="γάρ" postag="g--------" head="102841753" relation="AuxY"/>
+    <word id="102841740" form="τοῦ" div_chapter="12" lemma="ὁ" postag="l-s---ng-" head="102841741" relation="ATR"/>
+    <word id="102841741" form="σαρκὶ" div_chapter="12" lemma="σάρξ" postag="n-s---fd-" head="102841742" relation="ADV_CO"/>
+    <word id="102841742" form="καὶ" div_chapter="12" lemma="καί" postag="c--------" head="102841738" relation="COORD"/>
+    <word id="102841743" form="χυμοῖς" div_chapter="12" lemma="χυμός" postag="n-p---md-" head="102841742" relation="ADV_CO"/>
+    <word id="102841744" form="ἠμφιέσθαι" div_chapter="12" lemma="ἀμφιέννυμι" postag="v--rnm---" head="102841753" relation="OBJ"/>
+    <word id="102841745" form="χλιεροῖς" div_chapter="12" lemma="χλιερός" postag="a-p---nd-" head="102841749" relation="ADV_CO"/>
+    <word id="102841746" form="τε" div_chapter="12" lemma="τε" postag="c--------" head="102841749" relation="AuxY"/>
+    <word id="102841747" form="καὶ" div_chapter="12" lemma="καί" postag="c--------" head="102841746" relation="AuxY"/>
+    <word id="102841748" form="ὑγροῖς" div_chapter="12" lemma="ὑγρός" postag="a-p---nd-" head="102841749" relation="ADV_CO"/>
+    <word id="102841749" form="καὶ" div_chapter="12" lemma="καί" postag="c--------" head="102841744" relation="COORD"/>
+    <word id="102841750" form="ξυγγενέσι" div_chapter="12" lemma="συγγενής" postag="a-p---nd-" head="102841749" relation="ADV_CO"/>
+    <word id="102841751" form="," div_chapter="12" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="102841752" form="τοιαῦτα" div_chapter="12" lemma="τοιοῦτος" postag="p-p---na-" head="102841753" relation="OBJ"/>
+    <word id="102841753" form="ἀμφιέννυται" div_chapter="12" lemma="ἀμφιέννυμι" postag="v3spim---" head="0" relation="PRED"/>
+    <word id="102841754" form="τὰ" div_chapter="12" lemma="ὁ" postag="l-p---nn-" head="102841755" relation="ATR"/>
+    <word id="102841755" form="παιδία" div_chapter="12" lemma="παιδίον" postag="n-p---nn-" head="102841753" relation="SBJ"/>
+    <word id="102841756" form="οἷά" div_chapter="12" lemma="οἷος" postag="p-p---na-" head="1000374194" relation="ADV"/>
+    <word id="102841757" form="περ" div_chapter="12" lemma="περ" postag="d--------" head="102841756" relation="AuxZ"/>
+    <word id="102841758" form="οἱ" div_chapter="12" lemma="ὁ" postag="l-p---mn-" head="102841759" relation="ATR"/>
+    <word id="102841759" form="ἄνδρες" div_chapter="12" lemma="ἀνήρ" postag="n-p---mn-" head="1000374194" relation="SBJ"/>
+    <word id="102841760" form="." div_chapter="12" lemma="." postag="u--------" head="0" relation="AuxK"/>
+    <word id="1000374194" form="E" lemma="E" postag="z--------" head="102841753" relation="ADV" artificial="elliptic" div_chapter="12"/>
+  </sentence>
+  <sentence struct_id="172235" id="27" document_id="0627-035" analysis="auto">
+    <word id="102841761" form="οἱ" div_chapter="12" lemma="ὁ" postag="l-p---mn-" head="102841763" relation="ATR"/>
+    <word id="102841762" form="δὲ" div_chapter="12" lemma="δέ" postag="c--------" head="102841765" relation="AuxY"/>
+    <word id="102841763" form="ὀμφαλοὶ" div_chapter="12" lemma="ὀμφαλός" postag="n-p---mn-" head="102841765" relation="SBJ"/>
+    <word id="102841764" form="ἔσοδοί" div_chapter="12" lemma="εἴσοδος" postag="n-p---fn-" head="102841765" relation="PNOM"/>
+    <word id="102841765" form="εἰσι" div_chapter="12" lemma="εἰμί" postag="v3ppia---" head="0" relation="PRED"/>
+    <word id="102841766" form="τοῖσι" div_chapter="12" lemma="ὁ" postag="l-p---md-" head="102841767" relation="ATR"/>
+    <word id="102841767" form="παιδίοισι" div_chapter="12" lemma="παιδίον" postag="n-p---md-" head="102841765" relation="ADV"/>
+    <word id="102841768" form="μοῦνον" div_chapter="12" lemma="μόνος" postag="a-s---na-" head="102841765" relation="PNOM"/>
+    <word id="102841769" form="τοῦ" div_chapter="12" lemma="ὁ" postag="l-s---ng-" head="102841770" relation="ATR"/>
+    <word id="102841770" form="σώματος" div_chapter="12" lemma="σῶμα" postag="n-s---ng-" head="102841768" relation="ATR"/>
+    <word id="102841771" form="·" div_chapter="12" lemma="·" postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="172236" id="28" document_id="0627-035" analysis="auto">
+    <word id="102841772" form="τῇ" div_chapter="12" lemma="ὁ" postag="l-s---fd-" head="102841773" relation="ATR"/>
+    <word id="102841773" form="μήτρῃ" div_chapter="12" lemma="μήτρα" postag="n-s---fd-" head="102841774" relation="ADV"/>
+    <word id="102841774" form="προσέχεται" div_chapter="12" lemma="προσέχω" postag="v3spim---" head="102841778" relation="PRED_CO"/>
+    <word id="102841775" form="διὰ" div_chapter="12" lemma="διά" postag="r--------" head="102841774" relation="AuxP"/>
+    <word id="102841776" form="τουτέων" div_chapter="12" lemma="οὗτος" postag="p-p---fg-" head="102841775" relation="ADV"/>
+    <word id="102841777" form="," div_chapter="12" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="102841778" form="καὶ" div_chapter="12" lemma="καί" postag="c--------" head="0" relation="COORD"/>
+    <word id="102841779" form="κοινωνεῖ" div_chapter="12" lemma="κοινωνέω" postag="v3spia---" head="102841778" relation="PRED_CO"/>
+    <word id="102841780" form="τῶν" div_chapter="12" lemma="ὁ" postag="l-p---ng-" head="102841781" relation="ATR"/>
+    <word id="102841781" form="ἐσιόντων" div_chapter="12" lemma="εἰσέρχομαι" postag="v-pppang-" head="102841779" relation="OBJ"/>
+    <word id="102841782" form="·" div_chapter="12" lemma="·" postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="172237" id="29" document_id="0627-035" analysis="auto">
+    <word id="102841783" form="τὰ" div_chapter="12" lemma="ὁ" postag="l-p---nn-" head="102841785" relation="ATR"/>
+    <word id="102841784" form="δ’" div_chapter="12" lemma="δέ" postag="c--------" head="102841786" relation="AuxY"/>
+    <word id="102841785" form="ἄλλα" div_chapter="12" lemma="ἄλλος" postag="p-p---nn-" head="102841786" relation="SBJ"/>
+    <word id="102841786" form="ξυμμύει" div_chapter="12" lemma="συμμύω" postag="v3spia---" head="0" relation="PRED"/>
+    <word id="102841787" form="·" div_chapter="12" lemma="·" postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="172238" id="30" document_id="0627-035" analysis="auto">
+    <word id="102841788" form="καὶ" div_chapter="12" lemma="καί" postag="c--------" head="102841793" relation="AuxY"/>
+    <word id="102841789" form="οὐκ" div_chapter="12" lemma="οὐ" postag="d--------" head="102841791" relation="AuxZ"/>
+    <word id="102841790" form="ἀνεστομωμένα" div_chapter="12" lemma="ἀναστομόω" postag="v-prpmnn-" head="102841791" relation="PNOM"/>
+    <word id="102841791" form="ἐστὶ" div_chapter="12" lemma="εἰμί" postag="v3spia---" head="102841793" relation="PRED_CO"/>
+    <word id="102841792" form="πρόσθεν" div_chapter="12" lemma="πρόσθεν" postag="d--------" head="102841791" relation="ADV"/>
+    <word id="102841793" form="ἢ" div_chapter="12" lemma="ἤ" postag="c--------" head="0" relation="COORD"/>
+    <word id="102841794" form="ἐν" div_chapter="12" lemma="ἐν" postag="r--------" head="102841796" relation="AuxP"/>
+    <word id="102841795" form="ἐξόδῳ" div_chapter="12" lemma="ἔξοδος" postag="n-s---fd-" head="102841794" relation="PNOM"/>
+    <word id="102841796" form="ᾖ" div_chapter="12" lemma="εἰμί" postag="v3spsa---" head="102841793" relation="PRED_CO"/>
+    <word id="102841797" form="τὸ" div_chapter="12" lemma="ὁ" postag="l-s---nn-" head="102841798" relation="ATR"/>
+    <word id="102841798" form="παιδίον" div_chapter="12" lemma="παιδίον" postag="n-s---nn-" head="102841796" relation="SBJ"/>
+    <word id="102841799" form="ἐκ" div_chapter="12" lemma="ἐκ" postag="r--------" head="102841796" relation="AuxP"/>
+    <word id="102841800" form="τῆς" div_chapter="12" lemma="ὁ" postag="l-s---fg-" head="102841801" relation="ATR"/>
+    <word id="102841801" form="γαστρός" div_chapter="12" lemma="γαστήρ" postag="n-s---fg-" head="102841799" relation="ADV"/>
+    <word id="102841802" form="·" div_chapter="12" lemma="·" postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="172239" id="31" document_id="0627-035" analysis="auto">
+    <word id="102841803" form="ὁκόταν" div_chapter="12" lemma="ὁπόταν" postag="c--------" head="102841812" relation="AuxC"/>
+    <word id="102841804" form="δὲ" div_chapter="12" lemma="δέ" postag="c--------" head="102841815" relation="AuxY"/>
+    <word id="102841805" form="ἐν" div_chapter="12" lemma="ἐν" postag="r--------" head="102841807" relation="AuxP"/>
+    <word id="102841806" form="ἐξόδῳ" div_chapter="12" lemma="ἔξοδος" postag="n-s---fd-" head="102841805" relation="PNOM"/>
+    <word id="102841807" form="ᾖ" div_chapter="12" lemma="εἰμί" postag="v3spsa---" head="102841803" relation="ADV"/>
+    <word id="102841808" form="," div_chapter="12" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="102841809" form="τὰ" div_chapter="12" lemma="ὁ" postag="l-p---nn-" head="102841811" relation="ATR"/>
+    <word id="102841810" form="μὲν" div_chapter="12" lemma="μέν" postag="g--------" head="102841815" relation="AuxY"/>
+    <word id="102841811" form="ἄλλα" div_chapter="12" lemma="ἄλλος" postag="p-p---nn-" head="102841812" relation="SBJ"/>
+    <word id="102841812" form="ἀναστομοῦται" div_chapter="12" lemma="ἀναστομόω" postag="v3spim---" head="0" relation="PRED"/>
+    <word id="102841813" form="," div_chapter="12" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="102841814" form="ὁ" div_chapter="12" lemma="ὁ" postag="l-s---mn-" head="102841816" relation="ATR"/>
+    <word id="102841815" form="δὲ" div_chapter="12" lemma="δέ" postag="c--------" head="102841818" relation="AuxY"/>
+    <word id="102841816" form="ὀμφαλὸς" div_chapter="12" lemma="ὀμφαλός" postag="n-s---mn-" head="102841818" relation="SBJ"/>
+    <word id="102841817" form="λεπτύνεταί" div_chapter="12" lemma="λεπτύνω" postag="v3spim---" head="102841821" relation="PRED_CO"/>
+    <word id="102841818" form="τε" div_chapter="12" lemma="τε" postag="c--------" head="102841821" relation="AuxY"/>
+    <word id="102841819" form="καὶ" div_chapter="12" lemma="καί" postag="c--------" head="102841818" relation="AuxY"/>
+    <word id="102841820" form="ξυμμύει" div_chapter="12" lemma="συμμύω" postag="v3spia---" head="102841821" relation="PRED_CO"/>
+    <word id="102841821" form="καὶ" div_chapter="12" lemma="καί" postag="c--------" head="102841812" relation="COORD"/>
+    <word id="102841822" form="ἀποξηραίνεται" div_chapter="12" lemma="ἀποξηραίνω" postag="v3spim---" head="102841821" relation="PRED_CO"/>
+    <word id="102841823" form="." div_chapter="12" lemma="." postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="172240" id="32" document_id="0627-035" analysis="auto">
+    <word id="102841824" form="ὥσπερ" div_chapter="12" lemma="ὥσπερ" postag="c--------" head="102841853" relation="AuxC"/>
+    <word id="102841825" form="δὲ" div_chapter="12" lemma="δέ" postag="c--------" head="102841856" relation="AuxY"/>
+    <word id="102841826" form="τοῖσιν" div_chapter="12" lemma="ὁ" postag="l-p---md-" head="102841830" relation="ATR"/>
+    <word id="102841827" form="ἐκ" div_chapter="12" lemma="ἐκ" postag="r--------" head="102841830" relation="AuxP"/>
+    <word id="102841828" form="τῆς" div_chapter="12" lemma="ὁ" postag="l-s---fg-" head="102841829" relation="ATR"/>
+    <word id="102841829" form="γῆς" div_chapter="12" lemma="γῆ" postag="n-s---fg-" head="102841827" relation="ADV"/>
+    <word id="102841830" form="φυομένοισιν" div_chapter="12" lemma="φύω" postag="v-pppmmd-" head="102841834" relation="OBJ"/>
+    <word id="102841831" form="οἱ" div_chapter="12" lemma="ὁ" postag="l-p---mn-" head="102841832" relation="ATR"/>
+    <word id="102841832" form="καρποὶ" div_chapter="12" lemma="καρπός" postag="n-p---mn-" head="102841835" relation="SBJ"/>
+    <word id="102841833" form="ἁδρυνόμενοι" div_chapter="12" lemma="ἁδρύνω" postag="v-pppmmn-" head="102841834" relation="ADV"/>
+    <word id="102841834" form="ἀποκρίνονται" div_chapter="12" lemma="ἀποκρίνω" postag="v3ppim---" head="102841835" relation="ADV_CO"/>
+    <word id="102841835" form="καὶ" div_chapter="12" lemma="καί" postag="c--------" head="102841824" relation="COORD"/>
+    <word id="102841836" form="ἀποπίπτουσι" div_chapter="12" lemma="ἀποπίπτω" postag="v3ppia---" head="102841835" relation="ADV_CO"/>
+    <word id="102841837" form="κατὰ" div_chapter="12" lemma="κατά" postag="r--------" head="102841836" relation="AuxP"/>
+    <word id="102841838" form="τὴν" div_chapter="12" lemma="ὁ" postag="l-s---fa-" head="102841839" relation="ATR"/>
+    <word id="102841839" form="διάφυσιν" div_chapter="12" lemma="διάφυσις" postag="n-s---fa-" head="102841837" relation="ADV"/>
+    <word id="102841840" form="," div_chapter="12" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="102841841" form="οὕτω" div_chapter="12" lemma="οὕτως" postag="d--------" head="102841853" relation="ADV"/>
+    <word id="102841842" form="καὶ" div_chapter="12" lemma="καί" postag="c--------" head="102841844" relation="AuxZ"/>
+    <word id="102841843" form="τοῖσι" div_chapter="12" lemma="ὁ" postag="l-p---md-" head="102841844" relation="ATR"/>
+    <word id="102841844" form="παιδίοισιν" div_chapter="12" lemma="παίδιος" postag="n-p---md-" head="102841853" relation="OBJ"/>
+    <word id="102841845" form="ἁδρυνομένοισί" div_chapter="12" lemma="ἁδρύνω" postag="v-pppmmd-" head="102841847" relation="ATR_CO"/>
+    <word id="102841846" form="τε" div_chapter="12" lemma="τε" postag="c--------" head="102841847" relation="AuxY"/>
+    <word id="102841847" form="καὶ" div_chapter="12" lemma="καί" postag="c--------" head="102841844" relation="COORD"/>
+    <word id="102841848" form="τελείοισι" div_chapter="12" lemma="τέλειος" postag="a-p---md-" head="102841849" relation="PNOM"/>
+    <word id="102841849" form="γινομένοισιν" div_chapter="12" lemma="γίγνομαι" postag="v-pppmmd-" head="102841847" relation="ATR_CO"/>
+    <word id="102841850" form="ὁ" div_chapter="12" lemma="ὁ" postag="l-s---mn-" head="102841852" relation="ATR"/>
+    <word id="102841851" form="μὲν" div_chapter="12" lemma="μέν" postag="g--------" head="102841856" relation="AuxY"/>
+    <word id="102841852" form="ὀμφαλὸς" div_chapter="12" lemma="ὀμφαλός" postag="n-s---mn-" head="102841853" relation="SBJ"/>
+    <word id="102841853" form="ξυνέμυσε" div_chapter="12" lemma="συμμύω" postag="v3saia---" head="102841856" relation="PRED_CO"/>
+    <word id="102841854" form="," div_chapter="12" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="102841855" form="τὰ" div_chapter="12" lemma="ὁ" postag="l-p---nn-" head="102841857" relation="ATR"/>
+    <word id="102841856" form="δὲ" div_chapter="12" lemma="δέ" postag="c--------" head="0" relation="COORD"/>
+    <word id="102841857" form="ἄλλα" div_chapter="12" lemma="ἄλλος" postag="p-p---nn-" head="102841858" relation="SBJ"/>
+    <word id="102841858" form="ἀνεστομώθη" div_chapter="12" lemma="ἀναστομόω" postag="v3saip---" head="102841856" relation="PRED_CO"/>
+    <word id="102841859" form="," div_chapter="12" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="102841860" form="ὥστε" div_chapter="12" lemma="ὥστε" postag="c--------" head="102841841" relation="AuxC"/>
+    <word id="102841861" form="εἰσδέχεσθαί" div_chapter="12" lemma="εἰσδέχομαι" postag="v--pnm---" head="102841865" relation="ADV_CO"/>
+    <word id="102841862" form="τε" div_chapter="12" lemma="τε" postag="c--------" head="102841865" relation="AuxY"/>
+    <word id="102841863" form="τὰ" div_chapter="12" lemma="ὁ" postag="l-p---na-" head="102841864" relation="ATR"/>
+    <word id="102841864" form="ἐσιόντα" div_chapter="12" lemma="εἰσέρχομαι" postag="v-pppana-" head="102841861" relation="OBJ"/>
+    <word id="102841865" form="καὶ" div_chapter="12" lemma="καί" postag="c--------" head="102841860" relation="COORD"/>
+    <word id="102841866" form="ἐξόδους" div_chapter="12" lemma="ἔξοδος" postag="n-p---fa-" head="102841867" relation="OBJ"/>
+    <word id="102841867" form="ἔχειν" div_chapter="12" lemma="ἔχω" postag="v--pna---" head="102841865" relation="ADV_CO"/>
+    <word id="102841868" form="κατὰ" div_chapter="12" lemma="κατά" postag="r--------" head="102841867" relation="AuxP"/>
+    <word id="102841869" form="φύσιν" div_chapter="12" lemma="φύσις" postag="n-s---fa-" head="102841868" relation="ADV"/>
+    <word id="102841870" form="," div_chapter="12" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="102841871" form="ᾗσιν" div_chapter="12" lemma="ὅς" postag="p-p---fd-" head="1000374195" relation="ADV"/>
+    <word id="102841872" form="ἀνάγκη" div_chapter="12" lemma="ἀνάγκη" postag="n-s---fn-" head="1000374195" relation="PNOM"/>
+    <word id="102841873" form="τοὺς" div_chapter="12" lemma="ὁ" postag="l-p---ma-" head="102841874" relation="ATR"/>
+    <word id="102841874" form="ζῶντας" div_chapter="12" lemma="ζάω" postag="v-pppama-" head="102841875" relation="OBJ"/>
+    <word id="102841875" form="χρέεσθαι" div_chapter="12" lemma="χράω" postag="v--pnm---" head="1000374195" relation="SBJ"/>
+    <word id="102841876" form="·" div_chapter="12" lemma="·" postag="u--------" head="0" relation="AuxK"/>
+    <word id="1000374195" form="E" lemma="E" postag="z--------" head="102841866" relation="ATR" artificial="elliptic" div_chapter="12"/>
+  </sentence>
+  <sentence struct_id="172241" id="33" document_id="0627-035" analysis="auto">
+    <word id="102841877" form="ἕκαστα" div_chapter="12" lemma="ἕκαστος" postag="p-p---nn-" head="102841879" relation="SBJ"/>
+    <word id="102841878" form="γὰρ" div_chapter="12" lemma="γάρ" postag="g--------" head="102841879" relation="AuxY"/>
+    <word id="102841879" form="χωρίζεται" div_chapter="12" lemma="χωρίζω" postag="v3spim---" head="0" relation="PRED"/>
+    <word id="102841880" form="ῥέποντα" div_chapter="12" lemma="ῥέπω" postag="v-pppann-" head="102841879" relation="ADV"/>
+    <word id="102841881" form="κατὰ" div_chapter="12" lemma="κατά" postag="r--------" head="102841880" relation="AuxP"/>
+    <word id="102841882" form="τὰς" div_chapter="12" lemma="ὁ" postag="l-p---fa-" head="102841883" relation="ATR"/>
+    <word id="102841883" form="συλλοχίας" div_chapter="12" lemma="συλλοχία" postag="n-p---fa-" head="102841881" relation="ADV"/>
+    <word id="102841884" form="·" div_chapter="12" lemma="·" postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="172242" id="34" document_id="0627-035" analysis="auto">
+    <word id="102841885" form="κρατιστεύει" div_chapter="12" lemma="κρατιστεύω" postag="v3spia---" head="0" relation="PRED"/>
+    <word id="102841886" form="δὲ" div_chapter="12" lemma="δέ" postag="c--------" head="102841885" relation="AuxY"/>
+    <word id="102841887" form="τὰ" div_chapter="12" lemma="ὁ" postag="l-p---nn-" head="102841890" relation="ATR"/>
+    <word id="102841888" form="τῷ" div_chapter="12" lemma="ὁ" postag="l-s---md-" head="102841889" relation="ATR"/>
+    <word id="102841889" form="ἡλίῳ" div_chapter="12" lemma="ἥλιος" postag="n-s---md-" head="102841890" relation="ADV"/>
+    <word id="102841890" form="ξυντροφώτατα" div_chapter="12" lemma="σύντροφος" postag="a-p---nas" head="102841885" relation="OBJ"/>
+    <word id="102841891" form="." div_chapter="12" lemma="." postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="172243" id="35" document_id="0627-035" analysis="auto">
+    <word id="102841892" form="οἱ" div_chapter="13" lemma="ὁ" postag="l-p---mn-" head="102841894" relation="ATR"/>
+    <word id="102841893" form="δὲ" div_chapter="13" lemma="δέ" postag="c--------" head="102841906" relation="AuxY"/>
+    <word id="102841894" form="δεκάμηνοι" div_chapter="13" lemma="δεκάμηνος" postag="a-p---mn-" head="102841897" relation="SBJ_CO"/>
+    <word id="102841895" form="τῶν" div_chapter="13" lemma="ὁ" postag="l-p---mg-" head="102841896" relation="ATR"/>
+    <word id="102841896" form="τόκων" div_chapter="13" lemma="τόκος" postag="n-p---mg-" head="102841894" relation="ATR"/>
+    <word id="102841897" form="καὶ" div_chapter="13" lemma="καί" postag="c--------" head="102841906" relation="COORD"/>
+    <word id="102841898" form="ἑνδεκάμηνοι" div_chapter="13" lemma="ἑνδεκάμηνος" postag="a-p---mn-" head="102841897" relation="SBJ_CO"/>
+    <word id="102841899" form="ἐκ" div_chapter="13" lemma="ἐκ" postag="r--------" head="102841906" relation="AuxP"/>
+    <word id="102841900" form="τῶν" div_chapter="13" lemma="ὁ" postag="l-p---fg-" head="102841902" relation="ATR"/>
+    <word id="102841901" form="ἑπτά" div_chapter="13" lemma="ἑπτά" postag="m--------" head="102841902" relation="ATR"/>
+    <word id="102841902" form="τεσσαρακοντάδων" div_chapter="13" lemma="τεσσαρακοντάς" postag="n-p---fg-" head="102841899" relation="ADV"/>
+    <word id="102841903" form="τὸν" div_chapter="13" lemma="ὁ" postag="l-s---ma-" head="102841905" relation="ATR"/>
+    <word id="102841904" form="αὐτὸν" div_chapter="13" lemma="αὐτός" postag="p-s---ma-" head="102841905" relation="ATR"/>
+    <word id="102841905" form="τρόπον" div_chapter="13" lemma="τρόπος" postag="n-s---ma-" head="102841906" relation="ADV"/>
+    <word id="102841906" form="γίνονται" div_chapter="13" lemma="γίγνομαι" postag="v3ppim---" head="0" relation="PRED"/>
+    <word id="102841907" form="καὶ" div_chapter="13" lemma="καί" postag="c--------" head="1000374196" relation="AuxY"/>
+    <word id="102841908" form="ἐκ" div_chapter="13" lemma="ἐκ" postag="r--------" head="1000374196" relation="AuxP"/>
+    <word id="102841909" form="τοῦ" div_chapter="13" lemma="ὁ" postag="l-s---mg-" head="102841910" relation="ATR"/>
+    <word id="102841910" form="ἡμίσεος" div_chapter="13" lemma="ἥμισυς" postag="a-s---ng-" head="102841908" relation="ADV"/>
+    <word id="102841911" form="τοῦ" div_chapter="13" lemma="ὁ" postag="l-s---mg-" head="102841912" relation="ATR"/>
+    <word id="102841912" form="ἐνιαυτοῦ" div_chapter="13" lemma="ἐνιαυτός" postag="n-s---mg-" head="102841910" relation="ATR"/>
+    <word id="102841913" form="οἱ" div_chapter="13" lemma="ὁ" postag="l-p---mn-" head="102841914" relation="ATR"/>
+    <word id="102841914" form="ἑπτάμηνοι" div_chapter="13" lemma="ἑπτάμηνος" postag="a-p---mn-" head="102841906" relation="SBJ"/>
+    <word id="102841915" form="·" div_chapter="13" lemma="·" postag="u--------" head="0" relation="AuxK"/>
+    <word id="1000374196" form="E" lemma="E" postag="z--------" head="102841915" relation="UNLINKED" artificial="elliptic" div_chapter="13"/>
+  </sentence>
+  <sentence struct_id="172244" id="36" document_id="0627-035" analysis="auto">
+    <word id="102841916" form="τῇσι" div_chapter="13" lemma="ὁ" postag="l-p---fd-" head="102841918" relation="ATR"/>
+    <word id="102841917" form="γὰρ" div_chapter="13" lemma="γάρ" postag="g--------" head="102841922" relation="AuxY"/>
+    <word id="102841918" form="πλείστῃσι" div_chapter="13" lemma="πολύς" postag="a-p---fds" head="102841922" relation="ADV"/>
+    <word id="102841919" form="τῶν" div_chapter="13" lemma="ὁ" postag="l-p---fg-" head="102841920" relation="ATR"/>
+    <word id="102841920" form="γυναικῶν" div_chapter="13" lemma="γυνή" postag="n-p---fg-" head="102841918" relation="ATR"/>
+    <word id="102841921" form="ἀναγκαῖόν" div_chapter="13" lemma="ἀναγκαῖος" postag="a-s---nn-" head="102841922" relation="PNOM"/>
+    <word id="102841922" form="ἐστιν" div_chapter="13" lemma="εἰμί" postag="v3spia---" head="0" relation="PRED"/>
+    <word id="102841923" form="ἐν" div_chapter="13" lemma="ἐν" postag="r--------" head="102841925" relation="AuxP"/>
+    <word id="102841924" form="γαστρὶ" div_chapter="13" lemma="γαστήρ" postag="n-s---fd-" head="102841923" relation="ADV"/>
+    <word id="102841925" form="λαμβάνειν" div_chapter="13" lemma="λαμβάνω" postag="v--pna---" head="102841922" relation="SBJ"/>
+    <word id="102841926" form="μετὰ" div_chapter="13" lemma="μετά" postag="r--------" head="102841925" relation="AuxP"/>
+    <word id="102841927" form="τὰ" div_chapter="13" lemma="ὁ" postag="l-p---na-" head="102841928" relation="ATR"/>
+    <word id="102841928" form="καταμήνια" div_chapter="13" lemma="καταμήνιος" postag="a-p---na-" head="102841926" relation="ADV"/>
+    <word id="102841929" form="," div_chapter="13" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="102841930" form="ἢν" div_chapter="13" lemma="ἐάν" postag="c--------" head="102841925" relation="AuxC"/>
+    <word id="102841931" form="ἴῃ" div_chapter="13" lemma="ἔρχομαι" postag="v3spsa---" head="102841930" relation="ADV"/>
+    <word id="102841932" form="ἡ" div_chapter="13" lemma="ὁ" postag="l-s---fn-" head="102841933" relation="ATR"/>
+    <word id="102841933" form="λύσις" div_chapter="13" lemma="λύσις" postag="n-s---fn-" head="102841931" relation="SBJ"/>
+    <word id="102841934" form="·" div_chapter="13" lemma="·" postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="172245" id="37" document_id="0627-035" analysis="auto">
+    <word id="102841935" form="δεῖ" div_chapter="13" lemma="δέω" postag="v3spia---" head="0" relation="PRED"/>
+    <word id="102841936" form="τοίνυν" div_chapter="13" lemma="τοίνυν" postag="g--------" head="102841935" relation="AuxY"/>
+    <word id="102841937" form="τῇ" div_chapter="13" lemma="ὁ" postag="l-s---fd-" head="102841938" relation="ATR"/>
+    <word id="102841938" form="γυναικὶ" div_chapter="13" lemma="γυνή" postag="n-s---fd-" head="102841940" relation="OBJ"/>
+    <word id="102841939" form="χρόνον" div_chapter="13" lemma="χρόνος" postag="n-s---ma-" head="102841940" relation="ADV"/>
+    <word id="102841940" form="δοῦναι" div_chapter="13" lemma="δίδωμι" postag="v--ana---" head="102841935" relation="SBJ"/>
+    <word id="102841941" form="τοῦ" div_chapter="13" lemma="ὁ" postag="l-s---mg-" head="102841942" relation="ATR"/>
+    <word id="102841942" form="μηνὸς" div_chapter="13" lemma="μείς" postag="n-s---mg-" head="102841939" relation="ATR"/>
+    <word id="102841943" form="," div_chapter="13" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="102841944" form="ἐν" div_chapter="13" lemma="ἐν" postag="r--------" head="102841949" relation="AuxP"/>
+    <word id="102841945" form="ᾧ" div_chapter="13" lemma="ὅς" postag="p-s---md-" head="102841944" relation="ADV"/>
+    <word id="102841946" form="αὐτῇ" div_chapter="13" lemma="αὐτός" postag="p-s---fd-" head="102841949" relation="ADV"/>
+    <word id="102841947" form="ἡ" div_chapter="13" lemma="ὁ" postag="l-s---fn-" head="102841948" relation="ATR"/>
+    <word id="102841948" form="κάθαρσις" div_chapter="13" lemma="κάθαρσις" postag="n-s---fn-" head="102841949" relation="SBJ"/>
+    <word id="102841949" form="ἔσται" div_chapter="13" lemma="εἰμί" postag="v3sfim---" head="102841942" relation="ATR"/>
+    <word id="102841950" form="·" div_chapter="13" lemma="·" postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="172246" id="38" document_id="0627-035" analysis="auto">
+    <word id="102841951" form="καὶ" div_chapter="13" lemma="καί" postag="c--------" head="1000374197" relation="AuxY"/>
+    <word id="102841952" form="ὁ" div_chapter="13" lemma="ὁ" postag="l-s---mn-" head="102841953" relation="ATR"/>
+    <word id="102841953" form="χρόνος" div_chapter="13" lemma="χρόνος" postag="n-s---mn-" head="1000374197" relation="SBJ"/>
+    <word id="102841954" form="οὗτος" div_chapter="13" lemma="οὗτος" postag="p-s---mn-" head="102841953" relation="ATR"/>
+    <word id="102841955" form="ᾗσιν" div_chapter="13" lemma="ὅς" postag="p-p---fd-" head="102841956" relation="ADV"/>
+    <word id="102841956" form="ἐλάχιστος" div_chapter="13" lemma="ἐλαχύς" postag="a-s---mns" head="102841957" relation="PNOM"/>
+    <word id="102841957" form="γίνεται" div_chapter="13" lemma="γίγνομαι" postag="v3spim---" head="102841953" relation="ATR"/>
+    <word id="102841958" form="," div_chapter="13" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="102841959" form="τρεῖς" div_chapter="13" lemma="τρεῖς" postag="m-p---cn-" head="102841960" relation="ATR"/>
+    <word id="102841960" form="ἡμέραι" div_chapter="13" lemma="ἡμέρα" postag="n-p---fn-" head="102841953" relation="APOS"/>
+    <word id="102841961" form="," div_chapter="13" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="102841962" form="τῇσι" div_chapter="13" lemma="ὁ" postag="l-p---fd-" head="102841964" relation="ATR"/>
+    <word id="102841963" form="δὲ" div_chapter="13" lemma="δέ" postag="c--------" head="1000374197" relation="AuxY"/>
+    <word id="102841964" form="πλείστῃσι" div_chapter="13" lemma="πολύς" postag="a-p---fds" head="102841967" relation="ADV"/>
+    <word id="102841965" form="καὶ" div_chapter="13" lemma="καί" postag="c--------" head="102841967" relation="AuxY"/>
+    <word id="102841966" form="πολὺ" div_chapter="13" lemma="πολύς" postag="a-s---na-" head="102841967" relation="ADV"/>
+    <word id="102841967" form="πλείονες" div_chapter="13" lemma="πολύς" postag="a-p---fnc" head="1000374197" relation="PNOM"/>
+    <word id="102841968" form="." div_chapter="13" lemma="." postag="u--------" head="0" relation="AuxK"/>
+    <word id="1000374197" form="E" lemma="E" postag="z--------" head="0" relation="PRED" artificial="elliptic" div_chapter="13"/>
+  </sentence>
+  <sentence struct_id="172247" id="39" document_id="0627-035" analysis="auto">
+    <word id="102841969" form="ἔστι" div_chapter="13" lemma="εἰμί" postag="v3spia---" head="0" relation="PRED"/>
+    <word id="102841970" form="δὲ" div_chapter="13" lemma="δέ" postag="c--------" head="102841969" relation="AuxY"/>
+    <word id="102841971" form="καὶ" div_chapter="13" lemma="καί" postag="c--------" head="102841974" relation="AuxZ"/>
+    <word id="102841972" form="ἄλλα" div_chapter="13" lemma="ἄλλος" postag="p-p---nn-" head="102841974" relation="ATR"/>
+    <word id="102841973" form="πολλὰ" div_chapter="13" lemma="πολύς" postag="a-p---nn-" head="102841974" relation="ATR"/>
+    <word id="102841974" form="κωλύματα" div_chapter="13" lemma="κώλυμα" postag="n-p---nn-" head="102841978" relation="SBJ_CO"/>
+    <word id="102841975" form="καὶ" div_chapter="13" lemma="καί" postag="c--------" head="102841978" relation="AuxY"/>
+    <word id="102841976" form="τῇσι" div_chapter="13" lemma="ὁ" postag="l-p---fd-" head="102841977" relation="ATR"/>
+    <word id="102841977" form="γυναιξὶ" div_chapter="13" lemma="γυνή" postag="n-p---fd-" head="102841978" relation="SBJ_CO"/>
+    <word id="102841978" form="καὶ" div_chapter="13" lemma="καί" postag="c--------" head="102841969" relation="COORD"/>
+    <word id="102841979" form="τοῖσιν" div_chapter="13" lemma="ὁ" postag="l-p---md-" head="102841980" relation="ATR"/>
+    <word id="102841980" form="ἀνδράσιν" div_chapter="13" lemma="ἀνήρ" postag="n-p---md-" head="102841978" relation="SBJ_CO"/>
+    <word id="102841981" form="ἐξ" div_chapter="13" lemma="ἐκ" postag="r--------" head="102841983" relation="AuxP"/>
+    <word id="102841982" form="ὧν" div_chapter="13" lemma="ὅς" postag="p-p---ng-" head="102841981" relation="ADV"/>
+    <word id="102841983" form="βραδύνεται" div_chapter="13" lemma="βραδύνω" postag="v3spim---" head="102841980" relation="ATR"/>
+    <word id="102841984" form="ἡ" div_chapter="13" lemma="ὁ" postag="l-s---fn-" head="102841985" relation="ATR"/>
+    <word id="102841985" form="ξύλληψις" div_chapter="13" lemma="σύλληψις" postag="n-s---fn-" head="102841983" relation="SBJ"/>
+    <word id="102841986" form="." div_chapter="13" lemma="." postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="172248" id="40" document_id="0627-035" analysis="auto">
+    <word id="102841987" form="χρὴ" div_chapter="13" lemma="χρή" postag="v3spia---" head="0" relation="PRED"/>
+    <word id="102841988" form="δὲ" div_chapter="13" lemma="δέ" postag="c--------" head="102841987" relation="AuxY"/>
+    <word id="102841989" form="ἐν" div_chapter="13" lemma="ἐν" postag="r--------" head="102841994" relation="AuxP"/>
+    <word id="102841990" form="τοῖσι" div_chapter="13" lemma="ὁ" postag="l-p---nd-" head="102841994" relation="ATR"/>
+    <word id="102841991" form="μάλιστα" div_chapter="13" lemma="μάλα" postag="d-------s" head="102841989" relation="ADV"/>
+    <word id="102841992" form="καὶ" div_chapter="13" lemma="καί" postag="c--------" head="102841993" relation="AuxZ"/>
+    <word id="102841993" form="τόδε" div_chapter="13" lemma="ὅδε" postag="p-s---na-" head="102841994" relation="OBJ"/>
+    <word id="102841994" form="λογίζεσθαι" div_chapter="13" lemma="λογίζομαι" postag="v--pnm---" head="102841987" relation="SBJ"/>
+    <word id="102841995" form="," div_chapter="13" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="102841996" form="ὅτι" div_chapter="13" lemma="ὅτι" postag="c--------" head="102841994" relation="AuxC"/>
+    <word id="102841997" form="ἡ" div_chapter="13" lemma="ὁ" postag="l-s---fn-" head="102841999" relation="ATR"/>
+    <word id="102841998" form="νουμηνίη" div_chapter="13" lemma="νουμηνία" postag="n-s---fn-" head="102841999" relation="ATR"/>
+    <word id="102841999" form="ἡμέρη" div_chapter="13" lemma="ἡμέρα" postag="n-s---fn-" head="102842004" relation="SBJ"/>
+    <word id="102842000" form="μία" div_chapter="13" lemma="εἷς" postag="m-s---fn-" head="102842001" relation="PNOM"/>
+    <word id="102842001" form="ἐοῦσα" div_chapter="13" lemma="εἰμί" postag="v-sppafn-" head="102842004" relation="ADV"/>
+    <word id="102842002" form="ἐγγύτατα" div_chapter="13" lemma="ἐγγύς" postag="d--------" head="102842004" relation="ADV"/>
+    <word id="102842003" form="τριηκοστημόριόν" div_chapter="13" lemma="τριηκοστημόριος" postag="a-s---nn-" head="102842004" relation="PNOM"/>
+    <word id="102842004" form="ἐστι" div_chapter="13" lemma="εἰμί" postag="v3spia---" head="102841996" relation="APOS"/>
+    <word id="102842005" form="τοῦ" div_chapter="13" lemma="ὁ" postag="l-s---mg-" head="102842006" relation="ATR"/>
+    <word id="102842006" form="μηνός" div_chapter="13" lemma="μείς" postag="n-s---mg-" head="102842003" relation="ADV"/>
+    <word id="102842007" form="·" div_chapter="13" lemma="·" postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="172249" id="41" document_id="0627-035" analysis="auto">
+    <word id="102842008" form="αἱ" div_chapter="13" lemma="ὁ" postag="l-p---fn-" head="102842011" relation="ATR"/>
+    <word id="102842009" form="δὲ" div_chapter="13" lemma="δέ" postag="c--------" head="1000374198" relation="AuxY"/>
+    <word id="102842010" form="δύο" div_chapter="13" lemma="δύο" postag="m--------" head="102842011" relation="ATR"/>
+    <word id="102842011" form="ἡμέραι" div_chapter="13" lemma="ἡμέρα" postag="n-p---fn-" head="1000374198" relation="SBJ"/>
+    <word id="102842012" form="σχεδὸν" div_chapter="13" lemma="σχεδόν" postag="d--------" head="102842013" relation="AuxZ"/>
+    <word id="102842013" form="πεντεκαιδεκατημόριον" div_chapter="13" lemma="πεντεκαιδεκατημόριον" postag="n-s---nn-" head="1000374198" relation="PNOM"/>
+    <word id="102842014" form="τοῦ" div_chapter="13" lemma="ὁ" postag="l-s---mg-" head="102842015" relation="ATR"/>
+    <word id="102842015" form="μηνός" div_chapter="13" lemma="μείς" postag="n-s---mg-" head="102842013" relation="ATR"/>
+    <word id="102842016" form="·" div_chapter="13" lemma="·" postag="u--------" head="0" relation="AuxK"/>
+    <word id="1000374198" form="E" lemma="E" postag="z--------" head="0" relation="PRED" artificial="elliptic" div_chapter="13"/>
+  </sentence>
+  <sentence struct_id="172250" id="42" document_id="0627-035" analysis="auto">
+    <word id="102842017" form="αἱ" div_chapter="13" lemma="ὁ" postag="l-p---fn-" head="102842020" relation="ATR"/>
+    <word id="102842018" form="δὲ" div_chapter="13" lemma="δέ" postag="c--------" head="102842025" relation="AuxY"/>
+    <word id="102842019" form="τρεῖς" div_chapter="13" lemma="τρεῖς" postag="m-p---fn-" head="102842020" relation="ATR"/>
+    <word id="102842020" form="ἡμέραι" div_chapter="13" lemma="ἡμέρα" postag="n-p---fn-" head="1000374199" relation="SBJ"/>
+    <word id="102842021" form="δεκατημόριον" div_chapter="13" lemma="δεκατημόριον" postag="n-s---nn-" head="1000374199" relation="PNOM"/>
+    <word id="102842022" form="τοῦ" div_chapter="13" lemma="ὁ" postag="l-s---mg-" head="102842023" relation="ATR"/>
+    <word id="102842023" form="μηνὸς" div_chapter="13" lemma="μείς" postag="n-s---mg-" head="102842021" relation="ATR"/>
+    <word id="102842024" form="," div_chapter="13" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="102842025" form="καὶ" div_chapter="13" lemma="καί" postag="c--------" head="0" relation="COORD"/>
+    <word id="102842026" form="τα-" div_chapter="13" lemma="ὁ" postag="l-p---nn-" head="102842027" relation="ATR"/>
+    <word id="102842027" form="τἄλλα" div_chapter="13" lemma="ἄλλος" postag="p-p---nn-" head="1000374199" relation="SBJ"/>
+    <word id="102842028" form="κατὰ" div_chapter="13" lemma="κατά" postag="r--------" head="1000374199" relation="AuxP"/>
+    <word id="102842029" form="λόγον" div_chapter="13" lemma="λόγος" postag="n-s---ma-" head="102842028" relation="ADV"/>
+    <word id="102842030" form="τουτέων" div_chapter="13" lemma="οὗτος" postag="p-p---fg-" head="102842029" relation="ATR"/>
+    <word id="102842031" form="·" div_chapter="13" lemma="·" postag="u--------" head="0" relation="AuxK"/>
+    <word id="1000374199" form="E" lemma="E" postag="z--------" head="102842025" relation="PRED_CO" artificial="elliptic" div_chapter="13"/>
+    <word id="1000374200" form="E" lemma="E" postag="z--------" head="102842025" relation="PRED_CO" artificial="elliptic" div_chapter="13"/>
+  </sentence>
+  <sentence struct_id="172251" id="43" document_id="0627-035" analysis="auto">
+    <word id="102842032" form="καὶ" div_chapter="13" lemma="καί" postag="c--------" head="1000374201" relation="AuxY"/>
+    <word id="102842033" form="οὐχ" div_chapter="13" lemma="οὐ" postag="d--------" head="102842034" relation="AuxZ"/>
+    <word id="102842034" form="οἷόν" div_chapter="13" lemma="οἷος" postag="p-s---nn-" head="1000374201" relation="PNOM"/>
+    <word id="102842035" form="τε" div_chapter="13" lemma="τε" postag="g--------" head="102842034" relation="MWE"/>
+    <word id="102842036" form="ἐν" div_chapter="13" lemma="ἐν" postag="r--------" head="102842041" relation="AuxP"/>
+    <word id="102842037" form="τοῖσιν" div_chapter="13" lemma="ὁ" postag="l-p---nd-" head="102842040" relation="ATR"/>
+    <word id="102842038" form="ἐλάσσοσί" div_chapter="13" lemma="ἐλαχύς" postag="a-p---ndc" head="102842040" relation="ATR"/>
+    <word id="102842039" form="γε" div_chapter="13" lemma="γε" postag="g--------" head="102842038" relation="AuxZ"/>
+    <word id="102842040" form="μορίοις" div_chapter="13" lemma="μόριον" postag="n-p---nd-" head="102842036" relation="ADV"/>
+    <word id="102842041" form="γίνεσθαι" div_chapter="13" lemma="γίγνομαι" postag="v--pnm---" head="1000374201" relation="SBJ"/>
+    <word id="102842042" form="οὔ" div_chapter="13" lemma="οὐ" postag="d--------" head="102842045" relation="AuxZ"/>
+    <word id="102842043" form="-τε" div_chapter="13" lemma="τε" postag="c--------" head="102842049" relation="AuxY"/>
+    <word id="102842044" form="τὴν" div_chapter="13" lemma="ὁ" postag="l-s---fa-" head="102842045" relation="ATR"/>
+    <word id="102842045" form="λύσιν" div_chapter="13" lemma="λύσις" postag="n-s---fa-" head="102842049" relation="SBJ_CO"/>
+    <word id="102842046" form="τῶν" div_chapter="13" lemma="ὁ" postag="l-p---ng-" head="102842047" relation="ATR"/>
+    <word id="102842047" form="καταμηνίων" div_chapter="13" lemma="καταμήνιος" postag="a-p---mg-" head="102842045" relation="ATR"/>
+    <word id="102842048" form="οὔ" div_chapter="13" lemma="οὐ" postag="d--------" head="102842051" relation="AuxZ"/>
+    <word id="102842049" form="-τε" div_chapter="13" lemma="τε" postag="c--------" head="102842041" relation="COORD"/>
+    <word id="102842050" form="τὴν" div_chapter="13" lemma="ὁ" postag="l-s---fa-" head="102842051" relation="ATR"/>
+    <word id="102842051" form="ξύλληψιν" div_chapter="13" lemma="σύλληψις" postag="n-s---fa-" head="102842049" relation="SBJ_CO"/>
+    <word id="102842052" form="τῶν" div_chapter="13" lemma="ὁ" postag="l-p---ng-" head="102842053" relation="ATR"/>
+    <word id="102842053" form="ἐμβρύων" div_chapter="13" lemma="ἔμβρυον" postag="n-p---ng-" head="102842051" relation="ATR"/>
+    <word id="102842054" form="." div_chapter="13" lemma="." postag="u--------" head="0" relation="AuxK"/>
+    <word id="1000374201" form="E" lemma="E" postag="z--------" head="0" relation="PRED" artificial="elliptic" div_chapter="13"/>
+  </sentence>
+  <sentence struct_id="172252" id="44" document_id="0627-035" analysis="auto">
+    <word id="102842055" form="ἐκ" div_chapter="13" lemma="ἐκ" postag="r--------" head="102842060" relation="AuxP"/>
+    <word id="102842056" form="τουτέων" div_chapter="13" lemma="οὗτος" postag="p-p---fg-" head="102842055" relation="ADV"/>
+    <word id="102842057" form="οὖν" div_chapter="13" lemma="οὖν" postag="g--------" head="102842060" relation="AuxY"/>
+    <word id="102842058" form="ἁπάντων" div_chapter="13" lemma="ἅπας" postag="p-p---ng-" head="102842055" relation="ADV"/>
+    <word id="102842059" form="ἀναγκαῖόν" div_chapter="13" lemma="ἀναγκαῖος" postag="a-s---nn-" head="102842060" relation="PNOM"/>
+    <word id="102842060" form="ἐστι" div_chapter="13" lemma="εἰμί" postag="v3spia---" head="0" relation="PRED"/>
+    <word id="102842061" form="τῇσι" div_chapter="13" lemma="ὁ" postag="l-p---fd-" head="102842062" relation="ATR"/>
+    <word id="102842062" form="πλείστῃσι" div_chapter="13" lemma="πολύς" postag="a-p---fds" head="102842069" relation="OBJ"/>
+    <word id="102842063" form="τῶν" div_chapter="13" lemma="ὁ" postag="l-p---fg-" head="102842064" relation="ATR"/>
+    <word id="102842064" form="γυναικῶν" div_chapter="13" lemma="γυνή" postag="n-p---fg-" head="102842062" relation="ATR"/>
+    <word id="102842065" form="περὶ" div_chapter="13" lemma="περί" postag="r--------" head="102842069" relation="AuxP"/>
+    <word id="102842066" form="διχομηνίην" div_chapter="13" lemma="διχομηνία" postag="n-s---fa-" head="102842065" relation="ADV"/>
+    <word id="102842067" form="ἐν" div_chapter="13" lemma="ἐν" postag="r--------" head="102842069" relation="AuxP"/>
+    <word id="102842068" form="γαστρὶ" div_chapter="13" lemma="γαστήρ" postag="n-s---fd-" head="102842067" relation="ADV"/>
+    <word id="102842069" form="λαβεῖν" div_chapter="13" lemma="λαμβάνω" postag="v--ana---" head="102842060" relation="SBJ"/>
+    <word id="102842070" form="καὶ" div_chapter="13" lemma="καί" postag="c--------" head="102842071" relation="AuxY"/>
+    <word id="102842071" form="πορρωτέρω" div_chapter="13" lemma="πρόσω" postag="d--------" head="102842069" relation="ADV"/>
+    <word id="102842072" form="," div_chapter="13" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="102842073" form="ὥστε" div_chapter="13" lemma="ὥστε" postag="c--------" head="102842069" relation="AuxC"/>
+    <word id="102842074" form="πολλάκις" div_chapter="13" lemma="πολλάκις" postag="d--------" head="102842075" relation="ADV"/>
+    <word id="102842075" form="δοκεῖν" div_chapter="13" lemma="δοκέω" postag="v--pna---" head="102842073" relation="ADV"/>
+    <word id="102842076" form="ἐπιλαμβάνειν" div_chapter="13" lemma="ἐπιλαμβάνω" postag="v--pna---" head="102842075" relation="OBJ"/>
+    <word id="102842077" form="τοῦ" div_chapter="13" lemma="ὁ" postag="l-s---mg-" head="102842079" relation="ATR"/>
+    <word id="102842078" form="ἑνδεκάτου" div_chapter="13" lemma="ἑνδέκατος" postag="a-s---mg-" head="102842079" relation="ATR"/>
+    <word id="102842079" form="μηνὸς" div_chapter="13" lemma="μείς" postag="n-s---mg-" head="102842076" relation="OBJ"/>
+    <word id="102842080" form="τὰς" div_chapter="13" lemma="ὁ" postag="l-p---fa-" head="102842081" relation="ATR"/>
+    <word id="102842081" form="ὀγδοήκοντα" div_chapter="13" lemma="ὀγδοήκοντα" postag="m--------" head="102842082" relation="OBJ_CO"/>
+    <word id="102842082" form="καὶ" div_chapter="13" lemma="καί" postag="c--------" head="102842076" relation="COORD"/>
+    <word id="102842083" form="διακοσίας" div_chapter="13" lemma="διακόσιοι" postag="m-p---fa-" head="102842082" relation="OBJ_CO"/>
+    <word id="102842084" form="·" div_chapter="13" lemma="·" postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="172253" id="45" document_id="0627-035" analysis="auto">
+    <word id="102842085" form="τοῦτο" div_chapter="13" lemma="οὗτος" postag="p-s---nn-" head="102842087" relation="SBJ"/>
+    <word id="102842086" form="γάρ" div_chapter="13" lemma="γάρ" postag="g--------" head="102842087" relation="AuxY"/>
+    <word id="102842087" form="ἐστιν" div_chapter="13" lemma="εἰμί" postag="v3spia---" head="0" relation="PRED"/>
+    <word id="102842088" form="ἑπτὰ" div_chapter="13" lemma="ἑπτά" postag="m--------" head="102842089" relation="ATR"/>
+    <word id="102842089" form="τεσσαρακοντάδες" div_chapter="13" lemma="τεσσαρακοντάς" postag="n-p---fn-" head="102842087" relation="PNOM"/>
+    <word id="102842090" form="." div_chapter="13" lemma="." postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="172254" id="46" document_id="0627-035" analysis="auto">
+    <word id="102842091" form="ὅ" div_chapter="13" lemma="ὅς" postag="p-s---na-" head="102842098" relation="OBJ"/>
+    <word id="102842092" form="τι" div_chapter="13" lemma="τις" postag="p-s---na-" head="102842091" relation="ATR"/>
+    <word id="102842093" form="γὰρ" div_chapter="13" lemma="γάρ" postag="g--------" head="102842105" relation="AuxY"/>
+    <word id="102842094" form="ἂν" div_chapter="13" lemma="ἄν" postag="g--------" head="102842098" relation="AuxY"/>
+    <word id="102842095" form="ἔξω" div_chapter="13" lemma="ἔξω" postag="d--------" head="102842098" relation="AuxP"/>
+    <word id="102842096" form="τῆς" div_chapter="13" lemma="ὁ" postag="l-s---fg-" head="102842097" relation="ATR"/>
+    <word id="102842097" form="διχομηνίης" div_chapter="13" lemma="διχομηνία" postag="n-s---fg-" head="102842095" relation="ADV"/>
+    <word id="102842098" form="ξυλλαμβάνῃ" div_chapter="13" lemma="συλλαμβάνω" postag="v3spsa---" head="102842102" relation="ATR"/>
+    <word id="102842099" form="ἡ" div_chapter="13" lemma="ὁ" postag="l-s---fn-" head="102842100" relation="ATR"/>
+    <word id="102842100" form="γυνὴ" div_chapter="13" lemma="γυνή" postag="n-s---fn-" head="102842098" relation="SBJ"/>
+    <word id="102842101" form="," div_chapter="13" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="102842102" form="τοῦτο" div_chapter="13" lemma="οὗτος" postag="p-s---na-" head="102842109" relation="OBJ"/>
+    <word id="102842103" form="πᾶν" div_chapter="13" lemma="πᾶς" postag="p-s---na-" head="102842102" relation="ATR"/>
+    <word id="102842104" form="ἀναγκαῖόν" div_chapter="13" lemma="ἀναγκαῖος" postag="a-s---nn-" head="102842105" relation="PNOM"/>
+    <word id="102842105" form="ἐστι" div_chapter="13" lemma="εἰμί" postag="v3spia---" head="0" relation="PRED"/>
+    <word id="102842106" form="τοῦ" div_chapter="13" lemma="ὁ" postag="l-s---mg-" head="102842108" relation="ATR"/>
+    <word id="102842107" form="ἑνδεκάτου" div_chapter="13" lemma="ἑνδέκατος" postag="a-s---mg-" head="102842108" relation="ATR"/>
+    <word id="102842108" form="μηνὸς" div_chapter="13" lemma="μείς" postag="n-s---mg-" head="102842109" relation="OBJ"/>
+    <word id="102842109" form="ἐπιλαβεῖν" div_chapter="13" lemma="ἐπιλαμβάνω" postag="v--ana---" head="102842105" relation="SBJ"/>
+    <word id="102842110" form="," div_chapter="13" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="102842111" form="ἤν" div_chapter="13" lemma="ἐάν" postag="c--------" head="102842105" relation="AuxC"/>
+    <word id="102842112" form="περ" div_chapter="13" lemma="περ" postag="d--------" head="102842111" relation="AuxZ"/>
+    <word id="102842113" form="ἐς" div_chapter="13" lemma="εἰς" postag="r--------" head="102842116" relation="AuxP"/>
+    <word id="102842114" form="τελευταίην" div_chapter="13" lemma="τελευταῖος" postag="a-s---fa-" head="102842115" relation="ATR"/>
+    <word id="102842115" form="περίοδον" div_chapter="13" lemma="περίοδος" postag="n-s---fa-" head="102842113" relation="OBJ"/>
+    <word id="102842116" form="καταστῇ" div_chapter="13" lemma="καθίστημι" postag="v3sasa---" head="102842111" relation="ADV"/>
+    <word id="102842117" form="." div_chapter="13" lemma="." postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+</treebank>

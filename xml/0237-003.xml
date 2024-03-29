@@ -1,0 +1,18 @@
+<treebank version="2" xml:lang="grc">
+  <sentence struct_id="146986" id="1" document_id="0237-003" analysis="auto">
+    <word id="102417722" form="κοίμισον" line="S313a.1" div_fragment="S313a" lemma="κοιμίζω" postag="v2sama---" head="0" relation="PRED"/>
+    <word id="102417723" form="δέ" line="S313a.1" div_fragment="S313a" lemma="δέ" postag="c--------" head="102417722" relation="AuxY"/>
+    <word id="102417724" form="," line="S313a.1" div_fragment="S313a" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="102417725" form="Ζεῦ" line="S313a.1" div_fragment="S313a" lemma="Ζεύς" postag="n-s---mv-" head="102417722" relation="ExD"/>
+    <word id="102417726" form="," line="S313a.1" div_fragment="S313a" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="102417727" form="σόλοικον" line="S313a.1" div_fragment="S313a" lemma="σόλοικος" postag="a-s---ma-" head="102417728" relation="ATR"/>
+    <word id="102417728" form="φθόγγον" line="S313a.1" div_fragment="S313a" lemma="φθόγγος" postag="n-s---ma-" head="102417722" relation="OBJ"/>
+    <word id="1000273760" form="E" lemma="E" postag="z--------" head="102417722" relation="OBJ" artificial="elliptic" line="S313a.1" div_fragment="S313a"/>
+  </sentence>
+  <sentence struct_id="146987" id="2" document_id="0237-003" analysis="auto">
+    <word id="102417729" form="μή" line="S313b.1" div_fragment="S313b" lemma="μή" postag="d--------" head="102417732" relation="AuxZ"/>
+    <word id="102417730" form="πως" line="S313b.1" div_fragment="S313b" lemma="πως" postag="d--------" head="102417732" relation="AuxY"/>
+    <word id="102417731" form="βάρβαρα" line="S313b.1" div_fragment="S313b" lemma="βάρβαρος" postag="a-p---na-" head="102417732" relation="OBJ"/>
+    <word id="102417732" form="βάξῃς" line="S313b.1" div_fragment="S313b" lemma="βάζω" postag="v2sasa---" head="0" relation="PRED"/>
+  </sentence>
+</treebank>

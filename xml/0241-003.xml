@@ -1,0 +1,17 @@
+<treebank version="2" xml:lang="grc">
+  <sentence struct_id="18209" id="1" document_id="0241-003" analysis="auto">
+    <word id="100275247" form="τίς" line="1.1" div_fragment="1" lemma="τίς" postag="p-s---cn-" head="100275250" relation="SBJ"/>
+    <word id="100275248" form="ἀλαζονίαν" line="1.1" div_fragment="1" lemma="ἀλαζονεία" postag="n-s---fa-" head="100275250" relation="OBJ"/>
+    <word id="100275249" form="πλείσταν" line="1.1" div_fragment="1" lemma="πολύς" postag="a-s---fas" head="100275248" relation="ATR"/>
+    <word id="100275250" form="παρέχει" line="1.1" div_fragment="1" lemma="παρέχω" postag="v3spia---" head="0" relation="PRED"/>
+    <word id="100275251" form="τῶν" line="1.1" div_fragment="1" lemma="ὁ" postag="l-p---mg-" head="100275252" relation="ATR"/>
+    <word id="100275252" form="ἀνθρώπων" line="1.1" div_fragment="1" lemma="ἄνθρωπος" postag="n-p---mg-" head="100275248" relation="ATR"/>
+    <word id="100275253" form=";" line="1.1" div_fragment="1" lemma=";" postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="18210" id="2" document_id="0241-003" analysis="auto">
+    <word id="100275254" form="τοὶ" line="1.1" div_fragment="1" lemma="ὁ" postag="l-p---mn-" head="100275255" relation="ATR"/>
+    <word id="100275255" form="μάντεις" line="1.1" div_fragment="1" lemma="μάντις" postag="n-p---mn-" head="1000273775" relation="SBJ"/>
+    <word id="100275256" form="." line="1.1" div_fragment="1" lemma="." postag="u--------" head="0" relation="AuxK"/>
+    <word id="1000273775" form="E" lemma="E" postag="z--------" head="0" relation="PRED" artificial="elliptic" line="1.1" div_fragment="1"/>
+  </sentence>
+</treebank>

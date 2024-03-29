@@ -1,0 +1,20 @@
+<treebank version="2" xml:lang="grc">
+  <sentence struct_id="20003" id="1" document_id="1547-001" analysis="auto">
+    <word id="100293985" form="ἀλλ’" line="1.1" div_fragment="1" lemma="ἀλλά" postag="c--------" head="1000443938" relation="AuxY"/>
+    <word id="100293986" form="ἔτι" line="1.1" div_fragment="1" lemma="ἔτι" postag="d--------" head="100293988" relation="ADV"/>
+    <word id="100293987" form="κάλλιστόν" line="1.1" div_fragment="1" lemma="καλός" postag="a-s---mas" head="100293989" relation="ATR_CO"/>
+    <word id="100293988" form="τε" line="1.1" div_fragment="1" lemma="τε" postag="c--------" head="100293989" relation="AuxY"/>
+    <word id="100293989" form="καὶ" line="1.1" div_fragment="1" lemma="καί" postag="c--------" head="100293992" relation="COORD"/>
+    <word id="100293990" form="ἱμεροέστατον" line="1.1" div_fragment="1" lemma="ἱμερόεις" postag="a-s---mas" head="100293989" relation="ATR_CO"/>
+    <word id="100293991" form="ἄλλων" line="1.1" div_fragment="1" lemma="ἄλλος" postag="p-p---mg-" head="100293992" relation="ATR"/>
+    <word id="100293992" form="παῖδα" line="1.2" div_fragment="1" lemma="παῖς" postag="n-s---ca-" head="1000443938" relation="OBJ"/>
+    <word id="100293993" form="φίλον" line="1.2" div_fragment="1" lemma="φίλος" postag="a-s---ma-" head="100293992" relation="ATR"/>
+    <word id="100293994" form="Κρείοντος" line="1.2" div_fragment="1" lemma="Κρείων" postag="n-s---mg-" head="100293992" relation="ATR"/>
+    <word id="100293995" form="ἀμύμονος" line="1.2" div_fragment="1" lemma="ἀμύμων" postag="a-s---mg-" head="100293994" relation="ATR"/>
+    <word id="100293996" form="," line="1.2" div_fragment="1" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="100293997" form="Αἵμονα" line="1.2" div_fragment="1" lemma="Αἵμων" postag="n-s---ma-" head="100293992" relation="APOS"/>
+    <word id="100293998" form="δῖον" line="1.2" div_fragment="1" lemma="δῖος" postag="a-s---ma-" head="100293997" relation="ATR"/>
+    <word id="100293999" form="." line="1.2" div_fragment="1" lemma="." postag="u--------" head="0" relation="AuxK"/>
+    <word id="1000443938" form="E" lemma="E" postag="z--------" head="0" relation="PRED" artificial="elliptic" line="1.2" div_fragment="1"/>
+  </sentence>
+</treebank>

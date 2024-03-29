@@ -1,0 +1,957 @@
+<treebank version="2" xml:lang="grc">
+  <sentence struct_id="750494" id="1" document_id="0284-004" analysis="auto">
+    <word id="114615449" form="ἡγείσθω" div_jebb_page="28" lemma="ἡγέομαι" postag="v3spmm---" head="114615476" relation="PRED_CO"/>
+    <word id="114615450" form="μὲν" div_jebb_page="28" lemma="μέν" postag="g--------" head="114615459" relation="AuxY"/>
+    <word id="114615451" form="αὐτὸς" div_jebb_page="28" lemma="αὐτός" postag="p-s---mn-" head="114615452" relation="ATR"/>
+    <word id="114615452" form="Ἀσκληπιὸς" div_jebb_page="28" lemma="Ἀσκληπιός" postag="n-s---mn-" head="114615449" relation="SBJ"/>
+    <word id="114615453" form="ὁ" div_jebb_page="28" lemma="ὁ" postag="l-s---mn-" head="114615454" relation="ATR"/>
+    <word id="114615454" form="φήνας" div_jebb_page="28" lemma="φαίνω" postag="v-sapamn-" head="114615452" relation="ATR"/>
+    <word id="114615455" form="τὸ" div_jebb_page="28" lemma="ὁ" postag="l-s---na-" head="114615456" relation="ATR"/>
+    <word id="114615456" form="ὄναρ" div_jebb_page="28" lemma="ὄναρ" postag="n-s---na-" head="114615454" relation="OBJ"/>
+    <word id="114615457" form="," div_jebb_page="28" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="114615458" form="ἡγείσθω" div_jebb_page="28" lemma="ἡγέομαι" postag="v3spmm---" head="114615476" relation="PRED_CO"/>
+    <word id="114615459" form="δὲ" div_jebb_page="28" lemma="δέ" postag="c--------" head="114615476" relation="AuxY"/>
+    <word id="114615460" form="Διόνυσος" div_jebb_page="28" lemma="Διόνυσος" postag="n-s---mn-" head="114615468" relation="SBJ_CO"/>
+    <word id="114615461" form="αὐτὸς" div_jebb_page="28" lemma="αὐτός" postag="p-s---mn-" head="114615460" relation="ATR"/>
+    <word id="114615462" form="," div_jebb_page="28" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="114615463" form="ᾧ" div_jebb_page="28" lemma="ὅς" postag="p-s---md-" head="114615464" relation="OBJ"/>
+    <word id="114615464" form="χορεῦσαι" div_jebb_page="28" lemma="χορεύω" postag="v--ana---" head="114615465" relation="SBJ"/>
+    <word id="114615465" form="δεῖ" div_jebb_page="28" lemma="δέω" postag="v3spia---" head="114615460" relation="ATR"/>
+    <word id="114615466" form="," div_jebb_page="28" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="114615467" form="Ἀπόλλων" div_jebb_page="28" lemma="Ἀπόλλων" postag="n-s---mn-" head="114615468" relation="SBJ_CO"/>
+    <word id="114615468" form="τε" div_jebb_page="28" lemma="τε" postag="c--------" head="114615458" relation="COORD"/>
+    <word id="114615469" form="μουσηγέτης" div_jebb_page="28" lemma="Μουσαγέτης" postag="n-s---mn-" head="114615467" relation="ATR"/>
+    <word id="114615470" form="," div_jebb_page="28" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="114615471" form="τοῦ" div_jebb_page="28" lemma="ὁ" postag="l-s---mg-" head="114615473" relation="ATR"/>
+    <word id="114615472" form="μὲν" div_jebb_page="28" lemma="μέν" postag="g--------" head="114615476" relation="AuxY"/>
+    <word id="114615473" form="πατὴρ" div_jebb_page="28" lemma="πατήρ" postag="n-s---mn-" head="1000274258" relation="SBJ"/>
+    <word id="114615474" form="," div_jebb_page="28" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="114615475" form="τοῦ" div_jebb_page="28" lemma="ὁ" postag="l-s---mg-" head="114615477" relation="ATR"/>
+    <word id="114615476" form="δὲ" div_jebb_page="28" lemma="δέ" postag="c--------" head="0" relation="COORD"/>
+    <word id="114615477" form="ἀδελφὸς" div_jebb_page="28" lemma="ἀδελφός" postag="n-s---mn-" head="1000274258" relation="SBJ"/>
+    <word id="114615478" form="," div_jebb_page="28" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="114615479" form="ὡς" div_jebb_page="28" lemma="ὡς" postag="c--------" head="1000274258" relation="AuxC"/>
+    <word id="114615480" form="λόγος" div_jebb_page="28" lemma="λόγος" postag="n-s---mn-" head="1000274258" relation="SBJ"/>
+    <word id="114615481" form="." div_jebb_page="28" lemma="." postag="u--------" head="0" relation="AuxK"/>
+    <word id="1000274258" form="E" lemma="E" postag="z--------" head="114615476" relation="PRED_CO" artificial="elliptic" div_jebb_page="28"/>
+  </sentence>
+  <sentence struct_id="750495" id="2" document_id="0284-004" analysis="auto">
+    <word id="114615482" form="τοὺς" div_jebb_page="28" lemma="ὁ" postag="l-p---ma-" head="114615485" relation="ATR"/>
+    <word id="114615483" form="μὲν" div_jebb_page="28" lemma="μέν" postag="g--------" head="114615495" relation="AuxY"/>
+    <word id="114615484" form="οὖν" div_jebb_page="28" lemma="οὖν" postag="g--------" head="114615495" relation="AuxY"/>
+    <word id="114615485" form="τελέους" div_jebb_page="28" lemma="τέλειος" postag="a-p---ma-" head="114615495" relation="OBJ"/>
+    <word id="114615486" form="ὕμνους" div_jebb_page="28" lemma="ὕμνος" postag="n-p---ma-" head="114615488" relation="OBJ_CO"/>
+    <word id="114615487" form="τε" div_jebb_page="28" lemma="τε" postag="c--------" head="114615488" relation="AuxY"/>
+    <word id="114615488" form="καὶ" div_jebb_page="28" lemma="καί" postag="c--------" head="114615495" relation="COORD"/>
+    <word id="114615489" form="λόγους" div_jebb_page="28" lemma="λόγος" postag="n-p---ma-" head="114615488" relation="OBJ_CO"/>
+    <word id="114615490" form="περὶ" div_jebb_page="28" lemma="περί" postag="r--------" head="114615495" relation="AuxP"/>
+    <word id="114615491" form="Διονύσου" div_jebb_page="28" lemma="Διόνυσος" postag="n-s---mg-" head="114615490" relation="ADV"/>
+    <word id="114615492" form="Ὀρφεῖ" div_jebb_page="28" lemma="Ὀρφεύς" postag="n-s---md-" head="114615496" relation="OBJ_CO"/>
+    <word id="114615493" form="καὶ" div_jebb_page="28" lemma="καί" postag="c--------" head="114615496" relation="AuxY"/>
+    <word id="114615494" form="Μουσαίῳ" div_jebb_page="28" lemma="Μουσαῖος" postag="n-s---md-" head="114615496" relation="OBJ_CO"/>
+    <word id="114615495" form="παρῶμεν" div_jebb_page="28" lemma="πάρειμι" postag="v1piia---" head="0" relation="PRED"/>
+    <word id="114615496" form="καὶ" div_jebb_page="28" lemma="καί" postag="c--------" head="114615495" relation="COORD"/>
+    <word id="114615497" form="τοῖς" div_jebb_page="28" lemma="ὁ" postag="l-p---md-" head="114615498" relation="ATR"/>
+    <word id="114615498" form="ἀρχαίοις" div_jebb_page="28" lemma="ἀρχαῖος" postag="a-p---md-" head="114615496" relation="OBJ_CO"/>
+    <word id="114615499" form="τῶν" div_jebb_page="28" lemma="ὁ" postag="l-p---mg-" head="114615500" relation="ATR"/>
+    <word id="114615500" form="νομοθετῶν" div_jebb_page="28" lemma="νομοθέτης" postag="n-p---mg-" head="114615498" relation="ATR"/>
+    <word id="114615501" form="·" div_jebb_page="28" lemma="·" postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="750496" id="3" document_id="0284-004" analysis="auto">
+    <word id="114615502" form="αὐτοὶ" div_jebb_page="28" lemma="αὐτός" postag="p-p---mn-" head="114615517" relation="SBJ"/>
+    <word id="114615503" form="δὲ" div_jebb_page="28" lemma="δέ" postag="c--------" head="114615517" relation="AuxY"/>
+    <word id="114615504" form="ὡσπερεὶ" div_jebb_page="28" lemma="ὡσπερεί" postag="c--------" head="114615517" relation="AuxC"/>
+    <word id="114615505" form="συμβόλου" div_jebb_page="28" lemma="σύμβολος" postag="n-s---ng-" head="114615506" relation="ADV"/>
+    <word id="114615506" form="χάριν" div_jebb_page="28" lemma="χάριν" postag="r--------" head="114615512" relation="AuxP"/>
+    <word id="114615507" form="ὡς" div_jebb_page="28" lemma="ὡς" postag="c--------" head="114615517" relation="AuxC"/>
+    <word id="114615508" form="οὐ" div_jebb_page="28" lemma="οὐ" postag="d--------" head="114615512" relation="AuxZ"/>
+    <word id="114615509" form="τῶν" div_jebb_page="28" lemma="ὁ" postag="l-p---mg-" head="114615510" relation="ATR"/>
+    <word id="114615510" form="ἀμυήτων" div_jebb_page="28" lemma="ἀμύητος" postag="a-p---mg-" head="114615512" relation="PNOM"/>
+    <word id="114615511" form="ἄρ’" div_jebb_page="28" lemma="ἄρα" postag="g--------" head="114615512" relation="AuxY"/>
+    <word id="114615512" form="ἦμεν" div_jebb_page="28" lemma="εἰμί" postag="v1piia---" head="114615507" relation="ADV"/>
+    <word id="114615513" form="," div_jebb_page="28" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="114615514" form="συμμέτρῳ" div_jebb_page="28" lemma="σύμμετρος" postag="a-s---fd-" head="114615516" relation="ATR"/>
+    <word id="114615515" form="τῇ" div_jebb_page="28" lemma="ὁ" postag="l-s---fd-" head="114615516" relation="ATR"/>
+    <word id="114615516" form="φωνῇ" div_jebb_page="28" lemma="φωνή" postag="n-s---fd-" head="114615517" relation="ADV"/>
+    <word id="114615517" form="προσείπωμεν" div_jebb_page="28" lemma="προσλέγω" postag="v1pasa---" head="0" relation="PRED"/>
+    <word id="114615518" form="τὸν" div_jebb_page="28" lemma="ὁ" postag="l-s---ma-" head="114615519" relation="ATR"/>
+    <word id="114615519" form="θεόν" div_jebb_page="28" lemma="θεός" postag="n-s---ma-" head="114615517" relation="OBJ"/>
+    <word id="114615520" form="·" div_jebb_page="28" lemma="·" postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="750497" id="4" document_id="0284-004" analysis="auto">
+    <word id="114615521" form="πάντως" div_jebb_page="28" lemma="πάντως" postag="d--------" head="1000274259" relation="ADV"/>
+    <word id="114615522" form="δὲ" div_jebb_page="28" lemma="δέ" postag="c--------" head="1000274259" relation="AuxY"/>
+    <word id="114615523" form="καὶ" div_jebb_page="28" lemma="καί" postag="c--------" head="114615527" relation="AuxY"/>
+    <word id="114615524" form="μήκη" div_jebb_page="28" lemma="μῆκος" postag="n-p---nn-" head="114615527" relation="SBJ_CO"/>
+    <word id="114615525" form="καὶ" div_jebb_page="28" lemma="καί" postag="c--------" head="114615527" relation="AuxY"/>
+    <word id="114615526" form="βραχύτητες" div_jebb_page="28" lemma="βραχύτης" postag="n-p---fn-" head="114615527" relation="SBJ_CO"/>
+    <word id="114615527" form="καὶ" div_jebb_page="28" lemma="καί" postag="c--------" head="1000274259" relation="COORD"/>
+    <word id="114615528" form="ὁτιοῦν" div_jebb_page="28" lemma="ὁστισοῦν" postag="p-s---nn-" head="114615533" relation="ATR"/>
+    <word id="114615529" form="τῶν" div_jebb_page="28" lemma="ὁ" postag="l-p---ng-" head="114615533" relation="ATR"/>
+    <word id="114615530" form="ἐν" div_jebb_page="28" lemma="ἐν" postag="r--------" head="114615529" relation="AuxP"/>
+    <word id="114615531" form="τῇ" div_jebb_page="28" lemma="ὁ" postag="l-s---fd-" head="114615532" relation="ATR"/>
+    <word id="114615532" form="φύσει" div_jebb_page="28" lemma="φύσις" postag="n-s---fd-" head="114615530" relation="ATR"/>
+    <word id="114615533" form="φίλον" div_jebb_page="28" lemma="φίλος" postag="a-s---nn-" head="114615527" relation="SBJ_CO"/>
+    <word id="114615534" form="αὐτῷ" div_jebb_page="28" lemma="αὐτός" postag="p-s---md-" head="114615533" relation="ADV"/>
+    <word id="114615535" form="." div_jebb_page="28" lemma="." postag="u--------" head="0" relation="AuxK"/>
+    <word id="1000274259" form="E" lemma="E" postag="z--------" head="0" relation="PRED" artificial="elliptic" div_jebb_page="28"/>
+  </sentence>
+  <sentence struct_id="750498" id="5" document_id="0284-004" analysis="auto">
+    <word id="114615536" form="καί" div_jebb_page="28" lemma="καί" postag="c--------" head="114615543" relation="AuxY"/>
+    <word id="114615537" form="πως" div_jebb_page="28" lemma="πως" postag="d--------" head="114615543" relation="ADV"/>
+    <word id="114615538" form="καὶ" div_jebb_page="28" lemma="καί" postag="c--------" head="114615543" relation="AuxY"/>
+    <word id="114615539" form="τὰ" div_jebb_page="28" lemma="ὁ" postag="l-p---nn-" head="114615543" relation="SBJ"/>
+    <word id="114615540" form="ἐκ" div_jebb_page="28" lemma="ἐκ" postag="r--------" head="114615539" relation="AuxP"/>
+    <word id="114615541" form="τοῦ" div_jebb_page="28" lemma="ὁ" postag="l-s---ng-" head="114615542" relation="ATR"/>
+    <word id="114615542" form="ὀνείρατος" div_jebb_page="28" lemma="ὄνειρος" postag="n-s---ng-" head="114615540" relation="ATR"/>
+    <word id="114615543" form="συμβαίνει" div_jebb_page="28" lemma="συμβαίνω" postag="v3spia---" head="0" relation="PRED"/>
+    <word id="114615544" form="," div_jebb_page="28" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="114615545" form="τὸ" div_jebb_page="28" lemma="ὁ" postag="l-s---nn-" head="114615546" relation="ATR"/>
+    <word id="114615546" form="δεῖν" div_jebb_page="28" lemma="δέω" postag="v--pna---" head="114615543" relation="SBJ"/>
+    <word id="114615547" form="εἶναι" div_jebb_page="28" lemma="εἰμί" postag="v--pna---" head="114615546" relation="SBJ"/>
+    <word id="114615548" form="πολυμηχάνους" div_jebb_page="28" lemma="πολυμήχανος" postag="a-p---ma-" head="114615547" relation="PNOM"/>
+    <word id="114615549" form="περὶ" div_jebb_page="28" lemma="περί" postag="r--------" head="114615547" relation="AuxP"/>
+    <word id="114615550" form="τοὺς" div_jebb_page="28" lemma="ὁ" postag="l-p---ma-" head="114615551" relation="ATR"/>
+    <word id="114615551" form="λόγους" div_jebb_page="28" lemma="λόγος" postag="n-p---ma-" head="114615549" relation="ADV"/>
+    <word id="114615552" form="." div_jebb_page="28" lemma="." postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="750499" id="6" document_id="0284-004" analysis="auto">
+    <word id="114615553" form="Ζεὺς" div_jebb_page="28" lemma="Ζεύς" postag="n-s---mn-" head="114615555" relation="SBJ"/>
+    <word id="114615554" form="Σεμέλῃ" div_jebb_page="29" lemma="Σεμέλη" postag="n-s---fd-" head="114615555" relation="OBJ"/>
+    <word id="114615555" form="συγγίγνεται" div_jebb_page="29" lemma="συγγίγνομαι" postag="v3spim---" head="0" relation="PRED"/>
+    <word id="114615556" form="·" div_jebb_page="29" lemma="·" postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="750500" id="7" document_id="0284-004" analysis="auto">
+    <word id="114615557" form="καὶ" div_jebb_page="29" lemma="καί" postag="c--------" head="114615591" relation="AuxY"/>
+    <word id="114615558" form="ἐπειδὴ" div_jebb_page="29" lemma="ἐπειδή" postag="c--------" head="114615591" relation="AuxC"/>
+    <word id="114615559" form="ἐκύει" div_jebb_page="29" lemma="κυέω" postag="v3siia---" head="114615558" relation="ADV"/>
+    <word id="114615560" form="ἡ" div_jebb_page="29" lemma="ὁ" postag="l-s---fn-" head="114615561" relation="ATR"/>
+    <word id="114615561" form="Σεμέλη" div_jebb_page="29" lemma="Σεμέλη" postag="n-s---fn-" head="114615559" relation="SBJ"/>
+    <word id="114615562" form="," div_jebb_page="29" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="114615563" form="ὁ" div_jebb_page="29" lemma="ὁ" postag="l-s---mn-" head="114615564" relation="ATR"/>
+    <word id="114615564" form="Ζεὺς" div_jebb_page="29" lemma="Ζεύς" postag="n-s---mn-" head="114615591" relation="SBJ"/>
+    <word id="114615565" form="βουλόμενος" div_jebb_page="29" lemma="βούλομαι" postag="v-sppmmn-" head="114615591" relation="ADV"/>
+    <word id="114615566" form="ἀμφότερα" div_jebb_page="29" lemma="ἀμφότερος" postag="a-p---na-" head="114615570" relation="SBJ"/>
+    <word id="114615567" form="αὐτὸς" div_jebb_page="29" lemma="αὐτός" postag="p-s---mn-" head="114615564" relation="ADV"/>
+    <word id="114615568" form="ᾧ" div_jebb_page="29" lemma="ὅς" postag="p-s---md-" head="114615569" relation="ATR"/>
+    <word id="114615569" form="Διονύσῳ" div_jebb_page="29" lemma="Διόνυσος" postag="n-s---md-" head="114615570" relation="PNOM"/>
+    <word id="114615570" form="γενέσθαι" div_jebb_page="29" lemma="γίγνομαι" postag="v--anm---" head="114615565" relation="OBJ"/>
+    <word id="114615571" form="," div_jebb_page="29" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="114615572" form="πατήρ" div_jebb_page="29" lemma="πατήρ" postag="n-s---mn-" head="114615574" relation="APOS_CO"/>
+    <word id="114615573" form="τε" div_jebb_page="29" lemma="τε" postag="c--------" head="114615574" relation="AuxY"/>
+    <word id="114615574" form="καὶ" div_jebb_page="29" lemma="καί" postag="c--------" head="114615564" relation="COORD"/>
+    <word id="114615575" form="μήτηρ" div_jebb_page="29" lemma="μήτηρ" postag="n-s---fn-" head="114615574" relation="APOS_CO"/>
+    <word id="114615576" form="," div_jebb_page="29" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="114615577" form="τὴν" div_jebb_page="29" lemma="ὁ" postag="l-s---fa-" head="114615579" relation="ATR"/>
+    <word id="114615578" form="μὲν" div_jebb_page="29" lemma="μέν" postag="g--------" head="114615591" relation="AuxY"/>
+    <word id="114615579" form="Σεμέλην" div_jebb_page="29" lemma="Σεμέλη" postag="n-s---fa-" head="114615586" relation="OBJ"/>
+    <word id="114615580" form="ἐκ" div_jebb_page="29" lemma="ἐκ" postag="r--------" head="114615586" relation="AuxP"/>
+    <word id="114615581" form="τῆς" div_jebb_page="29" lemma="ὁ" postag="l-s---fg-" head="114615582" relation="ATR"/>
+    <word id="114615582" form="γῆς" div_jebb_page="29" lemma="γῆ" postag="n-s---fg-" head="114615580" relation="ADV"/>
+    <word id="114615583" form="εἰς" div_jebb_page="29" lemma="εἰς" postag="r--------" head="114615586" relation="AuxP"/>
+    <word id="114615584" form="τὸν" div_jebb_page="29" lemma="ὁ" postag="l-s---ma-" head="114615585" relation="ATR"/>
+    <word id="114615585" form="Ὄλυμπον" div_jebb_page="29" lemma="Ὄλυμπος" postag="n-s---ma-" head="114615583" relation="OBJ"/>
+    <word id="114615586" form="κομίζει" div_jebb_page="29" lemma="κομίζω" postag="v3spia---" head="114615591" relation="PRED_CO"/>
+    <word id="114615587" form="διὰ" div_jebb_page="29" lemma="διά" postag="r--------" head="114615586" relation="AuxP"/>
+    <word id="114615588" form="πυρὸς" div_jebb_page="29" lemma="πῦρ" postag="n-s---ng-" head="114615587" relation="ADV"/>
+    <word id="114615589" form="," div_jebb_page="29" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="114615590" form="αὐτὸς" div_jebb_page="29" lemma="αὐτός" postag="p-s---mn-" head="114615599" relation="ADV"/>
+    <word id="114615591" form="δὲ" div_jebb_page="29" lemma="δέ" postag="c--------" head="0" relation="COORD"/>
+    <word id="114615592" form="ἀναλαβὼν" div_jebb_page="29" lemma="ἀναλαμβάνω" postag="v-sapamn-" head="114615599" relation="ADV"/>
+    <word id="114615593" form="τὰς" div_jebb_page="29" lemma="ὁ" postag="l-p---fa-" head="114615595" relation="ATR"/>
+    <word id="114615594" form="αὑτοῦ" div_jebb_page="29" lemma="ἑαυτοῦ" postag="p-s---mg-" head="114615595" relation="ATR"/>
+    <word id="114615595" form="γονὰς" div_jebb_page="29" lemma="γονή" postag="n-p---fa-" head="114615592" relation="OBJ"/>
+    <word id="114615596" form="ἐρραψάμενος" div_jebb_page="29" lemma="ἐνράπτω" postag="v-sapmmn-" head="114615599" relation="ADV"/>
+    <word id="114615597" form="τῷ" div_jebb_page="29" lemma="ὁ" postag="l-s---md-" head="114615598" relation="ATR"/>
+    <word id="114615598" form="μηρῷ" div_jebb_page="29" lemma="μηρός" postag="n-s---md-" head="114615596" relation="OBJ"/>
+    <word id="114615599" form="ἐφόρει" div_jebb_page="29" lemma="φορέω" postag="v3siia---" head="114615591" relation="PRED_CO"/>
+    <word id="114615600" form="δέκα" div_jebb_page="29" lemma="δέκα" postag="m--------" head="114615601" relation="ATR"/>
+    <word id="114615601" form="μῆνας" div_jebb_page="29" lemma="μείς" postag="n-p---ma-" head="114615599" relation="ADV"/>
+    <word id="114615602" form="ἐξ" div_jebb_page="29" lemma="ἐκ" postag="r--------" head="114615599" relation="AuxP"/>
+    <word id="114615603" form="ἀρχῆς" div_jebb_page="29" lemma="ἀρχή" postag="n-s---fg-" head="114615602" relation="ADV"/>
+    <word id="114615604" form="," div_jebb_page="29" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="114615605" form="δίαιταν" div_jebb_page="29" lemma="δίαιτα" postag="n-s---fa-" head="114615606" relation="OBJ"/>
+    <word id="114615606" form="ἔχων" div_jebb_page="29" lemma="ἔχω" postag="v-sppamn-" head="114615599" relation="ADV"/>
+    <word id="114615607" form="ἐν" div_jebb_page="29" lemma="ἐν" postag="r--------" head="114615606" relation="AuxP"/>
+    <word id="114615608" form="Νύσῃ" div_jebb_page="29" lemma="Νῦσα" postag="n-s---fd-" head="114615607" relation="ADV"/>
+    <word id="114615609" form="τῇ" div_jebb_page="29" lemma="ὁ" postag="l-s---fd-" head="114615608" relation="ATR"/>
+    <word id="114615610" form="ὑπὲρ" div_jebb_page="29" lemma="ὑπέρ" postag="r--------" head="114615608" relation="AuxP"/>
+    <word id="114615611" form="Αἰθιοπίας" div_jebb_page="29" lemma="Αἰθιοπία" postag="n-s---fg-" head="114615610" relation="ATR"/>
+    <word id="114615612" form="." div_jebb_page="29" lemma="." postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="750501" id="8" document_id="0284-004" analysis="auto">
+    <word id="114615613" form="καὶ" div_jebb_page="29" lemma="καί" postag="c--------" head="114615621" relation="AuxZ"/>
+    <word id="114615614" form="ἐπειδὴ" div_jebb_page="29" lemma="ἐπειδή" postag="c--------" head="114615621" relation="AuxC"/>
+    <word id="114615615" form="ὡραῖον" div_jebb_page="29" lemma="ὡραῖος" postag="a-s---nn-" head="114615616" relation="PNOM"/>
+    <word id="114615616" form="ἦν" div_jebb_page="29" lemma="εἰμί" postag="v3siia---" head="114615614" relation="ADV"/>
+    <word id="114615617" form="," div_jebb_page="29" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="114615618" form="καλέσας" div_jebb_page="29" lemma="καλέω" postag="v-sapamn-" head="114615621" relation="ADV"/>
+    <word id="114615619" form="τὰς" div_jebb_page="29" lemma="ὁ" postag="l-p---fa-" head="114615620" relation="ATR"/>
+    <word id="114615620" form="Νύμφας" div_jebb_page="29" lemma="Νύμφη" postag="n-p---fa-" head="114615618" relation="OBJ"/>
+    <word id="114615621" form="λύει" div_jebb_page="29" lemma="λύω" postag="v3spia---" head="114615625" relation="PRED_CO"/>
+    <word id="114615622" form="τὸ" div_jebb_page="29" lemma="ὁ" postag="l-s---na-" head="114615623" relation="ATR"/>
+    <word id="114615623" form="ῥάμμα" div_jebb_page="29" lemma="ῥάμμα" postag="n-s---na-" head="114615621" relation="OBJ"/>
+    <word id="114615624" form="," div_jebb_page="29" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="114615625" form="καὶ" div_jebb_page="29" lemma="καί" postag="c--------" head="0" relation="COORD"/>
+    <word id="114615626" form="γίγνεται" div_jebb_page="29" lemma="γίγνομαι" postag="v3spim---" head="114615625" relation="PRED_CO"/>
+    <word id="114615627" form="δὴ" div_jebb_page="29" lemma="δή" postag="g--------" head="114615626" relation="AuxY"/>
+    <word id="114615628" form="οὕτως" div_jebb_page="29" lemma="οὕτως" postag="d--------" head="114615626" relation="ADV"/>
+    <word id="114615629" form="ὁ" div_jebb_page="29" lemma="ὁ" postag="l-s---mn-" head="114615630" relation="ATR"/>
+    <word id="114615630" form="Διόνυσος" div_jebb_page="29" lemma="Διόνυσος" postag="n-s---mn-" head="114615626" relation="SBJ"/>
+    <word id="114615631" form="διχόθεν" div_jebb_page="29" lemma="διχόθεν" postag="d--------" head="114615632" relation="ADV"/>
+    <word id="114615632" form="προσήκων" div_jebb_page="29" lemma="προσήκω" postag="v-sppamn-" head="114615626" relation="ADV"/>
+    <word id="114615633" form="τῷ" div_jebb_page="29" lemma="ὁ" postag="l-s---md-" head="114615634" relation="ATR"/>
+    <word id="114615634" form="πατρί" div_jebb_page="29" lemma="πατήρ" postag="n-s---md-" head="114615632" relation="OBJ"/>
+    <word id="114615635" form="." div_jebb_page="29" lemma="." postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="750502" id="9" document_id="0284-004" analysis="auto">
+    <word id="114615636" form="οὕτω" div_jebb_page="29" lemma="οὕτως" postag="d--------" head="114615643" relation="ADV"/>
+    <word id="114615637" form="δή" div_jebb_page="29" lemma="δή" postag="g--------" head="114615643" relation="AuxY"/>
+    <word id="114615638" form="τι" div_jebb_page="29" lemma="τις" postag="p-s---na-" head="114615643" relation="ADV"/>
+    <word id="114615639" form="διαφερόντως" div_jebb_page="29" lemma="διαφερόντως" postag="d--------" head="114615643" relation="ADV"/>
+    <word id="114615640" form="αὐτὸν" div_jebb_page="29" lemma="αὐτός" postag="p-s---ma-" head="114615643" relation="OBJ"/>
+    <word id="114615641" form="ὁ" div_jebb_page="29" lemma="ὁ" postag="l-s---mn-" head="114615642" relation="ATR"/>
+    <word id="114615642" form="Ζεὺς" div_jebb_page="29" lemma="Ζεύς" postag="n-s---mn-" head="114615643" relation="SBJ"/>
+    <word id="114615643" form="ἐτίμησε" div_jebb_page="29" lemma="τιμάω" postag="v3saia---" head="0" relation="PRED"/>
+    <word id="114615644" form="παρὰ" div_jebb_page="29" lemma="παρά" postag="r--------" head="114615643" relation="AuxP"/>
+    <word id="114615645" form="πάντας" div_jebb_page="29" lemma="πᾶς" postag="p-p---ma-" head="114615646" relation="ATR"/>
+    <word id="114615646" form="θεούς" div_jebb_page="29" lemma="θεός" postag="n-p---ma-" head="114615648" relation="OBJ_CO"/>
+    <word id="114615647" form="τε" div_jebb_page="29" lemma="τε" postag="c--------" head="114615648" relation="AuxY"/>
+    <word id="114615648" form="καὶ" div_jebb_page="29" lemma="καί" postag="c--------" head="114615644" relation="COORD"/>
+    <word id="114615649" form="ἀνθρώπους" div_jebb_page="29" lemma="ἄνθρωπος" postag="n-p---ma-" head="114615648" relation="OBJ_CO"/>
+    <word id="114615650" form="." div_jebb_page="29" lemma="." postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="750503" id="10" document_id="0284-004" analysis="auto">
+    <word id="114615651" form="οὔ" div_jebb_page="29" lemma="οὐ" postag="d--------" head="114615659" relation="AuxZ"/>
+    <word id="114615652" form="-τε" div_jebb_page="29" lemma="τε" postag="c--------" head="114615661" relation="AuxY"/>
+    <word id="114615653" form="γὰρ" div_jebb_page="29" lemma="γάρ" postag="g--------" head="114615661" relation="AuxY"/>
+    <word id="114615654" form="αὐτὸς" div_jebb_page="29" lemma="αὐτός" postag="p-s---mn-" head="114615659" relation="SBJ"/>
+    <word id="114615655" form="ἄλλῳ" div_jebb_page="29" lemma="ἄλλος" postag="p-s---md-" head="114615656" relation="ATR"/>
+    <word id="114615656" form="τῳ" div_jebb_page="29" lemma="τις" postag="p-s---cd-" head="114615659" relation="OBJ"/>
+    <word id="114615657" form="ταῦτα" div_jebb_page="29" lemma="οὗτος" postag="p-p---nn-" head="114615659" relation="SBJ"/>
+    <word id="114615658" form="ἄμφω" div_jebb_page="29" lemma="ἄμφω" postag="p-d---nn-" head="114615657" relation="ATR"/>
+    <word id="114615659" form="κατέστη" div_jebb_page="29" lemma="καθίστημι" postag="v3saia---" head="114615661" relation="PRED_CO"/>
+    <word id="114615660" form="οὔ" div_jebb_page="29" lemma="οὐ" postag="d--------" head="114615662" relation="AuxZ"/>
+    <word id="114615661" form="-τε" div_jebb_page="29" lemma="τε" postag="c--------" head="0" relation="COORD"/>
+    <word id="114615662" form="ἄλλος" div_jebb_page="29" lemma="ἄλλος" postag="p-s---mn-" head="1000274260" relation="SBJ"/>
+    <word id="114615663" form="ἄλλῳ" div_jebb_page="29" lemma="ἄλλος" postag="p-s---md-" head="114615664" relation="ATR"/>
+    <word id="114615664" form="τῳ" div_jebb_page="29" lemma="τις" postag="p-s---cd-" head="114615656" relation="CO"/>
+    <word id="114615665" form="." div_jebb_page="29" lemma="." postag="u--------" head="0" relation="AuxK"/>
+    <word id="1000274260" form="E" lemma="E" postag="z--------" head="114615661" relation="PRED_CO" artificial="elliptic" div_jebb_page="29"/>
+  </sentence>
+  <sentence struct_id="750504" id="11" document_id="0284-004" analysis="auto">
+    <word id="114615666" form="ταῦτ’" div_jebb_page="29" lemma="οὗτος" postag="p-p---na-" head="1000274261" relation="OBJ"/>
+    <word id="114615667" form="ἄρα" div_jebb_page="29" lemma="ἄρα" postag="g--------" head="1000274261" relation="AuxY"/>
+    <word id="114615668" form="καὶ" div_jebb_page="29" lemma="καί" postag="c--------" head="114615670" relation="AuxY"/>
+    <word id="114615669" form="ἄρρην" div_jebb_page="29" lemma="ἄρσην" postag="a-s---mn-" head="114615671" relation="PNOM_CO"/>
+    <word id="114615670" form="τε" div_jebb_page="29" lemma="τε" postag="c--------" head="114615671" relation="AuxY"/>
+    <word id="114615671" form="καὶ" div_jebb_page="29" lemma="καί" postag="c--------" head="1000274261" relation="COORD"/>
+    <word id="114615672" form="θῆλυς" div_jebb_page="29" lemma="θῆλυς" postag="a-s---mn-" head="114615671" relation="PNOM_CO"/>
+    <word id="114615673" form="ὁ" div_jebb_page="29" lemma="ὁ" postag="l-s---mn-" head="114615674" relation="ATR"/>
+    <word id="114615674" form="θεὸς" div_jebb_page="29" lemma="θεός" postag="n-s---mn-" head="114615676" relation="SBJ"/>
+    <word id="114615675" form="," div_jebb_page="29" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="114615676" form="φασὶν" div_jebb_page="29" lemma="φημί" postag="v3ppia---" head="0" relation="PRED"/>
+    <word id="114615677" form="," div_jebb_page="29" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="114615678" form="ὅτι" div_jebb_page="29" lemma="ὅτι" postag="c--------" head="114615676" relation="AuxC"/>
+    <word id="114615679" form="αὐτῷ" div_jebb_page="29" lemma="αὐτός" postag="p-s---md-" head="114615686" relation="OBJ"/>
+    <word id="114615680" form="καὶ" div_jebb_page="29" lemma="καί" postag="c--------" head="114615682" relation="AuxZ"/>
+    <word id="114615681" form="ὁ" div_jebb_page="29" lemma="ὁ" postag="l-s---mn-" head="114615682" relation="ATR"/>
+    <word id="114615682" form="πατὴρ" div_jebb_page="29" lemma="πατήρ" postag="n-s---mn-" head="114615686" relation="SBJ"/>
+    <word id="114615683" form="ἑκατέρας" div_jebb_page="29" lemma="ἑκάτερος" postag="p-s---fg-" head="114615685" relation="ATR"/>
+    <word id="114615684" form="τῆς" div_jebb_page="29" lemma="ὁ" postag="l-s---fg-" head="114615685" relation="ATR"/>
+    <word id="114615685" form="φύσεως" div_jebb_page="29" lemma="φύσις" postag="n-s---fg-" head="114615682" relation="ATR"/>
+    <word id="114615686" form="μετέσχεν" div_jebb_page="29" lemma="μετέχω" postag="v3saia---" head="114615678" relation="OBJ"/>
+    <word id="114615687" form="εἰς" div_jebb_page="29" lemma="εἰς" postag="r--------" head="114615686" relation="AuxP"/>
+    <word id="114615688" form="αὐτόν" div_jebb_page="29" lemma="αὐτός" postag="p-s---ma-" head="114615687" relation="OBJ"/>
+    <word id="114615689" form="." div_jebb_page="29" lemma="." postag="u--------" head="0" relation="AuxK"/>
+    <word id="1000274261" form="E" lemma="E" postag="z--------" head="114615689" relation="UNLINKED" artificial="elliptic" div_jebb_page="29"/>
+  </sentence>
+  <sentence struct_id="750505" id="12" document_id="0284-004" analysis="auto">
+    <word id="114615690" form="ἤδη" div_jebb_page="29" lemma="ἤδη" postag="d--------" head="114615693" relation="ADV"/>
+    <word id="114615691" form="δέ" div_jebb_page="29" lemma="δέ" postag="c--------" head="114615693" relation="AuxY"/>
+    <word id="114615692" form="τινων" div_jebb_page="29" lemma="τις" postag="p-p---cg-" head="114615693" relation="OBJ"/>
+    <word id="114615693" form="ἤκουσα" div_jebb_page="29" lemma="ἀκούω" postag="v1saia---" head="0" relation="PRED"/>
+    <word id="114615694" form="καὶ" div_jebb_page="29" lemma="καί" postag="c--------" head="114615696" relation="AuxZ"/>
+    <word id="114615695" form="ἕτερον" div_jebb_page="29" lemma="ἕτερος" postag="p-s---ma-" head="114615696" relation="ATR"/>
+    <word id="114615696" form="λόγον" div_jebb_page="29" lemma="λόγος" postag="n-s---ma-" head="114615693" relation="OBJ"/>
+    <word id="114615697" form="ὑπὲρ" div_jebb_page="29" lemma="ὑπέρ" postag="r--------" head="114615693" relation="AuxP"/>
+    <word id="114615698" form="τούτων" div_jebb_page="29" lemma="οὗτος" postag="p-p---ng-" head="114615697" relation="ADV"/>
+    <word id="114615699" form="ὅτι" div_jebb_page="29" lemma="ὅτι" postag="c--------" head="114615696" relation="AuxC"/>
+    <word id="114615700" form="αὐτὸς" div_jebb_page="29" lemma="αὐτός" postag="p-s---mn-" head="114615702" relation="ATR"/>
+    <word id="114615701" form="ὁ" div_jebb_page="29" lemma="ὁ" postag="l-s---mn-" head="114615702" relation="ATR"/>
+    <word id="114615702" form="Ζεὺς" div_jebb_page="29" lemma="Ζεύς" postag="n-s---mn-" head="114615703" relation="SBJ"/>
+    <word id="114615703" form="εἴη" div_jebb_page="29" lemma="εἰμί" postag="v3spoa---" head="114615699" relation="OBJ"/>
+    <word id="114615704" form="ὁ" div_jebb_page="29" lemma="ὁ" postag="l-s---mn-" head="114615705" relation="ATR"/>
+    <word id="114615705" form="Διόνυσος" div_jebb_page="29" lemma="Διόνυσος" postag="n-s---mn-" head="114615703" relation="PNOM"/>
+    <word id="114615706" form="." div_jebb_page="29" lemma="." postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="750506" id="13" document_id="0284-004" analysis="auto">
+    <word id="114615707" form="καὶ" div_jebb_page="29" lemma="καί" postag="c--------" head="114615710" relation="AuxY"/>
+    <word id="114615708" form="τί" div_jebb_page="29" lemma="τίς" postag="p-s---na-" head="114615710" relation="OBJ"/>
+    <word id="114615709" form="ἂν" div_jebb_page="29" lemma="ἄν" postag="g--------" head="114615710" relation="AuxY"/>
+    <word id="114615710" form="εἴποις" div_jebb_page="29" lemma="λέγω" postag="v2saoa---" head="0" relation="PRED"/>
+    <word id="114615711" form="ὑπὲρ" div_jebb_page="29" lemma="ὑπέρ" postag="r--------" head="114615710" relation="AuxP"/>
+    <word id="114615712" form="τοῦτο" div_jebb_page="29" lemma="οὗτος" postag="p-s---na-" head="114615711" relation="ADV"/>
+    <word id="114615713" form=";" div_jebb_page="29" lemma=";" postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="750507" id="14" document_id="0284-004" analysis="auto">
+    <word id="114615714" form="ἔστι" div_jebb_page="29" lemma="εἰμί" postag="v3spia---" head="0" relation="PRED"/>
+    <word id="114615715" form="δὲ" div_jebb_page="29" lemma="δέ" postag="c--------" head="114615714" relation="AuxY"/>
+    <word id="114615716" form="τῇ" div_jebb_page="29" lemma="ὁ" postag="l-s---fd-" head="114615717" relation="ATR"/>
+    <word id="114615717" form="φύσει" div_jebb_page="29" lemma="φύσις" postag="n-s---fd-" head="114615714" relation="ADV"/>
+    <word id="114615718" form="καὶ" div_jebb_page="29" lemma="καί" postag="c--------" head="114615720" relation="AuxZ"/>
+    <word id="114615719" form="τὴν" div_jebb_page="29" lemma="ὁ" postag="l-s---fa-" head="114615720" relation="ATR"/>
+    <word id="114615720" form="μορφὴν" div_jebb_page="29" lemma="μορφή" postag="n-s---fa-" head="114615721" relation="OBJ"/>
+    <word id="114615721" form="προσεοικώς" div_jebb_page="29" lemma="προσέοικα" postag="v-srpamn-" head="114615714" relation="PNOM"/>
+    <word id="114615722" form="." div_jebb_page="29" lemma="." postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="750508" id="15" document_id="0284-004" analysis="auto">
+    <word id="114615723" form="ὥσπερ" div_jebb_page="29" lemma="ὥσπερ" postag="c--------" head="114615730" relation="AuxC"/>
+    <word id="114615724" form="γὰρ" div_jebb_page="29" lemma="γάρ" postag="g--------" head="114615730" relation="AuxY"/>
+    <word id="114615725" form="δίδυμος" div_jebb_page="29" lemma="δίδυμος" postag="a-s---mn-" head="114615730" relation="PNOM"/>
+    <word id="114615726" form="πάντη" div_jebb_page="29" lemma="πάντῃ" postag="d--------" head="114615730" relation="ADV"/>
+    <word id="114615727" form="αὐτὸς" div_jebb_page="29" lemma="αὐτός" postag="p-s---mn-" head="114615730" relation="SBJ"/>
+    <word id="114615728" form="πρὸς" div_jebb_page="29" lemma="πρός" postag="r--------" head="114615730" relation="AuxP"/>
+    <word id="114615729" form="ἑαυτόν" div_jebb_page="29" lemma="ἑαυτοῦ" postag="p-s---ma-" head="114615728" relation="ADV"/>
+    <word id="114615730" form="ἐστι" div_jebb_page="29" lemma="εἰμί" postag="v3spia---" head="0" relation="PRED"/>
+    <word id="114615731" form="." div_jebb_page="29" lemma="." postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="750509" id="16" document_id="0284-004" analysis="auto">
+    <word id="114615732" form="καὶ" div_jebb_page="29" lemma="καί" postag="c--------" head="1000274262" relation="AuxY"/>
+    <word id="114615733" form="γὰρ" div_jebb_page="29" lemma="γάρ" postag="g--------" head="1000274262" relation="AuxY"/>
+    <word id="114615734" form="ἐν" div_jebb_page="29" lemma="ἐν" postag="r--------" head="114615736" relation="AuxP"/>
+    <word id="114615735" form="ᾐθέοις" div_jebb_page="29" lemma="ἠίθεος" postag="n-p---md-" head="114615734" relation="ADV_CO"/>
+    <word id="114615736" form="καὶ" div_jebb_page="29" lemma="καί" postag="c--------" head="1000274262" relation="COORD"/>
+    <word id="114615737" form="ἐν" div_jebb_page="29" lemma="ἐν" postag="r--------" head="114615736" relation="AuxP"/>
+    <word id="114615738" form="κόραις" div_jebb_page="29" lemma="κόρη" postag="n-p---fd-" head="114615737" relation="ADV_CO"/>
+    <word id="114615739" form="καὶ" div_jebb_page="29" lemma="καί" postag="c--------" head="114615745" relation="AuxY"/>
+    <word id="114615740" form="αὖ" div_jebb_page="29" lemma="αὖ" postag="d--------" head="1000274262" relation="ADV"/>
+    <word id="114615741" form="ὡς" div_jebb_page="29" lemma="ὡς" postag="c--------" head="114615738" relation="AuxC"/>
+    <word id="114615742" form="ἐν" div_jebb_page="29" lemma="ἐν" postag="r--------" head="1000274262" relation="AuxP"/>
+    <word id="114615743" form="ἄρρεσιν" div_jebb_page="29" lemma="ἄρσην" postag="n-p---nd-" head="114615742" relation="ADV"/>
+    <word id="114615744" form="ἀγένειός" div_jebb_page="29" lemma="ἀγένειος" postag="a-s---mn-" head="114615746" relation="PNOM_CO"/>
+    <word id="114615745" form="τε" div_jebb_page="29" lemma="τε" postag="c--------" head="114615746" relation="AuxY"/>
+    <word id="114615746" form="καὶ" div_jebb_page="29" lemma="καί" postag="c--------" head="1000274262" relation="COORD"/>
+    <word id="114615747" form="Βρισεὺς" div_jebb_page="29" lemma="Βρισεύς" postag="n-s---mn-" head="114615746" relation="PNOM_CO"/>
+    <word id="114615748" form="," div_jebb_page="29" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="114615749" form="καὶ" div_jebb_page="29" lemma="καί" postag="c--------" head="114615751" relation="AuxY"/>
+    <word id="114615750" form="πολεμικός" div_jebb_page="29" lemma="πολεμικός" postag="a-s---mn-" head="114615753" relation="PNOM_CO"/>
+    <word id="114615751" form="τε" div_jebb_page="29" lemma="τε" postag="c--------" head="114615753" relation="AuxY"/>
+    <word id="114615752" form="δὴ" div_jebb_page="29" lemma="δή" postag="g--------" head="114615753" relation="AuxY"/>
+    <word id="114615753" form="καὶ" div_jebb_page="29" lemma="καί" postag="c--------" head="1000274262" relation="COORD"/>
+    <word id="114615754" form="εἰρηναῖος" div_jebb_page="29" lemma="εἰρηναῖος" postag="a-s---mn-" head="114615753" relation="PNOM_CO"/>
+    <word id="114615755" form="διαφερόντως" div_jebb_page="29" lemma="διαφερόντως" postag="d--------" head="114615754" relation="ADV"/>
+    <word id="114615756" form="θεῶν" div_jebb_page="29" lemma="θεός" postag="n-p---mg-" head="114615754" relation="ATR"/>
+    <word id="114615757" form="." div_jebb_page="29" lemma="." postag="u--------" head="0" relation="AuxK"/>
+    <word id="1000274262" form="E" lemma="E" postag="z--------" head="0" relation="PRED" artificial="elliptic" div_jebb_page="29"/>
+  </sentence>
+  <sentence struct_id="750510" id="17" document_id="0284-004" analysis="auto">
+    <word id="114615758" form="διδόασι" div_jebb_page="29" lemma="δίδωμι" postag="v3ppia---" head="0" relation="PRED"/>
+    <word id="114615759" form="δ’" div_jebb_page="29" lemma="δέ" postag="c--------" head="114615758" relation="AuxY"/>
+    <word id="114615760" form="αὐτῷ" div_jebb_page="29" lemma="αὐτός" postag="p-s---md-" head="114615758" relation="OBJ"/>
+    <word id="114615761" form="καὶ" div_jebb_page="29" lemma="καί" postag="c--------" head="114615763" relation="AuxZ"/>
+    <word id="114615762" form="τὸν" div_jebb_page="29" lemma="ὁ" postag="l-s---ma-" head="114615763" relation="ATR"/>
+    <word id="114615763" form="Πᾶνα" div_jebb_page="29" lemma="Πάν" postag="n-s---ma-" head="114615758" relation="OBJ"/>
+    <word id="114615764" form="χορευτὴν" div_jebb_page="29" lemma="χορευτής" postag="n-s---ma-" head="114615758" relation="OBJ"/>
+    <word id="114615765" form="τελεώτατον" div_jebb_page="29" lemma="τέλειος" postag="a-s---mas" head="114615767" relation="PNOM"/>
+    <word id="114615766" form="θεῶν" div_jebb_page="29" lemma="θεός" postag="n-p---mg-" head="114615765" relation="ADV"/>
+    <word id="114615767" form="ὄντα" div_jebb_page="29" lemma="εἰμί" postag="v-sppama-" head="114615764" relation="ATR"/>
+    <word id="114615768" form="," div_jebb_page="29" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="114615769" form="ὡς" div_jebb_page="29" lemma="ὡς" postag="c--------" head="114615758" relation="AuxC"/>
+    <word id="114615770" form="Πίνδαρός" div_jebb_page="29" lemma="Πίνδαρος" postag="n-s---mn-" head="114615772" relation="SBJ"/>
+    <word id="114615771" form="τε" div_jebb_page="29" lemma="τε" postag="c--------" head="114615773" relation="AuxY"/>
+    <word id="114615772" form="ὑμνεῖ" div_jebb_page="29" lemma="ὑμνέω" postag="v3spia---" head="114615773" relation="ADV_CO"/>
+    <word id="114615773" form="καὶ" div_jebb_page="29" lemma="καί" postag="c--------" head="114615769" relation="COORD"/>
+    <word id="114615774" form="οἱ" div_jebb_page="29" lemma="ὁ" postag="l-p---mn-" head="114615777" relation="ATR"/>
+    <word id="114615775" form="κατ’" div_jebb_page="29" lemma="κατά" postag="r--------" head="114615777" relation="AuxP"/>
+    <word id="114615776" form="Αἴγυπτον" div_jebb_page="29" lemma="Αἴγυπτος" postag="n-s---fa-" head="114615775" relation="ATR"/>
+    <word id="114615777" form="ἱερεῖς" div_jebb_page="29" lemma="ἱερεύς" postag="n-p---mn-" head="114615778" relation="SBJ"/>
+    <word id="114615778" form="κατέμαθον" div_jebb_page="29" lemma="καταμανθάνω" postag="v3paia---" head="114615773" relation="ADV_CO"/>
+    <word id="114615779" form="." div_jebb_page="29" lemma="." postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="750511" id="18" document_id="0284-004" analysis="auto">
+    <word id="114615780" form="καὶ" div_jebb_page="29" lemma="καί" postag="c--------" head="114615785" relation="AuxY"/>
+    <word id="114615781" form="μὴν" div_jebb_page="29" lemma="μήν" postag="g--------" head="114615785" relation="AuxY"/>
+    <word id="114615782" form="καὶ" div_jebb_page="29" lemma="καί" postag="c--------" head="114615784" relation="AuxZ"/>
+    <word id="114615783" form="τὴν" div_jebb_page="29" lemma="ὁ" postag="l-s---fa-" head="114615784" relation="ATR"/>
+    <word id="114615784" form="Ἥραν" div_jebb_page="29" lemma="Ἥρα" postag="n-s---fa-" head="114615785" relation="OBJ"/>
+    <word id="114615785" form="λέγουσιν" div_jebb_page="29" lemma="λέγω" postag="v3ppia---" head="0" relation="PRED"/>
+    <word id="114615786" form="ὡς" div_jebb_page="29" lemma="ὡς" postag="c--------" head="114615785" relation="AuxC"/>
+    <word id="114615787" form="μόνος" div_jebb_page="29" lemma="μόνος" postag="a-s---mn-" head="114615791" relation="ADV"/>
+    <word id="114615788" form="θεῶν" div_jebb_page="29" lemma="θεός" postag="n-p---mg-" head="114615787" relation="ATR"/>
+    <word id="114615789" form="τῷ" div_jebb_page="29" lemma="ὁ" postag="l-s---md-" head="114615790" relation="ATR"/>
+    <word id="114615790" form="υἱεῖ" div_jebb_page="29" lemma="υἱός" postag="n-s---md-" head="114615791" relation="OBJ"/>
+    <word id="114615791" form="διήλλαξε" div_jebb_page="29" lemma="διαλλάσσω" postag="v3saia---" head="114615786" relation="OBJ"/>
+    <word id="114615792" form="κομίσας" div_jebb_page="29" lemma="κομίζω" postag="v-sapamn-" head="114615791" relation="ADV"/>
+    <word id="114615793" form="τὸν" div_jebb_page="29" lemma="ὁ" postag="l-s---ma-" head="114615794" relation="ATR"/>
+    <word id="114615794" form="Ἥφαιστον" div_jebb_page="29" lemma="Ἥφαιστος" postag="n-s---ma-" head="114615792" relation="OBJ"/>
+    <word id="114615795" form="ἄκοντα" div_jebb_page="29" lemma="ἄκων" postag="a-s---ma-" head="114615794" relation="ATR"/>
+    <word id="114615796" form="εἰς" div_jebb_page="29" lemma="εἰς" postag="r--------" head="114615792" relation="AuxP"/>
+    <word id="114615797" form="τὸν" div_jebb_page="29" lemma="ὁ" postag="l-s---ma-" head="114615798" relation="ATR"/>
+    <word id="114615798" form="οὐρανὸν" div_jebb_page="29" lemma="οὐρανός" postag="n-s---ma-" head="114615796" relation="OBJ"/>
+    <word id="114615799" form="," div_jebb_page="29" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="114615800" form="καὶ" div_jebb_page="29" lemma="καί" postag="c--------" head="114615803" relation="AuxY"/>
+    <word id="114615801" form="ταῦτά" div_jebb_page="29" lemma="οὗτος" postag="p-p---na-" head="114615803" relation="OBJ"/>
+    <word id="114615802" form="γε" div_jebb_page="29" lemma="γε" postag="g--------" head="114615801" relation="AuxZ"/>
+    <word id="114615803" form="ἀναθεὶς" div_jebb_page="29" lemma="ἀνατίθημι" postag="v-sapamn-" head="114615791" relation="ADV"/>
+    <word id="114615804" form="ὄνῳ" div_jebb_page="29" lemma="ὄνος" postag="n-s---md-" head="114615803" relation="OBJ"/>
+    <word id="114615805" form="." div_jebb_page="29" lemma="." postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="750512" id="19" document_id="0284-004" analysis="auto">
+    <word id="114615806" form="καὶ" div_jebb_page="29" lemma="καί" postag="c--------" head="114615835" relation="AuxY"/>
+    <word id="114615807" form="ὡς" div_jebb_page="29" lemma="ὡς" postag="c--------" head="1000274263" relation="AuxC"/>
+    <word id="114615808" form="μὲν" div_jebb_page="29" lemma="μέν" postag="g--------" head="114615817" relation="AuxY"/>
+    <word id="114615809" form="αἴνιγμά" div_jebb_page="29" lemma="αἴνιγμα" postag="n-s---nn-" head="114615810" relation="SBJ"/>
+    <word id="114615810" form="ἐστιν" div_jebb_page="29" lemma="εἰμί" postag="v3spia---" head="114615807" relation="ADV"/>
+    <word id="114615811" form="ἐν" div_jebb_page="29" lemma="ἐν" postag="r--------" head="114615810" relation="AuxP"/>
+    <word id="114615812" form="τῷ" div_jebb_page="29" lemma="ὁ" postag="l-s---md-" head="114615813" relation="ATR"/>
+    <word id="114615813" form="λόγῳ" div_jebb_page="29" lemma="λόγος" postag="n-s---md-" head="114615811" relation="ADV"/>
+    <word id="114615814" form="δῆλον" div_jebb_page="29" lemma="δῆλος" postag="a-s---nn-" head="114615810" relation="PNOM"/>
+    <word id="114615815" form="," div_jebb_page="29" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="114615816" form="δῆλον" div_jebb_page="29" lemma="δῆλος" postag="a-s---nn-" head="1000274263" relation="PNOM"/>
+    <word id="114615817" form="δὲ" div_jebb_page="29" lemma="δέ" postag="c--------" head="114615835" relation="AuxY"/>
+    <word id="114615818" form="καὶ" div_jebb_page="29" lemma="καί" postag="c--------" head="114615819" relation="AuxZ"/>
+    <word id="114615819" form="οἷ" div_jebb_page="29" lemma="οἷ" postag="d--------" head="114615820" relation="ADV"/>
+    <word id="114615820" form="τελευτᾷ" div_jebb_page="29" lemma="τελευτάω" postag="v3spia---" head="1000274264" relation="ADV"/>
+    <word id="114615821" form="τὸ" div_jebb_page="29" lemma="ὁ" postag="l-s---nn-" head="114615822" relation="ATR"/>
+    <word id="114615822" form="αἴνιγμα" div_jebb_page="29" lemma="αἴνιγμα" postag="n-s---nn-" head="114615820" relation="SBJ"/>
+    <word id="114615823" form="," div_jebb_page="29" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="114615824" form="ὡς" div_jebb_page="29" lemma="ὡς" postag="c--------" head="114615820" relation="AuxC"/>
+    <word id="114615825" form="ἄρα" div_jebb_page="29" lemma="ἄρα" postag="g--------" head="1000274263" relation="AuxY"/>
+    <word id="114615826" form="πολλή" div_jebb_page="29" lemma="πολύς" postag="a-s---fn-" head="114615828" relation="ATR_CO"/>
+    <word id="114615827" form="τις" div_jebb_page="29" lemma="τις" postag="p-s---cn-" head="1000274263" relation="SBJ"/>
+    <word id="114615828" form="καὶ" div_jebb_page="29" lemma="καί" postag="c--------" head="114615827" relation="COORD"/>
+    <word id="114615829" form="ἄμαχος" div_jebb_page="29" lemma="ἄμαχος" postag="a-s---fn-" head="114615828" relation="ATR_CO"/>
+    <word id="114615830" form="ἡ" div_jebb_page="29" lemma="ὁ" postag="l-s---fn-" head="114615831" relation="ATR"/>
+    <word id="114615831" form="δύναμις" div_jebb_page="29" lemma="δύναμις" postag="n-s---fn-" head="1000274263" relation="SBJ"/>
+    <word id="114615832" form="τοῦ" div_jebb_page="29" lemma="ὁ" postag="l-s---mg-" head="114615833" relation="ATR"/>
+    <word id="114615833" form="θεοῦ" div_jebb_page="29" lemma="θεός" postag="n-s---mg-" head="114615831" relation="ATR"/>
+    <word id="114615834" form="," div_jebb_page="29" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="114615835" form="καὶ" div_jebb_page="29" lemma="καί" postag="c--------" head="0" relation="COORD"/>
+    <word id="114615836" form="δύναιτ’" div_jebb_page="29" lemma="δύναμαι" postag="v3spom---" head="114615835" relation="PRED_CO"/>
+    <word id="114615837" form="ἂν" div_jebb_page="29" lemma="ἄν" postag="g--------" head="114615835" relation="AuxY"/>
+    <word id="114615838" form="καὶ" div_jebb_page="29" lemma="καί" postag="c--------" head="114615839" relation="AuxZ"/>
+    <word id="114615839" form="ὄνους" div_jebb_page="29" lemma="ὄνος" postag="n-p---ma-" head="114615840" relation="OBJ"/>
+    <word id="114615840" form="πτεροῦν" div_jebb_page="29" lemma="πτερόω" postag="v--pna---" head="114615836" relation="OBJ"/>
+    <word id="114615841" form="," div_jebb_page="29" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="114615842" form="οὐχ" div_jebb_page="29" lemma="οὐ" postag="d--------" head="114615843" relation="AuxZ"/>
+    <word id="114615843" form="ἵππους" div_jebb_page="29" lemma="ἵππος" postag="n-p---ma-" head="114615839" relation="APOS"/>
+    <word id="114615844" form="μόνον" div_jebb_page="29" lemma="μόνος" postag="d--------" head="114615843" relation="ADV"/>
+    <word id="114615845" form="·" div_jebb_page="29" lemma="·" postag="u--------" head="0" relation="AuxK"/>
+    <word id="1000274263" form="E" lemma="E" postag="z--------" head="114615835" relation="PRED_CO" artificial="elliptic" div_jebb_page="29"/>
+    <word id="1000274264" form="E" lemma="E" postag="z--------" head="1000274263" relation="UNLINKED" artificial="elliptic" div_jebb_page="29"/>
+  </sentence>
+  <sentence struct_id="750513" id="20" document_id="0284-004" analysis="auto">
+    <word id="114615846" form="ὥσπερ" div_jebb_page="29" lemma="ὥσπερ" postag="c--------" head="114615851" relation="ADV"/>
+    <word id="114615847" form="καὶ" div_jebb_page="29" lemma="καί" postag="c--------" head="114615851" relation="AuxY"/>
+    <word id="114615848" form="λεόντων" div_jebb_page="29" lemma="λέων" postag="n-p---mg-" head="114615849" relation="ATR"/>
+    <word id="114615849" form="γάλα" div_jebb_page="29" lemma="γάλα" postag="n-s---na-" head="114615850" relation="OBJ"/>
+    <word id="114615850" form="ἀμέλγειν" div_jebb_page="29" lemma="ἀμέλγω" postag="v--pna---" head="114615851" relation="OBJ"/>
+    <word id="114615851" form="ἀνέθηκέ" div_jebb_page="29" lemma="ἀνατίθημι" postag="v3saia---" head="0" relation="PRED"/>
+    <word id="114615852" form="τις" div_jebb_page="29" lemma="τις" postag="p-s---cn-" head="114615855" relation="ATR"/>
+    <word id="114615853" form="αὐτῷ" div_jebb_page="29" lemma="αὐτός" postag="p-s---md-" head="114615851" relation="OBJ"/>
+    <word id="114615854" form="Λακωνικὸς" div_jebb_page="29" lemma="Λακωνικός" postag="a-s---mn-" head="114615855" relation="ATR"/>
+    <word id="114615855" form="ποιητής" div_jebb_page="29" lemma="ποιητής" postag="n-s---mn-" head="114615851" relation="SBJ"/>
+    <word id="114615856" form="·" div_jebb_page="29" lemma="·" postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="750514" id="21" document_id="0284-004" analysis="auto">
+    <word id="114615857" form="καὶ" div_jebb_page="29" lemma="καί" postag="c--------" head="114615862" relation="AuxY"/>
+    <word id="114615858" form="οὐδὲν" div_jebb_page="29" lemma="οὐδείς" postag="p-s---na-" head="114615862" relation="ADV"/>
+    <word id="114615859" form="ἄρα" div_jebb_page="29" lemma="ἄρα" postag="g--------" head="114615862" relation="AuxY"/>
+    <word id="114615860" form="οὕτως" div_jebb_page="29" lemma="οὕτως" postag="d--------" head="114615862" relation="ADV"/>
+    <word id="114615861" form="βεβαίως" div_jebb_page="29" lemma="βέβαιος" postag="d--------" head="114615862" relation="ADV"/>
+    <word id="114615862" form="δεδήσεται" div_jebb_page="29" lemma="δέομαι" postag="v3stim---" head="0" relation="PRED"/>
+    <word id="114615863" form="," div_jebb_page="29" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="114615864" form="οὐ" div_jebb_page="29" lemma="οὐ" postag="d--------" head="114615865" relation="AuxZ"/>
+    <word id="114615865" form="νόσῳ" div_jebb_page="29" lemma="νόσος" postag="n-s---fd-" head="114615862" relation="ADV"/>
+    <word id="114615866" form="," div_jebb_page="29" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="114615867" form="οὐκ" div_jebb_page="29" lemma="οὐ" postag="d--------" head="114615868" relation="AuxZ"/>
+    <word id="114615868" form="ὀργῇ" div_jebb_page="29" lemma="ὀργή" postag="n-s---fd-" head="114615865" relation="CO"/>
+    <word id="114615869" form="," div_jebb_page="29" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="114615870" form="οὐ" div_jebb_page="29" lemma="οὐ" postag="d--------" head="114615871" relation="AuxZ"/>
+    <word id="114615871" form="τύχῃ" div_jebb_page="29" lemma="τύχη" postag="n-s---fd-" head="114615868" relation="CO"/>
+    <word id="114615872" form="οὐδεμιᾷ" div_jebb_page="29" lemma="οὐδείς" postag="p-s---fd-" head="114615871" relation="ATR"/>
+    <word id="114615873" form="," div_jebb_page="29" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="114615874" form="ὃ" div_jebb_page="29" lemma="ὅς" postag="p-s---na-" head="114615879" relation="OBJ"/>
+    <word id="114615875" form="μὴ" div_jebb_page="29" lemma="μή" postag="d--------" head="114615878" relation="AuxZ"/>
+    <word id="114615876" form="οἷόν" div_jebb_page="29" lemma="οἷος" postag="p-s---nn-" head="114615878" relation="PNOM"/>
+    <word id="114615877" form="τ’" div_jebb_page="29" lemma="τε" postag="c--------" head="114615876" relation="MWE"/>
+    <word id="114615878" form="ἔσται" div_jebb_page="29" lemma="εἰμί" postag="v3sfim---" head="114615871" relation="ATR"/>
+    <word id="114615879" form="λῦσαι" div_jebb_page="29" lemma="λύω" postag="v--ana---" head="114615876" relation="ADV"/>
+    <word id="114615880" form="τῷ" div_jebb_page="29" lemma="ὁ" postag="l-s---md-" head="114615881" relation="ATR"/>
+    <word id="114615881" form="Διονύσῳ" div_jebb_page="29" lemma="Διόνυσος" postag="n-s---md-" head="114615879" relation="OBJ"/>
+    <word id="114615882" form="." div_jebb_page="29" lemma="." postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="750515" id="22" document_id="0284-004" analysis="auto">
+    <word id="114615883" form="ἀλλὰ" div_jebb_page="29" lemma="ἀλλά" postag="c--------" head="114615895" relation="AuxY"/>
+    <word id="114615884" form="καὶ" div_jebb_page="29" lemma="καί" postag="c--------" head="114615885" relation="AuxZ"/>
+    <word id="114615885" form="συμπότης" div_jebb_page="29" lemma="συμπότης" postag="n-s---mn-" head="1000274265" relation="SBJ"/>
+    <word id="114615886" form="ὁ" div_jebb_page="29" lemma="ὁ" postag="l-s---mn-" head="114615885" relation="ATR"/>
+    <word id="114615887" form="τέως" div_jebb_page="29" lemma="τέως" postag="d--------" head="114615888" relation="ATR"/>
+    <word id="114615888" form="πολέμιος" div_jebb_page="29" lemma="πολέμιος" postag="a-s---mn-" head="114615885" relation="ATR"/>
+    <word id="114615889" form="," div_jebb_page="29" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="114615890" form="καὶ" div_jebb_page="29" lemma="καί" postag="c--------" head="114615895" relation="AuxY"/>
+    <word id="114615891" form="ὁ" div_jebb_page="29" lemma="ὁ" postag="l-s---mn-" head="114615892" relation="ATR"/>
+    <word id="114615892" form="γέρων" div_jebb_page="29" lemma="γέρων" postag="n-s---mn-" head="114615893" relation="SBJ"/>
+    <word id="114615893" form="ἀνηβήσει" div_jebb_page="29" lemma="ἀνηβάω" postag="v3sfia---" head="114615895" relation="PRED_CO"/>
+    <word id="114615894" form="," div_jebb_page="29" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="114615895" form="καὶ" div_jebb_page="29" lemma="καί" postag="c--------" head="0" relation="COORD"/>
+    <word id="114615896" form="πίεται" div_jebb_page="29" lemma="πίνω" postag="v3sfim---" head="114615895" relation="PRED_CO"/>
+    <word id="114615897" form="κινοῦντος" div_jebb_page="29" lemma="κινέω" postag="v-sppamg-" head="114615896" relation="ADV"/>
+    <word id="114615898" form="τοῦ" div_jebb_page="29" lemma="ὁ" postag="l-s---mg-" head="114615899" relation="ATR"/>
+    <word id="114615899" form="θεοῦ" div_jebb_page="29" lemma="θεός" postag="n-s---mg-" head="114615897" relation="SBJ"/>
+    <word id="114615900" form="." div_jebb_page="29" lemma="." postag="u--------" head="0" relation="AuxK"/>
+    <word id="1000274265" form="E" lemma="E" postag="z--------" head="114615900" relation="UNLINKED" artificial="elliptic" div_jebb_page="29"/>
+  </sentence>
+  <sentence struct_id="750516" id="23" document_id="0284-004" analysis="auto">
+    <word id="114615901" form="ταῦτα" div_jebb_page="29" lemma="οὗτος" postag="p-p---na-" head="114615905" relation="OBJ"/>
+    <word id="114615902" form="αὖ" div_jebb_page="29" lemma="αὖ" postag="d--------" head="114615905" relation="ADV"/>
+    <word id="114615903" form="Σειληνοί" div_jebb_page="29" lemma="Σειληνός" postag="n-p---mn-" head="114615906" relation="SBJ_CO"/>
+    <word id="114615904" form="τε" div_jebb_page="29" lemma="τε" postag="c--------" head="114615906" relation="AuxY"/>
+    <word id="114615905" form="μαρτυροῦσι" div_jebb_page="30" lemma="μαρτυρέω" postag="v3ppia---" head="0" relation="PRED"/>
+    <word id="114615906" form="καὶ" div_jebb_page="30" lemma="καί" postag="c--------" head="114615905" relation="COORD"/>
+    <word id="114615907" form="οἱ" div_jebb_page="30" lemma="ὁ" postag="l-p---mn-" head="114615910" relation="ATR"/>
+    <word id="114615908" form="περὶ" div_jebb_page="30" lemma="περί" postag="r--------" head="114615910" relation="AuxP"/>
+    <word id="114615909" form="τοῦτον" div_jebb_page="30" lemma="οὗτος" postag="p-s---ma-" head="114615908" relation="ATR"/>
+    <word id="114615910" form="χορευταί" div_jebb_page="30" lemma="χορευτής" postag="n-p---mn-" head="114615906" relation="SBJ_CO"/>
+    <word id="114615911" form="·" div_jebb_page="30" lemma="·" postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="750517" id="24" document_id="0284-004" analysis="auto">
+    <word id="114615912" form="καὶ" div_jebb_page="30" lemma="καί" postag="c--------" head="1000274266" relation="AuxY"/>
+    <word id="114615913" form="τήν" div_jebb_page="30" lemma="ὁ" postag="l-s---fa-" head="114615915" relation="ATR"/>
+    <word id="114615914" form="γε" div_jebb_page="30" lemma="γε" postag="g--------" head="114615915" relation="AuxZ"/>
+    <word id="114615915" form="ῥᾳστώνην" div_jebb_page="30" lemma="ῥᾳστώνη" postag="n-s---fa-" head="1000274266" relation="OBJ"/>
+    <word id="114615916" form="τοῦ" div_jebb_page="30" lemma="ὁ" postag="l-s---ng-" head="114615917" relation="ATR"/>
+    <word id="114615917" form="κράτους" div_jebb_page="30" lemma="κράτος" postag="n-s---ng-" head="114615915" relation="ATR"/>
+    <word id="114615918" form="νάρθηκές" div_jebb_page="30" lemma="νάρθηξ" postag="n-p---mn-" head="114615922" relation="SBJ_CO"/>
+    <word id="114615919" form="τε" div_jebb_page="30" lemma="τε" postag="c--------" head="114615922" relation="AuxY"/>
+    <word id="114615920" form="ἀντὶ" div_jebb_page="30" lemma="ἀντί" postag="r--------" head="114615918" relation="AuxP"/>
+    <word id="114615921" form="δόρατος" div_jebb_page="30" lemma="δόρυ" postag="n-s---ng-" head="114615920" relation="ADV"/>
+    <word id="114615922" form="καὶ" div_jebb_page="30" lemma="καί" postag="c--------" head="1000274266" relation="COORD"/>
+    <word id="114615923" form="νεβρὶς" div_jebb_page="30" lemma="νεβρίς" postag="n-s---fn-" head="114615922" relation="SBJ_CO"/>
+    <word id="114615924" form="ἀντὶ" div_jebb_page="30" lemma="ἀντί" postag="r--------" head="114615927" relation="AuxP"/>
+    <word id="114615925" form="λεοντῆς" div_jebb_page="30" lemma="λεοντέη" postag="n-s---fg-" head="114615924" relation="ADV"/>
+    <word id="114615926" form="αὐτῷ" div_jebb_page="30" lemma="αὐτός" postag="p-s---md-" head="114615927" relation="OBJ"/>
+    <word id="114615927" form="πεπορισμένα" div_jebb_page="30" lemma="πορίζω" postag="v-prpmnn-" head="1000274266" relation="PNOM"/>
+    <word id="114615928" form="," div_jebb_page="30" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="114615929" form="καὶ" div_jebb_page="30" lemma="καί" postag="c--------" head="114615930" relation="AuxY"/>
+    <word id="114615930" form="κύλιξ" div_jebb_page="30" lemma="κύλιξ" postag="n-s---fn-" head="1000274266" relation="SBJ"/>
+    <word id="114615931" form="ἀντὶ" div_jebb_page="30" lemma="ἀντί" postag="r--------" head="1000274266" relation="AuxP"/>
+    <word id="114615932" form="ἀσπίδος" div_jebb_page="30" lemma="ἀσπίς" postag="n-s---fg-" head="114615931" relation="ADV"/>
+    <word id="114615933" form="κοίλης" div_jebb_page="30" lemma="κοῖλος" postag="a-s---fg-" head="114615932" relation="ATR"/>
+    <word id="114615934" form="," div_jebb_page="30" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="114615935" form="ὡς" div_jebb_page="30" lemma="ὡς" postag="c--------" head="114615938" relation="AuxZ"/>
+    <word id="114615936" form="τὸ" div_jebb_page="30" lemma="ὁ" postag="l-s---na-" head="114615937" relation="ATR"/>
+    <word id="114615937" form="αὐτὸ" div_jebb_page="30" lemma="αὐτός" postag="p-s---na-" head="114615938" relation="OBJ"/>
+    <word id="114615938" form="ποιούντων" div_jebb_page="30" lemma="ποιέω" postag="v-pppamg-" head="1000274266" relation="ADV"/>
+    <word id="114615939" form="Διονύσῳ" div_jebb_page="30" lemma="Διόνυσος" postag="n-s---md-" head="114615938" relation="OBJ"/>
+    <word id="114615940" form="μάχεσθαί" div_jebb_page="30" lemma="μάχομαι" postag="v--pnm---" head="114615942" relation="OBJ_CO"/>
+    <word id="114615941" form="τε" div_jebb_page="30" lemma="τε" postag="c--------" head="114615942" relation="AuxY"/>
+    <word id="114615942" form="καὶ" div_jebb_page="30" lemma="καί" postag="c--------" head="114615938" relation="COORD"/>
+    <word id="114615943" form="πίνειν" div_jebb_page="30" lemma="πίνω" postag="v--pna---" head="114615942" relation="OBJ_CO"/>
+    <word id="114615944" form="." div_jebb_page="30" lemma="." postag="u--------" head="0" relation="AuxK"/>
+    <word id="1000274266" form="E" lemma="E" postag="z--------" head="0" relation="PRED" artificial="elliptic" div_jebb_page="30"/>
+  </sentence>
+  <sentence struct_id="750518" id="25" document_id="0284-004" analysis="auto">
+    <word id="114615945" form="καὶ" div_jebb_page="30" lemma="καί" postag="c--------" head="1000274267" relation="AuxY"/>
+    <word id="114615946" form="οὐ" div_jebb_page="30" lemma="οὐ" postag="d--------" head="114615947" relation="AuxZ"/>
+    <word id="114615947" form="πολὺ" div_jebb_page="30" lemma="πολύς" postag="a-s---na-" head="114615949" relation="ADV"/>
+    <word id="114615948" form="το-" div_jebb_page="30" lemma="ὁ" postag="l-s---nn-" head="114615949" relation="ATR"/>
+    <word id="114615949" form="τοὐμμέσῳ" div_jebb_page="30" lemma="ἔμμεσος" postag="a-s---nd-" head="1000274267" relation="OBJ"/>
+    <word id="114615950" form="τοῦ" div_jebb_page="30" lemma="ὁ" postag="l-s---mg-" head="114615952" relation="ATR"/>
+    <word id="114615951" form="τε" div_jebb_page="30" lemma="τε" postag="c--------" head="114615953" relation="AuxY"/>
+    <word id="114615952" form="ἀγῶνος" div_jebb_page="30" lemma="ἀγών" postag="n-s---mg-" head="114615953" relation="ATR_CO"/>
+    <word id="114615953" form="καὶ" div_jebb_page="30" lemma="καί" postag="c--------" head="114615949" relation="COORD"/>
+    <word id="114615954" form="τῶν" div_jebb_page="30" lemma="ὁ" postag="l-p---ng-" head="114615955" relation="ATR"/>
+    <word id="114615955" form="ἐπινικίων" div_jebb_page="30" lemma="ἐπινίκιος" postag="a-p---ng-" head="114615953" relation="ATR_CO"/>
+    <word id="114615956" form="." div_jebb_page="30" lemma="." postag="u--------" head="0" relation="AuxK"/>
+    <word id="1000274267" form="E" lemma="E" postag="z--------" head="0" relation="PRED" artificial="elliptic" div_jebb_page="30"/>
+  </sentence>
+  <sentence struct_id="750519" id="26" document_id="0284-004" analysis="auto">
+    <word id="114615957" form="Ἰνδοὺς" div_jebb_page="30" lemma="Ἰνδός" postag="n-p---ma-" head="114615959" relation="OBJ_CO"/>
+    <word id="114615958" form="δὲ" div_jebb_page="30" lemma="δέ" postag="c--------" head="114615961" relation="AuxY"/>
+    <word id="114615959" form="καὶ" div_jebb_page="30" lemma="καί" postag="c--------" head="114615961" relation="COORD"/>
+    <word id="114615960" form="Τυρρηνοὺς" div_jebb_page="30" lemma="Τυρρηνός" postag="n-p---ma-" head="114615959" relation="OBJ_CO"/>
+    <word id="114615961" form="λέγουσιν" div_jebb_page="30" lemma="λέγω" postag="v3ppia---" head="0" relation="PRED"/>
+    <word id="114615962" form="ὡς" div_jebb_page="30" lemma="ὡς" postag="c--------" head="114615961" relation="AuxC"/>
+    <word id="114615963" form="κατεστρέψατο" div_jebb_page="30" lemma="καταστρέφω" postag="v3saim---" head="114615962" relation="ADV"/>
+    <word id="114615964" form="," div_jebb_page="30" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="114615965" form="αἰνιττόμενοι" div_jebb_page="30" lemma="αἰνίσσομαι" postag="v-pppmmn-" head="114615961" relation="ADV"/>
+    <word id="114615966" form="δοκεῖν" div_jebb_page="30" lemma="δοκέω" postag="v--pna---" head="114615965" relation="OBJ"/>
+    <word id="114615967" form="ἐμοὶ" div_jebb_page="30" lemma="ἐγώ" postag="p-s---cd-" head="114615966" relation="OBJ"/>
+    <word id="114615968" form="διὰ" div_jebb_page="30" lemma="διά" postag="r--------" head="114615966" relation="AuxP"/>
+    <word id="114615969" form="μὲν" div_jebb_page="30" lemma="μέν" postag="g--------" head="114615977" relation="AuxY"/>
+    <word id="114615970" form="τῶν" div_jebb_page="30" lemma="ὁ" postag="l-p---mg-" head="114615971" relation="ATR"/>
+    <word id="114615971" form="Τυρρηνῶν" div_jebb_page="30" lemma="Τυρρηνός" postag="n-p---mg-" head="114615968" relation="ADV"/>
+    <word id="114615972" form="τὰ" div_jebb_page="30" lemma="ὁ" postag="l-p---na-" head="114615966" relation="OBJ"/>
+    <word id="114615973" form="πρὸς" div_jebb_page="30" lemma="πρός" postag="r--------" head="114615972" relation="AuxP"/>
+    <word id="114615974" form="ἑσπέραν" div_jebb_page="30" lemma="ἑσπέρα" postag="n-s---fa-" head="114615973" relation="ATR"/>
+    <word id="114615975" form="," div_jebb_page="30" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="114615976" form="διὰ" div_jebb_page="30" lemma="διά" postag="r--------" head="114615989" relation="AuxP"/>
+    <word id="114615977" form="δὲ" div_jebb_page="30" lemma="δέ" postag="c--------" head="114615989" relation="AuxY"/>
+    <word id="114615978" form="τῶν" div_jebb_page="30" lemma="ὁ" postag="l-p---mg-" head="114615979" relation="ATR"/>
+    <word id="114615979" form="ἑτέρων" div_jebb_page="30" lemma="ἕτερος" postag="p-p---mg-" head="114615976" relation="ADV"/>
+    <word id="114615980" form="τὸν" div_jebb_page="30" lemma="ὁ" postag="l-s---ma-" head="114615983" relation="ATR"/>
+    <word id="114615981" form="πρὸς" div_jebb_page="30" lemma="πρός" postag="r--------" head="114615983" relation="AuxP"/>
+    <word id="114615982" form="ἕω" div_jebb_page="30" lemma="ἠώς" postag="n-s---fa-" head="114615981" relation="ATR"/>
+    <word id="114615983" form="τόπον" div_jebb_page="30" lemma="τόπος" postag="n-s---ma-" head="114615989" relation="OBJ"/>
+    <word id="114615984" form="τῆς" div_jebb_page="30" lemma="ὁ" postag="l-s---fg-" head="114615985" relation="ATR"/>
+    <word id="114615985" form="γῆς" div_jebb_page="30" lemma="γῆ" postag="n-s---fg-" head="114615983" relation="ATR"/>
+    <word id="114615986" form="ὡς" div_jebb_page="30" lemma="ὡς" postag="c--------" head="114615989" relation="AuxZ"/>
+    <word id="114615987" form="ἁπάσης" div_jebb_page="30" lemma="ἅπας" postag="p-s---fg-" head="114615985" relation="ATR"/>
+    <word id="114615988" form="αὐτὸν" div_jebb_page="30" lemma="αὐτός" postag="p-s---ma-" head="114615989" relation="OBJ"/>
+    <word id="114615989" form="ἄρχοντα" div_jebb_page="30" lemma="ἄρχω" postag="v-sppama-" head="114615966" relation="ADV"/>
+    <word id="114615990" form="." div_jebb_page="30" lemma="." postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="750520" id="27" document_id="0284-004" analysis="auto">
+    <word id="114615991" form="Βάκχαι" div_jebb_page="30" lemma="Βάκχη" postag="n-p---fn-" head="1000274268" relation="SBJ"/>
+    <word id="114615992" form="δὲ" div_jebb_page="30" lemma="δέ" postag="c--------" head="114616012" relation="AuxY"/>
+    <word id="114615993" form="καὶ" div_jebb_page="30" lemma="καί" postag="c--------" head="114616002" relation="AuxY"/>
+    <word id="114615994" form="ἀνθ’" div_jebb_page="30" lemma="ἀντί" postag="r--------" head="114615997" relation="AuxP"/>
+    <word id="114615995" form="ἱππέων" div_jebb_page="30" lemma="ἱππεύς" postag="n-p---mg-" head="114615998" relation="ADV_CO"/>
+    <word id="114615996" form="αὐτῷ" div_jebb_page="30" lemma="αὐτός" postag="p-s---md-" head="114615997" relation="OBJ"/>
+    <word id="114615997" form="προϊοῦσαι" div_jebb_page="30" lemma="προέρχομαι" postag="v-pppafn-" head="114616012" relation="ADV"/>
+    <word id="114615998" form="καὶ" div_jebb_page="30" lemma="καί" postag="c--------" head="114615994" relation="COORD"/>
+    <word id="114615999" form="τοξοτῶν" div_jebb_page="30" lemma="τοξότης" postag="n-p---mg-" head="114615998" relation="ADV_CO"/>
+    <word id="114616000" form="," div_jebb_page="30" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="114616001" form="τῆς" div_jebb_page="30" lemma="ὁ" postag="l-s---fg-" head="114616003" relation="ATR"/>
+    <word id="114616002" form="τε" div_jebb_page="30" lemma="τε" postag="c--------" head="114616004" relation="AuxY"/>
+    <word id="114616003" form="σκευῆς" div_jebb_page="30" lemma="σκευή" postag="n-s---fg-" head="114616004" relation="ATR"/>
+    <word id="114616004" form="ἀκόλουθα" div_jebb_page="30" lemma="ἀκόλουθος" postag="a-p---na-" head="114615997" relation="OBJ"/>
+    <word id="114616005" form="ἣν" div_jebb_page="30" lemma="ὅς" postag="p-s---fa-" head="114616007" relation="OBJ"/>
+    <word id="114616006" form="ἀρτίως" div_jebb_page="30" lemma="ἄρτιος" postag="d--------" head="114616007" relation="ADV"/>
+    <word id="114616007" form="ὑμνοῦμεν" div_jebb_page="30" lemma="ὑμνέω" postag="v1ppia---" head="114616003" relation="ATR"/>
+    <word id="114616008" form="καὶ" div_jebb_page="30" lemma="καί" postag="c--------" head="114616012" relation="AuxY"/>
+    <word id="114616009" form="ἅμα" div_jebb_page="30" lemma="ἅμα" postag="d--------" head="114616002" relation="AuxZ"/>
+    <word id="114616010" form="καὶ" div_jebb_page="30" lemma="καί" postag="c--------" head="114616011" relation="AuxZ"/>
+    <word id="114616011" form="τοῦτο" div_jebb_page="30" lemma="οὗτος" postag="p-s---na-" head="114616012" relation="OBJ"/>
+    <word id="114616012" form="ἐπισφραγίζονται" div_jebb_page="30" lemma="ἐπισφραγίζω" postag="v3ppim---" head="0" relation="PRED"/>
+    <word id="114616013" form="ὅτι" div_jebb_page="30" lemma="ὅτι" postag="c--------" head="114616011" relation="AuxC"/>
+    <word id="114616014" form="τῆς" div_jebb_page="30" lemma="ὁ" postag="l-s---fg-" head="114616016" relation="ATR"/>
+    <word id="114616015" form="Διονύσου" div_jebb_page="30" lemma="Διόνυσος" postag="n-s---mg-" head="114616016" relation="ATR"/>
+    <word id="114616016" form="πολιτείας" div_jebb_page="30" lemma="πολιτεία" postag="n-s---fg-" head="114616021" relation="ATR"/>
+    <word id="114616017" form="ἄρα" div_jebb_page="30" lemma="ἄρα" postag="g--------" head="114616018" relation="AuxY"/>
+    <word id="114616018" form="ἦν" div_jebb_page="30" lemma="εἰμί" postag="v3siia---" head="114616013" relation="OBJ"/>
+    <word id="114616019" form="καὶ" div_jebb_page="30" lemma="καί" postag="c--------" head="114616020" relation="AuxY"/>
+    <word id="114616020" form="γυναικεῖα" div_jebb_page="30" lemma="γυναικεῖος" postag="a-p---nn-" head="114616021" relation="ATR"/>
+    <word id="114616021" form="στρατόπεδα" div_jebb_page="30" lemma="στρατόπεδον" postag="n-p---nn-" head="114616018" relation="SBJ"/>
+    <word id="114616022" form="ὁμοῦ" div_jebb_page="30" lemma="ὁμοῦ" postag="d--------" head="114616018" relation="ADV"/>
+    <word id="114616023" form="τοῖς" div_jebb_page="30" lemma="ὁ" postag="l-p---nd-" head="114616022" relation="ADV"/>
+    <word id="114616024" form="τῶν" div_jebb_page="30" lemma="ὁ" postag="l-p---mg-" head="114616025" relation="ATR"/>
+    <word id="114616025" form="ἀνδρῶν" div_jebb_page="30" lemma="ἀνήρ" postag="n-p---mg-" head="114616023" relation="ATR"/>
+    <word id="114616026" form="," div_jebb_page="30" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="114616027" form="καὶ" div_jebb_page="30" lemma="καί" postag="c--------" head="114616031" relation="AuxY"/>
+    <word id="114616028" form="οὐ" div_jebb_page="30" lemma="οὐ" postag="d--------" head="114616031" relation="AuxZ"/>
+    <word id="114616029" form="τοὺς" div_jebb_page="30" lemma="ὁ" postag="l-p---ma-" head="114616030" relation="ATR"/>
+    <word id="114616030" form="ἄνδρας" div_jebb_page="30" lemma="ἀνήρ" postag="n-p---ma-" head="114616031" relation="OBJ"/>
+    <word id="114616031" form="θηλύνειν" div_jebb_page="30" lemma="θηλύνω" postag="v--pna---" head="114616012" relation="OBJ"/>
+    <word id="114616032" form="μᾶλλον" div_jebb_page="30" lemma="μάλα" postag="d-------c" head="114616031" relation="ADV"/>
+    <word id="114616033" form="ἢ" div_jebb_page="30" lemma="ἤ" postag="c--------" head="114616032" relation="AuxC"/>
+    <word id="114616034" form="τὰς" div_jebb_page="30" lemma="ὁ" postag="l-p---fa-" head="114616035" relation="ATR"/>
+    <word id="114616035" form="γυναῖκας" div_jebb_page="30" lemma="γυνή" postag="n-p---fa-" head="114616039" relation="OBJ"/>
+    <word id="114616036" form="εἰς" div_jebb_page="30" lemma="εἰς" postag="r--------" head="114616039" relation="AuxP"/>
+    <word id="114616037" form="ἀνδρῶν" div_jebb_page="30" lemma="ἀνήρ" postag="n-p---mg-" head="114616038" relation="ATR"/>
+    <word id="114616038" form="τάξιν" div_jebb_page="30" lemma="τάξις" postag="n-s---fa-" head="114616036" relation="OBJ"/>
+    <word id="114616039" form="καθιστάναι" div_jebb_page="30" lemma="καθίστημι" postag="v--pna---" head="114616033" relation="ADV"/>
+    <word id="114616040" form="Διονυσιακόν" div_jebb_page="30" lemma="Διονυσιακός" postag="a-s---na-" head="114616038" relation="ATR"/>
+    <word id="114616041" form="·" div_jebb_page="30" lemma="·" postag="u--------" head="0" relation="AuxK"/>
+    <word id="1000274268" form="E" lemma="E" postag="z--------" head="114616033" relation="ADV" artificial="elliptic" div_jebb_page="30"/>
+  </sentence>
+  <sentence struct_id="750521" id="28" document_id="0284-004" analysis="auto">
+    <word id="114616042" form="οὕτω" div_jebb_page="30" lemma="οὕτως" postag="d--------" head="114616048" relation="ADV"/>
+    <word id="114616043" form="μέγας" div_jebb_page="30" lemma="μέγας" postag="a-s---mn-" head="114616046" relation="PNOM_CO"/>
+    <word id="114616044" form="καὶ" div_jebb_page="30" lemma="καί" postag="c--------" head="114616046" relation="AuxY"/>
+    <word id="114616045" form="πολύτροπος" div_jebb_page="30" lemma="πολύτροπος" postag="a-s---mn-" head="114616046" relation="PNOM_CO"/>
+    <word id="114616046" form="καὶ" div_jebb_page="30" lemma="καί" postag="c--------" head="114616048" relation="COORD"/>
+    <word id="114616047" form="παναρμόνιός" div_jebb_page="30" lemma="παναρμόνιος" postag="a-s---mn-" head="114616046" relation="PNOM_CO"/>
+    <word id="114616048" form="ἐστι" div_jebb_page="30" lemma="εἰμί" postag="v3spia---" head="0" relation="PRED"/>
+    <word id="114616049" form="." div_jebb_page="30" lemma="." postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="750522" id="29" document_id="0284-004" analysis="auto">
+    <word id="114616050" form="δῆλον" div_jebb_page="30" lemma="δῆλος" postag="a-s---nn-" head="1000274269" relation="PNOM"/>
+    <word id="114616051" form="δὲ" div_jebb_page="30" lemma="δέ" postag="c--------" head="1000274269" relation="AuxY"/>
+    <word id="114616052" form="καὶ" div_jebb_page="30" lemma="καί" postag="c--------" head="114616053" relation="AuxZ"/>
+    <word id="114616053" form="ἐνθένδε" div_jebb_page="30" lemma="ἐνθένδε" postag="d--------" head="114616050" relation="ADV"/>
+    <word id="114616054" form="." div_jebb_page="30" lemma="." postag="u--------" head="0" relation="AuxK"/>
+    <word id="1000274269" form="E" lemma="E" postag="z--------" head="0" relation="PRED" artificial="elliptic" div_jebb_page="30"/>
+  </sentence>
+  <sentence struct_id="750523" id="30" document_id="0284-004" analysis="auto">
+    <word id="114616055" form="Ἀφροδίτῃ" div_jebb_page="30" lemma="Ἀφροδίτη" postag="n-s---fd-" head="114616058" relation="OBJ"/>
+    <word id="114616056" form="μὲν" div_jebb_page="30" lemma="μέν" postag="g--------" head="114616070" relation="AuxY"/>
+    <word id="114616057" form="γὰρ" div_jebb_page="30" lemma="γάρ" postag="g--------" head="114616070" relation="AuxY"/>
+    <word id="114616058" form="κοινωνήσας" div_jebb_page="30" lemma="κοινωνέω" postag="v-sapamn-" head="114616061" relation="ADV"/>
+    <word id="114616059" form="θέατρά" div_jebb_page="30" lemma="θέατρον" postag="n-p---na-" head="114616061" relation="OBJ"/>
+    <word id="114616060" form="τε" div_jebb_page="30" lemma="τε" postag="c--------" head="114616070" relation="AuxY"/>
+    <word id="114616061" form="ἀνοίγνυσι" div_jebb_page="30" lemma="ἀνοίγνυμι" postag="v3spia---" head="114616070" relation="PRED_CO"/>
+    <word id="114616062" form="καὶ" div_jebb_page="30" lemma="καί" postag="c--------" head="114616060" relation="AuxY"/>
+    <word id="114616063" form="συμποσίων" div_jebb_page="30" lemma="συμπόσιον" postag="n-p---ng-" head="114616064" relation="ATR_CO"/>
+    <word id="114616064" form="καὶ" div_jebb_page="30" lemma="καί" postag="c--------" head="114616066" relation="COORD"/>
+    <word id="114616065" form="θιάσων" div_jebb_page="30" lemma="θίασος" postag="n-p---mg-" head="114616064" relation="ATR_CO"/>
+    <word id="114616066" form="ἔξαρχος" div_jebb_page="30" lemma="ἔξαρχος" postag="n-s---mn-" head="114616067" relation="PNOM"/>
+    <word id="114616067" form="γίγνεται" div_jebb_page="30" lemma="γίγνομαι" postag="v3spim---" head="114616070" relation="PRED_CO"/>
+    <word id="114616068" form="," div_jebb_page="30" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="114616069" form="Ἄρει" div_jebb_page="30" lemma="Ἄρης" postag="n-s---md-" head="114616073" relation="OBJ"/>
+    <word id="114616070" form="δὲ" div_jebb_page="30" lemma="δέ" postag="c--------" head="0" relation="COORD"/>
+    <word id="114616071" form="εἰς" div_jebb_page="30" lemma="εἰς" postag="r--------" head="114616073" relation="AuxP"/>
+    <word id="114616072" form="ταυτὸν" div_jebb_page="30" lemma="τατός" postag="a-s---na-" head="114616071" relation="OBJ"/>
+    <word id="114616073" form="ἐλθὼν" div_jebb_page="30" lemma="ἔρχομαι" postag="v-sapamn-" head="114616075" relation="ADV"/>
+    <word id="114616074" form="ἔνοπλος" div_jebb_page="30" lemma="ἔνοπλος" postag="a-s---mn-" head="114616075" relation="PNOM"/>
+    <word id="114616075" form="γίγνεται" div_jebb_page="30" lemma="γίγνομαι" postag="v3spim---" head="114616070" relation="PRED_CO"/>
+    <word id="114616076" form="·" div_jebb_page="30" lemma="·" postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="750524" id="31" document_id="0284-004" analysis="auto">
+    <word id="114616077" form="καὶ" div_jebb_page="30" lemma="καί" postag="c--------" head="1000274270" relation="AuxY"/>
+    <word id="114616078" form="μὴν" div_jebb_page="30" lemma="μήν" postag="g--------" head="1000274270" relation="AuxY"/>
+    <word id="114616079" form="ἔμπυρός" div_jebb_page="30" lemma="ἔμπυρος" postag="a-s---mn-" head="114616085" relation="PNOM"/>
+    <word id="114616080" form="γε" div_jebb_page="30" lemma="γε" postag="g--------" head="114616079" relation="AuxZ"/>
+    <word id="114616081" form="ἅμα" div_jebb_page="30" lemma="ἅμα" postag="d--------" head="114616085" relation="AuxP"/>
+    <word id="114616082" form="Ἀθηνᾷ" div_jebb_page="30" lemma="Ἀθήνη" postag="n-s---fd-" head="114616083" relation="ADV_CO"/>
+    <word id="114616083" form="καὶ" div_jebb_page="30" lemma="καί" postag="c--------" head="114616081" relation="COORD"/>
+    <word id="114616084" form="Ἡφαίστῳ" div_jebb_page="30" lemma="Ἥφαιστος" postag="n-s---md-" head="114616083" relation="ADV_CO"/>
+    <word id="114616085" form="γενόμενος" div_jebb_page="30" lemma="γίγνομαι" postag="v-sapmmn-" head="1000274270" relation="ADV"/>
+    <word id="114616086" form="." div_jebb_page="30" lemma="." postag="u--------" head="0" relation="AuxK"/>
+    <word id="1000274270" form="E" lemma="E" postag="z--------" head="0" relation="PRED" artificial="elliptic" div_jebb_page="30"/>
+  </sentence>
+  <sentence struct_id="750525" id="32" document_id="0284-004" analysis="auto">
+    <word id="114616087" form="κήρυκες" div_jebb_page="30" lemma="κῆρυξ" postag="n-p---mn-" head="114616089" relation="SBJ_CO"/>
+    <word id="114616088" form="δὲ" div_jebb_page="30" lemma="δέ" postag="c--------" head="114616094" relation="AuxY"/>
+    <word id="114616089" form="καὶ" div_jebb_page="30" lemma="καί" postag="c--------" head="114616094" relation="COORD"/>
+    <word id="114616090" form="Εὐμολπίδαι" div_jebb_page="30" lemma="Εὐμολπίδαι" postag="n-p---mn-" head="114616089" relation="SBJ_CO"/>
+    <word id="114616091" form="πάρεδρον" div_jebb_page="30" lemma="πάρεδρος" postag="a-s---ma-" head="114616093" relation="ATR"/>
+    <word id="114616092" form="Ἐλευσινίαις" div_jebb_page="30" lemma="Ἐλευσίνιος" postag="a-p---fd-" head="114616094" relation="OBJ"/>
+    <word id="114616093" form="αὐτὸν" div_jebb_page="30" lemma="αὐτός" postag="p-s---ma-" head="114616094" relation="OBJ"/>
+    <word id="114616094" form="ἐστήσαντο" div_jebb_page="30" lemma="ἵστημι" postag="v3paim---" head="0" relation="PRED"/>
+    <word id="114616095" form="," div_jebb_page="30" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="114616096" form="καρπῶν" div_jebb_page="30" lemma="καρπός" postag="n-p---mg-" head="114616097" relation="ATR"/>
+    <word id="114616097" form="ἔφορον" div_jebb_page="30" lemma="ἔφορος" postag="n-s---ma-" head="114616098" relation="APOS_CO"/>
+    <word id="114616098" form="καὶ" div_jebb_page="30" lemma="καί" postag="c--------" head="114616093" relation="COORD"/>
+    <word id="114616099" form="τροφῆς" div_jebb_page="30" lemma="τροφή" postag="n-s---fg-" head="114616100" relation="ATR"/>
+    <word id="114616100" form="ἀνθρώποις" div_jebb_page="30" lemma="ἄνθρωπος" postag="n-p---md-" head="114616098" relation="APOS_CO"/>
+    <word id="114616101" form="." div_jebb_page="30" lemma="." postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="750526" id="33" document_id="0284-004" analysis="auto">
+    <word id="114616102" form="ὃ" div_jebb_page="30" lemma="ὅς" postag="p-s---na-" head="114616105" relation="OBJ"/>
+    <word id="114616103" form="δὲ" div_jebb_page="30" lemma="δέ" postag="c--------" head="114616115" relation="AuxY"/>
+    <word id="114616104" form="τούτῳ" div_jebb_page="30" lemma="οὗτος" postag="p-s---nd-" head="114616105" relation="OBJ"/>
+    <word id="114616105" form="πρέπειν" div_jebb_page="30" lemma="πρέπω" postag="v--pna---" head="114616107" relation="OBJ"/>
+    <word id="114616106" form="μοι" div_jebb_page="30" lemma="ἐγώ" postag="p-s---cd-" head="114616105" relation="OBJ"/>
+    <word id="114616107" form="δοκεῖ" div_jebb_page="30" lemma="δοκέω" postag="v3spia---" head="114616115" relation="SBJ"/>
+    <word id="114616108" form="προσθεῖναι" div_jebb_page="30" lemma="προστίθημι" postag="v--ana---" head="114616107" relation="OBJ"/>
+    <word id="114616109" form="," div_jebb_page="30" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="114616110" form="μόνος" div_jebb_page="30" lemma="μόνος" postag="a-s---mn-" head="114616115" relation="ADV"/>
+    <word id="114616111" form="γὰρ" div_jebb_page="30" lemma="γάρ" postag="g--------" head="114616115" relation="AuxY"/>
+    <word id="114616112" form="τῶν" div_jebb_page="30" lemma="ὁ" postag="l-p---ng-" head="114616114" relation="ATR"/>
+    <word id="114616113" form="ἱερῶν" div_jebb_page="30" lemma="ἱερός" postag="a-p---ng-" head="114616114" relation="ATR"/>
+    <word id="114616114" form="φασμάτων" div_jebb_page="30" lemma="φάσμα" postag="n-p---ng-" head="114616110" relation="ATR"/>
+    <word id="114616115" form="ἐξεφοίτησεν" div_jebb_page="30" lemma="ἐκφοιτάω" postag="v3saia---" head="0" relation="PRED"/>
+    <word id="114616116" form="ἐν" div_jebb_page="30" lemma="ἐν" postag="r--------" head="114616115" relation="AuxP"/>
+    <word id="114616117" form="τῷ" div_jebb_page="30" lemma="ὁ" postag="l-s---md-" head="114616118" relation="ATR"/>
+    <word id="114616118" form="κινδύνῳ" div_jebb_page="30" lemma="κίνδυνος" postag="n-s---md-" head="114616116" relation="ADV"/>
+    <word id="114616119" form="τῷ" div_jebb_page="30" lemma="ὁ" postag="l-s---md-" head="114616118" relation="ATR"/>
+    <word id="114616120" form="Μηδικῷ" div_jebb_page="30" lemma="Μηδικός" postag="a-s---md-" head="114616118" relation="ATR"/>
+    <word id="114616121" form="." div_jebb_page="30" lemma="." postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="750527" id="34" document_id="0284-004" analysis="auto">
+    <word id="114616122" form="οὕτω" div_jebb_page="30" lemma="οὕτως" postag="d--------" head="114616130" relation="ADV"/>
+    <word id="114616123" form="τοῖς" div_jebb_page="30" lemma="ὁ" postag="l-p---nd-" head="114616124" relation="ATR"/>
+    <word id="114616124" form="ὅλοις" div_jebb_page="30" lemma="ὅλος" postag="a-p---nd-" head="114616125" relation="ADV"/>
+    <word id="114616125" form="φιλάνθρωπος" div_jebb_page="30" lemma="φιλάνθρωπος" postag="a-s---mn-" head="114616126" relation="PNOM"/>
+    <word id="114616126" form="ὢν" div_jebb_page="30" lemma="εἰμί" postag="v-sppamn-" head="114616130" relation="ADV"/>
+    <word id="114616127" form="ἐπὶ" div_jebb_page="30" lemma="ἐπί" postag="r--------" head="114616130" relation="AuxP"/>
+    <word id="114616128" form="τοὺς" div_jebb_page="30" lemma="ὁ" postag="l-p---ma-" head="114616129" relation="ATR"/>
+    <word id="114616129" form="Ἕλληνας" div_jebb_page="30" lemma="Ἕλλην" postag="n-p---ma-" head="114616127" relation="OBJ"/>
+    <word id="114616130" form="ῥέπει" div_jebb_page="30" lemma="ῥέπω" postag="v3spia---" head="0" relation="PRED"/>
+    <word id="114616131" form="." div_jebb_page="30" lemma="." postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="750528" id="35" document_id="0284-004" analysis="auto">
+    <word id="114616132" form="Νύμφαις" div_jebb_page="30" lemma="Νύμφη" postag="n-p---fd-" head="114616134" relation="OBJ"/>
+    <word id="114616133" form="τοίνυν" div_jebb_page="30" lemma="τοίνυν" postag="g--------" head="114616141" relation="AuxY"/>
+    <word id="114616134" form="ἀνακραθεὶς" div_jebb_page="30" lemma="ἀνακεράννυμι" postag="v-sappmn-" head="114616140" relation="ADV"/>
+    <word id="114616135" form="πολλὰ" div_jebb_page="30" lemma="πολύς" postag="a-p---na-" head="114616137" relation="OBJ_CO"/>
+    <word id="114616136" form="δὴ" div_jebb_page="30" lemma="δή" postag="g--------" head="114616141" relation="AuxY"/>
+    <word id="114616137" form="καὶ" div_jebb_page="30" lemma="καί" postag="c--------" head="114616134" relation="COORD"/>
+    <word id="114616138" form="παντοῖα" div_jebb_page="30" lemma="παντοῖος" postag="a-p---na-" head="114616137" relation="OBJ_CO"/>
+    <word id="114616139" form="ἐχόρευσέ" div_jebb_page="30" lemma="χορεύω" postag="v3saia---" head="114616152" relation="PRED_CO"/>
+    <word id="114616140" form="τε" div_jebb_page="30" lemma="τε" postag="c--------" head="114616141" relation="AuxY"/>
+    <word id="114616141" form="καὶ" div_jebb_page="30" lemma="καί" postag="c--------" head="0" relation="COORD"/>
+    <word id="114616142" form="χορεύει" div_jebb_page="30" lemma="χορεύω" postag="v3spia---" head="114616141" relation="PRED_CO"/>
+    <word id="114616143" form="κατ’" div_jebb_page="30" lemma="κατά" postag="r--------" head="114616142" relation="AuxP"/>
+    <word id="114616144" form="ἀνθρώπους" div_jebb_page="30" lemma="ἄνθρωπος" postag="n-p---ma-" head="114616143" relation="ADV"/>
+    <word id="114616145" form="," div_jebb_page="30" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="114616146" form="ἀκριβέστερον" div_jebb_page="30" lemma="ἀκριβής" postag="a-s---nac" head="114616150" relation="ADV"/>
+    <word id="114616147" form="Εὐρυκλέους" div_jebb_page="30" lemma="Εὐρυκλῆς" postag="n-s---mg-" head="114616150" relation="OBJ"/>
+    <word id="114616148" form="τα-" div_jebb_page="30" lemma="ὁ" postag="l-p---na-" head="114616149" relation="ATR"/>
+    <word id="114616149" form="τἄνδοθεν" div_jebb_page="30" lemma="ἔνδοθεν" postag="d--------" head="114616150" relation="ADV"/>
+    <word id="114616150" form="καταλαμβάνων" div_jebb_page="30" lemma="καταλαμβάνω" postag="v-sppamn-" head="114616140" relation="ADV"/>
+    <word id="114616151" form="," div_jebb_page="30" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="114616152" form="καὶ" div_jebb_page="30" lemma="καί" postag="c--------" head="114616141" relation="COORD"/>
+    <word id="114616153" form="ποιεῖ" div_jebb_page="30" lemma="ποιέω" postag="v3spia---" head="114616152" relation="PRED_CO"/>
+    <word id="114616154" form="χορευτὴν" div_jebb_page="30" lemma="χορευτής" postag="n-s---ma-" head="114616153" relation="OBJ"/>
+    <word id="114616155" form="κα-" div_jebb_page="30" lemma="καί" postag="c--------" head="114616156" relation="MWE"/>
+    <word id="114616156" form="κἂν" div_jebb_page="30" lemma="ἐάν" postag="c--------" head="114616153" relation="AuxC"/>
+    <word id="114616157" form="ἄμουσος" div_jebb_page="30" lemma="ἄμουσος" postag="a-s---mn-" head="114616158" relation="PNOM"/>
+    <word id="114616158" form="ᾖ" div_jebb_page="30" lemma="εἰμί" postag="v3spsa---" head="114616156" relation="ADV"/>
+    <word id="114616159" form="τὸ" div_jebb_page="30" lemma="ὁ" postag="l-s---na-" head="114616160" relation="ATR"/>
+    <word id="114616160" form="πρίν" div_jebb_page="30" lemma="πρίν" postag="c--------" head="114616158" relation="ADV"/>
+    <word id="114616161" form="." div_jebb_page="30" lemma="." postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="750529" id="36" document_id="0284-004" analysis="auto">
+    <word id="114616162" form="ὁ" div_jebb_page="30" lemma="ὁ" postag="l-s---mn-" head="114616165" relation="SBJ"/>
+    <word id="114616163" form="δὲ" div_jebb_page="30" lemma="δέ" postag="c--------" head="114616165" relation="AuxY"/>
+    <word id="114616164" form="σκιρτᾷ" div_jebb_page="30" lemma="σκιρτάω" postag="v3spia---" head="114616172" relation="PRED_CO"/>
+    <word id="114616165" form="τε" div_jebb_page="30" lemma="τε" postag="c--------" head="114616172" relation="AuxY"/>
+    <word id="114616166" form="καὶ" div_jebb_page="30" lemma="καί" postag="c--------" head="114616165" relation="AuxY"/>
+    <word id="114616167" form="παίζει" div_jebb_page="30" lemma="παίζω" postag="v3spia---" head="114616172" relation="PRED_CO"/>
+    <word id="114616168" form="καὶ" div_jebb_page="30" lemma="καί" postag="c--------" head="114616172" relation="AuxY"/>
+    <word id="114616169" form="μελῳδεῖν" div_jebb_page="30" lemma="μελῳδέω" postag="v--pna---" head="114616170" relation="OBJ"/>
+    <word id="114616170" form="ἐθέλει" div_jebb_page="30" lemma="ἐθέλω" postag="v3spia---" head="114616172" relation="PRED_CO"/>
+    <word id="114616171" form="," div_jebb_page="30" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="114616172" form="καὶ" div_jebb_page="30" lemma="καί" postag="c--------" head="0" relation="COORD"/>
+    <word id="114616173" form="ταῦτα" div_jebb_page="30" lemma="οὗτος" postag="p-p---na-" head="1000274271" relation="OBJ"/>
+    <word id="114616174" form="μέντοι" div_jebb_page="30" lemma="μέντοι" postag="g--------" head="1000274271" relation="AuxY"/>
+    <word id="114616175" form="ἀπὸ" div_jebb_page="30" lemma="ἀπό" postag="r--------" head="1000274271" relation="AuxP"/>
+    <word id="114616176" form="κλίνης" div_jebb_page="30" lemma="κλίνη" postag="n-s---fg-" head="114616177" relation="ADV_CO"/>
+    <word id="114616177" form="καὶ" div_jebb_page="30" lemma="καί" postag="c--------" head="114616175" relation="COORD"/>
+    <word id="114616178" form="σκίμποδος" div_jebb_page="30" lemma="σκίμπους" postag="a-s---fg-" head="114616177" relation="ADV_CO"/>
+    <word id="114616179" form="." div_jebb_page="30" lemma="." postag="u--------" head="0" relation="AuxK"/>
+    <word id="1000274271" form="E" lemma="E" postag="z--------" head="114616172" relation="PRED_CO" artificial="elliptic" div_jebb_page="30"/>
+  </sentence>
+  <sentence struct_id="750530" id="37" document_id="0284-004" analysis="auto">
+    <word id="114616180" form="οὕτως" div_jebb_page="30" lemma="οὕτως" postag="d--------" head="114616186" relation="ADV"/>
+    <word id="114616181" form="πᾶν" div_jebb_page="30" lemma="πᾶς" postag="p-s---na-" head="114616182" relation="OBJ"/>
+    <word id="114616182" form="δρᾶν" div_jebb_page="30" lemma="δράω" postag="v--pna---" head="114616186" relation="SBJ"/>
+    <word id="114616183" form="ὁ" div_jebb_page="30" lemma="ὁ" postag="l-s---mn-" head="114616184" relation="ATR"/>
+    <word id="114616184" form="θεὸς" div_jebb_page="30" lemma="θεός" postag="n-s---mn-" head="114616186" relation="SBJ"/>
+    <word id="114616185" form="πεφυκώς" div_jebb_page="30" lemma="φύω" postag="v-srpamn-" head="114616186" relation="PNOM"/>
+    <word id="114616186" form="ἐστιν" div_jebb_page="30" lemma="εἰμί" postag="v3spia---" head="0" relation="PRED"/>
+    <word id="114616187" form="." div_jebb_page="30" lemma="." postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="750531" id="38" document_id="0284-004" analysis="auto">
+    <word id="114616188" form="ὁ" div_jebb_page="30" lemma="ὁ" postag="l-s---mn-" head="114616193" relation="ATR"/>
+    <word id="114616189" form="δὲ" div_jebb_page="30" lemma="δέ" postag="c--------" head="114616206" relation="AuxY"/>
+    <word id="114616190" form="θαυμαστὸς" div_jebb_page="30" lemma="θαυμαστός" postag="a-s---mn-" head="114616193" relation="ATR"/>
+    <word id="114616191" form="ἀνθρώπων" div_jebb_page="30" lemma="ἄνθρωπος" postag="n-p---mg-" head="114616192" relation="ATR"/>
+    <word id="114616192" form="τύραννος" div_jebb_page="30" lemma="τύραννος" postag="n-s---mn-" head="114616193" relation="ATR"/>
+    <word id="114616193" form="Ἔρως" div_jebb_page="30" lemma="Ἔρως" postag="n-s---mn-" head="114616200" relation="SBJ"/>
+    <word id="114616194" form="ἐκ" div_jebb_page="30" lemma="ἐκ" postag="r--------" head="114616197" relation="AuxP"/>
+    <word id="114616195" form="Διονύσου" div_jebb_page="30" lemma="Διόνυσος" postag="n-s---mg-" head="114616196" relation="ATR"/>
+    <word id="114616196" form="πηγῶν" div_jebb_page="30" lemma="πηγή" postag="n-p---fg-" head="114616194" relation="ADV"/>
+    <word id="114616197" form="ἀρυσάμενος" div_jebb_page="30" lemma="ἀρύω" postag="v-sapmmn-" head="114616200" relation="ADV"/>
+    <word id="114616198" form="γῆν" div_jebb_page="30" lemma="γῆ" postag="n-s---fa-" head="114616200" relation="OBJ"/>
+    <word id="114616199" form="ἅπασαν" div_jebb_page="30" lemma="ἅπας" postag="p-s---fa-" head="114616198" relation="ATR"/>
+    <word id="114616200" form="ἐπέρχεται" div_jebb_page="30" lemma="ἐπέρχομαι" postag="v3spim---" head="114616215" relation="PRED_CO"/>
+    <word id="114616201" form="προηγητῇ" div_jebb_page="30" lemma="προηγητής" postag="n-s---md-" head="114616202" relation="ATR"/>
+    <word id="114616202" form="Διονύσῳ" div_jebb_page="30" lemma="Διόνυσος" postag="n-s---md-" head="114616203" relation="OBJ"/>
+    <word id="114616203" form="χρώμενος" div_jebb_page="30" lemma="χράω" postag="v-sppmmn-" head="114616200" relation="ADV"/>
+    <word id="114616204" form="," div_jebb_page="30" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="114616205" form="οὐ" div_jebb_page="30" lemma="οὐ" postag="d--------" head="114616208" relation="AuxZ"/>
+    <word id="114616206" form="-δ’" div_jebb_page="30" lemma="δέ" postag="c--------" head="114616215" relation="AuxY"/>
+    <word id="114616207" form="αὐτῷ" div_jebb_page="30" lemma="αὐτός" postag="p-s---md-" head="1000274272" relation="OBJ"/>
+    <word id="114616208" form="θᾶκοι" div_jebb_page="30" lemma="θᾶκος" postag="n-p---mn-" head="114616215" relation="SBJ_CO"/>
+    <word id="114616209" form="τούτου" div_jebb_page="30" lemma="οὗτος" postag="p-s---ng-" head="114616210" relation="ADV"/>
+    <word id="114616210" form="χωρὶς" div_jebb_page="30" lemma="χωρίς" postag="r--------" head="1000274272" relation="AuxP"/>
+    <word id="114616211" form="οὐ" div_jebb_page="30" lemma="οὐ" postag="d--------" head="114616213" relation="AuxZ"/>
+    <word id="114616212" form="-δ’" div_jebb_page="30" lemma="δέ" postag="c--------" head="114616215" relation="AuxY"/>
+    <word id="114616213" form="ἔργα" div_jebb_page="30" lemma="ἔργον" postag="n-p---nn-" head="114616215" relation="SBJ_CO"/>
+    <word id="114616214" form="οὐ" div_jebb_page="30" lemma="οὐ" postag="d--------" head="114616216" relation="AuxZ"/>
+    <word id="114616215" form="-δ’" div_jebb_page="30" lemma="δέ" postag="c--------" head="0" relation="COORD"/>
+    <word id="114616216" form="εὐναί" div_jebb_page="30" lemma="εὐνή" postag="n-p---fn-" head="114616215" relation="SBJ_CO"/>
+    <word id="114616217" form="." div_jebb_page="30" lemma="." postag="u--------" head="0" relation="AuxK"/>
+    <word id="1000274272" form="E" lemma="E" postag="z--------" head="114616215" relation="PRED_CO" artificial="elliptic" div_jebb_page="30"/>
+  </sentence>
+  <sentence struct_id="750532" id="39" document_id="0284-004" analysis="auto">
+    <word id="114616218" form="νυκτὸς" div_jebb_page="30" lemma="νύξ" postag="n-s---fg-" head="114616220" relation="ATR_CO"/>
+    <word id="114616219" form="τοίνυν" div_jebb_page="30" lemma="τοίνυν" postag="g--------" head="114616223" relation="AuxY"/>
+    <word id="114616220" form="καὶ" div_jebb_page="30" lemma="καί" postag="c--------" head="114616222" relation="COORD"/>
+    <word id="114616221" form="ἡμέρας" div_jebb_page="30" lemma="ἡμέρα" postag="n-s---fg-" head="114616220" relation="ATR_CO"/>
+    <word id="114616222" form="πέρατα" div_jebb_page="30" lemma="πέρας" postag="n-p---na-" head="114616223" relation="OBJ"/>
+    <word id="114616223" form="ἐπισκοπεῖ" div_jebb_page="30" lemma="ἐπισκοπέω" postag="v3spia---" head="0" relation="PRED"/>
+    <word id="114616224" form="," div_jebb_page="30" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="114616225" form="τὴν" div_jebb_page="30" lemma="ὁ" postag="l-s---fa-" head="114616227" relation="ATR"/>
+    <word id="114616226" form="μὲν" div_jebb_page="30" lemma="μέν" postag="g--------" head="114616238" relation="AuxY"/>
+    <word id="114616227" form="ἡμέραν" div_jebb_page="31" lemma="ἡμέρα" postag="n-s---fa-" head="114616235" relation="ADV"/>
+    <word id="114616228" form="αὐτὸς" div_jebb_page="31" lemma="αὐτός" postag="p-s---mn-" head="114616235" relation="ADV"/>
+    <word id="114616229" form="δᾳδοῦχός" div_jebb_page="31" lemma="δᾳδοῦχος" postag="n-s---mn-" head="114616231" relation="PNOM_CO"/>
+    <word id="114616230" form="τε" div_jebb_page="31" lemma="τε" postag="c--------" head="114616231" relation="AuxY"/>
+    <word id="114616231" form="καὶ" div_jebb_page="31" lemma="καί" postag="c--------" head="114616235" relation="COORD"/>
+    <word id="114616232" form="ἡγεμὼν" div_jebb_page="31" lemma="ἡγεμών" postag="n-s---mn-" head="114616231" relation="PNOM_CO"/>
+    <word id="114616233" form="τῆς" div_jebb_page="31" lemma="ὁ" postag="l-s---fg-" head="114616234" relation="ATR"/>
+    <word id="114616234" form="ὄψεως" div_jebb_page="31" lemma="ὄψις" postag="n-s---fg-" head="114616232" relation="ATR"/>
+    <word id="114616235" form="γιγνόμενος" div_jebb_page="31" lemma="γίγνομαι" postag="v-sppmmn-" head="114616238" relation="ADV_CO"/>
+    <word id="114616236" form="," div_jebb_page="31" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="114616237" form="τὴν" div_jebb_page="31" lemma="ὁ" postag="l-s---fa-" head="114616239" relation="ATR"/>
+    <word id="114616238" form="δὲ" div_jebb_page="31" lemma="δέ" postag="c--------" head="114616223" relation="COORD"/>
+    <word id="114616239" form="νύκτα" div_jebb_page="31" lemma="νύξ" postag="n-s---fa-" head="114616241" relation="ADV"/>
+    <word id="114616240" form="ἑτέροις" div_jebb_page="31" lemma="ἕτερος" postag="p-p---md-" head="114616241" relation="OBJ"/>
+    <word id="114616241" form="παριείς" div_jebb_page="31" lemma="παρίημι" postag="v-sppamn-" head="114616238" relation="ADV_CO"/>
+    <word id="114616242" form="·" div_jebb_page="31" lemma="·" postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="750533" id="40" document_id="0284-004" analysis="auto">
+    <word id="114616243" form="ἀργῶν" div_jebb_page="31" lemma="ἀργέω" postag="v-sppamn-" head="114616258" relation="ADV"/>
+    <word id="114616244" form="δ’" div_jebb_page="31" lemma="δέ" postag="c--------" head="114616251" relation="AuxY"/>
+    <word id="114616245" form="ὅμως" div_jebb_page="31" lemma="ὅμως" postag="d--------" head="114616243" relation="ADV"/>
+    <word id="114616246" form="οὐ" div_jebb_page="31" lemma="οὐ" postag="d--------" head="114616248" relation="AuxZ"/>
+    <word id="114616247" form="-δ’" div_jebb_page="31" lemma="δέ" postag="c--------" head="114616246" relation="MWE"/>
+    <word id="114616248" form="οὕτως" div_jebb_page="31" lemma="οὕτως" postag="d--------" head="114616243" relation="ADV"/>
+    <word id="114616249" form="," div_jebb_page="31" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="114616250" form="ἀεὶ" div_jebb_page="31" lemma="ἀεί" postag="d--------" head="114616258" relation="ADV"/>
+    <word id="114616251" form="δ’" div_jebb_page="31" lemma="δέ" postag="c--------" head="114616258" relation="AuxY"/>
+    <word id="114616252" form="ἐν" div_jebb_page="31" lemma="ἐν" postag="r--------" head="114616258" relation="AuxP"/>
+    <word id="114616253" form="φορᾷ" div_jebb_page="31" lemma="φορά" postag="n-s---fd-" head="114616254" relation="ADV_CO"/>
+    <word id="114616254" form="καὶ" div_jebb_page="31" lemma="καί" postag="c--------" head="114616252" relation="COORD"/>
+    <word id="114616255" form="κινήσει" div_jebb_page="31" lemma="κίνησις" postag="n-s---fd-" head="114616254" relation="ADV_CO"/>
+    <word id="114616256" form="τὸν" div_jebb_page="31" lemma="ὁ" postag="l-s---ma-" head="114616257" relation="ATR"/>
+    <word id="114616257" form="αἰῶνα" div_jebb_page="31" lemma="αἰών" postag="n-s---ma-" head="114616258" relation="ADV"/>
+    <word id="114616258" form="διεξέρχεται" div_jebb_page="31" lemma="διεξέρχομαι" postag="v3spim---" head="0" relation="PRED"/>
+    <word id="114616259" form="." div_jebb_page="31" lemma="." postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="750534" id="41" document_id="0284-004" analysis="auto">
+    <word id="114616260" form="πρεσβύτατος" div_jebb_page="31" lemma="πρέσβυς" postag="a-s---mns" head="114616265" relation="PNOM_CO"/>
+    <word id="114616261" form="δὲ" div_jebb_page="31" lemma="δέ" postag="c--------" head="114616270" relation="AuxY"/>
+    <word id="114616262" form="ὢν" div_jebb_page="31" lemma="εἰμί" postag="v-sppamn-" head="114616267" relation="ADV"/>
+    <word id="114616263" form="θεῶν" div_jebb_page="31" lemma="θεός" postag="n-p---mg-" head="114616260" relation="ATR"/>
+    <word id="114616264" form="αὐτὸς" div_jebb_page="31" lemma="αὐτός" postag="p-s---mn-" head="114616267" relation="SBJ"/>
+    <word id="114616265" form="καὶ" div_jebb_page="31" lemma="καί" postag="c--------" head="114616262" relation="COORD"/>
+    <word id="114616266" form="νεώτατός" div_jebb_page="31" lemma="νέος" postag="a-s---mns" head="114616265" relation="PNOM_CO"/>
+    <word id="114616267" form="ἐστι" div_jebb_page="31" lemma="εἰμί" postag="v3spia---" head="114616270" relation="PRED_CO"/>
+    <word id="114616268" form="," div_jebb_page="31" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="114616269" form="τῆς" div_jebb_page="31" lemma="ὁ" postag="l-s---fg-" head="114616273" relation="ATR"/>
+    <word id="114616270" form="δ’" div_jebb_page="31" lemma="δέ" postag="c--------" head="0" relation="COORD"/>
+    <word id="114616271" form="ἀεὶ" div_jebb_page="31" lemma="ἀεί" postag="d--------" head="114616272" relation="ADV"/>
+    <word id="114616272" form="παρούσης" div_jebb_page="31" lemma="πάρειμι" postag="v-sppafg-" head="114616273" relation="ATR"/>
+    <word id="114616273" form="ὥρας" div_jebb_page="31" lemma="ὥρα" postag="n-s---fg-" head="114616274" relation="ADV_CO"/>
+    <word id="114616274" form="καὶ" div_jebb_page="31" lemma="καί" postag="c--------" head="114616276" relation="COORD"/>
+    <word id="114616275" form="μοίρας" div_jebb_page="31" lemma="μοῖρα" postag="n-s---fg-" head="114616274" relation="ADV_CO"/>
+    <word id="114616276" form="φίλος" div_jebb_page="31" lemma="φίλος" postag="a-s---mn-" head="1000274273" relation="PNOM"/>
+    <word id="114616277" form="." div_jebb_page="31" lemma="." postag="u--------" head="0" relation="AuxK"/>
+    <word id="1000274273" form="E" lemma="E" postag="z--------" head="114616270" relation="PRED_CO" artificial="elliptic" div_jebb_page="31"/>
+  </sentence>
+  <sentence struct_id="750535" id="42" document_id="0284-004" analysis="auto">
+    <word id="114616278" form="καί" div_jebb_page="31" lemma="καί" postag="c--------" head="1000274274" relation="AuxY"/>
+    <word id="114616279" form="μοι" div_jebb_page="31" lemma="ἐγώ" postag="p-s---cd-" head="114616280" relation="OBJ"/>
+    <word id="114616280" form="χαίρειν" div_jebb_page="31" lemma="χαίρω" postag="v--pna---" head="1000274274" relation="OBJ"/>
+    <word id="114616281" form="ἤδη" div_jebb_page="31" lemma="ἤδη" postag="d--------" head="114616280" relation="ADV"/>
+    <word id="114616282" form="τὸν" div_jebb_page="31" lemma="ὁ" postag="l-s---ma-" head="114616283" relation="ATR"/>
+    <word id="114616283" form="Ἴακχόν" div_jebb_page="31" lemma="Ἴακχος" postag="n-s---ma-" head="114616285" relation="SBJ_CO"/>
+    <word id="114616284" form="τε" div_jebb_page="31" lemma="τε" postag="c--------" head="114616285" relation="AuxY"/>
+    <word id="114616285" form="καὶ" div_jebb_page="31" lemma="καί" postag="c--------" head="114616280" relation="COORD"/>
+    <word id="114616286" form="τὰ" div_jebb_page="31" lemma="ὁ" postag="l-p---na-" head="114616287" relation="ATR"/>
+    <word id="114616287" form="πολλὰ" div_jebb_page="31" lemma="πολύς" postag="a-p---na-" head="114616285" relation="SBJ_CO"/>
+    <word id="114616288" form="δὴ" div_jebb_page="31" lemma="δή" postag="g--------" head="114616290" relation="AuxY"/>
+    <word id="114616289" form="ταῦτα" div_jebb_page="31" lemma="οὗτος" postag="p-p---na-" head="114616290" relation="OBJ"/>
+    <word id="114616290" form="κεκλημένον" div_jebb_page="31" lemma="καλέω" postag="v-srpmma-" head="114616283" relation="CO"/>
+    <word id="114616291" form="." div_jebb_page="31" lemma="." postag="u--------" head="0" relation="AuxK"/>
+    <word id="1000274274" form="E" lemma="E" postag="z--------" head="0" relation="PRED" artificial="elliptic" div_jebb_page="31"/>
+  </sentence>
+  <sentence struct_id="750536" id="43" document_id="0284-004" analysis="auto">
+    <word id="114616292" form="πλήρης" div_jebb_page="31" lemma="πλήρης" postag="a-s---fn-" head="1000274275" relation="PNOM"/>
+    <word id="114616293" form="γὰρ" div_jebb_page="31" lemma="γάρ" postag="g--------" head="1000274275" relation="AuxY"/>
+    <word id="114616294" form="ὡς" div_jebb_page="31" lemma="ὡς" postag="c--------" head="114616292" relation="AuxC"/>
+    <word id="114616295" form="τὰ" div_jebb_page="31" lemma="ὁ" postag="l-p---na-" head="114616296" relation="ATR"/>
+    <word id="114616296" form="νῦν" div_jebb_page="31" lemma="νῦν" postag="d--------" head="1000274275" relation="ADV"/>
+    <word id="114616297" form="ἡ" div_jebb_page="31" lemma="ὁ" postag="l-s---fn-" head="114616298" relation="ATR"/>
+    <word id="114616298" form="φιλοτησία" div_jebb_page="31" lemma="φιλοτήσιος" postag="a-s---fn-" head="1000274275" relation="SBJ"/>
+    <word id="114616299" form="." div_jebb_page="31" lemma="." postag="u--------" head="0" relation="AuxK"/>
+    <word id="1000274275" form="E" lemma="E" postag="z--------" head="0" relation="PRED" artificial="elliptic" div_jebb_page="31"/>
+  </sentence>
+</treebank>

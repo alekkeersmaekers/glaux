@@ -1,0 +1,28 @@
+<treebank version="2" xml:lang="grc">
+  <sentence struct_id="178064" id="1" document_id="0630-002" analysis="auto">
+    <word id="102946246" form="Ζὰς" lemma="Ζάς" postag="n-s---mn-" head="102946252" relation="SBJ_CO"/>
+    <word id="102946247" form="μὲν" lemma="μέν" postag="g--------" head="102946250" relation="AuxY"/>
+    <word id="102946248" form="καὶ" lemma="καί" postag="c--------" head="102946252" relation="AuxY"/>
+    <word id="102946249" form="Χρόνος" lemma="Χρόνος" postag="n-s---mn-" head="102946252" relation="SBJ_CO"/>
+    <word id="102946250" form="ἦσαν" lemma="εἰμί" postag="v3piia---" head="0" relation="PRED"/>
+    <word id="102946251" form="ἀεὶ" lemma="ἀεί" postag="d--------" head="102946250" relation="ADV"/>
+    <word id="102946252" form="καὶ" lemma="καί" postag="c--------" head="102946250" relation="COORD"/>
+    <word id="102946253" form="Χθονίη" lemma="Χθονίη" postag="n-s---fn-" head="102946252" relation="SBJ_CO"/>
+    <word id="102946254" form="·" lemma="·" postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="178065" id="2" document_id="0630-002" analysis="auto">
+    <word id="102946255" form="Χθονίῃ" lemma="Χθονίη" postag="n-s---fd-" head="102946258" relation="OBJ"/>
+    <word id="102946256" form="δὲ" lemma="δέ" postag="c--------" head="102946258" relation="AuxY"/>
+    <word id="102946257" form="ὄνομα" lemma="ὄνομα" postag="n-s---nn-" head="102946258" relation="SBJ"/>
+    <word id="102946258" form="ἐγένετο" lemma="γίγνομαι" postag="v3saim---" head="0" relation="PRED"/>
+    <word id="102946259" form="Γῆ" lemma="Γῆ" postag="n-s---fn-" head="102946258" relation="SBJ"/>
+    <word id="102946260" form="," lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="102946261" form="ἐπειδὴ" lemma="ἐπειδή" postag="c--------" head="102946258" relation="AuxC"/>
+    <word id="102946262" form="αὐτῇ" lemma="αὐτός" postag="p-s---fd-" head="102946266" relation="OBJ"/>
+    <word id="102946263" form="Ζὰς" lemma="Ζάς" postag="n-s---mn-" head="102946266" relation="SBJ"/>
+    <word id="102946264" form="γῆν" lemma="γῆ" postag="n-s---fa-" head="102946266" relation="OBJ"/>
+    <word id="102946265" form="γέρας" lemma="γέρας" postag="n-s---na-" head="102946264" relation="ATR"/>
+    <word id="102946266" form="διδοῖ" lemma="δίδωμι" postag="v3spia---" head="102946261" relation="ADV"/>
+    <word id="102946267" form="." lemma="." postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+</treebank>

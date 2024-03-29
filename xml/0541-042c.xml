@@ -1,0 +1,236 @@
+<treebank version="2" xml:lang="grc">
+  <sentence struct_id="295338" id="1" document_id="0541-042c" analysis="auto">
+    <word id="105110469" form="ἀρχὴν" line="1" div_sentence="1" lemma="ἀρχή" postag="n-s---fa-" head="105110471" relation="OBJ_CO"/>
+    <word id="105110470" form="ἁπάντων" line="1" div_sentence="1" lemma="ἅπας" postag="p-p---ng-" head="105110469" relation="ATR"/>
+    <word id="105110471" form="καὶ" line="1" div_sentence="1" lemma="καί" postag="c--------" head="105110473" relation="COORD"/>
+    <word id="105110472" form="τέλος" line="1" div_sentence="1" lemma="τέλος" postag="n-s---na-" head="105110471" relation="OBJ_CO"/>
+    <word id="105110473" form="ποιοῦ" line="1" div_sentence="1" lemma="ποιέω" postag="v2spmm---" head="0" relation="PRED"/>
+    <word id="105110474" form="Θεόν" line="1" div_sentence="1" lemma="θεός" postag="n-s---ma-" head="105110473" relation="OBJ"/>
+    <word id="105110475" form="." line="1" div_sentence="1" lemma="." postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="295339" id="2" document_id="0541-042c" analysis="auto">
+    <word id="105110476" form="βίου" line="1" div_sentence="2" lemma="βίος" postag="n-s---mg-" head="105110478" relation="ATR"/>
+    <word id="105110477" form="τὸ" line="1" div_sentence="2" lemma="ὁ" postag="l-s---nn-" head="105110478" relation="ATR"/>
+    <word id="105110478" form="κέρδος" line="1" div_sentence="2" lemma="κέρδος" postag="n-s---nn-" head="1000309316" relation="SBJ"/>
+    <word id="105110479" form="εὖ" line="1" div_sentence="2" lemma="εὖ" postag="d--------" head="105110480" relation="ADV"/>
+    <word id="105110480" form="βιοῦν" line="1" div_sentence="2" lemma="βιόω" postag="v--pna---" head="1000309316" relation="OBJ"/>
+    <word id="105110481" form="καθ’" line="1" div_sentence="2" lemma="κατά" postag="r--------" head="105110480" relation="AuxP"/>
+    <word id="105110482" form="ἡμέραν" line="1" div_sentence="2" lemma="ἡμέρα" postag="n-s---fa-" head="105110481" relation="ADV"/>
+    <word id="105110483" form="." line="1" div_sentence="2" lemma="." postag="u--------" head="0" relation="AuxK"/>
+    <word id="1000309316" form="E" lemma="E" postag="z--------" head="0" relation="PRED" artificial="elliptic" line="1" div_sentence="2"/>
+  </sentence>
+  <sentence struct_id="295340" id="3" document_id="0541-042c" analysis="auto">
+    <word id="105110484" form="γίνωσκε" line="1" div_sentence="3" lemma="γιγνώσκω" postag="v2spma---" head="0" relation="PRED"/>
+    <word id="105110485" form="πάντα" line="1" div_sentence="3" lemma="πᾶς" postag="p-p---na-" head="105110489" relation="ATR"/>
+    <word id="105110486" form="τῶν" line="1" div_sentence="3" lemma="ὁ" postag="l-p---mg-" head="105110487" relation="ATR"/>
+    <word id="105110487" form="καλῶν" line="1" div_sentence="3" lemma="καλός" postag="a-p---mg-" head="105110489" relation="ATR"/>
+    <word id="105110488" form="τὰ" line="1" div_sentence="3" lemma="ὁ" postag="l-p---na-" head="105110489" relation="ATR"/>
+    <word id="105110489" form="δράματα" line="1" div_sentence="3" lemma="δρᾶμα" postag="n-p---na-" head="105110484" relation="OBJ"/>
+    <word id="105110490" form="." line="1" div_sentence="3" lemma="." postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="295341" id="4" document_id="0541-042c" analysis="auto">
+    <word id="105110491" form="δεινὸν" line="1" div_sentence="4" lemma="δεινός" postag="a-s---nn-" head="1000309317" relation="PNOM"/>
+    <word id="105110492" form="πένεσθαι" line="1" div_sentence="4" lemma="πένομαι" postag="v--pnm---" head="1000309317" relation="SBJ"/>
+    <word id="105110493" form="," line="1" div_sentence="4" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="105110494" form="χεῖρον" line="1" div_sentence="4" lemma="κακός" postag="a-s---nnc" head="1000309317" relation="PNOM"/>
+    <word id="105110495" form="δ’" line="1" div_sentence="4" lemma="δέ" postag="c--------" head="1000309317" relation="AuxY"/>
+    <word id="105110496" form="εὐπορεῖν" line="1" div_sentence="4" lemma="εὐπορέω" postag="v--pna---" head="1000309317" relation="SBJ"/>
+    <word id="105110497" form="κακῶς" line="1" div_sentence="4" lemma="κακός" postag="d--------" head="105110496" relation="ADV"/>
+    <word id="105110498" form="." line="1" div_sentence="4" lemma="." postag="u--------" head="0" relation="AuxK"/>
+    <word id="1000309317" form="E" lemma="E" postag="z--------" head="0" relation="PRED" artificial="elliptic" line="1" div_sentence="4"/>
+  </sentence>
+  <sentence struct_id="295342" id="5" document_id="0541-042c" analysis="auto">
+    <word id="105110499" form="εὐεργετῶν" line="1" div_sentence="5" lemma="εὐεργετέω" postag="v-sppamn-" head="105110500" relation="ADV"/>
+    <word id="105110500" form="νόμιζε" line="1" div_sentence="5" lemma="νομίζω" postag="v2spma---" head="0" relation="PRED"/>
+    <word id="105110501" form="μιμεῖσθαι" line="1" div_sentence="5" lemma="μιμέομαι" postag="v--pnm---" head="105110500" relation="OBJ"/>
+    <word id="105110502" form="Θεόν" line="1" div_sentence="5" lemma="θεός" postag="n-s---ma-" head="105110501" relation="SBJ"/>
+    <word id="105110503" form="." line="1" div_sentence="5" lemma="." postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="295343" id="6" document_id="0541-042c" analysis="auto">
+    <word id="105110504" form="ζήτει" line="1" div_sentence="6" lemma="ζητέω" postag="v2spma---" head="0" relation="PRED"/>
+    <word id="105110505" form="θεοῦ" line="1" div_sentence="6" lemma="θεός" postag="n-s---mg-" head="105110507" relation="ATR"/>
+    <word id="105110506" form="σοι" line="1" div_sentence="6" lemma="σύ" postag="p-s---cd-" head="105110504" relation="OBJ"/>
+    <word id="105110507" form="χρηστότητα" line="1" div_sentence="6" lemma="χρηστότης" postag="n-s---fa-" head="105110509" relation="OBJ"/>
+    <word id="105110508" form="χρηστὸς" line="1" div_sentence="6" lemma="χρηστός" postag="a-s---mn-" head="105110509" relation="PNOM"/>
+    <word id="105110509" form="ὤν" line="1" div_sentence="6" lemma="εἰμί" postag="v-sppamn-" head="105110504" relation="ADV"/>
+    <word id="105110510" form="." line="1" div_sentence="6" lemma="." postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="295344" id="7" document_id="0541-042c" analysis="auto">
+    <word id="105110511" form="ἡ" line="1" div_sentence="7" lemma="ὁ" postag="l-s---fn-" head="105110512" relation="ATR"/>
+    <word id="105110512" form="σὰρξ" line="1" div_sentence="7" lemma="σάρξ" postag="n-s---fn-" head="105110514" relation="SBJ"/>
+    <word id="105110513" form="κρατείσθω" line="1" div_sentence="7" lemma="κρατέω" postag="v3spmm---" head="105110514" relation="PRED_CO"/>
+    <word id="105110514" form="καὶ" line="1" div_sentence="7" lemma="καί" postag="c--------" head="0" relation="COORD"/>
+    <word id="105110515" form="δαμαζέσθω" line="1" div_sentence="7" lemma="δαμάζω" postag="v3spmm---" head="105110514" relation="PRED_CO"/>
+    <word id="105110516" form="καλῶς" line="1" div_sentence="7" lemma="καλός" postag="d--------" head="105110515" relation="ADV"/>
+    <word id="105110517" form="." line="1" div_sentence="7" lemma="." postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="295345" id="8" document_id="0541-042c" analysis="auto">
+    <word id="105110518" form="θυμὸν" line="1" div_sentence="8" lemma="θυμός" postag="n-s---ma-" head="105110519" relation="OBJ"/>
+    <word id="105110519" form="χαλίνου" line="1" div_sentence="8" lemma="χαλινόω" postag="v2spma---" head="0" relation="PRED"/>
+    <word id="105110520" form="," line="1" div_sentence="8" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="105110521" form="μὴ" line="1" div_sentence="8" lemma="μή" postag="d--------" head="105110519" relation="AuxC"/>
+    <word id="105110522" form="φρενῶν" line="1" div_sentence="8" lemma="φρήν" postag="n-p---fg-" head="105110523" relation="OBJ"/>
+    <word id="105110523" form="ἔξω" line="1" div_sentence="8" lemma="ἔξω" postag="d--------" head="105110524" relation="AuxP"/>
+    <word id="105110524" form="πέσῃς" line="1" div_sentence="8" lemma="πίπτω" postag="v2sasa---" head="105110521" relation="ADV"/>
+    <word id="105110525" form="." line="1" div_sentence="8" lemma="." postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="295346" id="9" document_id="0541-042c" analysis="auto">
+    <word id="105110526" form="ἵστη" line="1" div_sentence="9" lemma="ἵστημι" postag="v3siia---" head="105110531" relation="PRED_CO"/>
+    <word id="105110527" form="μὲν" line="1" div_sentence="9" lemma="μέν" postag="g--------" head="105110531" relation="AuxY"/>
+    <word id="105110528" form="ὄμμα" line="1" div_sentence="9" lemma="ὄμμα" postag="n-s---nn-" head="105110526" relation="SBJ"/>
+    <word id="105110529" form="," line="1" div_sentence="9" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="105110530" form="γλῶσσα" line="1" div_sentence="9" lemma="γλῶσσα" postag="n-s---fn-" head="105110533" relation="SBJ"/>
+    <word id="105110531" form="δὲ" line="1" div_sentence="9" lemma="δέ" postag="c--------" head="0" relation="COORD"/>
+    <word id="105110532" form="στάθμην" line="1" div_sentence="9" lemma="στάθμη" postag="n-s---fa-" head="105110533" relation="OBJ"/>
+    <word id="105110533" form="ἔχοι" line="1" div_sentence="9" lemma="ἔχω" postag="v3spoa---" head="105110531" relation="PRED_CO"/>
+    <word id="105110534" form="." line="1" div_sentence="9" lemma="." postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="295347" id="10" document_id="0541-042c" analysis="auto">
+    <word id="105110535" form="κλεὶς" line="1" div_sentence="10" lemma="κλείς" postag="n-s---fn-" head="105110537" relation="SBJ"/>
+    <word id="105110536" form="ὠσὶ" line="1" div_sentence="10" lemma="οὖς" postag="n-p---nd-" head="105110537" relation="ADV"/>
+    <word id="105110537" form="κείσθω" line="1" div_sentence="10" lemma="κεῖμαι" postag="v3spmm---" head="105110540" relation="PRED_CO"/>
+    <word id="105110538" form="," line="1" div_sentence="10" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="105110539" form="μη" line="1" div_sentence="10" lemma="μή" postag="d--------" head="105110541" relation="AuxZ"/>
+    <word id="105110540" form="-δὲ" line="1" div_sentence="10" lemma="δέ" postag="c--------" head="0" relation="COORD"/>
+    <word id="105110541" form="πορνεύοι" line="1" div_sentence="10" lemma="πορνεύω" postag="v3spoa---" head="105110540" relation="PRED_CO"/>
+    <word id="105110542" form="γέλως" line="1" div_sentence="10" lemma="γέλως" postag="n-s---mn-" head="105110541" relation="SBJ"/>
+    <word id="105110543" form="." line="1" div_sentence="10" lemma="." postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="295348" id="11" document_id="0541-042c" analysis="auto">
+    <word id="105110544" form="λύχνος" line="1" div_sentence="11" lemma="λύχνος" postag="n-s---mn-" head="105110548" relation="SBJ"/>
+    <word id="105110545" form="βίου" line="1" div_sentence="11" lemma="βίος" postag="n-s---mg-" head="105110544" relation="ATR"/>
+    <word id="105110546" form="σοι" line="1" div_sentence="11" lemma="σύ" postag="p-s---cd-" head="105110548" relation="OBJ"/>
+    <word id="105110547" form="παντὸς" line="1" div_sentence="11" lemma="πᾶς" postag="p-s---mg-" head="105110545" relation="ATR"/>
+    <word id="105110548" form="ἡγείσθω" line="1" div_sentence="11" lemma="ἡγέομαι" postag="v3spmm---" head="0" relation="PRED"/>
+    <word id="105110549" form="λόγος" line="1" div_sentence="11" lemma="λόγος" postag="n-s---mn-" head="105110548" relation="SBJ"/>
+    <word id="105110550" form="." line="1" div_sentence="11" lemma="." postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="295349" id="12" document_id="0541-042c" analysis="auto">
+    <word id="105110551" form="μή" line="1" div_sentence="12" lemma="μή" postag="d--------" head="105110557" relation="AuxZ"/>
+    <word id="105110552" form="σοι" line="1" div_sentence="12" lemma="σύ" postag="p-s---cd-" head="105110557" relation="OBJ"/>
+    <word id="105110553" form="τὸ" line="1" div_sentence="12" lemma="ὁ" postag="l-s---nn-" head="105110554" relation="ATR"/>
+    <word id="105110554" form="εἶναι" line="1" div_sentence="12" lemma="εἰμί" postag="v--pna---" head="105110557" relation="SBJ"/>
+    <word id="105110555" form="τῷ" line="1" div_sentence="12" lemma="ὁ" postag="l-s---nd-" head="105110556" relation="ATR"/>
+    <word id="105110556" form="δοκεῖν" line="1" div_sentence="12" lemma="δοκέω" postag="v--pna---" head="105110557" relation="OBJ"/>
+    <word id="105110557" form="ὑπορρέοι" line="1" div_sentence="12" lemma="ὑπορρέω" postag="v3spoa---" head="0" relation="PRED"/>
+    <word id="105110558" form="." line="1" div_sentence="12" lemma="." postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="295350" id="13" document_id="0541-042c" analysis="auto">
+    <word id="105110559" form="νόει" line="1" div_sentence="13" lemma="νοέω" postag="v2spma---" head="105110564" relation="PRED_CO"/>
+    <word id="105110560" form="τὰ" line="1" div_sentence="13" lemma="ὁ" postag="l-p---na-" head="105110561" relation="ATR"/>
+    <word id="105110561" form="πάντα" line="1" div_sentence="13" lemma="πᾶς" postag="p-p---na-" head="105110559" relation="OBJ"/>
+    <word id="105110562" form="," line="1" div_sentence="13" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="105110563" form="πρᾶσσε" line="1" div_sentence="13" lemma="πράσσω" postag="v2spma---" head="105110564" relation="PRED_CO"/>
+    <word id="105110564" form="δ’" line="1" div_sentence="13" lemma="δέ" postag="c--------" head="0" relation="COORD"/>
+    <word id="105110565" form="ἃ" line="1" div_sentence="13" lemma="ὅς" postag="p-p---na-" head="105110566" relation="OBJ"/>
+    <word id="105110566" form="πράσσειν" line="1" div_sentence="13" lemma="πράσσω" postag="v--pna---" head="1000309318" relation="SBJ"/>
+    <word id="105110567" form="θέμις" line="1" div_sentence="13" lemma="θέμις" postag="n-s---fn-" head="1000309318" relation="PNOM"/>
+    <word id="105110568" form="." line="1" div_sentence="13" lemma="." postag="u--------" head="0" relation="AuxK"/>
+    <word id="1000309318" form="E" lemma="E" postag="z--------" head="105110563" relation="OBJ" artificial="elliptic" line="1" div_sentence="13"/>
+  </sentence>
+  <sentence struct_id="295351" id="14" document_id="0541-042c" analysis="auto">
+    <word id="105110569" form="ξένον" line="1" div_sentence="14" lemma="ξένος" postag="a-s---ma-" head="105110571" relation="OCOMP"/>
+    <word id="105110570" form="σεαυτὸν" line="1" div_sentence="14" lemma="σεαυτοῦ" postag="p-s---ma-" head="105110571" relation="OBJ"/>
+    <word id="105110571" form="ἴσθι" line="1" div_sentence="14" lemma="οἶδα" postag="v2srma---" head="105110573" relation="PRED_CO"/>
+    <word id="105110572" form="," line="1" div_sentence="14" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="105110573" form="καὶ" line="1" div_sentence="14" lemma="καί" postag="c--------" head="0" relation="COORD"/>
+    <word id="105110574" form="τίμα" line="1" div_sentence="14" lemma="τιμάω" postag="v2spma---" head="105110573" relation="PRED_CO"/>
+    <word id="105110575" form="ξένους" line="1" div_sentence="14" lemma="ξένος" postag="a-p---ma-" head="105110574" relation="OBJ"/>
+    <word id="105110576" form="." line="1" div_sentence="14" lemma="." postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="295352" id="15" document_id="0541-042c" analysis="auto">
+    <word id="105110577" form="ὅτ’" line="1" div_sentence="15" lemma="ὅτε" postag="c--------" head="105110581" relation="AuxC"/>
+    <word id="105110578" form="εὐπλοεῖς" line="1" div_sentence="15" lemma="εὐπλοέω" postag="v2spia---" head="105110577" relation="ADV"/>
+    <word id="105110579" form="," line="1" div_sentence="15" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="105110580" form="μάλιστα" line="1" div_sentence="15" lemma="μάλα" postag="d-------s" head="105110581" relation="ADV"/>
+    <word id="105110581" form="μέμνησο" line="1" div_sentence="15" lemma="μιμνῄσκω" postag="v2srmm---" head="0" relation="PRED"/>
+    <word id="105110582" form="ζάλης" line="1" div_sentence="15" lemma="ζάλη" postag="n-s---fg-" head="105110581" relation="OBJ"/>
+    <word id="105110583" form="." line="1" div_sentence="15" lemma="." postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="295353" id="16" document_id="0541-042c" analysis="auto">
+    <word id="105110584" form="πάντ’" line="1" div_sentence="16" lemma="πᾶς" postag="p-p---na-" head="105110587" relation="OBJ"/>
+    <word id="105110585" form="εὐχαρίστως" line="1" div_sentence="16" lemma="εὐχάριστος" postag="d--------" head="105110587" relation="ADV"/>
+    <word id="105110586" form="δεῖ" line="1" div_sentence="16" lemma="δέω" postag="v3spia---" head="0" relation="PRED"/>
+    <word id="105110587" form="δέχεσθαι" line="1" div_sentence="16" lemma="δέχομαι" postag="v--pnm---" head="105110586" relation="SBJ"/>
+    <word id="105110588" form="τα-" line="1" div_sentence="16" lemma="ὁ" postag="l-p---na-" head="105110587" relation="OBJ"/>
+    <word id="105110589" form="τἀκ" line="1" div_sentence="16" lemma="ἐκ" postag="r--------" head="105110588" relation="AuxP"/>
+    <word id="105110590" form="Θεοῦ" line="1" div_sentence="16" lemma="θεός" postag="n-s---mg-" head="105110589" relation="ATR"/>
+    <word id="105110591" form="." line="1" div_sentence="16" lemma="." postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="295354" id="17" document_id="0541-042c" analysis="auto">
+    <word id="105110592" form="ῥάβδος" line="1" div_sentence="17" lemma="ῥάβδος" postag="n-s---fn-" head="1000309319" relation="SBJ"/>
+    <word id="105110593" form="δικαίου" line="1" div_sentence="17" lemma="δίκαιος" postag="a-s---ng-" head="105110594" relation="ADV"/>
+    <word id="105110594" form="πλεῖον" line="1" div_sentence="17" lemma="πολύς" postag="a-s---nnc" head="1000309319" relation="PNOM"/>
+    <word id="105110595" form="ἢ" line="1" div_sentence="17" lemma="ἤ" postag="c--------" head="105110594" relation="AuxC"/>
+    <word id="105110596" form="τιμὴ" line="1" div_sentence="17" lemma="τιμή" postag="n-s---fn-" head="1000309319" relation="SBJ"/>
+    <word id="105110597" form="κακοῦ" line="1" div_sentence="17" lemma="κακός" postag="a-s---ng-" head="105110596" relation="ATR"/>
+    <word id="105110598" form="." line="1" div_sentence="17" lemma="." postag="u--------" head="0" relation="AuxK"/>
+    <word id="1000309319" form="E" lemma="E" postag="z--------" head="0" relation="PRED" artificial="elliptic" line="1" div_sentence="17"/>
+  </sentence>
+  <sentence struct_id="295355" id="18" document_id="0541-042c" analysis="auto">
+    <word id="105110599" form="σοφῶν" line="1" div_sentence="18" lemma="σοφός" postag="a-p---mg-" head="105110600" relation="ATR"/>
+    <word id="105110600" form="θύρας" line="1" div_sentence="18" lemma="θύρα" postag="n-p---fa-" head="105110601" relation="OBJ"/>
+    <word id="105110601" form="ἔκτριβε" line="1" div_sentence="18" lemma="ἐκτρίβω" postag="v2spma---" head="0" relation="PRED"/>
+    <word id="105110602" form="," line="1" div_sentence="18" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="105110603" form="πλουσίων" line="1" div_sentence="18" lemma="πλούσιος" postag="a-p---mg-" head="105110599" relation="CO"/>
+    <word id="105110604" form="δὲ" line="1" div_sentence="18" lemma="δέ" postag="c--------" head="1000309320" relation="AuxY"/>
+    <word id="105110605" form="μή" line="1" div_sentence="18" lemma="μή" postag="d--------" head="105110603" relation="AuxZ"/>
+    <word id="105110606" form="." line="1" div_sentence="18" lemma="." postag="u--------" head="0" relation="AuxK"/>
+    <word id="1000309320" form="E" lemma="E" postag="z--------" head="105110606" relation="UNLINKED" artificial="elliptic" line="1" div_sentence="18"/>
+  </sentence>
+  <sentence struct_id="295356" id="19" document_id="0541-042c" analysis="auto">
+    <word id="105110607" form="τὸ" line="1" div_sentence="19" lemma="ὁ" postag="l-s---nn-" head="105110608" relation="ATR"/>
+    <word id="105110608" form="μικρὸν" line="1" div_sentence="19" lemma="μικρός" postag="a-s---nn-" head="1000309321" relation="SBJ"/>
+    <word id="105110609" form="οὐ" line="1" div_sentence="19" lemma="οὐ" postag="d--------" head="105110610" relation="AuxZ"/>
+    <word id="105110610" form="μικρόν" line="1" div_sentence="19" lemma="μικρός" postag="a-s---nn-" head="1000309321" relation="PNOM"/>
+    <word id="105110611" form="," line="1" div_sentence="19" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="105110612" form="ὅταν" line="1" div_sentence="19" lemma="ὅταν" postag="c--------" head="1000309321" relation="AuxC"/>
+    <word id="105110613" form="ἐκφέρῃ" line="1" div_sentence="19" lemma="ἐκφέρω" postag="v3spsa---" head="105110612" relation="ADV"/>
+    <word id="105110614" form="μέγα" line="1" div_sentence="19" lemma="μέγας" postag="a-s---na-" head="105110613" relation="ADV"/>
+    <word id="105110615" form="." line="1" div_sentence="19" lemma="." postag="u--------" head="0" relation="AuxK"/>
+    <word id="1000309321" form="E" lemma="E" postag="z--------" head="0" relation="PRED" artificial="elliptic" line="1" div_sentence="19"/>
+  </sentence>
+  <sentence struct_id="295357" id="20" document_id="0541-042c" analysis="auto">
+    <word id="105110616" form="φύλασσε" line="1" div_sentence="21" lemma="φυλάσσω" postag="v2spma---" head="105110620" relation="PRED_CO"/>
+    <word id="105110617" form="σαυτόν" line="1" div_sentence="21" lemma="σεαυτοῦ" postag="p-s---ma-" head="105110616" relation="OBJ"/>
+    <word id="105110618" form="," line="1" div_sentence="21" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="105110619" form="πτῶμα" line="1" div_sentence="21" lemma="πτῶμα" postag="n-s---na-" head="105110623" relation="OBJ"/>
+    <word id="105110620" form="δ’" line="1" div_sentence="21" lemma="δέ" postag="c--------" head="0" relation="COORD"/>
+    <word id="105110621" form="ἄλλου" line="1" div_sentence="21" lemma="ἄλλος" postag="p-s---mg-" head="105110619" relation="ATR"/>
+    <word id="105110622" form="μὴ" line="1" div_sentence="21" lemma="μή" postag="d--------" head="105110623" relation="AuxZ"/>
+    <word id="105110623" form="γέλα" line="1" div_sentence="21" lemma="γελάω" postag="v2spma---" head="105110620" relation="PRED_CO"/>
+    <word id="105110624" form="." line="1" div_sentence="21" lemma="." postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="295358" id="21" document_id="0541-042c" analysis="auto">
+    <word id="105110625" form="χάρις" line="1" div_sentence="22" lemma="χάρις" postag="n-s---fn-" head="1000309322" relation="SBJ"/>
+    <word id="105110626" form="φθονεῖσθαι" line="1" div_sentence="22" lemma="φθονέω" postag="v--pnm---" head="1000309322" relation="SBJ"/>
+    <word id="105110627" form="," line="1" div_sentence="22" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="105110628" form="τὸ" line="1" div_sentence="22" lemma="ὁ" postag="l-s---nn-" head="105110629" relation="ATR"/>
+    <word id="105110629" form="φθονεῖν" line="1" div_sentence="22" lemma="φθονέω" postag="v--pna---" head="1000309322" relation="SBJ"/>
+    <word id="105110630" form="δ’" line="1" div_sentence="22" lemma="δέ" postag="c--------" head="1000309322" relation="AuxY"/>
+    <word id="105110631" form="αἶσχος" line="1" div_sentence="22" lemma="αἶσχος" postag="n-s---nn-" head="1000309322" relation="SBJ"/>
+    <word id="105110632" form="μέγα" line="1" div_sentence="22" lemma="μέγας" postag="a-s---nn-" head="105110631" relation="ATR"/>
+    <word id="105110633" form="." line="1" div_sentence="22" lemma="." postag="u--------" head="0" relation="AuxK"/>
+    <word id="1000309322" form="E" lemma="E" postag="z--------" head="0" relation="PRED" artificial="elliptic" line="1" div_sentence="22"/>
+  </sentence>
+  <sentence struct_id="295359" id="22" document_id="0541-042c" analysis="auto">
+    <word id="105110634" form="ψυχὴ" line="1" div_sentence="23" lemma="ψυχή" postag="n-s---fn-" head="105110635" relation="SBJ"/>
+    <word id="105110635" form="θύοιτο" line="1" div_sentence="23" lemma="θύω" postag="v3spom---" head="0" relation="PRED"/>
+    <word id="105110636" form="μᾶλλον" line="1" div_sentence="23" lemma="μάλα" postag="d-------c" head="105110635" relation="ADV"/>
+    <word id="105110637" form="ἢ" line="1" div_sentence="23" lemma="ἤ" postag="c--------" head="105110636" relation="AuxC"/>
+    <word id="105110638" form="τὸ" line="1" div_sentence="23" lemma="ὁ" postag="l-s---nn-" head="105110639" relation="ATR"/>
+    <word id="105110639" form="πᾶν" line="1" div_sentence="23" lemma="πᾶς" postag="p-s---nn-" head="1000309323" relation="SBJ"/>
+    <word id="105110640" form="θεῷ" line="1" div_sentence="23" lemma="θεός" postag="n-s---md-" head="1000309323" relation="OBJ"/>
+    <word id="105110641" form="." line="1" div_sentence="23" lemma="." postag="u--------" head="0" relation="AuxK"/>
+    <word id="1000309323" form="E" lemma="E" postag="z--------" head="105110637" relation="ADV" artificial="elliptic" line="1" div_sentence="23"/>
+  </sentence>
+  <sentence struct_id="295360" id="23" document_id="0541-042c" analysis="auto">
+    <word id="105110642" form="ὢ" line="1" div_sentence="24" lemma="ὦ" postag="i--------" head="105110643" relation="AuxZ"/>
+    <word id="105110643" form="τίς" line="1" div_sentence="24" lemma="τίς" postag="p-s---cn-" head="105110646" relation="SBJ"/>
+    <word id="105110644" form="φυλάξει" line="1" div_sentence="24" lemma="φυλάσσω" postag="v3sfia---" head="105110646" relation="PRED_CO"/>
+    <word id="105110645" form="ταῦτα" line="1" div_sentence="24" lemma="οὗτος" postag="p-p---na-" head="105110644" relation="OBJ"/>
+    <word id="105110646" form="καὶ" line="1" div_sentence="24" lemma="καί" postag="c--------" head="0" relation="COORD"/>
+    <word id="105110647" form="σωθήσεται" line="1" div_sentence="24" lemma="σῴζω" postag="v3sfip---" head="105110646" relation="PRED_CO"/>
+    <word id="105110648" form="." line="1" div_sentence="24" lemma="." postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+</treebank>

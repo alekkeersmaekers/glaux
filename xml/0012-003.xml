@@ -1,0 +1,36 @@
+<treebank version="2" xml:lang="grc">
+  <sentence struct_id="15556" id="1" document_id="0012-003" analysis="auto">
+    <word id="100238187" form="ἑπτὰ" line="14.147.1" div_book="14" div_chapter="14.147" lemma="ἑπτά" postag="m--------" head="100238191" relation="ATR"/>
+    <word id="100238188" form="ἔσαν" line="14.147.1" div_book="14" div_chapter="14.147" lemma="εἰμί" postag="v3piia---" head="0" relation="PRED"/>
+    <word id="100238189" form="μαλεροῦ" line="14.147.1" div_book="14" div_chapter="14.147" lemma="μαλερός" postag="a-s---ng-" head="100238190" relation="ATR"/>
+    <word id="100238190" form="πυρὸς" line="14.147.1" div_book="14" div_chapter="14.147" lemma="πῦρ" postag="n-s---ng-" head="100238191" relation="ATR"/>
+    <word id="100238191" form="ἐσχάραι" line="14.147.1" div_book="14" div_chapter="14.147" lemma="ἐσχάρα" postag="n-p---fn-" head="100238188" relation="SBJ"/>
+    <word id="100238192" form="·" line="14.147.1" div_book="14" div_chapter="14.147" lemma="·" postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="15557" id="2" document_id="0012-003" analysis="auto">
+    <word id="100238193" form="ἐν" line="14.147.1" div_book="14" div_chapter="14.147" lemma="ἐν" postag="r--------" head="1000053714" relation="AuxP"/>
+    <word id="100238194" form="δὲ" line="14.147.1" div_book="14" div_chapter="14.147" lemma="δέ" postag="c--------" head="100238200" relation="AuxY"/>
+    <word id="100238195" form="ἑκάστῃ" line="14.147.1" div_book="14" div_chapter="14.147" lemma="ἕκαστος" postag="p-s---fd-" head="100238193" relation="ADV"/>
+    <word id="100238196" form="πεντήκοντ’" line="14.147.2" div_book="14" div_chapter="14.147" lemma="πεντήκοντα" postag="m--------" head="100238197" relation="ATR"/>
+    <word id="100238197" form="ὀβελοί" line="14.147.2" div_book="14" div_chapter="14.147" lemma="ὀβελός" postag="n-p---mn-" head="1000053714" relation="SBJ"/>
+    <word id="100238198" form="," line="14.147.2" div_book="14" div_chapter="14.147" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="100238199" form="περὶ" line="14.147.2" div_book="14" div_chapter="14.147" lemma="περί" postag="r--------" head="1000053713" relation="ADV"/>
+    <word id="100238200" form="δὲ" line="14.147.2" div_book="14" div_chapter="14.147" lemma="δέ" postag="c--------" head="0" relation="COORD"/>
+    <word id="100238201" form="κρέα" line="14.147.2" div_book="14" div_chapter="14.147" lemma="κρέας" postag="n-p---nn-" head="1000053713" relation="SBJ"/>
+    <word id="100238202" form="πεντήκοντα" line="14.147.2" div_book="14" div_chapter="14.147" lemma="πεντήκοντα" postag="m--------" head="100238201" relation="ATR"/>
+    <word id="100238203" form="·" line="14.147.2" div_book="14" div_chapter="14.147" lemma="·" postag="u--------" head="0" relation="AuxK"/>
+    <word id="1000053713" form="E" lemma="E" postag="z--------" head="100238200" relation="PRED_CO" artificial="elliptic" line="14.147.2" div_book="14" div_chapter="14.147"/>
+    <word id="1000053714" form="E" lemma="E" postag="z--------" head="100238200" relation="PRED_CO" artificial="elliptic" line="14.147.2" div_book="14" div_chapter="14.147"/>
+  </sentence>
+  <sentence struct_id="15558" id="3" document_id="0012-003" analysis="auto">
+    <word id="100238204" form="τρὶς" line="14.147.3" div_book="14" div_chapter="14.147" lemma="τρίς" postag="d--------" head="100238210" relation="ADV"/>
+    <word id="100238205" form="δὲ" line="14.147.3" div_book="14" div_chapter="14.147" lemma="δέ" postag="c--------" head="100238210" relation="AuxY"/>
+    <word id="100238206" form="τριηκόσιοι" line="14.147.3" div_book="14" div_chapter="14.147" lemma="τριακόσιοι" postag="m-p---mn-" head="100238211" relation="ATR"/>
+    <word id="100238207" form="περὶ" line="14.147.3" div_book="14" div_chapter="14.147" lemma="περί" postag="r--------" head="100238210" relation="AuxP"/>
+    <word id="100238208" form="ἓν" line="14.147.3" div_book="14" div_chapter="14.147" lemma="εἷς" postag="m-s---na-" head="100238209" relation="ATR"/>
+    <word id="100238209" form="κρέας" line="14.147.3" div_book="14" div_chapter="14.147" lemma="κρέας" postag="n-s---na-" head="100238207" relation="ADV"/>
+    <word id="100238210" form="ἦσαν" line="14.147.3" div_book="14" div_chapter="14.147" lemma="εἰμί" postag="v3piia---" head="0" relation="PRED"/>
+    <word id="100238211" form="Ἀχαιοί" line="14.147.3" div_book="14" div_chapter="14.147" lemma="Ἀχαιός" postag="a-p---mn-" head="100238210" relation="SBJ"/>
+    <word id="100238212" form="." line="14.147.3" div_book="14" div_chapter="14.147" lemma="." postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+</treebank>

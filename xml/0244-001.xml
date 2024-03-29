@@ -1,0 +1,44 @@
+<treebank version="2" xml:lang="grc">
+  <sentence struct_id="147036" id="1" document_id="0244-001" analysis="auto">
+    <word id="102418395" form="ἄνδρ’" line="1.1" div_fragment="1" lemma="ἀνήρ" postag="n-s---ma-" head="102418396" relation="OBJ"/>
+    <word id="102418396" form="εἶδον" line="1.1" div_fragment="1" lemma="ὁράω" postag="v1saia---" head="0" relation="PRED"/>
+    <word id="102418397" form="πυρὶ" line="1.1" div_fragment="1" lemma="πῦρ" postag="n-s---nd-" head="102418396" relation="ADV"/>
+    <word id="102418398" form="χαλκὸν" line="1.1" div_fragment="1" lemma="χαλκός" postag="n-s---ma-" head="102418401" relation="OBJ"/>
+    <word id="102418399" form="ἐπ’" line="1.1" div_fragment="1" lemma="ἐπί" postag="r--------" head="102418401" relation="AuxP"/>
+    <word id="102418400" form="ἀνέρι" line="1.1" div_fragment="1" lemma="ἀνήρ" postag="n-s---md-" head="102418399" relation="ADV"/>
+    <word id="102418401" form="κολλήσαντα" line="1.1" div_fragment="1" lemma="κολλάω" postag="v-sapama-" head="102418395" relation="ADV"/>
+    <word id="102418402" form="οὕτω" line="1.2" div_fragment="1" lemma="οὕτως" postag="d--------" head="102418403" relation="ADV"/>
+    <word id="102418403" form="συγκόλλως" line="1.2" div_fragment="1" lemma="σύγκολλος" postag="d--------" head="102418401" relation="ADV"/>
+    <word id="102418404" form="ὥστε" line="1.2" div_fragment="1" lemma="ὥστε" postag="c--------" head="102418402" relation="AuxC"/>
+    <word id="102418405" form="σύναιμα" line="1.2" div_fragment="1" lemma="σύναιμος" postag="a-p---na-" head="102418406" relation="OCOMP"/>
+    <word id="102418406" form="ποιεῖν" line="1.2" div_fragment="1" lemma="ποιέω" postag="v--pna---" head="102418404" relation="ADV"/>
+    <word id="102418407" form="." line="1.2" div_fragment="1" lemma="." postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="147037" id="2" document_id="0244-001" analysis="auto">
+    <word id="102418408" form="ἄνδρ’" line="2.1" div_fragment="2" lemma="ἀνήρ" postag="n-s---ma-" head="102418409" relation="OBJ"/>
+    <word id="102418409" form="εἶδον" line="2.1" div_fragment="2" lemma="ὁράω" postag="v1saia---" head="102418415" relation="PRED_CO"/>
+    <word id="102418410" form="κλέπτοντα" line="2.1" div_fragment="2" lemma="κλέπτω" postag="v-sppama-" head="102418411" relation="ATR_CO"/>
+    <word id="102418411" form="καὶ" line="2.1" div_fragment="2" lemma="καί" postag="c--------" head="102418408" relation="COORD"/>
+    <word id="102418412" form="ἐξαπατῶντα" line="2.1" div_fragment="2" lemma="ἐξαπατάω" postag="v-sppama-" head="102418411" relation="ATR_CO"/>
+    <word id="102418413" form="βιαίως" line="2.1" div_fragment="2" lemma="βίαιος" postag="d--------" head="102418412" relation="ADV"/>
+    <word id="102418414" form="," line="2.1" div_fragment="2" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="102418415" form="καὶ" line="2.2" div_fragment="2" lemma="καί" postag="c--------" head="0" relation="COORD"/>
+    <word id="102418416" form="τὸ" line="2.2" div_fragment="2" lemma="ὁ" postag="l-s---nn-" head="102418418" relation="ATR"/>
+    <word id="102418417" form="βίαι" line="2.2" div_fragment="2" lemma="βία" postag="n-s---fd-" head="102418418" relation="ADV"/>
+    <word id="102418418" form="ῥέξαι" line="2.2" div_fragment="2" lemma="ῥέζω" postag="v--ana---" head="1000273782" relation="SBJ"/>
+    <word id="102418419" form="τοῦτο" line="2.2" div_fragment="2" lemma="οὗτος" postag="p-s---na-" head="102418418" relation="OBJ"/>
+    <word id="102418420" form="δικαιότατον" line="2.2" div_fragment="2" lemma="δίκαιος" postag="a-s---nns" head="1000273782" relation="PNOM"/>
+    <word id="102418421" form="." line="2.2" div_fragment="2" lemma="." postag="u--------" head="0" relation="AuxK"/>
+    <word id="1000273782" form="E" lemma="E" postag="z--------" head="102418415" relation="PRED_CO" artificial="elliptic" line="2.2" div_fragment="2"/>
+  </sentence>
+  <sentence struct_id="147038" id="3" document_id="0244-001" analysis="auto">
+    <word id="102418422" form="κνήμηι" line="3.1" div_fragment="3" lemma="κνήμη" postag="n-s---fd-" head="102418428" relation="ADV"/>
+    <word id="102418423" form="νεκρὸς" line="3.1" div_fragment="3" lemma="νεκρός" postag="a-s---mn-" head="102418424" relation="ATR"/>
+    <word id="102418424" form="ὄνος" line="3.1" div_fragment="3" lemma="ὄνος" postag="n-s---mn-" head="102418428" relation="SBJ"/>
+    <word id="102418425" form="με" line="3.1" div_fragment="3" lemma="ἐγώ" postag="p-s---ca-" head="102418428" relation="OBJ"/>
+    <word id="102418426" form="κερασφόρωι" line="3.1" div_fragment="3" lemma="κεράσφορος" postag="a-s---fd-" head="102418422" relation="ATR"/>
+    <word id="102418427" form="οὖας" line="3.1" div_fragment="3" lemma="οὖας" postag="n-s---na-" head="102418428" relation="OBJ"/>
+    <word id="102418428" form="ἔκρουσεν" line="3.1" div_fragment="3" lemma="κρούω" postag="v3saia---" head="0" relation="PRED"/>
+    <word id="102418429" form="·" line="3.1" div_fragment="3" lemma="·" postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+</treebank>

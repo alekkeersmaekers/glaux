@@ -1,0 +1,31 @@
+<treebank version="2" xml:lang="grc">
+  <sentence struct_id="178351" id="1" document_id="1223-001" analysis="auto">
+    <word id="102950248" form="Ἀστοῖσιν" line="1" lemma="Ἀστός" postag="n-p---md-" head="102950249" relation="OBJ"/>
+    <word id="102950249" form="ἀρέσκεο" line="1" lemma="ἀρέσκω" postag="v2spmm---" head="0" relation="PRED"/>
+    <word id="102950250" form="πᾶσιν" line="1" lemma="πᾶς" postag="p-p---md-" head="102950248" relation="ATR"/>
+    <word id="102950251" form="ἐν" line="1" lemma="ἐν" postag="r--------" head="102950249" relation="AuxP"/>
+    <word id="102950252" form="πόλει" line="1" lemma="πόλις" postag="n-s---fd-" head="102950251" relation="ADV"/>
+    <word id="102950253" form="," line="1" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="102950254" form="ᾇκε" line="1" lemma="ἄϊξ" postag="n-d---fa-" head="102950255" relation="OBJ"/>
+    <word id="102950255" form="μένῃς" line="1" lemma="μένω" postag="v2spsa---" head="102950249" relation="CO"/>
+    <word id="102950256" form="·" line="1" lemma="·" postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="178352" id="2" document_id="1223-001" analysis="auto">
+    <word id="102950257" form="πλείσταν" line="2" lemma="πολύς" postag="a-s---fas" head="102950260" relation="ATR"/>
+    <word id="102950258" form="γὰρ" line="2" lemma="γάρ" postag="g--------" head="102950259" relation="AuxY"/>
+    <word id="102950259" form="ἔχει" line="2" lemma="ἔχω" postag="v3spia---" head="0" relation="PRED"/>
+    <word id="102950260" form="χάριν" line="2" lemma="χάρις" postag="n-s---fa-" head="102950259" relation="OBJ"/>
+    <word id="102950261" form="·" line="2" lemma="·" postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+  <sentence struct_id="178353" id="3" document_id="1223-001" analysis="auto">
+    <word id="102950262" form="αὐθάδης" line="2" lemma="αὐθάδης" postag="a-s---mn-" head="102950264" relation="ATR"/>
+    <word id="102950263" form="δὲ" line="2" lemma="δέ" postag="c--------" head="102950268" relation="AuxY"/>
+    <word id="102950264" form="τρόπος" line="2" lemma="τρόπος" postag="n-s---mn-" head="102950268" relation="SBJ"/>
+    <word id="102950265" form="πολλάκι" line="3" lemma="πολλάκις" postag="d--------" head="102950268" relation="ADV"/>
+    <word id="102950266" form="δὴ" line="3" lemma="δή" postag="g--------" head="102950268" relation="AuxY"/>
+    <word id="102950267" form="βλαβερὰν" line="3" lemma="βλαβερός" postag="a-s---fa-" head="102950269" relation="ATR"/>
+    <word id="102950268" form="ἐξέλαμψεν" line="3" lemma="ἐκλάμπω" postag="v3saia---" head="0" relation="PRED"/>
+    <word id="102950269" form="ἄταν" line="3" lemma="ἄτη" postag="n-s---fa-" head="102950268" relation="OBJ"/>
+    <word id="102950270" form="." line="3" lemma="." postag="u--------" head="0" relation="AuxK"/>
+  </sentence>
+</treebank>

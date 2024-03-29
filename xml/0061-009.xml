@@ -1,0 +1,41 @@
+<treebank version="2" xml:lang="grc">
+  <sentence struct_id="664607" id="1" document_id="0061-009" analysis="auto">
+    <word id="113313234" form="Λουκιανὸς" line="1" lemma="Λουκιάν" postag="n-s---mg-" head="113313236" relation="OBJ"/>
+    <word id="113313235" form="τάδ’" line="1" lemma="ὅδε" postag="p-p---na-" head="113313236" relation="OBJ"/>
+    <word id="113313236" form="ἔγραψα" line="1" lemma="γράφω" postag="v1saia---" head="0" relation="PRED"/>
+    <word id="113313237" form="παλαιά" line="1" lemma="παλαιός" postag="a-p---na-" head="113313240" relation="OBJ_CO"/>
+    <word id="113313238" form="τε" line="1" lemma="τε" postag="c--------" head="113313240" relation="AuxY"/>
+    <word id="113313239" form="μωρά" line="1" lemma="μωρός" postag="a-p---na-" head="113313240" relation="OBJ_CO"/>
+    <word id="113313240" form="τε" line="1" lemma="τε" postag="c--------" head="113313241" relation="COORD"/>
+    <word id="113313241" form="εἰδώς" line="1" lemma="οἶδα" postag="v-srpamn-" head="113313236" relation="ADV"/>
+    <word id="113313242" form="," line="1" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="113313243" form="μωρὰ" line="2" lemma="μωρός" postag="a-p---nn-" head="1000165236" relation="PNOM"/>
+    <word id="113313244" form="γὰρ" line="2" lemma="γάρ" postag="g--------" head="1000165236" relation="AuxY"/>
+    <word id="113313245" form="ἀνθρώποις" line="2" lemma="ἄνθρωπος" postag="n-p---md-" head="1000165236" relation="ADV"/>
+    <word id="113313246" form="καὶ" line="2" lemma="καί" postag="c--------" head="113313248" relation="AuxZ"/>
+    <word id="113313247" form="τὰ" line="2" lemma="ὁ" postag="l-p---nn-" head="113313248" relation="ATR"/>
+    <word id="113313248" form="δοκοῦντα" line="2" lemma="δοκέω" postag="v-pppann-" head="1000165236" relation="SBJ"/>
+    <word id="113313249" form="σοφά" line="2" lemma="σοφός" postag="a-p---nn-" head="1000165236" relation="PNOM"/>
+    <word id="113313250" form="." line="2" lemma="." postag="u--------" head="0" relation="AuxK"/>
+    <word id="1000165236" form="E" lemma="E" postag="z--------" head="113313236" relation="CO" artificial="elliptic" line="2"/>
+  </sentence>
+  <sentence struct_id="664608" id="2" document_id="0061-009" analysis="auto">
+    <word id="113313251" form="οὐδὲν" line="3" lemma="οὐδείς" postag="p-s---nn-" head="113313256" relation="ATR"/>
+    <word id="113313252" form="ἐν" line="3" lemma="ἐν" postag="r--------" head="113313255" relation="AuxP"/>
+    <word id="113313253" form="ἀνθρώποισι" line="3" lemma="ἄνθρωπος" postag="n-p---md-" head="113313252" relation="ADV"/>
+    <word id="113313254" form="διακριδόν" line="3" lemma="διακριδόν" postag="d--------" head="113313255" relation="ADV"/>
+    <word id="113313255" form="ἐστι" line="3" lemma="εἰμί" postag="v3spia---" head="113313258" relation="PRED_CO"/>
+    <word id="113313256" form="νόημα" line="3" lemma="νόημα" postag="n-s---nn-" head="113313255" relation="SBJ"/>
+    <word id="113313257" form="," line="3" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="113313258" form="ἀλλ’" line="4" lemma="ἀλλά" postag="c--------" head="0" relation="COORD"/>
+    <word id="113313259" form="ὃ" line="4" lemma="ὅς" postag="p-s---na-" head="113313261" relation="OBJ"/>
+    <word id="113313260" form="σὺ" line="4" lemma="σύ" postag="p-s---cn-" head="113313261" relation="SBJ"/>
+    <word id="113313261" form="θαυμάζεις" line="4" lemma="θαυμάζω" postag="v2spia---" head="113313263" relation="ATR"/>
+    <word id="113313262" form="," line="4" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="113313263" form="τοῦθ’" line="4" lemma="οὗτος" postag="p-s---nn-" head="1000165237" relation="SBJ"/>
+    <word id="113313264" form="ἑτέροισι" line="4" lemma="ἕτερος" postag="p-p---md-" head="1000165237" relation="OBJ"/>
+    <word id="113313265" form="γέλως" line="4" lemma="γέλως" postag="n-s---mn-" head="1000165237" relation="PNOM"/>
+    <word id="113313266" form="." line="4" lemma="." postag="u--------" head="0" relation="AuxK"/>
+    <word id="1000165237" form="E" lemma="E" postag="z--------" head="113313258" relation="PRED_CO" artificial="elliptic" line="4"/>
+  </sentence>
+</treebank>
