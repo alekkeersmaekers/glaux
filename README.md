@@ -35,6 +35,11 @@ The GLAUx corpus is the work of Alek Keersmaekers, with the help of various othe
 
 We are grateful to the annotators of the various treebanks projects listed above, as well as the projects providing publicly available Greek texts, without which GLAUx could not exist.
 
+GLAUx was funded by the Research Foundation - Flanders (FWO) through the following projects:
+* *Corpus linguistics in the Greek papyri: developing a corpus to study variation and change in the post-classical Greek complementation system* (1162017N)
+* *Towards a breakthrough in the automated parsing of Ancient Greek papyrological and literary texts? Extending and refining the available training data* (3H180705)
+* *Language and Ideas: Towards a New Computational and Corpus-Based Approach to Ancient Greek Semantics and the History of Ideas* (3H200733)
+
 ## License
 
 GLAUx is generally available under a [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license. Please note though that some of the texts and/or the manual annotations may have a more restrictive license.
