@@ -9,6 +9,8 @@ GLAUx (the Greek Language Automated) is a large corpus (currently 20M tokens) of
 The raw texts in GLAUx come from a number of public projects, including [Perseus](https://github.com/PerseusDL/canonical-greekLit), the [First1KGreek](https://github.com/OpenGreekAndLatin/First1KGreek) project, [Wikisource](https://el.wikisource.org/wiki/%CE%9A%CF%8D%CF%81%CE%B9%CE%B1_%CE%A3%CE%B5%CE%BB%CE%AF%CE%B4%CE%B1), and various other websites. For precise details, see the file metadata.txt.
 Most of the data is available under a CC BY-SA license but some texts are more restrictive (e.g. CC BY-NC): the license of each source text is also specified in the metadata file.
 
+**Note: the GLAUx corpus is encoded in Unicode-NFD, meaning that diacritics are separate characters (e.g. ά is two characters).**
+
 ## Annotation
 
 At the moment GLAUx includes morphology, lemmas and syntactic dependencies, all roughly following the [Ancient Greek Dependency Treebanks](https://github.com/PerseusDL/treebank_data) guidelines. Part of GLAUx is manually annotated. These annotations come from various treebanking projects, which we thoroughly homogenized (see Keersmaekers et al. (2019): Creating, Enriching and Valorizing Treebanks of Ancient Greek for more details on this process):
