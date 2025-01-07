@@ -22,7 +22,7 @@ At the moment GLAUx includes morphology, lemmas and syntactic dependencies, all 
 * [Treebank of Aphthonius' Progymnasmata](https://github.com/polinayordanova/Treebank-of-Aphtonius-Progymnasmata), no license specified.
 
 All credits for the manual annotation belong to the respective projects.
-These treebank projects have also been used as training material for the automatic annotation (most of GLAUx is automatically annotated). For details on the methodology, for lemmas and syntax the methodology is still roughly following the paper cited below. For morphology I currently use a transformer-based approach, which will be described in an upcoming paper.
+These treebank projects have also been used as training material for the automatic annotation (most of GLAUx is automatically annotated). For details on the methodology, for lemmas and syntax the methodology is still roughly following the paper cited below. For morphology I currently use a transformer-based approach. The most recent code, including a reference to the paper describing the automated morphological analysis, can be found on https://github.com/alekkeersmaekers/glaux-nlp.
 
 ## The future of GLAUx
 
