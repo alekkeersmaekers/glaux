@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/511911900.svg)](https://zenodo.org/doi/10.5281/zenodo.10948374)
+[![DOI](https://zenodo.org/badge/511911900.svg)](https://zenodo.org/doi/10.5281/zenodo.15774921)
 
 # The GLAUx corpus
 
