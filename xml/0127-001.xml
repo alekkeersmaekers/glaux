@@ -1,11 +1,11 @@
 <treebank version="2" xml:lang="grc">
   <sentence struct_id="411542" id="1" document_id="0127-001" analysis="auto">
-    <word id="107844551" form="Ἡράκλεια" line="1" lemma="Ἡράκλεια" postag="n-s---fn-" head="1000272725" relation="SBJ"/>
-    <word id="107844552" form="πατρίς" line="1" lemma="πατρίς" postag="n-s---fn-" head="107844551" relation="ATR"/>
+    <word id="107844551" form="Ἡράκλεια" line="1" lemma="Ἡράκλεια" postag="n-s---fn-" head="1000272725" relation="SBJ" animacy="human"/>
+    <word id="107844552" form="πατρίς" line="1" lemma="πατρίς" postag="n-s---fn-" head="107844551" relation="ATR" animacy="nonconc" sense="country.n.02"/>
     <word id="107844553" form="," line="1" lemma="," postag="u--------" head="0" relation="AuxX"/>
-    <word id="107844554" form="Ζεῦξις" line="1" lemma="Ζεῦξις" postag="n-s---fn-" head="1000272725" relation="SBJ"/>
+    <word id="107844554" form="Ζεῦξις" line="1" lemma="Ζεῦξις" postag="n-s---fn-" head="1000272725" relation="SBJ" animacy="human"/>
     <word id="107844555" form="δ’" line="1" lemma="δέ" postag="c--------" head="1000272725" relation="AuxY"/>
-    <word id="107844556" form="ὄνομ’" line="1" lemma="ὄνομα" postag="n-s---nn-" head="1000272725" relation="SBJ"/>
+    <word id="107844556" form="ὄνομ’" line="1" lemma="ὄνομα" postag="n-s---nn-" head="1000272725" relation="SBJ" animacy="animal" sense="name.n.01"/>
     <word id="107844557" form="·" line="1" lemma="·" postag="u--------" head="0" relation="AuxK"/>
     <word id="1000272725" form="E" lemma="E" postag="z--------" head="0" relation="PRED" artificial="elliptic" line="1"/>
   </sentence>
@@ -13,10 +13,10 @@
     <word id="107844558" form="εἰ" line="1" lemma="εἰ" postag="c--------" head="107844569" relation="AuxC"/>
     <word id="107844559" form="δέ" line="1" lemma="δέ" postag="c--------" head="107844569" relation="AuxY"/>
     <word id="107844560" form="τις" line="1" lemma="τις" postag="p-s---cn-" head="107844565" relation="SBJ"/>
-    <word id="107844561" form="ἀνδρῶν" line="1" lemma="ἀνήρ" postag="n-p---mg-" head="107844564" relation="ATR"/>
+    <word id="107844561" form="ἀνδρῶν" line="1" lemma="ἀνήρ" postag="n-p---mg-" head="107844564" relation="ATR" animacy="human" sense="man.n.01"/>
     <word id="107844562" form="ἡμετέρης" line="2" lemma="ἡμέτερος" postag="a-s---fg-" head="107844563" relation="ATR"/>
-    <word id="107844563" form="τέχνης" line="2" lemma="τέχνη" postag="n-s---fg-" head="107844564" relation="ATR"/>
-    <word id="107844564" form="πείρατά" line="2" lemma="πεῖραρ" postag="n-p---na-" head="107844566" relation="OBJ"/>
+    <word id="107844563" form="τέχνης" line="2" lemma="τέχνη" postag="n-s---fg-" head="107844564" relation="ATR" animacy="nonconc" sense="art.n.03"/>
+    <word id="107844564" form="πείρατά" line="2" lemma="πεῖραρ" postag="n-p---na-" head="107844566" relation="OBJ" animacy="nonconc" sense="end.n.01"/>
     <word id="107844565" form="φησιν" line="2" lemma="φημί" postag="v3spia---" head="107844558" relation="ADV"/>
     <word id="107844566" form="ἔχειν" line="2" lemma="ἔχω" postag="v--pna---" head="107844565" relation="OBJ"/>
     <word id="107844567" form="," line="2" lemma="," postag="u--------" head="0" relation="AuxX"/>

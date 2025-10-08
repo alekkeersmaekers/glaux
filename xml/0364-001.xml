@@ -5,13 +5,13 @@
     <word id="100286058" form="ἄρ’" line="1.1" div_fragment="1" lemma="ἄρα" postag="g--------" head="100286059" relation="AuxY"/>
     <word id="100286059" form="ὡπλίζοντο" line="1.1" div_fragment="1" lemma="ὁπλίζω" postag="v3piim---" head="0" relation="PRED"/>
     <word id="100286060" form="θοῶς" line="1.1" div_fragment="1" lemma="θοός" postag="d--------" head="100286059" relation="ADV"/>
-    <word id="100286061" form="Δαναοῖο" line="1.1" div_fragment="1" lemma="Δαναός" postag="n-s---mg-" head="100286062" relation="ATR"/>
-    <word id="100286062" form="θύγατρες" line="1.1" div_fragment="1" lemma="θυγάτηρ" postag="n-p---fn-" head="100286059" relation="SBJ"/>
+    <word id="100286061" form="Δαναοῖο" line="1.1" div_fragment="1" lemma="Δαναός" postag="n-s---mg-" head="100286062" relation="ATR" animacy="human"/>
+    <word id="100286062" form="θύγατρες" line="1.1" div_fragment="1" lemma="θυγάτηρ" postag="n-p---fn-" head="100286059" relation="SBJ" animacy="human" sense="daughter.n.01"/>
     <word id="100286063" form="πρόσθεν" line="1.2" div_fragment="1" lemma="πρόσθεν" postag="d--------" head="100286059" relation="AuxP"/>
     <word id="100286064" form="ἐυρρεῖος" line="1.2" div_fragment="1" lemma="ἐυρρεής" postag="a-s---mg-" head="100286065" relation="ATR"/>
-    <word id="100286065" form="ποταμοῦ" line="1.2" div_fragment="1" lemma="ποταμός" postag="n-s---mg-" head="100286063" relation="ADV"/>
-    <word id="100286066" form="Νείλοιο" line="1.2" div_fragment="1" lemma="Νεῖλος" postag="n-s---mg-" head="100286065" relation="APOS"/>
-    <word id="100286067" form="ἄνακτος" line="1.2" div_fragment="1" lemma="ἄναξ" postag="n-s---mg-" head="100286066" relation="ATR"/>
+    <word id="100286065" form="ποταμοῦ" line="1.2" div_fragment="1" lemma="ποταμός" postag="n-s---mg-" head="100286063" relation="ADV" animacy="natobj" sense="river.n.01"/>
+    <word id="100286066" form="Νείλοιο" line="1.2" div_fragment="1" lemma="Νεῖλος" postag="n-s---mg-" head="100286065" relation="APOS" animacy="natobj" sense="river.n.01"/>
+    <word id="100286067" form="ἄνακτος" line="1.2" div_fragment="1" lemma="ἄναξ" postag="n-s---mg-" head="100286066" relation="ATR" animacy="human" sense="king.n.01"/>
     <word id="100286068" form="." line="1.2" div_fragment="1" lemma="." postag="u--------" head="0" relation="AuxK"/>
   </sentence>
 </treebank>

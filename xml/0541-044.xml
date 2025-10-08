@@ -2,22 +2,22 @@
   <sentence struct_id="295361" id="1" document_id="0541-044" analysis="auto">
     <word id="105110649" form="χαῖρε" line="7.72.1" div_book="7" div_chapter="7.72" lemma="χαίρω" postag="v2spma---" head="0" relation="PRED"/>
     <word id="105110650" form="," line="7.72.1" div_book="7" div_chapter="7.72" lemma="," postag="u--------" head="0" relation="AuxX"/>
-    <word id="105110651" form="Νεοκλείδα" line="7.72.1" div_book="7" div_chapter="7.72" lemma="Νεοκλείδης" postag="n-s---mg-" head="105110649" relation="ExD"/>
+    <word id="105110651" form="Νεοκλείδα" line="7.72.1" div_book="7" div_chapter="7.72" lemma="Νεοκλείδης" postag="n-s---mg-" head="105110649" relation="ExD" animacy="human"/>
     <word id="105110652" form="," line="7.72.1" div_book="7" div_chapter="7.72" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="105110653" form="δίδυμον" line="7.72.1" div_book="7" div_chapter="7.72" lemma="δίδυμος" postag="a-s---nv-" head="105110654" relation="ATR"/>
-    <word id="105110654" form="γένος" line="7.72.1" div_book="7" div_chapter="7.72" lemma="γένος" postag="n-s---nv-" head="105110649" relation="ExD"/>
+    <word id="105110654" form="γένος" line="7.72.1" div_book="7" div_chapter="7.72" lemma="γένος" postag="n-s---nv-" head="105110649" relation="ExD" animacy="animal" sense="race.n.03"/>
     <word id="105110655" form="," line="7.72.1" div_book="7" div_chapter="7.72" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="105110656" form="ὧν" line="7.72.1" div_book="7" div_chapter="7.72" lemma="ὅς" postag="p-p---mg-" head="105110657" relation="ATR"/>
     <word id="105110657" form="ὁ" line="7.72.1" div_book="7" div_chapter="7.72" lemma="ὁ" postag="l-s---mn-" head="105110662" relation="SBJ"/>
     <word id="105110658" form="μὲν" line="7.72.1" div_book="7" div_chapter="7.72" lemma="μέν" postag="g--------" head="105110665" relation="AuxY"/>
     <word id="105110659" form="ὑμῶν" line="7.72.1" div_book="7" div_chapter="7.72" lemma="σύ" postag="p-p---cg-" head="105110660" relation="ATR"/>
-    <word id="105110660" form="πατρίδα" line="7.72.2" div_book="7" div_chapter="7.72" lemma="πατρίς" postag="n-s---fa-" head="105110661" relation="ATR"/>
-    <word id="105110661" form="δουλοσύνας" line="7.72.2" div_book="7" div_chapter="7.72" lemma="δουλοσύνη" postag="n-p---fa-" head="105110662" relation="OBJ"/>
+    <word id="105110660" form="πατρίδα" line="7.72.2" div_book="7" div_chapter="7.72" lemma="πατρίς" postag="n-s---fa-" head="105110661" relation="ATR" animacy="nonconc" sense="country.n.02"/>
+    <word id="105110661" form="δουλοσύνας" line="7.72.2" div_book="7" div_chapter="7.72" lemma="δουλοσύνη" postag="n-p---fa-" head="105110662" relation="OBJ" animacy="nonconc" sense="bondage.n.02"/>
     <word id="105110662" form="ῥύσαθ’" line="7.72.2" div_book="7" div_chapter="7.72" lemma="ἐρύω" postag="v3saim---" head="105110665" relation="ATR_CO"/>
     <word id="105110663" form="," line="7.72.2" div_book="7" div_chapter="7.72" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="105110664" form="ὁ" line="7.72.2" div_book="7" div_chapter="7.72" lemma="ὁ" postag="l-s---mn-" head="1000309324" relation="SBJ"/>
     <word id="105110665" form="δ’" line="7.72.2" div_book="7" div_chapter="7.72" lemma="δέ" postag="c--------" head="105110651" relation="COORD"/>
-    <word id="105110666" form="ἀφροσύνας" line="7.72.2" div_book="7" div_chapter="7.72" lemma="ἀφροσύνη" postag="n-p---fa-" head="1000309324" relation="OBJ"/>
+    <word id="105110666" form="ἀφροσύνας" line="7.72.2" div_book="7" div_chapter="7.72" lemma="ἀφροσύνη" postag="n-p---fa-" head="1000309324" relation="OBJ" animacy="nonconc" sense="folly.n.01"/>
     <word id="105110667" form="." line="7.72.2" div_book="7" div_chapter="7.72" lemma="." postag="u--------" head="0" relation="AuxK"/>
     <word id="1000309324" form="E" lemma="E" postag="z--------" head="105110665" relation="ATR_CO" artificial="elliptic" line="7.72.2" div_book="7" div_chapter="7.72"/>
   </sentence>

@@ -1,16 +1,16 @@
 <treebank version="2" xml:lang="grc">
   <sentence struct_id="148530" id="1" document_id="0540-010" analysis="auto">
-    <word id="102445876" form="μαρτύρων" div_section="1" lemma="μάρτυς" postag="n-p---mg-" head="102445879" relation="ATR"/>
+    <word id="102445876" form="μαρτύρων" div_section="1" lemma="μάρτυς" postag="n-p---mg-" head="102445879" relation="ATR" animacy="human" sense="witness.n.01"/>
     <word id="102445877" form="μὲν" div_section="1" lemma="μέν" postag="g--------" head="102445882" relation="AuxY"/>
     <word id="102445878" form="οὐκ" div_section="1" lemma="οὐ" postag="d--------" head="102445881" relation="AuxZ"/>
-    <word id="102445879" form="ἀπορίαν" div_section="1" lemma="ἀπορία" postag="n-s---fa-" head="102445881" relation="SBJ"/>
+    <word id="102445879" form="ἀπορίαν" div_section="1" lemma="ἀπορία" postag="n-s---fa-" head="102445881" relation="SBJ" animacy="nonconc" sense="lack.n.01"/>
     <word id="102445880" form="μοι" div_section="1" lemma="ἐγώ" postag="p-s---cd-" head="102445881" relation="ADV"/>
     <word id="102445881" form="ἔσεσθαι" div_section="1" lemma="εἰμί" postag="v--fnm---" head="102445882" relation="OBJ"/>
     <word id="102445882" form="δοκῶ" div_section="1" lemma="δοκέω" postag="v1spia---" head="0" relation="PRED"/>
     <word id="102445883" form="," div_section="1" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102445884" form="ὦ" div_section="1" lemma="ὦ" postag="i--------" head="102445885" relation="AuxZ"/>
-    <word id="102445885" form="ἄνδρες" div_section="1" lemma="ἀνήρ" postag="n-p---mv-" head="102445882" relation="ExD"/>
-    <word id="102445886" form="δικασταί" div_section="1" lemma="δικαστής" postag="n-p---mv-" head="102445885" relation="ATR"/>
+    <word id="102445885" form="ἄνδρες" div_section="1" lemma="ἀνήρ" postag="n-p---mv-" head="102445882" relation="ExD" animacy="human" sense="gentleman.n.01"/>
+    <word id="102445886" form="δικασταί" div_section="1" lemma="δικαστής" postag="n-p---mv-" head="102445885" relation="ATR" animacy="human" sense="jury.n.01"/>
     <word id="102445887" form="·" div_section="1" lemma="·" postag="u--------" head="0" relation="AuxK"/>
   </sentence>
   <sentence struct_id="148531" id="2" document_id="0540-010" analysis="auto">
@@ -24,11 +24,11 @@
     <word id="102445895" form="παρόντων" div_section="1" lemma="πάρειμι" postag="v-pppamg-" head="102445888" relation="ATR"/>
     <word id="102445896" form="," div_section="1" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102445897" form="ὅτε" div_section="1" lemma="ὅτε" postag="c--------" head="102445891" relation="AuxC"/>
-    <word id="102445898" form="Λυσίθεος" div_section="1" lemma="Λυσίθεος" postag="n-s---mn-" head="102445900" relation="SBJ"/>
-    <word id="102445899" form="Θεόμνηστον" div_section="1" lemma="Θεόμνηστος" postag="n-s---ma-" head="102445900" relation="OBJ"/>
+    <word id="102445898" form="Λυσίθεος" div_section="1" lemma="Λυσίθεος" postag="n-s---mn-" head="102445900" relation="SBJ" animacy="human"/>
+    <word id="102445899" form="Θεόμνηστον" div_section="1" lemma="Θεόμνηστος" postag="n-s---ma-" head="102445900" relation="OBJ" animacy="human"/>
     <word id="102445900" form="εἰσήγγελλε" div_section="1" lemma="εἰσαγγέλλω" postag="v3siia---" head="102445897" relation="ADV"/>
     <word id="102445901" form="τὰ" div_section="1" lemma="ὁ" postag="l-p---na-" head="102445902" relation="ATR"/>
-    <word id="102445902" form="ὅπλα" div_section="1" lemma="ὅπλον" postag="n-p---na-" head="102445903" relation="OBJ"/>
+    <word id="102445902" form="ὅπλα" div_section="1" lemma="ὅπλον" postag="n-p---na-" head="102445903" relation="OBJ" animacy="animal" sense="weapon.n.01"/>
     <word id="102445903" form="ἀποβεβληκότα" div_section="1" lemma="ἀποβάλλω" postag="v-srpama-" head="102445899" relation="ATR"/>
     <word id="102445904" form="," div_section="1" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102445905" form="οὐκ" div_section="1" lemma="οὐ" postag="d--------" head="102445906" relation="AuxZ"/>
@@ -43,9 +43,9 @@
     <word id="102445912" form="ἐκείνῳ" div_section="1" lemma="ἐκεῖνος" postag="p-s---md-" head="102445915" relation="ATR"/>
     <word id="102445913" form="γὰρ" div_section="1" lemma="γάρ" postag="g--------" head="102445919" relation="AuxY"/>
     <word id="102445914" form="τῷ" div_section="1" lemma="ὁ" postag="l-s---md-" head="102445915" relation="ATR"/>
-    <word id="102445915" form="ἀγῶνι" div_section="1" lemma="ἀγών" postag="n-s---md-" head="102445911" relation="ADV"/>
+    <word id="102445915" form="ἀγῶνι" div_section="1" lemma="ἀγών" postag="n-s---md-" head="102445911" relation="ADV" animacy="nonconc" sense="trial.n.04"/>
     <word id="102445916" form="τὸν" div_section="1" lemma="ὁ" postag="l-s---ma-" head="102445917" relation="ATR"/>
-    <word id="102445917" form="πατέρα" div_section="1" lemma="πατήρ" postag="n-s---ma-" head="102445920" relation="SBJ"/>
+    <word id="102445917" form="πατέρα" div_section="1" lemma="πατήρ" postag="n-s---ma-" head="102445920" relation="SBJ" animacy="human" sense="father.n.01"/>
     <word id="102445918" form="μ’" div_section="1" lemma="ἐγώ" postag="p-s---ca-" head="102445920" relation="SBJ"/>
     <word id="102445919" form="ἔφασκεν" div_section="1" lemma="φάσκω" postag="v3siia---" head="0" relation="PRED"/>
     <word id="102445920" form="ἀπεκτονέναι" div_section="1" lemma="ἀποκτείνω" postag="v--rna---" head="102445919" relation="OBJ"/>
@@ -65,7 +65,7 @@
     <word id="102445932" form="ἀπεκτονέναι" div_section="2" lemma="ἀποκτείνω" postag="v--rna---" head="102445933" relation="OBJ"/>
     <word id="102445933" form="ᾐτιᾶτο" div_section="2" lemma="αἰτιάομαι" postag="v3siim---" head="102445927" relation="ADV"/>
     <word id="102445934" form="," div_section="2" lemma="," postag="u--------" head="0" relation="AuxX"/>
-    <word id="102445935" form="συγγνώμην" div_section="2" lemma="συγγνώμη" postag="n-s---fa-" head="102445937" relation="OBJ"/>
+    <word id="102445935" form="συγγνώμην" div_section="2" lemma="συγγνώμη" postag="n-s---fa-" head="102445937" relation="OBJ" animacy="nonconc" sense="forgiveness.n.02"/>
     <word id="102445936" form="ἂν" div_section="2" lemma="ἄν" postag="g--------" head="102445937" relation="AuxY"/>
     <word id="102445937" form="εἶχον" div_section="2" lemma="ἔχω" postag="v1siia---" head="0" relation="PRED"/>
     <word id="102445938" form="αὐτῷ" div_section="2" lemma="αὐτός" postag="p-s---md-" head="102445937" relation="OBJ"/>
@@ -104,7 +104,7 @@
     <word id="102445969" form="φιλοδίκου" div_section="2" lemma="φιλόδικος" postag="a-s---mg-" head="102445967" relation="ATR_CO"/>
     <word id="102445970" form="εἶναι" div_section="2" lemma="εἰμί" postag="v--pna---" head="102445971" relation="OBJ"/>
     <word id="102445971" form="νομίζω" div_section="2" lemma="νομίζω" postag="v1spia---" head="102445962" relation="ExD"/>
-    <word id="102445972" form="κακηγορίας" div_section="2" lemma="κακηγορία" postag="n-p---fa-" head="102445973" relation="OBJ"/>
+    <word id="102445972" form="κακηγορίας" div_section="2" lemma="κακηγορία" postag="n-p---fa-" head="102445973" relation="OBJ" animacy="nonconc" sense="aspersion.n.02"/>
     <word id="102445973" form="δικάζεσθαι" div_section="2" lemma="δικάζω" postag="v--pnm---" head="102445971" relation="OBJ"/>
     <word id="102445974" form=")" div_section="2" lemma=")" postag="u--------" head="0" relation="AuxG"/>
     <word id="102445975" form="·" div_section="2" lemma="·" postag="u--------" head="0" relation="AuxK"/>
@@ -117,7 +117,7 @@
     <word id="102445980" form="εἶναι" div_section="3" lemma="εἰμί" postag="v--pna---" head="102445981" relation="OBJ"/>
     <word id="102445981" form="δοκεῖ" div_section="3" lemma="δοκέω" postag="v3spia---" head="0" relation="PRED"/>
     <word id="102445982" form="τοῦ" div_section="3" lemma="ὁ" postag="l-s---mg-" head="102445983" relation="ATR"/>
-    <word id="102445983" form="πατρός" div_section="3" lemma="πατήρ" postag="n-s---mg-" head="102445978" relation="ADV"/>
+    <word id="102445983" form="πατρός" div_section="3" lemma="πατήρ" postag="n-s---mg-" head="102445978" relation="ADV" animacy="human" sense="father.n.01"/>
     <word id="102445984" form="," div_section="3" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102445985" form="οὕτω" div_section="3" lemma="οὕτως" postag="d--------" head="102445988" relation="ADV"/>
     <word id="102445986" form="πολλοῦ" div_section="3" lemma="πολύς" postag="a-s---ng-" head="102445988" relation="ADV"/>
@@ -127,7 +127,7 @@
     <word id="102445990" form="ὑμῖν" div_section="3" lemma="σύ" postag="p-p---cd-" head="102445991" relation="ADV_CO"/>
     <word id="102445991" form="καὶ" div_section="3" lemma="καί" postag="c--------" head="102445987" relation="COORD"/>
     <word id="102445992" form="τῇ" div_section="3" lemma="ὁ" postag="l-s---fd-" head="102445993" relation="ATR"/>
-    <word id="102445993" form="πόλει" div_section="3" lemma="πόλις" postag="n-s---fd-" head="102445991" relation="ADV_CO"/>
+    <word id="102445993" form="πόλει" div_section="3" lemma="πόλις" postag="n-s---fd-" head="102445991" relation="ADV_CO" animacy="group" sense="state.n.04"/>
     <word id="102445994" form="," div_section="3" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102445995" form="μὴ" div_section="3" lemma="μή" postag="d--------" head="102445996" relation="AuxZ"/>
     <word id="102445996" form="τιμωρήσασθαι" div_section="3" lemma="τιμωρέω" postag="v--anm---" head="102445980" relation="SBJ"/>
@@ -142,7 +142,7 @@
     <word id="102446005" form="βούλομαι" div_section="3" lemma="βούλομαι" postag="v1spim---" head="102445981" relation="CO"/>
     <word id="102446006" form="πότερον" div_section="3" lemma="πότερος" postag="g--------" head="102446010" relation="AuxY"/>
     <word id="102446007" form="δώσει" div_section="3" lemma="δίδωμι" postag="v3sfia---" head="102446010" relation="OBJ_CO"/>
-    <word id="102446008" form="δίκην" div_section="3" lemma="δίκη" postag="n-s---fa-" head="102446007" relation="OBJ"/>
+    <word id="102446008" form="δίκην" div_section="3" lemma="δίκη" postag="n-s---fa-" head="102446007" relation="OBJ" animacy="nonconc" sense="punishment.n.01"/>
     <word id="102446009" form="," div_section="3" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102446010" form="ἢ" div_section="3" lemma="ἤ" postag="c--------" head="102446005" relation="COORD"/>
     <word id="102446011" form="τούτῳ" div_section="3" lemma="οὗτος" postag="p-s---md-" head="102446015" relation="ADV"/>
@@ -156,7 +156,7 @@
     <word id="102446019" form="λέγειν" div_section="3" lemma="λέγω" postag="v--pna---" head="102446018" relation="ADV_CO"/>
     <word id="102446020" form="παρὰ" div_section="3" lemma="παρά" postag="r--------" head="102446018" relation="AuxP"/>
     <word id="102446021" form="τοὺς" div_section="3" lemma="ὁ" postag="l-p---ma-" head="102446022" relation="ATR"/>
-    <word id="102446022" form="νόμους" div_section="3" lemma="νόμος" postag="n-p---ma-" head="102446020" relation="ADV"/>
+    <word id="102446022" form="νόμους" div_section="3" lemma="νόμος" postag="n-p---ma-" head="102446020" relation="ADV" animacy="nonconc" sense="law.n.01"/>
     <word id="102446023" form="ὅ" div_section="3" lemma="ὅς" postag="p-s---na-" head="102446026" relation="OBJ"/>
     <word id="102446024" form="τι" div_section="3" lemma="τις" postag="p-s---na-" head="102446023" relation="ATR"/>
     <word id="102446025" form="ἂν" div_section="3" lemma="ἄν" postag="g--------" head="102446026" relation="AuxY"/>
@@ -168,18 +168,18 @@
     <word id="102446029" form="γάρ" div_section="4" lemma="γάρ" postag="g--------" head="102446043" relation="AuxY"/>
     <word id="102446030" form="," div_section="4" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102446031" form="ὦ" div_section="4" lemma="ὦ" postag="i--------" head="102446032" relation="AuxZ"/>
-    <word id="102446032" form="ἄνδρες" div_section="4" lemma="ἀνήρ" postag="n-p---mv-" head="102446036" relation="ExD"/>
-    <word id="102446033" form="δικασταί" div_section="4" lemma="δικαστής" postag="n-p---mv-" head="102446032" relation="ATR"/>
+    <word id="102446032" form="ἄνδρες" div_section="4" lemma="ἀνήρ" postag="n-p---mv-" head="102446036" relation="ExD" animacy="human" sense="gentleman.n.01"/>
+    <word id="102446033" form="δικασταί" div_section="4" lemma="δικαστής" postag="n-p---mv-" head="102446032" relation="ATR" animacy="human" sense="jury.n.01"/>
     <word id="102446034" form="," div_section="4" lemma="," postag="u--------" head="0" relation="AuxX"/>
-    <word id="102446035" form="ἔτη" div_section="4" lemma="ἔτος" postag="n-p---nn-" head="102446036" relation="SBJ"/>
+    <word id="102446035" form="ἔτη" div_section="4" lemma="ἔτος" postag="n-p---nn-" head="102446036" relation="SBJ" animacy="time" sense="year.n.01"/>
     <word id="102446036" form="ἐστὶ" div_section="4" lemma="εἰμί" postag="v3spia---" head="102446043" relation="PRED_CO"/>
-    <word id="102446037" form="δύο" form_original="&lt;δύο&gt;" div_section="4" lemma="δύο" postag="m--------" head="102446038" relation="ATR_CO"/>
-    <word id="102446038" form="καὶ" form_original="&lt;καὶ&gt;" div_section="4" lemma="καί" postag="c--------" head="102446035" relation="COORD"/>
+    <word id="102446037" form="δύο" form_original="<δύο>" div_section="4" lemma="δύο" postag="m--------" head="102446038" relation="ATR_CO"/>
+    <word id="102446038" form="καὶ" form_original="<καὶ>" div_section="4" lemma="καί" postag="c--------" head="102446035" relation="COORD"/>
     <word id="102446039" form="τριάκοντα" div_section="4" lemma="τριάκοντα" postag="m--------" head="102446038" relation="ATR_CO"/>
     <word id="102446040" form="," div_section="4" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102446041" form="ἐξ" div_section="4" lemma="ἐκ" postag="r--------" head="102446045" relation="AuxP"/>
     <word id="102446042" form="ὅτου" div_section="4" lemma="ὅστις" postag="p-s---ng-" head="102446041" relation="ADV"/>
-    <word id="102446043" form="δ’" form_original="&lt;δ’&gt;" div_section="4" lemma="δέ" postag="c--------" head="0" relation="COORD"/>
+    <word id="102446043" form="δ’" form_original="<δ’>" div_section="4" lemma="δέ" postag="c--------" head="0" relation="COORD"/>
     <word id="102446044" form="ὑμεῖς" div_section="4" lemma="σύ" postag="p-p---cn-" head="102446045" relation="SBJ"/>
     <word id="102446045" form="κατεληλύθατε" div_section="4" lemma="κατέρχομαι" postag="v2pria---" head="102446048" relation="ATR"/>
     <word id="102446046" form="," div_section="4" lemma="," postag="u--------" head="0" relation="AuxX"/>
@@ -191,11 +191,11 @@
   <sentence struct_id="148537" id="8" document_id="0540-010" analysis="auto">
     <word id="102446050" form="φαίνομαι" div_section="4" lemma="φαίνω" postag="v1spim---" head="0" relation="PRED"/>
     <word id="102446051" form="οὖν" div_section="4" lemma="οὖν" postag="g--------" head="102446050" relation="AuxY"/>
-    <word id="102446052" form="τρισκαιδεκέτης" div_section="4" lemma="τρισκαιδεκέτης" postag="n-s---mn-" head="102446053" relation="PNOM"/>
+    <word id="102446052" form="τρισκαιδεκέτης" div_section="4" lemma="τρισκαιδεκέτης" postag="n-s---mn-" head="102446053" relation="PNOM" animacy="nonconc"/>
     <word id="102446053" form="ὢν" div_section="4" lemma="εἰμί" postag="v-sppamn-" head="102446050" relation="ADV"/>
     <word id="102446054" form="ὅτε" div_section="4" lemma="ὅτε" postag="c--------" head="102446050" relation="AuxC"/>
     <word id="102446055" form="ὁ" div_section="4" lemma="ὁ" postag="l-s---mn-" head="102446056" relation="ATR"/>
-    <word id="102446056" form="πατὴρ" div_section="4" lemma="πατήρ" postag="n-s---mn-" head="102446060" relation="SBJ"/>
+    <word id="102446056" form="πατὴρ" div_section="4" lemma="πατήρ" postag="n-s---mn-" head="102446060" relation="SBJ" animacy="human" sense="father.n.01"/>
     <word id="102446057" form="ὑπὸ" div_section="4" lemma="ὑπό" postag="r--------" head="102446060" relation="AuxP"/>
     <word id="102446058" form="τῶν" div_section="4" lemma="ὁ" postag="l-p---mg-" head="102446059" relation="ATR"/>
     <word id="102446059" form="τριάκοντα" div_section="4" lemma="τριάκοντα" postag="m--------" head="102446057" relation="OBJ"/>
@@ -207,12 +207,12 @@
     <word id="102446063" form="δὲ" div_section="4" lemma="δέ" postag="c--------" head="102446068" relation="AuxY"/>
     <word id="102446064" form="ἔχων" div_section="4" lemma="ἔχω" postag="v-sppamn-" head="102446072" relation="ADV"/>
     <word id="102446065" form="τὴν" div_section="4" lemma="ὁ" postag="l-s---fa-" head="102446066" relation="ATR"/>
-    <word id="102446066" form="ἡλικίαν" div_section="4" lemma="ἡλικία" postag="n-s---fa-" head="102446064" relation="OBJ"/>
+    <word id="102446066" form="ἡλικίαν" div_section="4" lemma="ἡλικία" postag="n-s---fa-" head="102446064" relation="OBJ" animacy="nonconc" sense="age.n.03"/>
     <word id="102446067" form="οὔ" div_section="4" lemma="οὐ" postag="d--------" head="102446070" relation="AuxZ"/>
     <word id="102446068" form="-τε" div_section="4" lemma="τε" postag="c--------" head="102446070" relation="AuxY"/>
     <word id="102446069" form="τί" div_section="4" lemma="τίς" postag="p-s---nn-" head="102446070" relation="PNOM"/>
     <word id="102446070" form="ἔστιν" div_section="4" lemma="εἰμί" postag="v3spia---" head="102446072" relation="OBJ"/>
-    <word id="102446071" form="ὀλιγαρχία" div_section="4" lemma="ὀλιγαρχία" postag="n-s---fn-" head="102446070" relation="PNOM"/>
+    <word id="102446071" form="ὀλιγαρχία" div_section="4" lemma="ὀλιγαρχία" postag="n-s---fn-" head="102446070" relation="PNOM" animacy="nonconc" sense="oligarchy.n.01"/>
     <word id="102446072" form="ἠπιστάμην" div_section="4" lemma="ἐπίσταμαι" postag="v1siim---" head="102446075" relation="PRED_CO"/>
     <word id="102446073" form="," div_section="4" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102446074" form="οὔ" div_section="4" lemma="οὐ" postag="d--------" head="102446079" relation="AuxZ"/>
@@ -231,10 +231,10 @@
     <word id="102446085" form="οὐκ" div_section="5" lemma="οὐ" postag="d--------" head="102446086" relation="AuxZ"/>
     <word id="102446086" form="ὀρθῶς" div_section="5" lemma="ὀρθός" postag="d--------" head="102446090" relation="ADV"/>
     <word id="102446087" form="τῶν" div_section="5" lemma="ὁ" postag="l-p---ng-" head="102446088" relation="ATR"/>
-    <word id="102446088" form="χρημάτων" div_section="5" lemma="χρῆμα" postag="n-p---ng-" head="102446089" relation="ADV"/>
+    <word id="102446088" form="χρημάτων" div_section="5" lemma="χρῆμα" postag="n-p---ng-" head="102446089" relation="ADV" animacy="concrete" sense="money.n.01"/>
     <word id="102446089" form="ἕνεκα" div_section="5" lemma="ἕνεκα" postag="r--------" head="102446090" relation="AuxP"/>
     <word id="102446090" form="ἐπεβούλευσα" div_section="5" lemma="ἐπιβουλεύω" postag="v1saia---" head="0" relation="PRED"/>
-    <word id="102446091" form="ἂν" form_original="&lt;ἂν&gt;" div_section="5" lemma="ἄν" postag="g--------" head="102446090" relation="AuxY"/>
+    <word id="102446091" form="ἂν" form_original="<ἂν>" div_section="5" lemma="ἄν" postag="g--------" head="102446090" relation="AuxY"/>
     <word id="102446092" form="αὐτῷ" div_section="5" lemma="αὐτός" postag="p-s---md-" head="102446090" relation="OBJ"/>
     <word id="102446093" form="·" div_section="5" lemma="·" postag="u--------" head="0" relation="AuxK"/>
   </sentence>
@@ -242,8 +242,8 @@
     <word id="102446094" form="ὁ" div_section="5" lemma="ὁ" postag="l-s---mn-" head="102446098" relation="ATR"/>
     <word id="102446095" form="γὰρ" div_section="5" lemma="γάρ" postag="g--------" head="102446102" relation="AuxY"/>
     <word id="102446096" form="πρεσβύτερος" div_section="5" lemma="πρέσβυς" postag="a-s---mnc" head="102446098" relation="ATR"/>
-    <word id="102446097" form="ἀδελφὸς" div_section="5" lemma="ἀδελφός" postag="n-s---mn-" head="102446098" relation="APOS"/>
-    <word id="102446098" form="Πανταλέων" div_section="5" lemma="Πανταλέων" postag="n-s---mn-" head="102446100" relation="SBJ"/>
+    <word id="102446097" form="ἀδελφὸς" div_section="5" lemma="ἀδελφός" postag="n-s---mn-" head="102446098" relation="APOS" animacy="human" sense="brother.n.01"/>
+    <word id="102446098" form="Πανταλέων" div_section="5" lemma="Πανταλέων" postag="n-s---mn-" head="102446100" relation="SBJ" animacy="human"/>
     <word id="102446099" form="ἅπαντα" div_section="5" lemma="ἅπας" postag="p-p---na-" head="102446100" relation="OBJ"/>
     <word id="102446100" form="παρέλαβε" div_section="5" lemma="παραλαμβάνω" postag="v3saia---" head="102446102" relation="PRED_CO"/>
     <word id="102446101" form="," div_section="5" lemma="," postag="u--------" head="0" relation="AuxX"/>
@@ -259,8 +259,8 @@
     <word id="102446111" form="ἕνεκα" div_section="5" lemma="ἕνεκα" postag="r--------" head="102446117" relation="AuxP"/>
     <word id="102446112" form="," div_section="5" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102446113" form="ὦ" div_section="5" lemma="ὦ" postag="i--------" head="102446114" relation="AuxZ"/>
-    <word id="102446114" form="ἄνδρες" div_section="5" lemma="ἀνήρ" postag="n-p---mv-" head="102446117" relation="ExD"/>
-    <word id="102446115" form="δικασταί" div_section="5" lemma="δικαστής" postag="n-p---mv-" head="102446114" relation="ATR"/>
+    <word id="102446114" form="ἄνδρες" div_section="5" lemma="ἀνήρ" postag="n-p---mv-" head="102446117" relation="ExD" animacy="human" sense="gentleman.n.01"/>
+    <word id="102446115" form="δικασταί" div_section="5" lemma="δικαστής" postag="n-p---mv-" head="102446114" relation="ATR" animacy="human" sense="jury.n.01"/>
     <word id="102446116" form="," div_section="5" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102446117" form="προσήκει" div_section="5" lemma="προσήκω" postag="v3spia---" head="102446109" relation="ADV"/>
     <word id="102446118" form="μοι" div_section="5" lemma="ἐγώ" postag="p-s---cd-" head="102446120" relation="OBJ"/>
@@ -270,7 +270,7 @@
     <word id="102446122" form="." div_section="5" lemma="." postag="u--------" head="0" relation="AuxK"/>
   </sentence>
   <sentence struct_id="148541" id="12" document_id="0540-010" analysis="auto">
-    <word id="102446123" form="ἀνάγκη" div_section="5" lemma="ἀνάγκη" postag="n-s---fn-" head="1000307118" relation="PNOM"/>
+    <word id="102446123" form="ἀνάγκη" div_section="5" lemma="ἀνάγκη" postag="n-s---fn-" head="1000307118" relation="PNOM" animacy="nonconc" sense="necessity.n.01"/>
     <word id="102446124" form="μὲν" div_section="5" lemma="μέν" postag="g--------" head="102446131" relation="AuxY"/>
     <word id="102446125" form="οὖν" div_section="5" lemma="οὖν" postag="g--------" head="102446131" relation="AuxY"/>
     <word id="102446126" form="περὶ" div_section="5" lemma="περί" postag="r--------" head="102446128" relation="AuxP"/>
@@ -281,13 +281,13 @@
     <word id="102446131" form="δὲ" div_section="5" lemma="δέ" postag="c--------" head="1000307118" relation="COORD"/>
     <word id="102446132" form="δεῖ" div_section="5" lemma="δέω" postag="v3spia---" head="102446131" relation="SBJ_CO"/>
     <word id="102446133" form="πολλῶν" div_section="5" lemma="πολύς" postag="a-p---mg-" head="102446134" relation="ATR"/>
-    <word id="102446134" form="λόγων" div_section="5" lemma="λόγος" postag="n-p---mg-" head="102446130" relation="ATR"/>
+    <word id="102446134" form="λόγων" div_section="5" lemma="λόγος" postag="n-p---mg-" head="102446130" relation="ATR" animacy="nonconc" sense="argument.n.01"/>
     <word id="102446135" form="·" div_section="5" lemma="·" postag="u--------" head="0" relation="AuxK"/>
     <word id="1000307118" form="E" lemma="E" postag="z--------" head="0" relation="PRED" artificial="elliptic" div_section="5"/>
   </sentence>
   <sentence struct_id="148542" id="13" document_id="0540-010" analysis="auto">
     <word id="102446136" form="σχεδὸν" div_section="5" lemma="σχεδόν" postag="d--------" head="102446138" relation="ADV"/>
-    <word id="102446137" form="γὰρ" form_original="&lt;γὰρ&gt;" div_section="5" lemma="γάρ" postag="g--------" head="102446138" relation="AuxY"/>
+    <word id="102446137" form="γὰρ" form_original="<γὰρ>" div_section="5" lemma="γάρ" postag="g--------" head="102446138" relation="AuxY"/>
     <word id="102446138" form="ἐπίστασθε" div_section="5" lemma="ἐπίσταμαι" postag="v2ppim---" head="0" relation="PRED"/>
     <word id="102446139" form="ἅπαντες" div_section="5" lemma="ἅπας" postag="p-p---mn-" head="102446138" relation="SBJ"/>
     <word id="102446140" form="ὅτι" div_section="5" lemma="ὅτι" postag="c--------" head="102446138" relation="AuxC"/>
@@ -298,7 +298,7 @@
   <sentence struct_id="148543" id="14" document_id="0540-010" analysis="auto">
     <word id="102446144" form="ὅμως" div_section="5" lemma="ὅμως" postag="d--------" head="102446148" relation="ADV"/>
     <word id="102446145" form="δὲ" div_section="5" lemma="δέ" postag="c--------" head="102446148" relation="AuxY"/>
-    <word id="102446146" form="μάρτυρας" div_section="5" lemma="μάρτυς" postag="n-p---ma-" head="102446148" relation="OCOMP"/>
+    <word id="102446146" form="μάρτυρας" div_section="5" lemma="μάρτυς" postag="n-p---ma-" head="102446148" relation="OCOMP" animacy="human" sense="witness.n.01"/>
     <word id="102446147" form="αὐτῶν" div_section="5" lemma="αὐτός" postag="p-p---ng-" head="102446146" relation="ATR"/>
     <word id="102446148" form="παρέξομαι" div_section="5" lemma="παρέχω" postag="v1sfim---" head="0" relation="PRED"/>
     <word id="102446149" form="." div_section="5" lemma="." postag="u--------" head="0" relation="AuxK"/>
@@ -308,8 +308,8 @@
     <word id="102446151" form="τοίνυν" div_section="6" lemma="τοίνυν" postag="g--------" head="102446164" relation="AuxY"/>
     <word id="102446152" form="," div_section="6" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102446153" form="ὦ" div_section="6" lemma="ὦ" postag="i--------" head="102446154" relation="AuxZ"/>
-    <word id="102446154" form="ἄνδρες" div_section="6" lemma="ἀνήρ" postag="n-p---mv-" head="102446164" relation="ExD"/>
-    <word id="102446155" form="δικασταί" div_section="6" lemma="δικαστής" postag="n-p---mv-" head="102446154" relation="ATR"/>
+    <word id="102446154" form="ἄνδρες" div_section="6" lemma="ἀνήρ" postag="n-p---mv-" head="102446164" relation="ExD" animacy="human" sense="gentleman.n.01"/>
+    <word id="102446155" form="δικασταί" div_section="6" lemma="δικαστής" postag="n-p---mv-" head="102446154" relation="ATR" animacy="human" sense="jury.n.01"/>
     <word id="102446156" form="," div_section="6" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102446157" form="περὶ" div_section="6" lemma="περί" postag="r--------" head="102446161" relation="AuxP"/>
     <word id="102446158" form="τούτων" div_section="6" lemma="οὗτος" postag="p-p---ng-" head="102446157" relation="ADV"/>
@@ -327,7 +327,7 @@
     <word id="102446170" form="καὶ" div_section="6" lemma="καί" postag="c--------" head="102446163" relation="COORD"/>
     <word id="102446171" form="πρὸς" div_section="6" lemma="πρός" postag="r--------" head="102446170" relation="AuxP"/>
     <word id="102446172" form="τὸν" div_section="6" lemma="ὁ" postag="l-s---ma-" head="102446173" relation="ATR"/>
-    <word id="102446173" form="διαιτητήν" div_section="6" lemma="διαιτητής" postag="n-s---ma-" head="102446171" relation="OBJ_CO"/>
+    <word id="102446173" form="διαιτητήν" div_section="6" lemma="διαιτητής" postag="n-s---ma-" head="102446171" relation="OBJ_CO" animacy="human" sense="arbiter.n.02"/>
     <word id="102446174" form="," div_section="6" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102446175" form="ὡς" div_section="6" lemma="ὡς" postag="c--------" head="102446163" relation="AuxC"/>
     <word id="102446176" form="οὐκ" div_section="6" lemma="οὐ" postag="d--------" head="102446177" relation="AuxZ"/>
@@ -339,14 +339,14 @@
     <word id="102446182" form="τις" div_section="6" lemma="τις" postag="p-s---cn-" head="102446183" relation="SBJ"/>
     <word id="102446183" form="εἴπῃ" div_section="6" lemma="λέγω" postag="v3sasa---" head="102446181" relation="ADV"/>
     <word id="102446184" form="τὸν" div_section="6" lemma="ὁ" postag="l-s---ma-" head="102446185" relation="ATR"/>
-    <word id="102446185" form="πατέρα" div_section="6" lemma="πατήρ" postag="n-s---ma-" head="102446186" relation="SBJ"/>
+    <word id="102446185" form="πατέρα" div_section="6" lemma="πατήρ" postag="n-s---ma-" head="102446186" relation="SBJ" animacy="human" sense="father.n.01"/>
     <word id="102446186" form="ἀπεκτονέναι" div_section="6" lemma="ἀποκτείνω" postag="v--rna---" head="102446183" relation="OBJ"/>
     <word id="102446187" form="·" div_section="6" lemma="·" postag="u--------" head="0" relation="AuxK"/>
   </sentence>
   <sentence struct_id="148545" id="16" document_id="0540-010" analysis="auto">
     <word id="102446188" form="τὸν" div_section="6" lemma="ὁ" postag="l-s---ma-" head="102446190" relation="ATR"/>
     <word id="102446189" form="γὰρ" div_section="6" lemma="γάρ" postag="g--------" head="102446195" relation="AuxY"/>
-    <word id="102446190" form="νόμον" div_section="6" lemma="νόμος" postag="n-s---ma-" head="102446193" relation="OBJ"/>
+    <word id="102446190" form="νόμον" div_section="6" lemma="νόμος" postag="n-s---ma-" head="102446193" relation="OBJ" animacy="nonconc" sense="law.n.01"/>
     <word id="102446191" form="οὐ" div_section="6" lemma="οὐ" postag="d--------" head="102446193" relation="AuxZ"/>
     <word id="102446192" form="ταῦτ’" div_section="6" lemma="οὗτος" postag="p-p---na-" head="102446193" relation="OBJ"/>
     <word id="102446193" form="ἀπαγορεύειν" div_section="6" lemma="ἀπαγορεύω" postag="v--pna---" head="102446195" relation="OBJ_CO"/>
@@ -366,18 +366,18 @@
     <word id="102446204" form="ὑμᾶς" div_section="7" lemma="σύ" postag="p-p---ca-" head="102446214" relation="SBJ"/>
     <word id="102446205" form="," div_section="7" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102446206" form="ὦ" div_section="7" lemma="ὦ" postag="i--------" head="102446207" relation="AuxZ"/>
-    <word id="102446207" form="ἄνδρες" div_section="7" lemma="ἀνήρ" postag="n-p---mv-" head="102446203" relation="ExD"/>
-    <word id="102446208" form="δικασταί" div_section="7" lemma="δικαστής" postag="n-p---mv-" head="102446207" relation="ATR"/>
+    <word id="102446207" form="ἄνδρες" div_section="7" lemma="ἀνήρ" postag="n-p---mv-" head="102446203" relation="ExD" animacy="human" sense="gentleman.n.01"/>
+    <word id="102446208" form="δικασταί" div_section="7" lemma="δικαστής" postag="n-p---mv-" head="102446207" relation="ATR" animacy="human" sense="jury.n.01"/>
     <word id="102446209" form="," div_section="7" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102446210" form="οὐ" div_section="7" lemma="οὐ" postag="d--------" head="102446213" relation="AuxZ"/>
     <word id="102446211" form="περὶ" div_section="7" lemma="περί" postag="r--------" head="102446214" relation="AuxP"/>
     <word id="102446212" form="τῶν" div_section="7" lemma="ὁ" postag="l-p---ng-" head="102446213" relation="ATR"/>
-    <word id="102446213" form="ὀνομάτων" div_section="7" lemma="ὄνομα" postag="n-p---ng-" head="102446215" relation="ADV_CO"/>
+    <word id="102446213" form="ὀνομάτων" div_section="7" lemma="ὄνομα" postag="n-p---ng-" head="102446215" relation="ADV_CO" animacy="nonconc" sense="name.n.01"/>
     <word id="102446214" form="διαφέρεσθαι" div_section="7" lemma="διαφέρω" postag="v--pnm---" head="102446220" relation="OBJ_CO"/>
     <word id="102446215" form="ἀλλὰ" div_section="7" lemma="ἀλλά" postag="c--------" head="102446211" relation="COORD"/>
     <word id="102446216" form="τῆς" div_section="7" lemma="ὁ" postag="l-s---fg-" head="102446218" relation="ATR"/>
     <word id="102446217" form="τούτων" div_section="7" lemma="οὗτος" postag="p-p---mg-" head="102446218" relation="ATR"/>
-    <word id="102446218" form="διανοίας" div_section="7" lemma="διάνοια" postag="n-s---fg-" head="102446215" relation="ADV_CO"/>
+    <word id="102446218" form="διανοίας" div_section="7" lemma="διάνοια" postag="n-s---fg-" head="102446215" relation="ADV_CO" animacy="nonconc" sense="purpose.n.01"/>
     <word id="102446219" form="," div_section="7" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102446220" form="καὶ" div_section="7" lemma="καί" postag="c--------" head="102446203" relation="COORD"/>
     <word id="102446221" form="πάντας" div_section="7" lemma="πᾶς" postag="p-p---ma-" head="102446222" relation="SBJ"/>
@@ -385,15 +385,15 @@
     <word id="102446223" form="," div_section="7" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102446224" form="ὅτι" div_section="7" lemma="ὅτι" postag="c--------" head="102446222" relation="AuxC"/>
     <word id="102446225" form="ὅσοι" div_section="7" lemma="ὅσος" postag="p-p---mn-" head="102446226" relation="SBJ"/>
-    <word id="102446226" form="ἀπεκτόνασί" form_original="&lt;ἀπεκτόνασί&gt;" div_section="7" lemma="ἀποκτείνω" postag="v3pria---" head="102446224" relation="ADV"/>
-    <word id="102446227" form="τινας" form_original="&lt;τινας&gt;" div_section="7" lemma="τις" postag="p-p---ca-" head="102446226" relation="OBJ"/>
-    <word id="102446228" form="," form_original="&lt;,&gt;" div_section="7" lemma="," postag="u--------" head="0" relation="AuxX"/>
-    <word id="102446229" form="καὶ" form_original="&lt;καὶ&gt;" div_section="7" lemma="καί" postag="c--------" head="102446238" relation="AuxY"/>
-    <word id="102446230" form="ἀνδροφόνοι" form_original="&lt;ἀνδροφόνοι&gt;" div_section="7" lemma="ἀνδροφόνος" postag="a-p---mn-" head="102446231" relation="PNOM"/>
-    <word id="102446231" form="εἰσί" form_original="&lt;εἰσί&gt;" div_section="7" lemma="εἰμί" postag="v3ppia---" head="102446238" relation="OBJ_CO"/>
-    <word id="102446232" form="," form_original="&lt;,&gt;" div_section="7" lemma="," postag="u--------" head="0" relation="AuxX"/>
-    <word id="102446233" form="καὶ" form_original="&lt;καὶ&gt;" div_section="7" lemma="καί" postag="c--------" head="102446238" relation="AuxY"/>
-    <word id="102446234" form="ὅσοι" form_original="&lt;ὅσοι&gt;" div_section="7" lemma="ὅσος" postag="p-p---mn-" head="102446236" relation="SBJ"/>
+    <word id="102446226" form="ἀπεκτόνασί" form_original="<ἀπεκτόνασί>" div_section="7" lemma="ἀποκτείνω" postag="v3pria---" head="102446224" relation="ADV"/>
+    <word id="102446227" form="τινας" form_original="<τινας>" div_section="7" lemma="τις" postag="p-p---ca-" head="102446226" relation="OBJ"/>
+    <word id="102446228" form="," form_original="<,>" div_section="7" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="102446229" form="καὶ" form_original="<καὶ>" div_section="7" lemma="καί" postag="c--------" head="102446238" relation="AuxY"/>
+    <word id="102446230" form="ἀνδροφόνοι" form_original="<ἀνδροφόνοι>" div_section="7" lemma="ἀνδροφόνος" postag="a-p---mn-" head="102446231" relation="PNOM"/>
+    <word id="102446231" form="εἰσί" form_original="<εἰσί>" div_section="7" lemma="εἰμί" postag="v3ppia---" head="102446238" relation="OBJ_CO"/>
+    <word id="102446232" form="," form_original="<,>" div_section="7" lemma="," postag="u--------" head="0" relation="AuxX"/>
+    <word id="102446233" form="καὶ" form_original="<καὶ>" div_section="7" lemma="καί" postag="c--------" head="102446238" relation="AuxY"/>
+    <word id="102446234" form="ὅσοι" form_original="<ὅσοι>" div_section="7" lemma="ὅσος" postag="p-p---mn-" head="102446236" relation="SBJ"/>
     <word id="102446235" form="ἀνδροφόνοι" div_section="7" lemma="ἀνδροφόνος" postag="a-p---mn-" head="102446236" relation="PNOM"/>
     <word id="102446236" form="εἰσί" div_section="7" lemma="εἰμί" postag="v3ppia---" head="102446231" relation="CO"/>
     <word id="102446237" form="," div_section="7" lemma="," postag="u--------" head="0" relation="AuxX"/>
@@ -405,18 +405,18 @@
   <sentence struct_id="148547" id="18" document_id="0540-010" analysis="auto">
     <word id="102446242" form="πολὺ" div_section="7" lemma="πολύς" postag="a-s---na-" head="102446244" relation="ATR"/>
     <word id="102446243" form="γὰρ" div_section="7" lemma="γάρ" postag="g--------" head="102446245" relation="AuxY"/>
-    <word id="102446244" form="ἔργον" div_section="7" lemma="ἔργον" postag="n-s---nn-" head="102446245" relation="SBJ"/>
+    <word id="102446244" form="ἔργον" div_section="7" lemma="ἔργον" postag="n-s---nn-" head="102446245" relation="SBJ" animacy="nonconc" sense="work.n.01"/>
     <word id="102446245" form="ἦν" div_section="7" lemma="εἰμί" postag="v3siia---" head="0" relation="PRED"/>
     <word id="102446246" form="τῷ" div_section="7" lemma="ὁ" postag="l-s---md-" head="102446247" relation="ATR"/>
-    <word id="102446247" form="νομοθέτῃ" div_section="7" lemma="νομοθέτης" postag="n-s---md-" head="102446244" relation="ATR"/>
+    <word id="102446247" form="νομοθέτῃ" div_section="7" lemma="νομοθέτης" postag="n-s---md-" head="102446244" relation="ATR" animacy="human" sense="lawgiver.n.01"/>
     <word id="102446248" form="ἅπαντα" div_section="7" lemma="ἅπας" postag="p-p---na-" head="102446250" relation="ATR"/>
     <word id="102446249" form="τὰ" div_section="7" lemma="ὁ" postag="l-p---na-" head="102446250" relation="ATR"/>
-    <word id="102446250" form="ὀνόματα" div_section="7" lemma="ὄνομα" postag="n-p---na-" head="102446251" relation="OBJ"/>
+    <word id="102446250" form="ὀνόματα" div_section="7" lemma="ὄνομα" postag="n-p---na-" head="102446251" relation="OBJ" animacy="nonconc" sense="name.n.01"/>
     <word id="102446251" form="γράφειν" div_section="7" lemma="γράφω" postag="v--pna---" head="102446245" relation="SBJ"/>
     <word id="102446252" form="ὅσα" div_section="7" lemma="ὅσος" postag="p-p---nn-" head="102446256" relation="SBJ"/>
     <word id="102446253" form="τὴν" div_section="7" lemma="ὁ" postag="l-s---fa-" head="102446255" relation="ATR"/>
     <word id="102446254" form="αὐτὴν" div_section="7" lemma="αὐτός" postag="p-s---fa-" head="102446255" relation="ATR"/>
-    <word id="102446255" form="δύναμιν" div_section="7" lemma="δύναμις" postag="n-s---fa-" head="102446256" relation="OBJ"/>
+    <word id="102446255" form="δύναμιν" div_section="7" lemma="δύναμις" postag="n-s---fa-" head="102446256" relation="OBJ" animacy="nonconc" sense="power.n.01"/>
     <word id="102446256" form="ἔχει" div_section="7" lemma="ἔχω" postag="v3spia---" head="102446250" relation="ATR"/>
     <word id="102446257" form="·" div_section="7" lemma="·" postag="u--------" head="0" relation="AuxK"/>
   </sentence>
@@ -436,23 +436,23 @@
     <word id="102446268" form="δήπου" div_section="8" lemma="δήπου" postag="g--------" head="102446282" relation="AuxZ"/>
     <word id="102446269" form="," div_section="8" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102446270" form="ὦ" div_section="8" lemma="ὦ" postag="i--------" head="102446271" relation="AuxZ"/>
-    <word id="102446271" form="Θεόμνηστε" div_section="8" lemma="Θεόμνηστος" postag="n-s---mv-" head="102446290" relation="ExD"/>
+    <word id="102446271" form="Θεόμνηστε" div_section="8" lemma="Θεόμνηστος" postag="n-s---mv-" head="102446290" relation="ExD" animacy="human"/>
     <word id="102446272" form="," div_section="8" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102446273" form="εἰ" div_section="8" lemma="εἰ" postag="c--------" head="102446282" relation="AuxC"/>
     <word id="102446274" form="μέν" div_section="8" lemma="μέν" postag="g--------" head="102446290" relation="AuxY"/>
     <word id="102446275" form="τίς" div_section="8" lemma="τις" postag="p-s---cn-" head="102446277" relation="SBJ"/>
     <word id="102446276" form="σε" div_section="8" lemma="σύ" postag="p-s---ca-" head="102446277" relation="OBJ"/>
     <word id="102446277" form="εἴποι" div_section="8" lemma="λέγω" postag="v3saoa---" head="102446273" relation="ADV"/>
-    <word id="102446278" form="πατραλοίαν" div_section="8" lemma="πατραλοίας" postag="n-s---ma-" head="102446279" relation="OBJ_CO"/>
+    <word id="102446278" form="πατραλοίαν" div_section="8" lemma="πατραλοίας" postag="n-s---ma-" head="102446279" relation="OBJ_CO" animacy="nonconc" sense="parricide.n.01"/>
     <word id="102446279" form="ἢ" div_section="8" lemma="ἤ" postag="c--------" head="102446277" relation="COORD"/>
-    <word id="102446280" form="μητραλοίαν" div_section="8" lemma="μητραλοίης" postag="n-s---ma-" head="102446279" relation="OBJ_CO"/>
+    <word id="102446280" form="μητραλοίαν" div_section="8" lemma="μητραλοίης" postag="n-s---ma-" head="102446279" relation="OBJ_CO" animacy="nonconc"/>
     <word id="102446281" form="," div_section="8" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102446282" form="ἠξίους" div_section="8" lemma="ἀξιόω" postag="v2siia---" head="102446290" relation="PRED_CO"/>
     <word id="102446283" form="ἂν" div_section="8" lemma="ἄν" postag="g--------" head="102446290" relation="AuxY"/>
     <word id="102446284" form="αὐτὸν" div_section="8" lemma="αὐτός" postag="p-s---ma-" head="102446285" relation="SBJ"/>
     <word id="102446285" form="ὀφλεῖν" div_section="8" lemma="ὀφλισκάνω" postag="v--pna---" head="102446282" relation="OBJ"/>
     <word id="102446286" form="σοι" div_section="8" lemma="σύ" postag="p-s---cd-" head="102446285" relation="OBJ"/>
-    <word id="102446287" form="δίκην" div_section="8" lemma="δίκη" postag="n-s---fa-" head="102446285" relation="OBJ"/>
+    <word id="102446287" form="δίκην" div_section="8" lemma="δίκη" postag="n-s---fa-" head="102446285" relation="OBJ" animacy="nonconc" sense="punishment.n.01"/>
     <word id="102446288" form="," div_section="8" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102446289" form="εἰ" div_section="8" lemma="εἰ" postag="c--------" head="102446301" relation="AuxC"/>
     <word id="102446290" form="δέ" div_section="8" lemma="δέ" postag="c--------" head="0" relation="COORD"/>
@@ -507,15 +507,15 @@
     <word id="102446335" form="εἴποι" div_section="9" lemma="λέγω" postag="v3saoa---" head="102446332" relation="ADV"/>
     <word id="102446336" form="ῥῖψαι" div_section="9" lemma="ῥίπτω" postag="v--ana---" head="102446335" relation="OBJ"/>
     <word id="102446337" form="τὴν" div_section="9" lemma="ὁ" postag="l-s---fa-" head="102446338" relation="ATR"/>
-    <word id="102446338" form="ἀσπίδα" div_section="9" lemma="ἀσπίς" postag="n-s---fa-" head="102446336" relation="OBJ"/>
+    <word id="102446338" form="ἀσπίδα" div_section="9" lemma="ἀσπίς" postag="n-s---fa-" head="102446336" relation="OBJ" animacy="concrete" sense="shield.n.02"/>
     <word id="102446339" form="(" div_section="9" lemma="(" postag="u--------" head="0" relation="AuxG"/>
     <word id="102446340" form="ἐν" div_section="9" lemma="ἐν" postag="r--------" head="102446344" relation="AuxP"/>
     <word id="102446341" form="δὲ" div_section="9" lemma="δέ" postag="c--------" head="102446344" relation="AuxY"/>
     <word id="102446342" form="τῷ" div_section="9" lemma="ὁ" postag="l-s---md-" head="102446343" relation="ATR"/>
-    <word id="102446343" form="νόμῳ" div_section="9" lemma="νόμος" postag="n-s---md-" head="102446340" relation="ADV"/>
+    <word id="102446343" form="νόμῳ" div_section="9" lemma="νόμος" postag="n-s---md-" head="102446340" relation="ADV" animacy="nonconc" sense="law.n.01"/>
     <word id="102446344" form="εἴρηται" div_section="9" lemma="λέγω" postag="v3srim---" head="102446335" relation="ExD"/>
     <word id="102446345" form="," div_section="9" lemma="," postag="u--------" head="0" relation="AuxX"/>
-    <word id="102446346" form="&quot;" div_section="9" lemma="&quot;" postag="u--------" head="0" relation="AuxG"/>
+    <word id="102446346" form=""" div_section="9" lemma=""" postag="u--------" head="0" relation="AuxG"/>
     <word id="102446347" form="ἐάν" div_section="9" lemma="ἐάν" postag="c--------" head="102446353" relation="AuxC"/>
     <word id="102446348" form="τις" div_section="9" lemma="τις" postag="p-s---cn-" head="102446349" relation="SBJ"/>
     <word id="102446349" form="φάσκῃ" div_section="9" lemma="φάσκω" postag="v3spsa---" head="102446347" relation="ADV"/>
@@ -523,7 +523,7 @@
     <word id="102446351" form="," div_section="9" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102446352" form="ὑπόδικον" div_section="9" lemma="ὑπόδικος" postag="a-s---ma-" head="102446353" relation="PNOM"/>
     <word id="102446353" form="εἶναι" div_section="9" lemma="εἰμί" postag="v--pna---" head="102446344" relation="OBJ"/>
-    <word id="102446354" form="&quot;" div_section="9" lemma="&quot;" postag="u--------" head="0" relation="AuxG"/>
+    <word id="102446354" form=""" div_section="9" lemma=""" postag="u--------" head="0" relation="AuxG"/>
     <word id="102446355" form=")" div_section="9" lemma=")" postag="u--------" head="0" relation="AuxG"/>
     <word id="102446356" form="," div_section="9" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102446357" form="οὐκ" div_section="9" lemma="οὐ" postag="d--------" head="102446359" relation="AuxZ"/>
@@ -536,7 +536,7 @@
     <word id="102446364" form="σοι" div_section="9" lemma="σύ" postag="p-s---cd-" head="102446362" relation="OBJ"/>
     <word id="102446365" form="ἐρριφέναι" div_section="9" lemma="ῥίπτω" postag="v--rna---" head="102446362" relation="OBJ"/>
     <word id="102446366" form="τὴν" div_section="9" lemma="ὁ" postag="l-s---fa-" head="102446367" relation="ATR"/>
-    <word id="102446367" form="ἀσπίδα" div_section="9" lemma="ἀσπίς" postag="n-s---fa-" head="102446365" relation="OBJ"/>
+    <word id="102446367" form="ἀσπίδα" div_section="9" lemma="ἀσπίς" postag="n-s---fa-" head="102446365" relation="OBJ" animacy="concrete" sense="shield.n.02"/>
     <word id="102446368" form="λέγοντι" div_section="9" lemma="λέγω" postag="v-sppamd-" head="102446364" relation="ATR"/>
     <word id="102446369" form="οὐδέν" div_section="9" lemma="οὐδείς" postag="p-s---na-" head="102446371" relation="OBJ"/>
     <word id="102446370" form="σοι" div_section="9" lemma="σύ" postag="p-s---cd-" head="102446371" relation="OBJ"/>
@@ -571,11 +571,11 @@
     <word id="102446395" form="τινὰ" div_section="10" lemma="τις" postag="p-s---ca-" head="102446394" relation="OBJ"/>
     <word id="102446396" form="φάσκων" div_section="10" lemma="φάσκω" postag="v-sppamn-" head="102446394" relation="ADV"/>
     <word id="102446397" form="το-" div_section="10" lemma="ὁ" postag="l-s---na-" head="102446398" relation="ATR"/>
-    <word id="102446398" form="θοἰμάτιον" div_section="10" lemma="ἱμάτιον" postag="n-s---na-" head="102446399" relation="OBJ"/>
+    <word id="102446398" form="θοἰμάτιον" div_section="10" lemma="ἱμάτιον" postag="n-s---na-" head="102446399" relation="OBJ" animacy="concrete" sense="garment.n.01"/>
     <word id="102446399" form="ἀποδεδύσθαι" div_section="10" lemma="ἀποδύω" postag="v--rnm---" head="102446400" relation="OBJ_CO"/>
     <word id="102446400" form="ἢ" div_section="10" lemma="ἤ" postag="c--------" head="102446396" relation="COORD"/>
     <word id="102446401" form="τὸν" div_section="10" lemma="ὁ" postag="l-s---ma-" head="102446402" relation="ATR"/>
-    <word id="102446402" form="χιτωνίσκον" div_section="10" lemma="χιτωνίσκος" postag="n-s---ma-" head="102446403" relation="OBJ"/>
+    <word id="102446402" form="χιτωνίσκον" div_section="10" lemma="χιτωνίσκος" postag="n-s---ma-" head="102446403" relation="OBJ" animacy="concrete" sense="shirt.n.01"/>
     <word id="102446403" form="ἐκδεδύσθαι" div_section="10" lemma="ἐκδύω" postag="v--rnm---" head="102446400" relation="OBJ_CO"/>
     <word id="102446404" form="," div_section="10" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102446405" form="ἀλλ’" div_section="10" lemma="ἀλλά" postag="c--------" head="0" relation="COORD"/>
@@ -583,11 +583,11 @@
     <word id="102446407" form="ἂν" div_section="10" lemma="ἄν" postag="g--------" head="102446406" relation="AuxY"/>
     <word id="102446408" form="τὸν" div_section="10" lemma="ὁ" postag="l-s---ma-" head="102446410" relation="ATR"/>
     <word id="102446409" form="αὐτὸν" div_section="10" lemma="αὐτός" postag="p-s---ma-" head="102446410" relation="ATR"/>
-    <word id="102446410" form="τρόπον" div_section="10" lemma="τρόπος" postag="n-s---ma-" head="102446406" relation="ADV"/>
+    <word id="102446410" form="τρόπον" div_section="10" lemma="τρόπος" postag="n-s---ma-" head="102446406" relation="ADV" animacy="nonconc" sense="manner.n.01"/>
     <word id="102446411" form="," div_section="10" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102446412" form="ὅτι" div_section="10" lemma="ὅτι" postag="c--------" head="102446406" relation="AuxC"/>
     <word id="102446413" form="οὐ" div_section="10" lemma="οὐ" postag="d--------" head="102446414" relation="AuxZ"/>
-    <word id="102446414" form="λωποδύτης" div_section="10" lemma="λωποδύτης" postag="n-s---mn-" head="102446415" relation="PNOM"/>
+    <word id="102446414" form="λωποδύτης" div_section="10" lemma="λωποδύτης" postag="n-s---mn-" head="102446415" relation="PNOM" animacy="nonconc" sense="thief.n.01"/>
     <word id="102446415" form="ὀνομάζεται" div_section="10" lemma="ὀνομάζω" postag="v3spim---" head="102446412" relation="ADV"/>
     <word id="102446416" form="." div_section="10" lemma="." postag="u--------" head="0" relation="AuxK"/>
   </sentence>
@@ -596,7 +596,7 @@
     <word id="102446418" form="-δ’" div_section="10" lemma="δέ" postag="c--------" head="102446417" relation="MWE"/>
     <word id="102446419" form="εἴ" div_section="10" lemma="εἰ" postag="c--------" head="102446427" relation="AuxC"/>
     <word id="102446420" form="τις" div_section="10" lemma="τις" postag="p-s---cn-" head="102446423" relation="SBJ"/>
-    <word id="102446421" form="παῖδα" div_section="10" lemma="παῖς" postag="n-s---ca-" head="102446422" relation="OBJ"/>
+    <word id="102446421" form="παῖδα" div_section="10" lemma="παῖς" postag="n-s---ca-" head="102446422" relation="OBJ" animacy="human" sense="son.n.01"/>
     <word id="102446422" form="ἐξαγαγὼν" div_section="10" lemma="ἐξάγω" postag="v-sapamn-" head="102446423" relation="ADV"/>
     <word id="102446423" form="ληφθείη" div_section="10" lemma="λαμβάνω" postag="v3saop---" head="102446419" relation="ADV"/>
     <word id="102446424" form="," div_section="10" lemma="," postag="u--------" head="0" relation="AuxX"/>
@@ -604,26 +604,26 @@
     <word id="102446426" form="ἂν" div_section="10" lemma="ἄν" postag="g--------" head="102446427" relation="AuxY"/>
     <word id="102446427" form="φάσκοις" div_section="10" lemma="φάσκω" postag="v2spoa---" head="0" relation="PRED"/>
     <word id="102446428" form="αὐτὸν" div_section="10" lemma="αὐτός" postag="p-s---ma-" head="102446430" relation="SBJ"/>
-    <word id="102446429" form="ἀνδραποδιστὴν" div_section="10" lemma="ἀνδραποδιστής" postag="n-s---ma-" head="102446430" relation="PNOM"/>
+    <word id="102446429" form="ἀνδραποδιστὴν" div_section="10" lemma="ἀνδραποδιστής" postag="n-s---ma-" head="102446430" relation="PNOM" animacy="human" sense="kidnapper.n.01"/>
     <word id="102446430" form="εἶναι" div_section="10" lemma="εἰμί" postag="v--pna---" head="102446427" relation="OBJ"/>
     <word id="102446431" form="," div_section="10" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102446432" form="εἴπερ" div_section="10" lemma="εἴπερ" postag="c--------" head="102446430" relation="AuxC"/>
     <word id="102446433" form="μαχεῖ" div_section="10" lemma="μάχομαι" postag="v2sfim---" head="102446437" relation="ADV_CO"/>
     <word id="102446434" form="τοῖς" div_section="10" lemma="ὁ" postag="l-p---nd-" head="102446435" relation="ATR"/>
-    <word id="102446435" form="ὀνόμασιν" div_section="10" lemma="ὄνομα" postag="n-p---nd-" head="102446433" relation="OBJ"/>
+    <word id="102446435" form="ὀνόμασιν" div_section="10" lemma="ὄνομα" postag="n-p---nd-" head="102446433" relation="OBJ" animacy="nonconc" sense="name.n.01"/>
     <word id="102446436" form="," div_section="10" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102446437" form="ἀλλὰ" div_section="10" lemma="ἀλλά" postag="c--------" head="102446432" relation="COORD"/>
     <word id="102446438" form="μὴ" div_section="10" lemma="μή" postag="d--------" head="102446443" relation="AuxZ"/>
     <word id="102446439" form="τοῖς" div_section="10" lemma="ὁ" postag="l-p---nd-" head="102446440" relation="ATR"/>
-    <word id="102446440" form="ἔργοις" div_section="10" lemma="ἔργον" postag="n-p---nd-" head="102446443" relation="OBJ"/>
+    <word id="102446440" form="ἔργοις" div_section="10" lemma="ἔργον" postag="n-p---nd-" head="102446443" relation="OBJ" animacy="nonconc" sense="act.n.02"/>
     <word id="102446441" form="τὸν" div_section="10" lemma="ὁ" postag="l-s---ma-" head="102446442" relation="ATR"/>
-    <word id="102446442" form="νοῦν" div_section="10" lemma="νόος" postag="n-s---ma-" head="102446443" relation="OBJ"/>
+    <word id="102446442" form="νοῦν" div_section="10" lemma="νόος" postag="n-s---ma-" head="102446443" relation="OBJ" animacy="nonconc" sense="attention.n.01"/>
     <word id="102446443" form="προσέξεις" div_section="10" lemma="προσέχω" postag="v2sfia---" head="102446437" relation="ADV_CO"/>
     <word id="102446444" form="," div_section="10" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102446445" form="ὧν" div_section="10" lemma="ὅς" postag="p-p---ng-" head="102446446" relation="ADV"/>
     <word id="102446446" form="ἕνεκα" div_section="10" lemma="ἕνεκα" postag="r--------" head="102446450" relation="AuxP"/>
     <word id="102446447" form="τὰ" div_section="10" lemma="ὁ" postag="l-p---na-" head="102446448" relation="ATR"/>
-    <word id="102446448" form="ὀνόματα" div_section="10" lemma="ὄνομα" postag="n-p---na-" head="102446450" relation="OBJ"/>
+    <word id="102446448" form="ὀνόματα" div_section="10" lemma="ὄνομα" postag="n-p---na-" head="102446450" relation="OBJ" animacy="nonconc" sense="name.n.01"/>
     <word id="102446449" form="πάντες" div_section="10" lemma="πᾶς" postag="p-p---mn-" head="102446450" relation="SBJ"/>
     <word id="102446450" form="τίθενται" div_section="10" lemma="τίθημι" postag="v3ppim---" head="102446442" relation="ATR"/>
     <word id="102446451" form="." div_section="10" lemma="." postag="u--------" head="0" relation="AuxK"/>
@@ -634,8 +634,8 @@
     <word id="102446454" form="σκέψασθε" div_section="11" lemma="σκοπέω" postag="v2pamm---" head="0" relation="PRED"/>
     <word id="102446455" form="," div_section="11" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102446456" form="ὦ" div_section="11" lemma="ὦ" postag="i--------" head="102446457" relation="AuxZ"/>
-    <word id="102446457" form="ἄνδρες" div_section="11" lemma="ἀνήρ" postag="n-p---mv-" head="102446454" relation="ExD"/>
-    <word id="102446458" form="δικασταί" div_section="11" lemma="δικαστής" postag="n-p---mv-" head="102446457" relation="ATR"/>
+    <word id="102446457" form="ἄνδρες" div_section="11" lemma="ἀνήρ" postag="n-p---mv-" head="102446454" relation="ExD" animacy="human" sense="gentleman.n.01"/>
+    <word id="102446458" form="δικασταί" div_section="11" lemma="δικαστής" postag="n-p---mv-" head="102446457" relation="ATR" animacy="human" sense="jury.n.01"/>
     <word id="102446459" form="·" div_section="11" lemma="·" postag="u--------" head="0" relation="AuxK"/>
   </sentence>
   <sentence struct_id="148556" id="27" document_id="0540-010" analysis="auto">
@@ -644,14 +644,14 @@
     <word id="102446462" form="μοι" div_section="11" lemma="ἐγώ" postag="p-s---cd-" head="102446463" relation="OBJ"/>
     <word id="102446463" form="δοκεῖ" div_section="11" lemma="δοκέω" postag="v3spia---" head="0" relation="PRED"/>
     <word id="102446464" form="ὑπὸ" div_section="11" lemma="ὑπό" postag="r--------" head="102446473" relation="AuxP"/>
-    <word id="102446465" form="ῥᾳθυμίας" div_section="11" lemma="ῥαθυμία" postag="n-s---fg-" head="102446466" relation="OBJ_CO"/>
+    <word id="102446465" form="ῥᾳθυμίας" div_section="11" lemma="ῥαθυμία" postag="n-s---fg-" head="102446466" relation="OBJ_CO" animacy="nonconc" sense="indolence.n.01"/>
     <word id="102446466" form="καὶ" div_section="11" lemma="καί" postag="c--------" head="102446464" relation="COORD"/>
-    <word id="102446467" form="μαλακίας" div_section="11" lemma="μαλακία" postag="n-s---fg-" head="102446466" relation="OBJ_CO"/>
+    <word id="102446467" form="μαλακίας" div_section="11" lemma="μαλακία" postag="n-s---fg-" head="102446466" relation="OBJ_CO" animacy="nonconc" sense="effeminacy.n.01"/>
     <word id="102446468" form="οὐ" div_section="11" lemma="οὐ" postag="d--------" head="102446472" relation="AuxZ"/>
     <word id="102446469" form="-δ’" div_section="11" lemma="δέ" postag="c--------" head="102446470" relation="AuxY"/>
     <word id="102446470" form="εἰς" div_section="11" lemma="εἰς" postag="r--------" head="102446473" relation="AuxP"/>
     <word id="102446471" form="Ἄρειον" div_section="11" lemma="Ἄρειος" postag="a-s---ma-" head="102446472" relation="ATR"/>
-    <word id="102446472" form="πάγον" div_section="11" lemma="πάγος" postag="n-s---ma-" head="102446470" relation="OBJ"/>
+    <word id="102446472" form="πάγον" div_section="11" lemma="πάγος" postag="n-s---ma-" head="102446470" relation="OBJ" animacy="natobj" sense="hill.n.01"/>
     <word id="102446473" form="ἀναβεβηκέναι" div_section="11" lemma="ἀναβαίνω" postag="v--rna---" head="102446463" relation="OBJ"/>
     <word id="102446474" form="." div_section="11" lemma="." postag="u--------" head="0" relation="AuxK"/>
   </sentence>
@@ -663,22 +663,22 @@
     <word id="102446479" form="ἐν" div_section="11" lemma="ἐν" postag="r--------" head="102446498" relation="AuxP"/>
     <word id="102446480" form="ἐκείνῳ" div_section="11" lemma="ἐκεῖνος" postag="p-s---nd-" head="102446482" relation="ATR"/>
     <word id="102446481" form="τῷ" div_section="11" lemma="ὁ" postag="l-s---nd-" head="102446482" relation="ATR"/>
-    <word id="102446482" form="χωρίῳ" div_section="11" lemma="χωρίον" postag="n-s---nd-" head="102446479" relation="ADV"/>
+    <word id="102446482" form="χωρίῳ" div_section="11" lemma="χωρίον" postag="n-s---nd-" head="102446479" relation="ADV" animacy="place" sense="topographic_point.n.01"/>
     <word id="102446483" form="," div_section="11" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102446484" form="ὅταν" div_section="11" lemma="ὅταν" postag="c--------" head="102446498" relation="AuxC"/>
     <word id="102446485" form="τὰς" div_section="11" lemma="ὁ" postag="l-p---fa-" head="102446488" relation="ATR"/>
     <word id="102446486" form="τοῦ" div_section="11" lemma="ὁ" postag="l-s---mg-" head="102446487" relation="ATR"/>
-    <word id="102446487" form="φόνου" div_section="11" lemma="φόνος" postag="n-s---mg-" head="102446488" relation="ATR"/>
-    <word id="102446488" form="δίκας" div_section="11" lemma="δίκη" postag="n-p---fa-" head="102446489" relation="OBJ"/>
+    <word id="102446487" form="φόνου" div_section="11" lemma="φόνος" postag="n-s---mg-" head="102446488" relation="ATR" animacy="nonconc" sense="murder.n.01"/>
+    <word id="102446488" form="δίκας" div_section="11" lemma="δίκη" postag="n-p---fa-" head="102446489" relation="OBJ" animacy="nonconc" sense="lawsuit.n.01"/>
     <word id="102446489" form="δικάζωνται" div_section="11" lemma="δικάζω" postag="v3ppsm---" head="102446484" relation="ADV"/>
     <word id="102446490" form="," div_section="11" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102446491" form="οὐ" div_section="11" lemma="οὐ" postag="d--------" head="102446498" relation="AuxZ"/>
     <word id="102446492" form="διὰ" div_section="11" lemma="διά" postag="r--------" head="102446498" relation="AuxP"/>
     <word id="102446493" form="τούτου" div_section="11" lemma="οὗτος" postag="p-s---ng-" head="102446495" relation="ATR"/>
     <word id="102446494" form="τοῦ" div_section="11" lemma="ὁ" postag="l-s---ng-" head="102446495" relation="ATR"/>
-    <word id="102446495" form="ὀνόματος" div_section="11" lemma="ὄνομα" postag="n-s---ng-" head="102446492" relation="ADV"/>
+    <word id="102446495" form="ὀνόματος" div_section="11" lemma="ὄνομα" postag="n-s---ng-" head="102446492" relation="ADV" animacy="nonconc" sense="name.n.01"/>
     <word id="102446496" form="τὰς" div_section="11" lemma="ὁ" postag="l-p---fa-" head="102446497" relation="ATR"/>
-    <word id="102446497" form="διωμοσίας" div_section="11" lemma="διωμοσία" postag="n-p---fa-" head="102446498" relation="OBJ"/>
+    <word id="102446497" form="διωμοσίας" div_section="11" lemma="διωμοσία" postag="n-p---fa-" head="102446498" relation="OBJ" animacy="nonconc"/>
     <word id="102446498" form="ποιοῦνται" div_section="11" lemma="ποιέω" postag="v3ppim---" head="102446500" relation="OBJ_CO"/>
     <word id="102446499" form="," div_section="11" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102446500" form="ἀλλὰ" div_section="11" lemma="ἀλλά" postag="c--------" head="102446478" relation="COORD"/>
@@ -747,14 +747,14 @@
     <word id="102446555" form="καὶ" div_section="12" lemma="καί" postag="c--------" head="102446560" relation="AuxY"/>
     <word id="102446556" form="αὐτὸς" div_section="12" lemma="αὐτός" postag="p-s---mn-" head="102446560" relation="ADV"/>
     <word id="102446557" form="μὲν" div_section="12" lemma="μέν" postag="g--------" head="102446560" relation="AuxY"/>
-    <word id="102446558" form="Λυσιθέῳ" div_section="12" lemma="Λυσίθεος" postag="n-s---md-" head="102446560" relation="OBJ"/>
-    <word id="102446559" form="κακηγορίας" div_section="12" lemma="κακηγορία" postag="n-p---fa-" head="102446560" relation="OBJ"/>
+    <word id="102446558" form="Λυσιθέῳ" div_section="12" lemma="Λυσίθεος" postag="n-s---md-" head="102446560" relation="OBJ" animacy="human"/>
+    <word id="102446559" form="κακηγορίας" div_section="12" lemma="κακηγορία" postag="n-p---fa-" head="102446560" relation="OBJ" animacy="nonconc" sense="aspersion.n.02"/>
     <word id="102446560" form="ἐδικάσω" div_section="12" lemma="δικάζω" postag="v2saim---" head="0" relation="PRED"/>
     <word id="102446561" form="εἰπόντι" div_section="12" lemma="λέγω" postag="v-sapamd-" head="102446558" relation="ATR"/>
     <word id="102446562" form="σε" div_section="12" lemma="σύ" postag="p-s---ca-" head="102446563" relation="SBJ"/>
     <word id="102446563" form="ἐρριφέναι" div_section="12" lemma="ῥίπτω" postag="v--rna---" head="102446561" relation="OBJ"/>
     <word id="102446564" form="τὴν" div_section="12" lemma="ὁ" postag="l-s---fa-" head="102446565" relation="ATR"/>
-    <word id="102446565" form="ἀσπίδα" div_section="12" lemma="ἀσπίς" postag="n-s---fa-" head="102446563" relation="OBJ"/>
+    <word id="102446565" form="ἀσπίδα" div_section="12" lemma="ἀσπίς" postag="n-s---fa-" head="102446563" relation="OBJ" animacy="concrete" sense="shield.n.02"/>
     <word id="102446566" form="." div_section="12" lemma="." postag="u--------" head="0" relation="AuxK"/>
   </sentence>
   <sentence struct_id="148562" id="33" document_id="0540-010" analysis="auto">
@@ -764,9 +764,9 @@
     <word id="102446570" form="τοῦ" div_section="12" lemma="ὁ" postag="l-s---ng-" head="102446571" relation="ATR"/>
     <word id="102446571" form="ῥῖψαι" div_section="12" lemma="ῥίπτω" postag="v--ana---" head="102446568" relation="ADV"/>
     <word id="102446572" form="οὐδὲν" div_section="12" lemma="οὐδείς" postag="p-s---na-" head="102446571" relation="OBJ"/>
-    <word id="102446573" form="ἐν" form_original="&lt;ἐν&gt;" div_section="12" lemma="ἐν" postag="r--------" head="102446571" relation="AuxP"/>
+    <word id="102446573" form="ἐν" form_original="<ἐν>" div_section="12" lemma="ἐν" postag="r--------" head="102446571" relation="AuxP"/>
     <word id="102446574" form="τῷ" div_section="12" lemma="ὁ" postag="l-s---md-" head="102446575" relation="ATR"/>
-    <word id="102446575" form="νόμῳ" div_section="12" lemma="νόμος" postag="n-s---md-" head="102446573" relation="ADV"/>
+    <word id="102446575" form="νόμῳ" div_section="12" lemma="νόμος" postag="n-s---md-" head="102446573" relation="ADV" animacy="nonconc" sense="law.n.01"/>
     <word id="102446576" form="εἴρηται" div_section="12" lemma="λέγω" postag="v3srim---" head="102446579" relation="PRED_CO"/>
     <word id="102446577" form="," div_section="12" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102446578" form="ἐὰν" div_section="12" lemma="ἐάν" postag="c--------" head="102446589" relation="AuxC"/>
@@ -775,10 +775,10 @@
     <word id="102446581" form="εἴπῃ" div_section="12" lemma="λέγω" postag="v3sasa---" head="102446578" relation="ADV"/>
     <word id="102446582" form="ἀποβεβληκέναι" div_section="12" lemma="ἀποβάλλω" postag="v--rna---" head="102446581" relation="OBJ"/>
     <word id="102446583" form="τὴν" div_section="12" lemma="ὁ" postag="l-s---fa-" head="102446584" relation="ATR"/>
-    <word id="102446584" form="ἀσπίδα" div_section="12" lemma="ἀσπίς" postag="n-s---fa-" head="102446582" relation="OBJ"/>
+    <word id="102446584" form="ἀσπίδα" div_section="12" lemma="ἀσπίς" postag="n-s---fa-" head="102446582" relation="OBJ" animacy="animal" sense="shield.n.02"/>
     <word id="102446585" form="," div_section="12" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102446586" form="πεντακοσίας" div_section="12" lemma="πεντακόσιοι" postag="m-p---fa-" head="102446587" relation="ATR"/>
-    <word id="102446587" form="δραχμὰς" div_section="12" lemma="δραχμή" postag="n-p---fa-" head="102446588" relation="OBJ"/>
+    <word id="102446587" form="δραχμὰς" div_section="12" lemma="δραχμή" postag="n-p---fa-" head="102446588" relation="OBJ" animacy="concrete" sense="drachma.n.02"/>
     <word id="102446588" form="ὀφείλειν" div_section="12" lemma="ὀφείλω" postag="v--pna---" head="102446589" relation="OBJ"/>
     <word id="102446589" form="κελεύει" div_section="12" lemma="κελεύω" postag="v3spia---" head="102446579" relation="PRED_CO"/>
     <word id="102446590" form="." div_section="12" lemma="." postag="u--------" head="0" relation="AuxK"/>
@@ -801,7 +801,7 @@
     <word id="102446605" form="," div_section="13" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102446606" form="οὕτω" div_section="13" lemma="οὕτως" postag="d--------" head="102446612" relation="ADV"/>
     <word id="102446607" form="τοὺς" div_section="13" lemma="ὁ" postag="l-p---ma-" head="102446608" relation="ATR"/>
-    <word id="102446608" form="νόμους" div_section="13" lemma="νόμος" postag="n-p---ma-" head="102446612" relation="OBJ"/>
+    <word id="102446608" form="νόμους" div_section="13" lemma="νόμος" postag="n-p---ma-" head="102446612" relation="OBJ" animacy="nonconc" sense="law.n.01"/>
     <word id="102446609" form="ὥσπερ" div_section="13" lemma="ὥσπερ" postag="c--------" head="102446612" relation="AuxC"/>
     <word id="102446610" form="ἐγὼ" div_section="13" lemma="ἐγώ" postag="p-s---cn-" head="1000307120" relation="SBJ"/>
     <word id="102446611" form="νῦν" div_section="13" lemma="νῦν" postag="d--------" head="102446612" relation="ADV"/>
@@ -812,14 +812,14 @@
     <word id="102446616" form="ἕτερον" div_section="13" lemma="ἕτερος" postag="p-s---ma-" head="102446620" relation="OBJ"/>
     <word id="102446617" form="παρὰ" div_section="13" lemma="παρά" postag="r--------" head="102446620" relation="AuxP"/>
     <word id="102446618" form="τοὺς" div_section="13" lemma="ὁ" postag="l-p---ma-" head="102446619" relation="ATR"/>
-    <word id="102446619" form="νόμους" div_section="13" lemma="νόμος" postag="n-p---ma-" head="102446617" relation="ADV"/>
+    <word id="102446619" form="νόμους" div_section="13" lemma="νόμος" postag="n-p---ma-" head="102446617" relation="ADV" animacy="nonconc" sense="law.n.01"/>
     <word id="102446620" form="εἴπῃς" div_section="13" lemma="λέγω" postag="v2sasa---" head="102446614" relation="ADV"/>
     <word id="102446621" form="κακῶς" div_section="13" lemma="κακός" postag="d--------" head="102446620" relation="ADV"/>
     <word id="102446622" form="," div_section="13" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102446623" form="οὐκ" div_section="13" lemma="οὐ" postag="d--------" head="102446624" relation="AuxZ"/>
     <word id="102446624" form="ἀξιοῖς" div_section="13" lemma="ἀξιόω" postag="v2spia---" head="102446615" relation="SBJ_CO"/>
     <word id="102446625" form="δοῦναι" div_section="13" lemma="δίδωμι" postag="v--ana---" head="102446624" relation="OBJ"/>
-    <word id="102446626" form="δίκην" div_section="13" lemma="δίκη" postag="n-s---fa-" head="102446625" relation="OBJ"/>
+    <word id="102446626" form="δίκην" div_section="13" lemma="δίκη" postag="n-s---fa-" head="102446625" relation="OBJ" animacy="nonconc" sense="punishment.n.01"/>
     <word id="102446627" form=";" div_section="13" lemma=";" postag="u--------" head="0" relation="AuxK"/>
     <word id="1000307120" form="E" lemma="E" postag="z--------" head="0" relation="PRED" artificial="elliptic" div_section="13"/>
   </sentence>
@@ -840,7 +840,7 @@
     <word id="102446641" form="εἶ" div_section="13" lemma="εἰμί" postag="v2spia---" head="102446646" relation="ADV_CO"/>
     <word id="102446642" form="χρῆσθαι" div_section="13" lemma="χράω" postag="v--pnm---" head="102446639" relation="ADV"/>
     <word id="102446643" form="τοῖς" div_section="13" lemma="ὁ" postag="l-p---md-" head="102446644" relation="ATR"/>
-    <word id="102446644" form="νόμοις" div_section="13" lemma="νόμος" postag="n-p---md-" head="102446642" relation="OBJ"/>
+    <word id="102446644" form="νόμοις" div_section="13" lemma="νόμος" postag="n-p---md-" head="102446642" relation="OBJ" animacy="nonconc" sense="law.n.01"/>
     <word id="102446645" form="," div_section="13" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102446646" form="ἢ" div_section="13" lemma="ἤ" postag="c--------" head="102446633" relation="COORD"/>
     <word id="102446647" form="τοσοῦτον" div_section="13" lemma="τοσοῦτος" postag="p-s---na-" head="102446648" relation="OBJ"/>
@@ -852,7 +852,7 @@
     <word id="102446653" form="ἀδικουμένους" div_section="13" lemma="ἀδικέω" postag="v-pppmma-" head="102446657" relation="SBJ"/>
     <word id="102446654" form="ὑπὸ" div_section="13" lemma="ὑπό" postag="r--------" head="102446653" relation="AuxP"/>
     <word id="102446655" form="σοῦ" div_section="13" lemma="σύ" postag="p-s---cg-" head="102446654" relation="OBJ"/>
-    <word id="102446656" form="τιμωρίας" div_section="13" lemma="τιμωρία" postag="n-s---fg-" head="102446657" relation="OBJ"/>
+    <word id="102446656" form="τιμωρίας" div_section="13" lemma="τιμωρία" postag="n-s---fg-" head="102446657" relation="OBJ" animacy="nonconc" sense="vengeance.n.01"/>
     <word id="102446657" form="τεύξεσθαι" div_section="13" lemma="τυγχάνω" postag="v--fnm---" head="102446651" relation="OBJ"/>
     <word id="102446658" form=";" div_section="13" lemma=";" postag="u--------" head="0" relation="AuxK"/>
   </sentence>
@@ -871,7 +871,7 @@
     <word id="102446670" form="εὖ" div_section="14" lemma="εὖ" postag="d--------" head="102446671" relation="ADV"/>
     <word id="102446671" form="πεποίηκας" div_section="14" lemma="ποιέω" postag="v2sria---" head="102446675" relation="ADV_CO"/>
     <word id="102446672" form="τὴν" div_section="14" lemma="ὁ" postag="l-s---fa-" head="102446673" relation="ATR"/>
-    <word id="102446673" form="πόλιν" div_section="14" lemma="πόλις" postag="n-s---fa-" head="102446671" relation="OBJ"/>
+    <word id="102446673" form="πόλιν" div_section="14" lemma="πόλις" postag="n-s---fa-" head="102446671" relation="OBJ" animacy="group" sense="city.n.01"/>
     <word id="102446674" form="," div_section="14" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102446675" form="ἀλλ’" div_section="14" lemma="ἀλλά" postag="c--------" head="102446666" relation="COORD"/>
     <word id="102446676" form="ἐξ" div_section="14" lemma="ἐκ" postag="r--------" head="102446678" relation="AuxP"/>
@@ -879,7 +879,7 @@
     <word id="102446678" form="ἀδικῶν" div_section="14" lemma="ἀδικέω" postag="v-sppamn-" head="102446680" relation="ADV"/>
     <word id="102446679" form="οὐ" div_section="14" lemma="οὐ" postag="d--------" head="102446680" relation="AuxZ"/>
     <word id="102446680" form="δέδωκας" div_section="14" lemma="δίδωμι" postag="v2sria---" head="102446675" relation="ADV_CO"/>
-    <word id="102446681" form="δίκην" div_section="14" lemma="δίκη" postag="n-s---fa-" head="102446680" relation="OBJ"/>
+    <word id="102446681" form="δίκην" div_section="14" lemma="δίκη" postag="n-s---fa-" head="102446680" relation="OBJ" animacy="nonconc" sense="punishment.n.01"/>
     <word id="102446682" form="," div_section="14" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102446683" form="οἴει" div_section="14" lemma="οἴομαι" postag="v2spim---" head="102446666" relation="ADV"/>
     <word id="102446684" form="δεῖν" div_section="14" lemma="δέω" postag="v--pna---" head="102446683" relation="OBJ"/>
@@ -891,7 +891,7 @@
     <word id="102446688" form="μοι" div_section="14" lemma="ἐγώ" postag="p-s---cd-" head="102446689" relation="OBJ"/>
     <word id="102446689" form="ἀνάγνωθι" div_section="14" lemma="ἀναγιγνώσκω" postag="v2sama---" head="0" relation="PRED"/>
     <word id="102446690" form="τὸν" div_section="14" lemma="ὁ" postag="l-s---ma-" head="102446691" relation="ATR"/>
-    <word id="102446691" form="νόμον" div_section="14" lemma="νόμος" postag="n-s---ma-" head="102446689" relation="OBJ"/>
+    <word id="102446691" form="νόμον" div_section="14" lemma="νόμος" postag="n-s---ma-" head="102446689" relation="OBJ" animacy="nonconc" sense="law.n.01"/>
     <word id="102446692" form="." div_section="14" lemma="." postag="u--------" head="0" relation="AuxK"/>
   </sentence>
   <sentence struct_id="148567" id="38" document_id="0540-010" analysis="auto">
@@ -899,8 +899,8 @@
     <word id="102446694" form="τοίνυν" div_section="15" lemma="τοίνυν" postag="g--------" head="102446704" relation="AuxY"/>
     <word id="102446695" form="," div_section="15" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102446696" form="ὦ" div_section="15" lemma="ὦ" postag="i--------" head="102446697" relation="AuxZ"/>
-    <word id="102446697" form="ἄνδρες" div_section="15" lemma="ἀνήρ" postag="n-p---mv-" head="102446704" relation="ExD"/>
-    <word id="102446698" form="δικασταί" div_section="15" lemma="δικαστής" postag="n-p---mv-" head="102446697" relation="ATR"/>
+    <word id="102446697" form="ἄνδρες" div_section="15" lemma="ἀνήρ" postag="n-p---mv-" head="102446704" relation="ExD" animacy="human" sense="gentleman.n.01"/>
+    <word id="102446698" form="δικασταί" div_section="15" lemma="δικαστής" postag="n-p---mv-" head="102446697" relation="ATR" animacy="human" sense="jury.n.01"/>
     <word id="102446699" form="," div_section="15" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102446700" form="ὑμᾶς" div_section="15" lemma="σύ" postag="p-p---ca-" head="102446703" relation="SBJ"/>
     <word id="102446701" form="μὲν" div_section="15" lemma="μέν" postag="g--------" head="102446704" relation="AuxY"/>
@@ -933,7 +933,7 @@
     <word id="102446726" form="καὶ" div_section="15" lemma="καί" postag="c--------" head="102446729" relation="AuxZ"/>
     <word id="102446727" form="ἐξ" div_section="15" lemma="ἐκ" postag="r--------" head="102446732" relation="AuxP"/>
     <word id="102446728" form="ἑτέρων" div_section="15" lemma="ἕτερος" postag="p-p---mg-" head="102446729" relation="ATR"/>
-    <word id="102446729" form="νόμων" div_section="15" lemma="νόμος" postag="n-p---mg-" head="102446727" relation="ADV"/>
+    <word id="102446729" form="νόμων" div_section="15" lemma="νόμος" postag="n-p---mg-" head="102446727" relation="ADV" animacy="nonconc" sense="law.n.01"/>
     <word id="102446730" form="περὶ" div_section="15" lemma="περί" postag="r--------" head="102446732" relation="AuxP"/>
     <word id="102446731" form="τούτων" div_section="15" lemma="οὗτος" postag="p-p---ng-" head="102446730" relation="ADV"/>
     <word id="102446732" form="διδάξαι" div_section="15" lemma="διδάσκω" postag="v--ana---" head="102446723" relation="OBJ"/>
@@ -944,7 +944,7 @@
     <word id="102446737" form="νῦν" div_section="15" lemma="νῦν" postag="d--------" head="102446741" relation="ADV"/>
     <word id="102446738" form="ἐπὶ" div_section="15" lemma="ἐπί" postag="r--------" head="102446741" relation="AuxP"/>
     <word id="102446739" form="τοῦ" div_section="15" lemma="ὁ" postag="l-s---ng-" head="102446740" relation="ATR"/>
-    <word id="102446740" form="βήματος" div_section="15" lemma="βῆμα" postag="n-s---ng-" head="102446738" relation="ADV"/>
+    <word id="102446740" form="βήματος" div_section="15" lemma="βῆμα" postag="n-s---ng-" head="102446738" relation="ADV" animacy="animal" sense="platform.n.01"/>
     <word id="102446741" form="παιδευθῇ" div_section="15" lemma="παιδεύω" postag="v3sasp---" head="102446742" relation="ADV_CO"/>
     <word id="102446742" form="καὶ" div_section="15" lemma="καί" postag="c--------" head="102446734" relation="COORD"/>
     <word id="102446743" form="τὸ" div_section="15" lemma="ὁ" postag="l-s---na-" head="102446744" relation="ATR"/>
@@ -952,7 +952,7 @@
     <word id="102446745" form="ἡμῖν" div_section="15" lemma="ἐγώ" postag="p-p---cd-" head="102446747" relation="OBJ"/>
     <word id="102446746" form="μὴ" div_section="15" lemma="μή" postag="d--------" head="102446747" relation="AuxZ"/>
     <word id="102446747" form="παρέχῃ" div_section="15" lemma="παρέχω" postag="v3spsa---" head="102446742" relation="ADV_CO"/>
-    <word id="102446748" form="πράγματα" div_section="15" lemma="πρᾶγμα" postag="n-p---na-" head="102446747" relation="OBJ"/>
+    <word id="102446748" form="πράγματα" div_section="15" lemma="πρᾶγμα" postag="n-p---na-" head="102446747" relation="OBJ" animacy="nonconc" sense="topic.n.02"/>
     <word id="102446749" form="." div_section="15" lemma="." postag="u--------" head="0" relation="AuxK"/>
   </sentence>
   <sentence struct_id="148569" id="40" document_id="0540-010" analysis="auto">
@@ -961,48 +961,48 @@
     <word id="102446752" form="ἀνάγνωθι" div_section="15" lemma="ἀναγιγνώσκω" postag="v2sama---" head="0" relation="PRED"/>
     <word id="102446753" form="τούτους" div_section="15" lemma="οὗτος" postag="p-p---ma-" head="102446755" relation="ATR"/>
     <word id="102446754" form="τοὺς" div_section="15" lemma="ὁ" postag="l-p---ma-" head="102446755" relation="ATR"/>
-    <word id="102446755" form="νόμους" div_section="15" lemma="νόμος" postag="n-p---ma-" head="102446752" relation="OBJ"/>
+    <word id="102446755" form="νόμους" div_section="15" lemma="νόμος" postag="n-p---ma-" head="102446752" relation="OBJ" animacy="nonconc" sense="law.n.01"/>
     <word id="102446756" form="τοὺς" div_section="15" lemma="ὁ" postag="l-p---ma-" head="102446755" relation="ATR"/>
-    <word id="102446757" form="Σόλωνος" div_section="15" lemma="Σόλων" postag="n-s---mg-" head="102446755" relation="ATR"/>
+    <word id="102446757" form="Σόλωνος" div_section="15" lemma="Σόλων" postag="n-s---mg-" head="102446755" relation="ATR" animacy="human"/>
     <word id="102446758" form="τοὺς" div_section="15" lemma="ὁ" postag="l-p---ma-" head="102446759" relation="ATR"/>
     <word id="102446759" form="παλαιούς" div_section="15" lemma="παλαιός" postag="a-p---ma-" head="102446755" relation="ATR"/>
     <word id="102446760" form="." div_section="15" lemma="." postag="u--------" head="0" relation="AuxK"/>
   </sentence>
   <sentence struct_id="148570" id="41" document_id="0540-010" analysis="auto">
-    <word id="102446761" form="&quot;" div_section="16" lemma="&quot;" postag="u--------" head="0" relation="AuxG"/>
+    <word id="102446761" form=""" div_section="16" lemma=""" postag="u--------" head="0" relation="AuxG"/>
     <word id="102446762" form="δεδέσθαι" div_section="16" lemma="δέω" postag="v--rnm---" head="0" relation="PRED"/>
     <word id="102446763" form="δ’" div_section="16" lemma="δέ" postag="c--------" head="102446762" relation="AuxY"/>
     <word id="102446764" form="ἐν" div_section="16" lemma="ἐν" postag="r--------" head="102446762" relation="AuxP"/>
     <word id="102446765" form="τῇ" div_section="16" lemma="ὁ" postag="l-s---fd-" head="102446766" relation="ATR"/>
-    <word id="102446766" form="ποδοκάκκῃ" div_section="16" lemma="ποδοκάκκη" postag="n-s---fd-" head="102446764" relation="ADV"/>
-    <word id="102446767" form="ἡμέρας" div_section="16" lemma="ἡμέρα" postag="n-p---fa-" head="102446762" relation="ADV"/>
+    <word id="102446766" form="ποδοκάκκῃ" div_section="16" lemma="ποδοκάκκη" postag="n-s---fd-" head="102446764" relation="ADV" animacy="nonconc"/>
+    <word id="102446767" form="ἡμέρας" div_section="16" lemma="ἡμέρα" postag="n-p---fa-" head="102446762" relation="ADV" animacy="time" sense="day.n.01"/>
     <word id="102446768" form="πέντε" div_section="16" lemma="πέντε" postag="m--------" head="102446767" relation="ATR"/>
     <word id="102446769" form="τὸν" div_section="16" lemma="ὁ" postag="l-s---ma-" head="102446770" relation="ATR"/>
-    <word id="102446770" form="πόδα" div_section="16" lemma="πούς" postag="n-s---ma-" head="102446762" relation="OBJ"/>
+    <word id="102446770" form="πόδα" div_section="16" lemma="πούς" postag="n-s---ma-" head="102446762" relation="OBJ" animacy="body" sense="foot.n.01"/>
     <word id="102446771" form="," div_section="16" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102446772" form="ἐὰν" div_section="16" lemma="ἐάν" postag="c--------" head="102446762" relation="AuxC"/>
     <word id="102446773" form="" form_original="{μὴ}" div_section="16"/>
-    <word id="102446774" form="&quot;" div_section="16" lemma="&quot;" postag="u--------" head="0" relation="AuxG"/>
+    <word id="102446774" form=""" div_section="16" lemma=""" postag="u--------" head="0" relation="AuxG"/>
     <word id="102446775" form="προστιμήσῃ" div_section="16" lemma="προστιμάω" postag="v3sasa---" head="102446772" relation="ADV"/>
     <word id="102446776" form="ἡ" div_section="16" lemma="ὁ" postag="l-s---fn-" head="102446777" relation="ATR"/>
-    <word id="102446777" form="ἡλιαία" div_section="16" lemma="ἡλιαία" postag="n-s---fn-" head="102446775" relation="SBJ"/>
+    <word id="102446777" form="ἡλιαία" div_section="16" lemma="ἡλιαία" postag="n-s---fn-" head="102446775" relation="SBJ" animacy="nonconc" sense="court.n.01"/>
     <word id="102446778" form="." div_section="16" lemma="." postag="u--------" head="0" relation="AuxK"/>
   </sentence>
   <sentence struct_id="148571" id="42" document_id="0540-010" analysis="auto">
     <word id="102446779" form="ἡ" div_section="16" lemma="ὁ" postag="l-s---fn-" head="102446780" relation="ATR"/>
-    <word id="102446780" form="ποδοκάκκη" div_section="16" lemma="ποδοκάκκη" postag="n-s---fn-" head="102446782" relation="SBJ"/>
+    <word id="102446780" form="ποδοκάκκη" div_section="16" lemma="ποδοκάκκη" postag="n-s---fn-" head="102446782" relation="SBJ" animacy="concrete"/>
     <word id="102446781" form="αὕτη" div_section="16" lemma="οὗτος" postag="p-s---fn-" head="102446780" relation="ATR"/>
     <word id="102446782" form="ἐστίν" div_section="16" lemma="εἰμί" postag="v3spia---" head="0" relation="PRED"/>
     <word id="102446783" form="," div_section="16" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102446784" form="ὦ" div_section="16" lemma="ὦ" postag="i--------" head="102446785" relation="AuxZ"/>
-    <word id="102446785" form="Θεόμνηστε" div_section="16" lemma="Θεόμνηστος" postag="n-s---mv-" head="102446782" relation="ExD"/>
+    <word id="102446785" form="Θεόμνηστε" div_section="16" lemma="Θεόμνηστος" postag="n-s---mv-" head="102446782" relation="ExD" animacy="human"/>
     <word id="102446786" form="," div_section="16" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102446787" form="ὃ" div_section="16" lemma="ὅς" postag="p-s---nn-" head="102446789" relation="SBJ"/>
     <word id="102446788" form="νῦν" div_section="16" lemma="νῦν" postag="d--------" head="102446789" relation="ADV"/>
     <word id="102446789" form="καλεῖται" div_section="16" lemma="καλέω" postag="v3spim---" head="102446780" relation="ATR"/>
     <word id="102446790" form="ἐν" div_section="16" lemma="ἐν" postag="r--------" head="102446793" relation="AuxP"/>
     <word id="102446791" form="τῷ" div_section="16" lemma="ὁ" postag="l-s---nd-" head="102446792" relation="ATR"/>
-    <word id="102446792" form="ξύλῳ" div_section="16" lemma="ξύλον" postag="n-s---nd-" head="102446790" relation="ADV"/>
+    <word id="102446792" form="ξύλῳ" div_section="16" lemma="ξύλον" postag="n-s---nd-" head="102446790" relation="ADV" animacy="animal" sense="wood.n.01"/>
     <word id="102446793" form="δεδέσθαι" div_section="16" lemma="δέω" postag="v--rnm---" head="102446789" relation="OBJ"/>
     <word id="102446794" form="." div_section="16" lemma="." postag="u--------" head="0" relation="AuxK"/>
   </sentence>
@@ -1014,7 +1014,7 @@
     <word id="102446799" form="ἐξελθὼν" div_section="16" lemma="ἐξέρχομαι" postag="v-sapamn-" head="102446805" relation="ADV"/>
     <word id="102446800" form="ἐν" div_section="16" lemma="ἐν" postag="r--------" head="102446799" relation="AuxP"/>
     <word id="102446801" form="ταῖς" div_section="16" lemma="ὁ" postag="l-p---fd-" head="102446802" relation="ATR"/>
-    <word id="102446802" form="εὐθύναις" div_section="16" lemma="εὔθυνα" postag="n-p---fd-" head="102446800" relation="ADV"/>
+    <word id="102446802" form="εὐθύναις" div_section="16" lemma="εὔθυνα" postag="n-p---fd-" head="102446800" relation="ADV" animacy="nonconc" sense="examination.n.01"/>
     <word id="102446803" form="τῶν" div_section="16" lemma="ὁ" postag="l-p---mg-" head="102446804" relation="ATR"/>
     <word id="102446804" form="ἕνδεκα" div_section="16" lemma="ἕνδεκα" postag="m--------" head="102446802" relation="ATR"/>
     <word id="102446805" form="κατηγοροίη" div_section="16" lemma="κατηγορέω" postag="v3spoa---" head="102446795" relation="ADV"/>
@@ -1022,12 +1022,12 @@
     <word id="102446807" form="οὐκ" div_section="16" lemma="οὐ" postag="d--------" head="102446810" relation="AuxZ"/>
     <word id="102446808" form="ἐν" div_section="16" lemma="ἐν" postag="r--------" head="102446812" relation="AuxP"/>
     <word id="102446809" form="τῇ" div_section="16" lemma="ὁ" postag="l-s---fd-" head="102446810" relation="ATR"/>
-    <word id="102446810" form="ποδοκάκκῃ" div_section="16" lemma="ποδοκάκκη" postag="n-s---fd-" head="102446808" relation="ADV_CO"/>
+    <word id="102446810" form="ποδοκάκκῃ" div_section="16" lemma="ποδοκάκκη" postag="n-s---fd-" head="102446808" relation="ADV_CO" animacy="concrete"/>
     <word id="102446811" form="ἐδέδετο" div_section="16" lemma="δέω" postag="v3slim---" head="102446806" relation="OBJ"/>
     <word id="102446812" form="ἀλλ’" div_section="16" lemma="ἀλλά" postag="c--------" head="102446811" relation="COORD"/>
     <word id="102446813" form="ἐν" div_section="16" lemma="ἐν" postag="r--------" head="102446812" relation="AuxP"/>
     <word id="102446814" form="τῷ" div_section="16" lemma="ὁ" postag="l-s---nd-" head="102446815" relation="ATR"/>
-    <word id="102446815" form="ξύλῳ" div_section="16" lemma="ξύλον" postag="n-s---nd-" head="102446813" relation="ADV_CO"/>
+    <word id="102446815" form="ξύλῳ" div_section="16" lemma="ξύλον" postag="n-s---nd-" head="102446813" relation="ADV_CO" animacy="animal" sense="wood.n.01"/>
     <word id="102446816" form="," div_section="16" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102446817" form="οὐκ" div_section="16" lemma="οὐ" postag="d--------" head="102446821" relation="AuxZ"/>
     <word id="102446818" form="ἂν" div_section="16" lemma="ἄν" postag="g--------" head="102446821" relation="AuxY"/>
@@ -1039,26 +1039,26 @@
   <sentence struct_id="148573" id="44" document_id="0540-010" analysis="auto">
     <word id="102446823" form="λέγε" div_section="16" lemma="λέγω" postag="v2spma---" head="0" relation="PRED"/>
     <word id="102446824" form="ἕτερον" div_section="16" lemma="ἕτερος" postag="p-s---ma-" head="102446825" relation="ATR"/>
-    <word id="102446825" form="νόμον" div_section="16" lemma="νόμος" postag="n-s---ma-" head="102446823" relation="OBJ"/>
+    <word id="102446825" form="νόμον" div_section="16" lemma="νόμος" postag="n-s---ma-" head="102446823" relation="OBJ" animacy="nonconc" sense="law.n.01"/>
     <word id="102446826" form="." div_section="16" lemma="." postag="u--------" head="0" relation="AuxK"/>
   </sentence>
   <sentence struct_id="148574" id="45" document_id="0540-010" analysis="auto">
-    <word id="102446827" form="&quot;" div_section="17" lemma="&quot;" postag="u--------" head="0" relation="AuxG"/>
+    <word id="102446827" form=""" div_section="17" lemma=""" postag="u--------" head="0" relation="AuxG"/>
     <word id="102446828" form="ἐπεγγυᾶν" div_section="17" lemma="ἐπεγγυάω" postag="v--pna---" head="1000307121" relation="OBJ"/>
     <word id="102446829" form="δ’" div_section="17" lemma="δέ" postag="c--------" head="102446828" relation="AuxY"/>
     <word id="102446830" form="ἐπιορκήσαντα" div_section="17" lemma="ἐπιορκέω" postag="v-sapama-" head="102446828" relation="ADV"/>
     <word id="102446831" form="τὸν" div_section="17" lemma="ὁ" postag="l-s---ma-" head="102446832" relation="ATR"/>
-    <word id="102446832" form="Ἀπόλλω" div_section="17" lemma="Ἀπόλλων" postag="n-s---ma-" head="102446828" relation="OBJ"/>
+    <word id="102446832" form="Ἀπόλλω" div_section="17" lemma="Ἀπόλλων" postag="n-s---ma-" head="102446828" relation="OBJ" animacy="human" sense="deity.n.01"/>
     <word id="102446833" form="." div_section="17" lemma="." postag="u--------" head="0" relation="AuxK"/>
     <word id="1000307121" form="E" lemma="E" postag="z--------" head="0" relation="PRED" artificial="elliptic" div_section="17"/>
   </sentence>
   <sentence struct_id="148575" id="46" document_id="0540-010" analysis="auto">
     <word id="102446834" form="δεδιότα" div_section="17" lemma="δείδω" postag="v-srpama-" head="102446838" relation="ADV"/>
     <word id="102446835" form="δὲ" div_section="17" lemma="δέ" postag="c--------" head="102446838" relation="AuxY"/>
-    <word id="102446836" form="δίκης" div_section="17" lemma="δίκη" postag="n-s---fg-" head="102446837" relation="ADV"/>
+    <word id="102446836" form="δίκης" div_section="17" lemma="δίκη" postag="n-s---fg-" head="102446837" relation="ADV" animacy="nonconc" sense="justice.n.01"/>
     <word id="102446837" form="ἕνεκα" div_section="17" lemma="ἕνεκα" postag="r--------" head="102446838" relation="AuxP"/>
     <word id="102446838" form="δρασκάζειν" div_section="17" lemma="δρασκάζω" postag="v--pna---" head="1000307122" relation="OBJ"/>
-    <word id="102446839" form="&quot;" div_section="17" lemma="&quot;" postag="u--------" head="0" relation="AuxG"/>
+    <word id="102446839" form=""" div_section="17" lemma=""" postag="u--------" head="0" relation="AuxG"/>
     <word id="102446840" form="." div_section="17" lemma="." postag="u--------" head="0" relation="AuxK"/>
     <word id="1000307122" form="E" lemma="E" postag="z--------" head="0" relation="PRED" artificial="elliptic" div_section="17"/>
   </sentence>
@@ -1080,18 +1080,18 @@
     <word id="102446855" form="." div_section="17" lemma="." postag="u--------" head="0" relation="AuxK"/>
   </sentence>
   <sentence struct_id="148577" id="48" document_id="0540-010" analysis="auto">
-    <word id="102446856" form="&quot;" div_section="17" lemma="&quot;" postag="u--------" head="0" relation="AuxG"/>
+    <word id="102446856" form=""" div_section="17" lemma=""" postag="u--------" head="0" relation="AuxG"/>
     <word id="102446857" form="ὅστις" div_section="17" lemma="ὅστις" postag="p-s---mn-" head="102446859" relation="SBJ"/>
     <word id="102446858" form="δὲ" div_section="17" lemma="δέ" postag="c--------" head="102446859" relation="AuxY"/>
     <word id="102446859" form="ἀπίλλει" div_section="17" lemma="ἀπίλλω" postag="v3spia---" head="0" relation="PRED"/>
     <word id="102446860" form="τῇ" div_section="17" lemma="ὁ" postag="l-s---fd-" head="102446861" relation="ATR"/>
-    <word id="102446861" form="θύρᾳ" div_section="17" lemma="θύρα" postag="n-s---fd-" head="102446859" relation="OBJ"/>
+    <word id="102446861" form="θύρᾳ" div_section="17" lemma="θύρα" postag="n-s---fd-" head="102446859" relation="OBJ" animacy="concrete" sense="doorway.n.01"/>
     <word id="102446862" form="," div_section="17" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102446863" form="ἔνδον" div_section="17" lemma="ἔνδον" postag="d--------" head="102446866" relation="PNOM"/>
     <word id="102446864" form="τοῦ" div_section="17" lemma="ὁ" postag="l-s---mg-" head="102446865" relation="ATR"/>
-    <word id="102446865" form="κλέπτου" div_section="17" lemma="κλέπτης" postag="n-s---mg-" head="102446863" relation="PNOM"/>
+    <word id="102446865" form="κλέπτου" div_section="17" lemma="κλέπτης" postag="n-s---mg-" head="102446863" relation="PNOM" animacy="human" sense="thief.n.01"/>
     <word id="102446866" form="ὄντος" div_section="17" lemma="εἰμί" postag="v-sppamg-" head="102446859" relation="ADV"/>
-    <word id="102446867" form="&quot;" div_section="17" lemma="&quot;" postag="u--------" head="0" relation="AuxG"/>
+    <word id="102446867" form=""" div_section="17" lemma=""" postag="u--------" head="0" relation="AuxG"/>
     <word id="102446868" form="." div_section="17" lemma="." postag="u--------" head="0" relation="AuxK"/>
   </sentence>
   <sentence struct_id="148578" id="49" document_id="0540-010" analysis="auto">
@@ -1109,9 +1109,9 @@
     <word id="102446880" form="." div_section="17" lemma="." postag="u--------" head="0" relation="AuxK"/>
   </sentence>
   <sentence struct_id="148579" id="50" document_id="0540-010" analysis="auto">
-    <word id="102446881" form="&quot;" div_section="18" lemma="&quot;" postag="u--------" head="0" relation="AuxG"/>
+    <word id="102446881" form=""" div_section="18" lemma=""" postag="u--------" head="0" relation="AuxG"/>
     <word id="102446882" form="τὸ" div_section="18" lemma="ὁ" postag="l-s---na-" head="102446883" relation="ATR"/>
-    <word id="102446883" form="ἀργύριον" div_section="18" lemma="ἀργύριον" postag="n-s---na-" head="102446885" relation="SBJ"/>
+    <word id="102446883" form="ἀργύριον" div_section="18" lemma="ἀργύριον" postag="n-s---na-" head="102446885" relation="SBJ" animacy="concrete" sense="money.n.01"/>
     <word id="102446884" form="στάσιμον" div_section="18" lemma="στάσιμος" postag="a-s---na-" head="102446885" relation="PNOM"/>
     <word id="102446885" form="εἶναι" div_section="18" lemma="εἰμί" postag="v--pna---" head="1000307123" relation="OBJ"/>
     <word id="102446886" form="ἐφ’" div_section="18" lemma="ἐπί" postag="r--------" head="102446889" relation="AuxP"/>
@@ -1120,7 +1120,7 @@
     <word id="102446889" form="βούληται" div_section="18" lemma="βούλομαι" postag="v3spsm---" head="102446883" relation="ATR"/>
     <word id="102446890" form="ὁ" div_section="18" lemma="ὁ" postag="l-s---mn-" head="102446891" relation="ATR"/>
     <word id="102446891" form="δανείζων" div_section="18" lemma="δανείζω" postag="v-sppamn-" head="102446889" relation="SBJ"/>
-    <word id="102446892" form="&quot;" div_section="18" lemma="&quot;" postag="u--------" head="0" relation="AuxG"/>
+    <word id="102446892" form=""" div_section="18" lemma=""" postag="u--------" head="0" relation="AuxG"/>
     <word id="102446893" form="." div_section="18" lemma="." postag="u--------" head="0" relation="AuxK"/>
     <word id="1000307123" form="E" lemma="E" postag="z--------" head="0" relation="PRED" artificial="elliptic" div_section="18"/>
   </sentence>
@@ -1134,10 +1134,10 @@
     <word id="102446900" form="βέλτιστε" div_section="18" lemma="ἀγαθός" postag="a-s---mvs" head="102446897" relation="ExD"/>
     <word id="102446901" form="," div_section="18" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102446902" form="οὐ" div_section="18" lemma="οὐ" postag="d--------" head="102446904" relation="AuxZ"/>
-    <word id="102446903" form="ζυγῷ" div_section="18" lemma="ζυγόν" postag="n-s---md-" head="102446904" relation="ADV"/>
+    <word id="102446903" form="ζυγῷ" div_section="18" lemma="ζυγόν" postag="n-s---md-" head="102446904" relation="ADV" animacy="animal" sense="yoke.n.02"/>
     <word id="102446904" form="ἱστάναι" div_section="18" lemma="ἵστημι" postag="v--pna---" head="102446905" relation="SBJ_CO"/>
     <word id="102446905" form="ἀλλὰ" div_section="18" lemma="ἀλλά" postag="c--------" head="102446897" relation="COORD"/>
-    <word id="102446906" form="τόκον" div_section="18" lemma="τόκος" postag="n-s---ma-" head="102446907" relation="OBJ"/>
+    <word id="102446906" form="τόκον" div_section="18" lemma="τόκος" postag="n-s---ma-" head="102446907" relation="OBJ" animacy="nonconc" sense="interest.n.04"/>
     <word id="102446907" form="πράττεσθαι" div_section="18" lemma="πράσσω" postag="v--pnm---" head="102446905" relation="SBJ_CO"/>
     <word id="102446908" form="ὁπόσον" div_section="18" lemma="ὁπόσος" postag="p-s---ma-" head="102446910" relation="OBJ"/>
     <word id="102446909" form="ἂν" div_section="18" lemma="ἄν" postag="g--------" head="102446910" relation="AuxY"/>
@@ -1150,27 +1150,27 @@
     <word id="102446914" form="ἀνάγνωθι" div_section="18" lemma="ἀναγιγνώσκω" postag="v2sama---" head="0" relation="PRED"/>
     <word id="102446915" form="τουτουὶ" div_section="18" lemma="οὗτος" postag="p-s---mg-" head="102446917" relation="ATR"/>
     <word id="102446916" form="τοῦ" div_section="18" lemma="ὁ" postag="l-s---mg-" head="102446917" relation="ATR"/>
-    <word id="102446917" form="νόμου" div_section="18" lemma="νόμος" postag="n-s---mg-" head="102446919" relation="ATR"/>
+    <word id="102446917" form="νόμου" div_section="18" lemma="νόμος" postag="n-s---mg-" head="102446919" relation="ATR" animacy="nonconc" sense="law.n.01"/>
     <word id="102446918" form="τὸ" div_section="18" lemma="ὁ" postag="l-s---na-" head="102446919" relation="ATR"/>
     <word id="102446919" form="τελευταῖον" div_section="18" lemma="τελευταῖος" postag="a-s---na-" head="102446914" relation="ADV"/>
     <word id="102446920" form="." div_section="18" lemma="." postag="u--------" head="0" relation="AuxK"/>
   </sentence>
   <sentence struct_id="148582" id="53" document_id="0540-010" analysis="auto">
-    <word id="102446921" form="&quot;" div_section="19" lemma="&quot;" postag="u--------" head="0" relation="AuxG"/>
+    <word id="102446921" form=""" div_section="19" lemma=""" postag="u--------" head="0" relation="AuxG"/>
     <word id="102446922" form="ὅσαι" div_section="19" lemma="ὅσος" postag="p-p---fn-" head="102446925" relation="SBJ"/>
     <word id="102446923" form="δὲ" div_section="19" lemma="δέ" postag="c--------" head="1000307124" relation="AuxY"/>
     <word id="102446924" form="πεφασμένως" div_section="19" lemma="πεφασμένως" postag="d--------" head="102446925" relation="ADV"/>
     <word id="102446925" form="πολοῦνται" div_section="19" lemma="πολέω" postag="v3ppim---" head="1000307124" relation="SBJ"/>
     <word id="102446926" form="," div_section="19" lemma="," postag="u--------" head="0" relation="AuxX"/>
-    <word id="102446927" form="&quot;" div_section="19" lemma="&quot;" postag="u--------" head="0" relation="AuxG"/>
+    <word id="102446927" form=""" div_section="19" lemma=""" postag="u--------" head="0" relation="AuxG"/>
     <word id="102446928" form="καὶ" div_section="19" lemma="καί" postag="c--------" head="102446936" relation="AuxY"/>
-    <word id="102446929" form="&quot;" div_section="19" lemma="&quot;" postag="u--------" head="0" relation="AuxG"/>
-    <word id="102446930" form="οἰκῆος" div_section="19" lemma="οἰκεύς" postag="n-s---mg-" head="102446934" relation="ATR"/>
+    <word id="102446929" form=""" div_section="19" lemma=""" postag="u--------" head="0" relation="AuxG"/>
+    <word id="102446930" form="οἰκῆος" div_section="19" lemma="οἰκεύς" postag="n-s---mg-" head="102446934" relation="ATR" animacy="human" sense="servant.n.01"/>
     <word id="102446931" form="" form_original="{καὶ}" div_section="19"/>
-    <word id="102446932" form="βλάβης" div_section="19" lemma="βλάβη" postag="n-s---fg-" head="102446934" relation="ATR"/>
+    <word id="102446932" form="βλάβης" div_section="19" lemma="βλάβη" postag="n-s---fg-" head="102446934" relation="ATR" animacy="nonconc" sense="injury.n.01"/>
     <word id="102446933" form="τὴν" div_section="19" lemma="ὁ" postag="l-s---fa-" head="102446934" relation="ATR"/>
     <word id="102446934" form="διπλὴν" div_section="19" lemma="διπλός" postag="a-s---fa-" head="102446936" relation="SBJ"/>
-    <word id="102446935" form="&quot;" div_section="19" lemma="&quot;" postag="u--------" head="0" relation="AuxG"/>
+    <word id="102446935" form=""" div_section="19" lemma=""" postag="u--------" head="0" relation="AuxG"/>
     <word id="102446936" form="εἶναι" div_section="19" lemma="εἰμί" postag="v--pna---" head="1000307124" relation="OBJ"/>
     <word id="102446937" form="ὀφείλειν" div_section="19" lemma="ὀφείλω" postag="v--pna---" head="102446936" relation="SBJ"/>
     <word id="102446938" form="." div_section="19" lemma="." postag="u--------" head="0" relation="AuxK"/>
@@ -1179,7 +1179,7 @@
   <sentence struct_id="148583" id="54" document_id="0540-010" analysis="auto">
     <word id="102446939" form="προσέχετε" div_section="19" lemma="προσέχω" postag="v2ppma---" head="0" relation="PRED"/>
     <word id="102446940" form="τὸν" div_section="19" lemma="ὁ" postag="l-s---ma-" head="102446941" relation="ATR"/>
-    <word id="102446941" form="νοῦν" div_section="19" lemma="νόος" postag="n-s---ma-" head="102446939" relation="OBJ"/>
+    <word id="102446941" form="νοῦν" div_section="19" lemma="νόος" postag="n-s---ma-" head="102446939" relation="OBJ" animacy="nonconc" sense="attention.n.01"/>
     <word id="102446942" form="." div_section="19" lemma="." postag="u--------" head="0" relation="AuxK"/>
   </sentence>
   <sentence struct_id="148584" id="55" document_id="0540-010" analysis="auto">
@@ -1195,8 +1195,8 @@
     <word id="102446952" form="," div_section="19" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102446953" form="τὸ" div_section="19" lemma="ὁ" postag="l-s---nn-" head="1000307125" relation="SBJ"/>
     <word id="102446954" form="δὲ" div_section="19" lemma="δέ" postag="c--------" head="0" relation="COORD"/>
-    <word id="102446955" form="οἰκῆος" div_section="19" lemma="οἰκεύς" postag="n-s---mg-" head="102446956" relation="ATR"/>
-    <word id="102446956" form="θεράποντος" div_section="19" lemma="θεράπων" postag="n-s---mg-" head="1000307125" relation="PNOM"/>
+    <word id="102446955" form="οἰκῆος" div_section="19" lemma="οἰκεύς" postag="n-s---mg-" head="102446956" relation="ATR" animacy="human" sense="servant.n.01"/>
+    <word id="102446956" form="θεράποντος" div_section="19" lemma="θεράπων" postag="n-s---mg-" head="1000307125" relation="PNOM" animacy="human" sense="servant.n.01"/>
     <word id="102446957" form="." div_section="19" lemma="." postag="u--------" head="0" relation="AuxK"/>
     <word id="1000307125" form="E" lemma="E" postag="z--------" head="102446954" relation="PRED_CO" artificial="elliptic" div_section="19"/>
   </sentence>
@@ -1209,8 +1209,8 @@
     <word id="102446963" form="ἐστίν" div_section="20" lemma="εἰμί" postag="v3spia---" head="0" relation="PRED"/>
     <word id="102446964" form="," div_section="20" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102446965" form="ὦ" div_section="20" lemma="ὦ" postag="i--------" head="102446966" relation="AuxZ"/>
-    <word id="102446966" form="ἄνδρες" div_section="20" lemma="ἀνήρ" postag="n-p---mv-" head="102446963" relation="ExD"/>
-    <word id="102446967" form="δικασταί" div_section="20" lemma="δικαστής" postag="n-p---mv-" head="102446966" relation="ATR"/>
+    <word id="102446966" form="ἄνδρες" div_section="20" lemma="ἀνήρ" postag="n-p---mv-" head="102446963" relation="ExD" animacy="human" sense="gentleman.n.01"/>
+    <word id="102446967" form="δικασταί" div_section="20" lemma="δικαστής" postag="n-p---mv-" head="102446966" relation="ATR" animacy="human" sense="jury.n.01"/>
     <word id="102446968" form="." div_section="20" lemma="." postag="u--------" head="0" relation="AuxK"/>
   </sentence>
   <sentence struct_id="148586" id="57" document_id="0540-010" analysis="auto">
@@ -1227,7 +1227,7 @@
     <word id="102446979" form="ὅτι" div_section="20" lemma="ὅτι" postag="c--------" head="102446978" relation="AuxC"/>
     <word id="102446980" form="τὰ" div_section="20" lemma="ὁ" postag="l-p---nn-" head="102446982" relation="ATR"/>
     <word id="102446981" form="μὲν" div_section="20" lemma="μέν" postag="g--------" head="102446992" relation="AuxY"/>
-    <word id="102446982" form="πράγματα" div_section="20" lemma="πρᾶγμα" postag="n-p---nn-" head="102446985" relation="SBJ"/>
+    <word id="102446982" form="πράγματα" div_section="20" lemma="πρᾶγμα" postag="n-p---nn-" head="102446985" relation="SBJ" animacy="nonconc" sense="fact.n.01"/>
     <word id="102446983" form="τα-" div_section="20" lemma="ὁ" postag="l-p---nn-" head="102446984" relation="ATR"/>
     <word id="102446984" form="ταὐτά" div_section="20" lemma="αὐτός" postag="p-p---nn-" head="102446982" relation="ATR"/>
     <word id="102446985" form="ἐστι" div_section="20" lemma="εἰμί" postag="v3spia---" head="102446992" relation="OBJ_CO"/>
@@ -1238,7 +1238,7 @@
     <word id="102446990" form="," div_section="20" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102446991" form="τῶν" div_section="20" lemma="ὁ" postag="l-p---ng-" head="102446993" relation="ATR"/>
     <word id="102446992" form="δὲ" div_section="20" lemma="δέ" postag="c--------" head="102446979" relation="COORD"/>
-    <word id="102446993" form="ὀνομάτων" div_section="20" lemma="ὄνομα" postag="n-p---ng-" head="102446994" relation="ATR"/>
+    <word id="102446993" form="ὀνομάτων" div_section="20" lemma="ὄνομα" postag="n-p---ng-" head="102446994" relation="ATR" animacy="nonconc" sense="name.n.01"/>
     <word id="102446994" form="ἐνίοις" div_section="20" lemma="ἔνιοι" postag="a-p---nd-" head="102446998" relation="OBJ"/>
     <word id="102446995" form="οὐ" div_section="20" lemma="οὐ" postag="d--------" head="102446997" relation="AuxZ"/>
     <word id="102446996" form="τοῖς" div_section="20" lemma="ὁ" postag="l-p---nd-" head="102446997" relation="ATR"/>
@@ -1261,8 +1261,8 @@
     <word id="102447009" form="ἀπιὼν" div_section="20" lemma="ἀπέρχομαι" postag="v-sppamn-" head="102447007" relation="ADV"/>
     <word id="102447010" form="ἀπὸ" div_section="20" lemma="ἀπό" postag="r--------" head="102447009" relation="AuxP"/>
     <word id="102447011" form="τοῦ" div_section="20" lemma="ὁ" postag="l-s---ng-" head="102447012" relation="ATR"/>
-    <word id="102447012" form="βήματος" div_section="20" lemma="βῆμα" postag="n-s---ng-" head="102447010" relation="OBJ"/>
-    <word id="102447013" form="σιωπῇ" div_section="20" lemma="σιωπή" postag="n-s---fd-" head="102447007" relation="ADV"/>
+    <word id="102447012" form="βήματος" div_section="20" lemma="βῆμα" postag="n-s---ng-" head="102447010" relation="OBJ" animacy="animal" sense="platform.n.01"/>
+    <word id="102447013" form="σιωπῇ" div_section="20" lemma="σιωπή" postag="n-s---fd-" head="102447007" relation="ADV" animacy="nonconc" sense="silence.n.01"/>
     <word id="102447014" form="." div_section="20" lemma="." postag="u--------" head="0" relation="AuxK"/>
   </sentence>
   <sentence struct_id="148589" id="60" document_id="0540-010" analysis="auto">
@@ -1274,8 +1274,8 @@
     <word id="102447020" form="ὑμῶν" div_section="21" lemma="σύ" postag="p-p---cg-" head="102447027" relation="ATR"/>
     <word id="102447021" form="," div_section="21" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102447022" form="ὦ" div_section="21" lemma="ὦ" postag="i--------" head="102447023" relation="AuxZ"/>
-    <word id="102447023" form="ἄνδρες" div_section="21" lemma="ἀνήρ" postag="n-p---mv-" head="102447019" relation="ExD"/>
-    <word id="102447024" form="δικασταί" div_section="21" lemma="δικαστής" postag="n-p---mv-" head="102447023" relation="ATR"/>
+    <word id="102447023" form="ἄνδρες" div_section="21" lemma="ἀνήρ" postag="n-p---mv-" head="102447019" relation="ExD" animacy="human" sense="gentleman.n.01"/>
+    <word id="102447024" form="δικασταί" div_section="21" lemma="δικαστής" postag="n-p---mv-" head="102447023" relation="ATR" animacy="human" sense="jury.n.01"/>
     <word id="102447025" form="," div_section="21" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102447026" form="τὰ" div_section="21" lemma="ὁ" postag="l-p---na-" head="102447027" relation="ATR"/>
     <word id="102447027" form="δίκαια" div_section="21" lemma="δίκαιος" postag="a-p---na-" head="102447028" relation="OBJ"/>
@@ -1290,11 +1290,11 @@
     <word id="102447036" form="ἀκοῦσαί" div_section="21" lemma="ἀκούω" postag="v--ana---" head="102447035" relation="SBJ"/>
     <word id="102447037" form="τινα" div_section="21" lemma="τις" postag="p-s---ca-" head="102447040" relation="OBJ"/>
     <word id="102447038" form="τὸν" div_section="21" lemma="ὁ" postag="l-s---ma-" head="102447039" relation="ATR"/>
-    <word id="102447039" form="πατέρα" div_section="21" lemma="πατήρ" postag="n-s---ma-" head="102447040" relation="OBJ"/>
+    <word id="102447039" form="πατέρα" div_section="21" lemma="πατήρ" postag="n-s---ma-" head="102447040" relation="OBJ" animacy="human" sense="father.n.01"/>
     <word id="102447040" form="ἀπεκτονέναι" div_section="21" lemma="ἀποκτείνω" postag="v--rna---" head="102447035" relation="SBJ"/>
     <word id="102447041" form="ἢ" div_section="21" lemma="ἤ" postag="c--------" head="102447033" relation="AuxC"/>
     <word id="102447042" form="τὴν" div_section="21" lemma="ὁ" postag="l-s---fa-" head="102447043" relation="ATR"/>
-    <word id="102447043" form="ἀσπίδα" div_section="21" lemma="ἀσπίς" postag="n-s---fa-" head="102447044" relation="OBJ"/>
+    <word id="102447043" form="ἀσπίδα" div_section="21" lemma="ἀσπίς" postag="n-s---fa-" head="102447044" relation="OBJ" animacy="animal" sense="shield.n.02"/>
     <word id="102447044" form="ἀποβεβληκέναι" div_section="21" lemma="ἀποβάλλω" postag="v--rna---" head="102447041" relation="ADV"/>
     <word id="102447045" form="." div_section="21" lemma="." postag="u--------" head="0" relation="AuxK"/>
     <word id="1000307126" form="E" lemma="E" postag="z--------" head="102447015" relation="ADV" artificial="elliptic" div_section="21"/>
@@ -1306,15 +1306,15 @@
     <word id="102447049" form="ἂν" div_section="21" lemma="ἄν" postag="g--------" head="102447048" relation="AuxY"/>
     <word id="102447050" form="πάσας" div_section="21" lemma="πᾶς" postag="p-p---fa-" head="102447052" relation="ATR"/>
     <word id="102447051" form="τὰς" div_section="21" lemma="ὁ" postag="l-p---fa-" head="102447052" relation="ATR"/>
-    <word id="102447052" form="ἀσπίδας" div_section="21" lemma="ἀσπίς" postag="n-p---fa-" head="102447053" relation="OBJ"/>
+    <word id="102447052" form="ἀσπίδας" div_section="21" lemma="ἀσπίς" postag="n-p---fa-" head="102447053" relation="OBJ" animacy="concrete" sense="shield.n.02"/>
     <word id="102447053" form="ἐρριφέναι" div_section="21" lemma="ῥίπτω" postag="v--rna---" head="102447054" relation="OBJ_CO"/>
     <word id="102447054" form="ἢ" div_section="21" lemma="ἤ" postag="c--------" head="102447048" relation="COORD"/>
     <word id="102447055" form="τοιαύτην" div_section="21" lemma="τοιοῦτος" postag="p-s---fa-" head="102447056" relation="ATR"/>
-    <word id="102447056" form="γνώμην" div_section="21" lemma="γνώμη" postag="n-s---fa-" head="102447057" relation="OBJ"/>
+    <word id="102447056" form="γνώμην" div_section="21" lemma="γνώμη" postag="n-s---fa-" head="102447057" relation="OBJ" animacy="nonconc" sense="opinion.n.01"/>
     <word id="102447057" form="ἔχειν" div_section="21" lemma="ἔχω" postag="v--pna---" head="102447054" relation="OBJ_CO"/>
     <word id="102447058" form="περὶ" div_section="21" lemma="περί" postag="r--------" head="102447057" relation="AuxP"/>
     <word id="102447059" form="τὸν" div_section="21" lemma="ὁ" postag="l-s---ma-" head="102447060" relation="ATR"/>
-    <word id="102447060" form="πατέρα" div_section="21" lemma="πατήρ" postag="n-s---ma-" head="102447058" relation="ADV"/>
+    <word id="102447060" form="πατέρα" div_section="21" lemma="πατήρ" postag="n-s---ma-" head="102447058" relation="ADV" animacy="human" sense="father.n.01"/>
     <word id="102447061" form="." div_section="21" lemma="." postag="u--------" head="0" relation="AuxK"/>
   </sentence>
   <sentence struct_id="148591" id="62" document_id="0540-010" analysis="auto">
@@ -1324,14 +1324,14 @@
     <word id="102447065" form="μὲν" div_section="22" lemma="μέν" postag="g--------" head="102447071" relation="AuxY"/>
     <word id="102447066" form="ὢν" div_section="22" lemma="εἰμί" postag="v-sppamn-" head="102447071" relation="ADV_CO"/>
     <word id="102447067" form="τῇ" div_section="22" lemma="ὁ" postag="l-s---fd-" head="102447068" relation="ATR"/>
-    <word id="102447068" form="αἰτίᾳ" div_section="22" lemma="αἰτία" postag="n-s---fd-" head="102447064" relation="ADV"/>
+    <word id="102447068" form="αἰτίᾳ" div_section="22" lemma="αἰτία" postag="n-s---fd-" head="102447064" relation="ADV" animacy="nonconc" sense="charge.n.02"/>
     <word id="102447069" form="," div_section="22" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102447070" form="ἐλάττονος" div_section="22" lemma="ἐλαχύς" postag="a-s---fgc" head="102447072" relation="PNOM"/>
     <word id="102447071" form="δὲ" div_section="22" lemma="δέ" postag="c--------" head="102447083" relation="COORD"/>
     <word id="102447072" form="οὔσης" div_section="22" lemma="εἰμί" postag="v-sppafg-" head="102447071" relation="ADV_CO"/>
     <word id="102447073" form="αὐτῷ" div_section="22" lemma="αὐτός" postag="p-s---md-" head="102447072" relation="PNOM"/>
     <word id="102447074" form="τῆς" div_section="22" lemma="ὁ" postag="l-s---fg-" head="102447075" relation="ATR"/>
-    <word id="102447075" form="συμφορᾶς" div_section="22" lemma="συμφορά" postag="n-s---fg-" head="102447072" relation="SBJ"/>
+    <word id="102447075" form="συμφορᾶς" div_section="22" lemma="συμφορά" postag="n-s---fg-" head="102447072" relation="SBJ" animacy="nonconc" sense="misfortune.n.02"/>
     <word id="102447076" form="," div_section="22" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102447077" form="οὐ" div_section="22" lemma="οὐ" postag="d--------" head="102447078" relation="AuxZ"/>
     <word id="102447078" form="μόνον" div_section="22" lemma="μόνος" postag="d--------" head="102447081" relation="ADV"/>
@@ -1363,7 +1363,7 @@
     <word id="102447102" form="δὲ" div_section="22" lemma="δέ" postag="c--------" head="102447126" relation="AuxY"/>
     <word id="102447103" form="σώσας" div_section="22" lemma="σῴζω" postag="v-sapamn-" head="102447116" relation="ADV_CO"/>
     <word id="102447104" form="τὴν" div_section="22" lemma="ὁ" postag="l-s---fa-" head="102447105" relation="ATR"/>
-    <word id="102447105" form="ἀσπίδα" div_section="22" lemma="ἀσπίς" postag="n-s---fa-" head="102447103" relation="OBJ"/>
+    <word id="102447105" form="ἀσπίδα" div_section="22" lemma="ἀσπίς" postag="n-s---fa-" head="102447103" relation="OBJ" animacy="animal" sense="shield.n.02"/>
     <word id="102447106" form="," div_section="22" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102447107" form="ἀκηκοὼς" div_section="22" lemma="ἀκούω" postag="v-srpamn-" head="102447116" relation="ADV_CO"/>
     <word id="102447108" form="δὲ" div_section="22" lemma="δέ" postag="c--------" head="102447116" relation="AuxY"/>
@@ -1371,14 +1371,14 @@
     <word id="102447110" form="ἀνόσιον" div_section="22" lemma="ἀνόσιος" postag="a-s---na-" head="102447111" relation="ATR_CO"/>
     <word id="102447111" form="καὶ" div_section="22" lemma="καί" postag="c--------" head="102447113" relation="COORD"/>
     <word id="102447112" form="δεινὸν" div_section="22" lemma="δεινός" postag="a-s---na-" head="102447111" relation="ATR_CO"/>
-    <word id="102447113" form="πρᾶγμα" div_section="22" lemma="πρᾶγμα" postag="n-s---na-" head="102447107" relation="OBJ"/>
+    <word id="102447113" form="πρᾶγμα" div_section="22" lemma="πρᾶγμα" postag="n-s---na-" head="102447107" relation="OBJ" animacy="nonconc" sense="action.n.01"/>
     <word id="102447114" form="," div_section="22" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102447115" form="μεγίστης" div_section="22" lemma="μέγας" postag="a-s---fgs" head="102447117" relation="PNOM"/>
     <word id="102447116" form="δὲ" div_section="22" lemma="δέ" postag="c--------" head="102447139" relation="COORD"/>
     <word id="102447117" form="οὔσης" div_section="22" lemma="εἰμί" postag="v-sppafg-" head="102447116" relation="ADV_CO"/>
     <word id="102447118" form="μοι" div_section="22" lemma="ἐγώ" postag="p-s---cd-" head="102447117" relation="PNOM"/>
     <word id="102447119" form="τῆς" div_section="22" lemma="ὁ" postag="l-s---fg-" head="102447120" relation="ATR"/>
-    <word id="102447120" form="συμφορᾶς" div_section="22" lemma="συμφορά" postag="n-s---fg-" head="102447117" relation="SBJ"/>
+    <word id="102447120" form="συμφορᾶς" div_section="22" lemma="συμφορά" postag="n-s---fg-" head="102447117" relation="SBJ" animacy="nonconc" sense="misfortune.n.02"/>
     <word id="102447121" form="," div_section="22" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102447122" form="εἰ" div_section="22" lemma="εἰ" postag="c--------" head="102447117" relation="AuxC"/>
     <word id="102447123" form="ἀποφεύξεται" div_section="22" lemma="ἀποφεύγω" postag="v3sfim---" head="102447122" relation="ADV"/>
@@ -1389,12 +1389,12 @@
     <word id="102447128" form="ἀξίας" div_section="22" lemma="ἄξιος" postag="a-s---fg-" head="102447139" relation="ADV"/>
     <word id="102447129" form="," div_section="22" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102447130" form="εἰ" div_section="22" lemma="εἰ" postag="c--------" head="102447139" relation="AuxC"/>
-    <word id="102447131" form="κακηγορίας" div_section="22" lemma="κακηγορία" postag="n-s---fg-" head="102447132" relation="OBJ"/>
+    <word id="102447131" form="κακηγορίας" div_section="22" lemma="κακηγορία" postag="n-s---fg-" head="102447132" relation="OBJ" animacy="nonconc" sense="aspersion.n.02"/>
     <word id="102447132" form="ἁλώσεται" div_section="22" lemma="ἁλίσκομαι" postag="v3sfim---" head="102447130" relation="ADV"/>
     <word id="102447133" form="," div_section="22" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102447134" form="οὐκ" div_section="22" lemma="οὐ" postag="d--------" head="102447139" relation="AuxZ"/>
     <word id="102447135" form="ἄρα" div_section="22" lemma="ἄρα" postag="g--------" head="102447139" relation="AuxY"/>
-    <word id="102447136" form="δίκην" div_section="22" lemma="δίκη" postag="n-s---fa-" head="102447139" relation="OBJ"/>
+    <word id="102447136" form="δίκην" div_section="22" lemma="δίκη" postag="n-s---fa-" head="102447139" relation="OBJ" animacy="nonconc" sense="punishment.n.01"/>
     <word id="102447137" form="παρ’" div_section="22" lemma="παρά" postag="r--------" head="102447139" relation="AuxP"/>
     <word id="102447138" form="αὐτοῦ" div_section="22" lemma="αὐτός" postag="p-s---mg-" head="102447137" relation="ADV"/>
     <word id="102447139" form="λήψομαι" div_section="22" lemma="λαμβάνω" postag="v1sfim---" head="0" relation="PRED"/>
@@ -1407,7 +1407,7 @@
     <word id="102447143" form="ἐμοὶ" div_section="22" lemma="ἐγώ" postag="p-s---cd-" head="102447142" relation="PNOM"/>
     <word id="102447144" form="πρὸς" div_section="22" lemma="πρός" postag="r--------" head="102447142" relation="AuxP"/>
     <word id="102447145" form="ὑμᾶς" div_section="22" lemma="σύ" postag="p-p---ca-" head="102447144" relation="ADV"/>
-    <word id="102447146" form="ἐγκλήματος" div_section="22" lemma="ἔγκλημα" postag="n-s---ng-" head="102447142" relation="SBJ"/>
+    <word id="102447146" form="ἐγκλήματος" div_section="22" lemma="ἔγκλημα" postag="n-s---ng-" head="102447142" relation="SBJ" animacy="nonconc" sense="charge.n.02"/>
     <word id="102447147" form=";" div_section="22" lemma=";" postag="u--------" head="0" relation="AuxK"/>
     <word id="1000307128" form="E" lemma="E" postag="z--------" head="0" relation="PRED" artificial="elliptic" div_section="22"/>
   </sentence>
@@ -1456,9 +1456,9 @@
     <word id="102447178" form="ὅτι" div_section="23" lemma="ὅτι" postag="c--------" head="1000307132" relation="AuxC"/>
     <word id="102447179" form="ἀποβεβληκὼς" div_section="23" lemma="ἀποβάλλω" postag="v-srpamn-" head="102447182" relation="ADV"/>
     <word id="102447180" form="τὰ" div_section="23" lemma="ὁ" postag="l-p---na-" head="102447181" relation="ATR"/>
-    <word id="102447181" form="ὅπλα" div_section="23" lemma="ὅπλον" postag="n-p---na-" head="102447179" relation="OBJ"/>
+    <word id="102447181" form="ὅπλα" div_section="23" lemma="ὅπλον" postag="n-p---na-" head="102447179" relation="OBJ" animacy="animal" sense="arm.n.01"/>
     <word id="102447182" form="δικάζομαι" div_section="23" lemma="δικάζω" postag="v1spim---" head="102447178" relation="OBJ"/>
-    <word id="102447183" form="κακηγορίας" div_section="23" lemma="κακηγορία" postag="n-s---fg-" head="102447181" relation="ATR"/>
+    <word id="102447183" form="κακηγορίας" div_section="23" lemma="κακηγορία" postag="n-s---fg-" head="102447181" relation="ATR" animacy="nonconc" sense="aspersion.n.02"/>
     <word id="102447184" form="τῷ" div_section="23" lemma="ὁ" postag="l-s---md-" head="102447185" relation="ATR"/>
     <word id="102447185" form="σώσαντι" div_section="23" lemma="σῴζω" postag="v-sapamd-" head="102447182" relation="OBJ"/>
     <word id="102447186" form=";" div_section="23" lemma=";" postag="u--------" head="0" relation="AuxK"/>
@@ -1469,10 +1469,10 @@
     <word id="102447188" form="οὐχ" div_section="23" lemma="οὐ" postag="d--------" head="102447195" relation="AuxZ"/>
     <word id="102447189" form="οὗτος" div_section="23" lemma="οὗτος" postag="p-s---mn-" head="102447191" relation="ATR"/>
     <word id="102447190" form="ὁ" div_section="23" lemma="ὁ" postag="l-s---mn-" head="102447191" relation="ATR"/>
-    <word id="102447191" form="λόγος" div_section="23" lemma="λόγος" postag="n-s---mn-" head="102447195" relation="SBJ"/>
+    <word id="102447191" form="λόγος" div_section="23" lemma="λόγος" postag="n-s---mn-" head="102447195" relation="SBJ" animacy="nonconc" sense="argument.n.01"/>
     <word id="102447192" form="ἐν" div_section="23" lemma="ἐν" postag="r--------" head="102447195" relation="AuxP"/>
     <word id="102447193" form="τῇ" div_section="23" lemma="ὁ" postag="l-s---fd-" head="102447194" relation="ATR"/>
-    <word id="102447194" form="πόλει" div_section="23" lemma="πόλις" postag="n-s---fd-" head="102447192" relation="ADV"/>
+    <word id="102447194" form="πόλει" div_section="23" lemma="πόλις" postag="n-s---fd-" head="102447192" relation="ADV" animacy="human" sense="city.n.01"/>
     <word id="102447195" form="κατεσκέδασται" div_section="23" lemma="κατασκεδάννυμι" postag="v3srim---" head="0" relation="PRED"/>
     <word id="102447196" form="." div_section="23" lemma="." postag="u--------" head="0" relation="AuxK"/>
   </sentence>
@@ -1484,7 +1484,7 @@
     <word id="102447201" form="καὶ" div_section="24" lemma="καί" postag="c--------" head="102447204" relation="COORD"/>
     <word id="102447202" form="καλὴν" div_section="24" lemma="καλός" postag="a-s---fa-" head="102447201" relation="ATR_CO"/>
     <word id="102447203" form="ἐκείνην" div_section="24" lemma="ἐκεῖνος" postag="p-s---fa-" head="102447204" relation="ATR"/>
-    <word id="102447204" form="δωρεὰν" div_section="24" lemma="δωρεά" postag="n-s---fa-" head="102447206" relation="OBJ"/>
+    <word id="102447204" form="δωρεὰν" div_section="24" lemma="δωρεά" postag="n-s---fa-" head="102447206" relation="OBJ" animacy="nonconc" sense="gift.n.01"/>
     <word id="102447205" form="αὐτῷ" div_section="24" lemma="αὐτός" postag="p-s---md-" head="102447206" relation="OBJ"/>
     <word id="102447206" form="δεδώκατε" div_section="24" lemma="δίδωμι" postag="v2pria---" head="102447199" relation="OBJ"/>
     <word id="102447207" form="·" div_section="24" lemma="·" postag="u--------" head="0" relation="AuxK"/>
@@ -1496,33 +1496,33 @@
     <word id="102447211" form="οὐκ" div_section="24" lemma="οὐ" postag="d--------" head="102447213" relation="AuxZ"/>
     <word id="102447212" form="ἂν" div_section="24" lemma="ἄν" postag="g--------" head="102447213" relation="AuxY"/>
     <word id="102447213" form="ἐλεήσειε" div_section="24" lemma="ἐλεέω" postag="v3saoa---" head="0" relation="PRED"/>
-    <word id="102447214" form="Διονύσιον" div_section="24" lemma="Διονύσιος" postag="n-s---ma-" head="102447213" relation="OBJ"/>
+    <word id="102447214" form="Διονύσιον" div_section="24" lemma="Διονύσιος" postag="n-s---ma-" head="102447213" relation="OBJ" animacy="human"/>
     <word id="102447215" form="," div_section="24" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102447216" form="τοιαύτῃ" div_section="24" lemma="τοιοῦτος" postag="p-s---fd-" head="102447218" relation="ATR"/>
     <word id="102447217" form="μὲν" div_section="24" lemma="μέν" postag="g--------" head="102447230" relation="AuxY"/>
-    <word id="102447218" form="συμφορᾷ" div_section="24" lemma="συμφορά" postag="n-s---fd-" head="102447219" relation="OBJ"/>
+    <word id="102447218" form="συμφορᾷ" div_section="24" lemma="συμφορά" postag="n-s---fd-" head="102447219" relation="OBJ" animacy="nonconc" sense="misfortune.n.02"/>
     <word id="102447219" form="περιπεπτωκότα" div_section="24" lemma="περιπίπτω" postag="v-srpama-" head="102447230" relation="ATR_CO"/>
     <word id="102447220" form="," div_section="24" lemma="," postag="u--------" head="0" relation="AuxX"/>
-    <word id="102447221" form="ἄνδρα" div_section="24" lemma="ἀνήρ" postag="n-s---ma-" head="102447227" relation="SBJ"/>
+    <word id="102447221" form="ἄνδρα" div_section="24" lemma="ἀνήρ" postag="n-s---ma-" head="102447227" relation="SBJ" animacy="human" sense="man.n.01"/>
     <word id="102447222" form="δὲ" div_section="24" lemma="δέ" postag="c--------" head="102447230" relation="AuxY"/>
     <word id="102447223" form="ἄριστον" div_section="24" lemma="ἀγαθός" postag="a-s---mas" head="102447227" relation="PNOM"/>
     <word id="102447224" form="ἐν" div_section="24" lemma="ἐν" postag="r--------" head="102447227" relation="AuxP"/>
     <word id="102447225" form="τοῖς" div_section="24" lemma="ὁ" postag="l-p---md-" head="102447226" relation="ATR"/>
-    <word id="102447226" form="κινδύνοις" div_section="24" lemma="κίνδυνος" postag="n-p---md-" head="102447224" relation="ADV"/>
+    <word id="102447226" form="κινδύνοις" div_section="24" lemma="κίνδυνος" postag="n-p---md-" head="102447224" relation="ADV" animacy="nonconc" sense="danger.n.01"/>
     <word id="102447227" form="γεγενημένον" div_section="24" lemma="γίγνομαι" postag="v-srpmma-" head="102447219" relation="CO"/>
     <word id="102447228" form="," div_section="24" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102447229" form="ἀπιόντα" div_section="25" lemma="ἀπέρχομαι" postag="v-sppama-" head="102447235" relation="ADV"/>
     <word id="102447230" form="δὲ" div_section="25" lemma="δέ" postag="c--------" head="102447214" relation="COORD"/>
     <word id="102447231" form="ἀπὸ" div_section="25" lemma="ἀπό" postag="r--------" head="102447229" relation="AuxP"/>
     <word id="102447232" form="τοῦ" div_section="25" lemma="ὁ" postag="l-s---ng-" head="102447233" relation="ATR"/>
-    <word id="102447233" form="δικαστηρίου" div_section="25" lemma="δικαστήριον" postag="n-s---ng-" head="102447231" relation="ADV"/>
+    <word id="102447233" form="δικαστηρίου" div_section="25" lemma="δικαστήριον" postag="n-s---ng-" head="102447231" relation="ADV" animacy="human" sense="court.n.02"/>
     <word id="102447234" form="" form_original="{καὶ}" div_section="25"/>
     <word id="102447235" form="λέγοντα" div_section="25" lemma="λέγω" postag="v-sppama-" head="102447230" relation="ATR_CO"/>
     <word id="102447236" form="ὅτι" div_section="25" lemma="ὅτι" postag="c--------" head="102447235" relation="AuxC"/>
     <word id="102447237" form="δυστυχεστάτην" div_section="25" lemma="δυστυχής" postag="a-s---fas" head="102447240" relation="ATR"/>
     <word id="102447238" form="ἐκείνην" div_section="25" lemma="ἐκεῖνος" postag="p-s---fa-" head="102447240" relation="ATR"/>
     <word id="102447239" form="εἴημεν" div_section="25" lemma="εἰμί" postag="v1ppoa---" head="102447236" relation="OBJ"/>
-    <word id="102447240" form="στρατείαν" div_section="25" lemma="στρατεία" postag="n-s---fa-" head="102447241" relation="OBJ"/>
+    <word id="102447240" form="στρατείαν" div_section="25" lemma="στρατεία" postag="n-s---fa-" head="102447241" relation="OBJ" animacy="nonconc" sense="expedition.n.01"/>
     <word id="102447241" form="ἐστρατευμένοι" div_section="25" lemma="στρατεύω" postag="v-prpmmn-" head="102447239" relation="PNOM"/>
     <word id="102447242" form="," div_section="25" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102447243" form="ἐν" div_section="25" lemma="ἐν" postag="r--------" head="102447248" relation="AuxP"/>
@@ -1536,11 +1536,11 @@
     <word id="102447251" form="δὲ" div_section="25" lemma="δέ" postag="c--------" head="102447262" relation="AuxY"/>
     <word id="102447252" form="σώσαντες" div_section="25" lemma="σῴζω" postag="v-papamn-" head="102447259" relation="ADV"/>
     <word id="102447253" form="τὰ" div_section="25" lemma="ὁ" postag="l-p---na-" head="102447254" relation="ATR"/>
-    <word id="102447254" form="ὅπλα" div_section="25" lemma="ὅπλον" postag="n-p---na-" head="102447252" relation="OBJ"/>
+    <word id="102447254" form="ὅπλα" div_section="25" lemma="ὅπλον" postag="n-p---na-" head="102447252" relation="OBJ" animacy="animal" sense="arm.n.01"/>
     <word id="102447255" form="ὑπὸ" div_section="25" lemma="ὑπό" postag="r--------" head="102447252" relation="AuxP"/>
     <word id="102447256" form="τῶν" div_section="25" lemma="ὁ" postag="l-p---mg-" head="102447258" relation="ATR"/>
     <word id="102447257" form="ἀποβαλόντων" div_section="25" lemma="ἀποβάλλω" postag="v-papamg-" head="102447258" relation="ATR"/>
-    <word id="102447258" form="ψευδομαρτυρίων" div_section="25" lemma="ψευδομαρτυρία" postag="n-p---fg-" head="102447255" relation="OBJ"/>
+    <word id="102447258" form="ψευδομαρτυρίων" div_section="25" lemma="ψευδομαρτυρία" postag="n-p---fg-" head="102447255" relation="OBJ" animacy="nonconc" sense="perjurer.n.01"/>
     <word id="102447259" form="ἑαλώκασι" div_section="25" lemma="ἁλίσκομαι" postag="v3pria---" head="102447262" relation="ATR_CO"/>
     <word id="102447260" form="," div_section="25" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102447261" form="κρεῖττον" div_section="25" lemma="κρατύς" postag="a-s---nnc" head="102447263" relation="PNOM"/>
@@ -1553,7 +1553,7 @@
     <word id="102447268" form="οἴκαδ’" div_section="25" lemma="οἴκαδε" postag="d--------" head="102447269" relation="OBJ"/>
     <word id="102447269" form="ἐλθόντι" div_section="25" lemma="ἔρχομαι" postag="v-sapamd-" head="102447271" relation="ATR"/>
     <word id="102447270" form="τοιαύτῃ" div_section="25" lemma="τοιοῦτος" postag="p-s---fd-" head="102447271" relation="ATR"/>
-    <word id="102447271" form="τύχῃ" div_section="25" lemma="τύχη" postag="n-s---fd-" head="102447272" relation="ADV"/>
+    <word id="102447271" form="τύχῃ" div_section="25" lemma="τύχη" postag="n-s---fd-" head="102447272" relation="ADV" animacy="nonconc" sense="fortune.n.04"/>
     <word id="102447272" form="χρῆσθαι" div_section="25" lemma="χράω" postag="v--pnm---" head="102447267" relation="ADV"/>
     <word id="102447273" form=";" div_section="25" lemma=";" postag="u--------" head="0" relation="AuxK"/>
   </sentence>
@@ -1561,8 +1561,8 @@
     <word id="102447274" form="μὴ" div_section="26" lemma="μή" postag="d--------" head="102447282" relation="AuxZ"/>
     <word id="102447275" form="τοίνυν" div_section="26" lemma="τοίνυν" postag="g--------" head="102447286" relation="AuxY"/>
     <word id="102447276" form="ἀκούσαντά" div_section="26" lemma="ἀκούω" postag="v-sapama-" head="102447282" relation="ADV"/>
-    <word id="102447277" form="τε" form_original="&lt;τε&gt;" div_section="26" lemma="τε" postag="c--------" head="102447286" relation="AuxY"/>
-    <word id="102447278" form="Θεόμνηστον" div_section="26" lemma="Θεόμνηστος" postag="n-s---ma-" head="102447282" relation="OBJ"/>
+    <word id="102447277" form="τε" form_original="<τε>" div_section="26" lemma="τε" postag="c--------" head="102447286" relation="AuxY"/>
+    <word id="102447278" form="Θεόμνηστον" div_section="26" lemma="Θεόμνηστος" postag="n-s---ma-" head="102447282" relation="OBJ" animacy="human"/>
     <word id="102447279" form="κακῶς" div_section="26" lemma="κακός" postag="d--------" head="102447282" relation="ADV"/>
     <word id="102447280" form="τὰ" div_section="26" lemma="ὁ" postag="l-p---na-" head="102447281" relation="ATR"/>
     <word id="102447281" form="προσήκοντα" div_section="26" lemma="προσήκω" postag="v-pppana-" head="102447282" relation="OBJ"/>
@@ -1574,8 +1574,8 @@
     <word id="102447287" form="λέγοντι" div_section="26" lemma="λέγω" postag="v-sppamd-" head="102447286" relation="ADV_CO"/>
     <word id="102447288" form="παρὰ" div_section="26" lemma="παρά" postag="r--------" head="102447287" relation="AuxP"/>
     <word id="102447289" form="τοὺς" div_section="26" lemma="ὁ" postag="l-p---ma-" head="102447290" relation="ATR"/>
-    <word id="102447290" form="νόμους" div_section="26" lemma="νόμος" postag="n-p---ma-" head="102447288" relation="ADV"/>
-    <word id="102447291" form="συγγνώμην" div_section="26" lemma="συγγνώμη" postag="n-s---fa-" head="102447292" relation="OBJ"/>
+    <word id="102447290" form="νόμους" div_section="26" lemma="νόμος" postag="n-p---ma-" head="102447288" relation="ADV" animacy="nonconc" sense="law.n.01"/>
+    <word id="102447291" form="συγγνώμην" div_section="26" lemma="συγγνώμη" postag="n-s---fa-" head="102447292" relation="OBJ" animacy="nonconc" sense="indulgence.n.02"/>
     <word id="102447292" form="ἔχετε" div_section="26" lemma="ἔχω" postag="v2ppma---" head="102447286" relation="PRED_CO"/>
     <word id="102447293" form="." div_section="26" lemma="." postag="u--------" head="0" relation="AuxK"/>
   </sentence>
@@ -1587,14 +1587,14 @@
     <word id="102447298" form="μείζων" div_section="26" lemma="μέγας" postag="a-s---fnc" head="102447301" relation="ATR"/>
     <word id="102447299" form="ταύτης" div_section="26" lemma="οὗτος" postag="p-s---fg-" head="102447298" relation="ADV"/>
     <word id="102447300" form="γένοιτο" div_section="26" lemma="γίγνομαι" postag="v3saom---" head="0" relation="PRED"/>
-    <word id="102447301" form="συμφορά" div_section="26" lemma="συμφορά" postag="n-s---fn-" head="102447300" relation="SBJ"/>
+    <word id="102447301" form="συμφορά" div_section="26" lemma="συμφορά" postag="n-s---fn-" head="102447300" relation="SBJ" animacy="nonconc" sense="misfortune.n.02"/>
     <word id="102447302" form="," div_section="26" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102447303" form="περὶ" div_section="26" lemma="περί" postag="r--------" head="102447309" relation="AuxP"/>
     <word id="102447304" form="τοιούτου" div_section="26" lemma="τοιοῦτος" postag="p-s---mg-" head="102447305" relation="ATR"/>
-    <word id="102447305" form="πατρὸς" div_section="26" lemma="πατήρ" postag="n-s---mg-" head="102447303" relation="ADV"/>
+    <word id="102447305" form="πατρὸς" div_section="26" lemma="πατήρ" postag="n-s---mg-" head="102447303" relation="ADV" animacy="human" sense="father.n.01"/>
     <word id="102447306" form="οὕτως" div_section="26" lemma="οὕτως" postag="d--------" head="102447309" relation="ADV"/>
     <word id="102447307" form="αἰσχρὰς" div_section="26" lemma="αἰσχρός" postag="a-p---fa-" head="102447308" relation="ATR"/>
-    <word id="102447308" form="αἰτίας" div_section="26" lemma="αἰτία" postag="n-p---fa-" head="102447309" relation="OBJ"/>
+    <word id="102447308" form="αἰτίας" div_section="26" lemma="αἰτία" postag="n-p---fa-" head="102447309" relation="OBJ" animacy="nonconc" sense="charge.n.02"/>
     <word id="102447309" form="ἀκηκοότι" div_section="26" lemma="ἀκούω" postag="v-srpamd-" head="102447297" relation="ADV"/>
     <word id="102447310" form=";" div_section="26" lemma=";" postag="u--------" head="0" relation="AuxK"/>
   </sentence>
@@ -1608,7 +1608,7 @@
     <word id="102447317" form="δὲ" div_section="27" lemma="δέ" postag="c--------" head="0" relation="COORD"/>
     <word id="102447318" form="καὶ" div_section="27" lemma="καί" postag="c--------" head="102447319" relation="AuxY"/>
     <word id="102447319" form="ἄλλους" div_section="27" lemma="ἄλλος" postag="p-p---ma-" head="102447320" relation="ATR"/>
-    <word id="102447320" form="κινδύνους" div_section="27" lemma="κίνδυνος" postag="n-p---ma-" head="102447323" relation="OBJ"/>
+    <word id="102447320" form="κινδύνους" div_section="27" lemma="κίνδυνος" postag="n-p---ma-" head="102447323" relation="OBJ" animacy="nonconc" sense="riskiness.n.01"/>
     <word id="102447321" form="μεθ’" div_section="27" lemma="μετά" postag="r--------" head="102447323" relation="AuxP"/>
     <word id="102447322" form="ὑμῶν" div_section="27" lemma="σύ" postag="p-p---cg-" head="102447321" relation="ADV"/>
     <word id="102447323" form="ἐκινδύνευσε" div_section="27" lemma="κινδυνεύω" postag="v3saia---" head="102447317" relation="PRED_CO"/>
@@ -1622,32 +1622,32 @@
     <word id="102447329" form="πολεμίοις" div_section="27" lemma="πολέμιος" postag="a-p---md-" head="102447334" relation="OBJ"/>
     <word id="102447330" form="τὸ" div_section="27" lemma="ὁ" postag="l-s---nn-" head="102447332" relation="ATR"/>
     <word id="102447331" form="ἐκείνου" div_section="27" lemma="ἐκεῖνος" postag="p-s---mg-" head="102447332" relation="ATR"/>
-    <word id="102447332" form="σῶμα" div_section="27" lemma="σῶμα" postag="n-s---nn-" head="102447334" relation="SBJ"/>
+    <word id="102447332" form="σῶμα" div_section="27" lemma="σῶμα" postag="n-s---nn-" head="102447334" relation="SBJ" animacy="body" sense="person.n.01"/>
     <word id="102447333" form="ὑποχείριον" div_section="27" lemma="ὑποχείριος" postag="a-s---nn-" head="102447334" relation="PNOM"/>
     <word id="102447334" form="ἐγένετο" div_section="27" lemma="γίγνομαι" postag="v3saim---" head="102447346" relation="PRED_CO"/>
     <word id="102447335" form="," div_section="27" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102447336" form="οὔ" div_section="27" lemma="οὐ" postag="d--------" head="102447342" relation="AuxZ"/>
     <word id="102447337" form="-τε" div_section="27" lemma="τε" postag="c--------" head="0" relation="COORD"/>
     <word id="102447338" form="τοῖς" div_section="27" lemma="ὁ" postag="l-p---md-" head="102447339" relation="ATR"/>
-    <word id="102447339" form="πολίταις" div_section="27" lemma="πολίτης" postag="n-p---md-" head="102447342" relation="OBJ"/>
+    <word id="102447339" form="πολίταις" div_section="27" lemma="πολίτης" postag="n-p---md-" head="102447342" relation="OBJ" animacy="human" sense="citizen.n.01"/>
     <word id="102447340" form="οὐδεμίαν" div_section="27" lemma="οὐδείς" postag="p-s---fa-" head="102447343" relation="ATR"/>
     <word id="102447341" form="πώποτε" div_section="27" lemma="πώποτε" postag="d--------" head="102447342" relation="ADV"/>
     <word id="102447342" form="ὦφλεν" div_section="27" lemma="ὀφλισκάνω" postag="v3saia---" head="102447337" relation="PRED_CO"/>
-    <word id="102447343" form="εὐθύνην" div_section="27" lemma="εὔθυνα" postag="n-s---fa-" head="102447342" relation="OBJ"/>
+    <word id="102447343" form="εὐθύνην" div_section="27" lemma="εὔθυνα" postag="n-s---fa-" head="102447342" relation="OBJ" animacy="nonconc" sense="history.n.02"/>
     <word id="102447344" form="," div_section="27" lemma="," postag="u--------" head="0" relation="AuxX"/>
-    <word id="102447345" form="ἔτη" div_section="27" lemma="ἔτος" postag="n-p---na-" head="102447347" relation="ADV"/>
+    <word id="102447345" form="ἔτη" div_section="27" lemma="ἔτος" postag="n-p---na-" head="102447347" relation="ADV" animacy="time" sense="year.n.01"/>
     <word id="102447346" form="δὲ" div_section="27" lemma="δέ" postag="c--------" head="102447337" relation="COORD"/>
     <word id="102447347" form="γεγονὼς" div_section="27" lemma="γίγνομαι" postag="v-srpamn-" head="102447358" relation="ADV"/>
     <word id="102447348" form="ἑπτὰ" div_section="27" lemma="ἑπτά" postag="m--------" head="102447349" relation="ATR_CO"/>
     <word id="102447349" form="καὶ" div_section="27" lemma="καί" postag="c--------" head="102447345" relation="COORD"/>
     <word id="102447350" form="ἑξήκοντα" div_section="27" lemma="ἑξήκοντα" postag="m--------" head="102447349" relation="ATR_CO"/>
     <word id="102447351" form="ἐν" div_section="27" lemma="ἐν" postag="r--------" head="102447358" relation="AuxP"/>
-    <word id="102447352" form="ὀλιγαρχίᾳ" div_section="27" lemma="ὀλιγαρχία" postag="n-s---fd-" head="102447351" relation="ADV"/>
+    <word id="102447352" form="ὀλιγαρχίᾳ" div_section="27" lemma="ὀλιγαρχία" postag="n-s---fd-" head="102447351" relation="ADV" animacy="nonconc" sense="oligarchy.n.01"/>
     <word id="102447353" form="δι’" div_section="27" lemma="διά" postag="r--------" head="102447358" relation="AuxP"/>
-    <word id="102447354" form="εὔνοιαν" div_section="27" lemma="εὔνοια" postag="n-s---fa-" head="102447353" relation="ADV"/>
+    <word id="102447354" form="εὔνοιαν" div_section="27" lemma="εὔνοια" postag="n-s---fa-" head="102447353" relation="ADV" animacy="nonconc" sense="grace.n.04"/>
     <word id="102447355" form="τοῦ" div_section="27" lemma="ὁ" postag="l-s---ng-" head="102447357" relation="ATR"/>
     <word id="102447356" form="ὑμετέρου" div_section="27" lemma="ὑμέτερος" postag="a-s---ng-" head="102447357" relation="ATR"/>
-    <word id="102447357" form="πλήθους" div_section="27" lemma="πλῆθος" postag="n-s---ng-" head="102447354" relation="ATR"/>
+    <word id="102447357" form="πλήθους" div_section="27" lemma="πλῆθος" postag="n-s---ng-" head="102447354" relation="ATR" animacy="nonconc" sense="multitude.n.03"/>
     <word id="102447358" form="ἀπέθανεν" div_section="27" lemma="ἀποθνῄσκω" postag="v3saia---" head="102447346" relation="PRED_CO"/>
     <word id="102447359" form="." div_section="27" lemma="." postag="u--------" head="0" relation="AuxK"/>
   </sentence>
@@ -1656,12 +1656,12 @@
     <word id="102447361" form="ἄξιον" div_section="28" lemma="ἄξιος" postag="a-s---nn-" head="1000307133" relation="PNOM"/>
     <word id="102447362" form="ὀργισθῆναι" div_section="28" lemma="ὀργίζω" postag="v--anp---" head="102447366" relation="SBJ_CO"/>
     <word id="102447363" form="τῷ" div_section="28" lemma="ὁ" postag="l-s---md-" head="102447365" relation="ATR"/>
-    <word id="102447364" form="τοιαῦτ’" form_original="&lt;τοιαῦτ’&gt;" div_section="28" lemma="τοιοῦτος" postag="p-p---na-" head="102447365" relation="OBJ"/>
+    <word id="102447364" form="τοιαῦτ’" form_original="<τοιαῦτ’>" div_section="28" lemma="τοιοῦτος" postag="p-p---na-" head="102447365" relation="OBJ"/>
     <word id="102447365" form="εἰρηκότι" div_section="28" lemma="λέγω" postag="v-srpamd-" head="102447362" relation="OBJ"/>
     <word id="102447366" form="καὶ" div_section="28" lemma="καί" postag="c--------" head="1000307133" relation="COORD"/>
     <word id="102447367" form="βοηθῆσαι" div_section="28" lemma="βοηθέω" postag="v--ana---" head="102447366" relation="SBJ_CO"/>
     <word id="102447368" form="τῷ" div_section="28" lemma="ὁ" postag="l-s---md-" head="102447369" relation="ATR"/>
-    <word id="102447369" form="πατρί" div_section="28" lemma="πατήρ" postag="n-s---md-" head="102447367" relation="OBJ"/>
+    <word id="102447369" form="πατρί" div_section="28" lemma="πατήρ" postag="n-s---md-" head="102447367" relation="OBJ" animacy="human" sense="father.n.01"/>
     <word id="102447370" form="," div_section="28" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102447371" form="ὡς" div_section="28" lemma="ὡς" postag="c--------" head="102447375" relation="AuxZ"/>
     <word id="102447372" form="καὶ" div_section="28" lemma="καί" postag="c--------" head="102447373" relation="AuxZ"/>
@@ -1687,13 +1687,13 @@
     <word id="102447389" form="τῶν" div_section="28" lemma="ὁ" postag="l-p---mg-" head="102447390" relation="ATR"/>
     <word id="102447390" form="ἐχθρῶν" div_section="28" lemma="ἐχθρός" postag="a-p---mg-" head="102447388" relation="OBJ"/>
     <word id="102447391" form="," div_section="28" lemma="," postag="u--------" head="0" relation="AuxX"/>
-    <word id="102447392" form="αἰτίαν" div_section="28" lemma="αἰτία" postag="n-s---fa-" head="102447394" relation="OBJ"/>
+    <word id="102447392" form="αἰτίαν" div_section="28" lemma="αἰτία" postag="n-s---fa-" head="102447394" relation="OBJ" animacy="nonconc" sense="charge.n.02"/>
     <word id="102447393" form="δ’" div_section="28" lemma="δέ" postag="c--------" head="102447382" relation="COORD"/>
     <word id="102447394" form="ἔχειν" div_section="28" lemma="ἔχω" postag="v--pna---" head="102447393" relation="SBJ_CO"/>
     <word id="102447395" form="ὑπὸ" div_section="28" lemma="ὑπό" postag="r--------" head="102447398" relation="AuxP"/>
     <word id="102447396" form="τῶν" div_section="28" lemma="ὁ" postag="l-p---mg-" head="102447397" relation="ATR"/>
-    <word id="102447397" form="παίδων" div_section="28" lemma="παῖς" postag="n-p---cg-" head="102447395" relation="OBJ"/>
-    <word id="102447398" form="ἀνῃρῆσθαι" form_original="&lt;ἀνῃρῆσθαι&gt;" div_section="28" lemma="ἀναιρέω" postag="v--rnm---" head="102447386" relation="CO"/>
+    <word id="102447397" form="παίδων" div_section="28" lemma="παῖς" postag="n-p---cg-" head="102447395" relation="OBJ" animacy="human" sense="son.n.01"/>
+    <word id="102447398" form="ἀνῃρῆσθαι" form_original="<ἀνῃρῆσθαι>" div_section="28" lemma="ἀναιρέω" postag="v--rnm---" head="102447386" relation="CO"/>
     <word id="102447399" form=";" div_section="28" lemma=";" postag="u--------" head="0" relation="AuxK"/>
   </sentence>
   <sentence struct_id="148608" id="79" document_id="0540-010" analysis="auto">
@@ -1703,17 +1703,17 @@
     <word id="102447403" form="νῦν" div_section="28" lemma="νῦν" postag="d--------" head="102447417" relation="ADV"/>
     <word id="102447404" form="," div_section="28" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102447405" form="ὦ" div_section="28" lemma="ὦ" postag="i--------" head="102447406" relation="AuxZ"/>
-    <word id="102447406" form="ἄνδρες" div_section="28" lemma="ἀνήρ" postag="n-p---mv-" head="102447417" relation="ExD"/>
-    <word id="102447407" form="δικασταί" div_section="28" lemma="δικαστής" postag="n-p---mv-" head="102447406" relation="ATR"/>
+    <word id="102447406" form="ἄνδρες" div_section="28" lemma="ἀνήρ" postag="n-p---mv-" head="102447417" relation="ExD" animacy="human" sense="gentleman.n.01"/>
+    <word id="102447407" form="δικασταί" div_section="28" lemma="δικαστής" postag="n-p---mv-" head="102447406" relation="ATR" animacy="human" sense="jury.n.01"/>
     <word id="102447408" form="," div_section="28" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102447409" form="τῆς" div_section="28" lemma="ὁ" postag="l-s---fg-" head="102447410" relation="ATR"/>
-    <word id="102447410" form="ἀρετῆς" div_section="28" lemma="ἀρετή" postag="n-s---fg-" head="102447412" relation="ATR"/>
+    <word id="102447410" form="ἀρετῆς" div_section="28" lemma="ἀρετή" postag="n-s---fg-" head="102447412" relation="ATR" animacy="nonconc" sense="heroism.n.01"/>
     <word id="102447411" form="τὰ" div_section="28" lemma="ὁ" postag="l-p---nn-" head="102447412" relation="ATR"/>
-    <word id="102447412" form="μνημεῖα" div_section="28" lemma="μνημεῖον" postag="n-p---nn-" head="102447417" relation="SBJ"/>
+    <word id="102447412" form="μνημεῖα" div_section="28" lemma="μνημεῖον" postag="n-p---nn-" head="102447417" relation="SBJ" animacy="animal" sense="memorial.n.01"/>
     <word id="102447413" form="πρὸς" div_section="28" lemma="πρός" postag="r--------" head="102447417" relation="AuxP"/>
     <word id="102447414" form="τοῖς" div_section="28" lemma="ὁ" postag="l-p---nd-" head="102447416" relation="ATR"/>
     <word id="102447415" form="ὑμετέροις" div_section="28" lemma="ὑμέτερος" postag="a-p---nd-" head="102447416" relation="ATR"/>
-    <word id="102447416" form="ἱεροῖς" form_original="&lt;ἱεροῖς&gt;" div_section="28" lemma="ἱερός" postag="a-p---nd-" head="102447413" relation="ADV"/>
+    <word id="102447416" form="ἱεροῖς" form_original="<ἱεροῖς>" div_section="28" lemma="ἱερός" postag="a-p---nd-" head="102447413" relation="ADV"/>
     <word id="102447417" form="ἀνάκειται" div_section="28" lemma="ἀνάκειμαι" postag="v3spim---" head="102447420" relation="PRED_CO"/>
     <word id="102447418" form="," div_section="28" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102447419" form="τὰ" div_section="28" lemma="ὁ" postag="l-p---nn-" head="1000307134" relation="SBJ"/>
@@ -1722,9 +1722,9 @@
     <word id="102447422" form="καὶ" div_section="28" lemma="καί" postag="c--------" head="102447419" relation="COORD"/>
     <word id="102447423" form="τοῦ" div_section="28" lemma="ὁ" postag="l-s---mg-" head="102447425" relation="ATR"/>
     <word id="102447424" form="τούτου" div_section="28" lemma="οὗτος" postag="p-s---mg-" head="102447425" relation="ATR"/>
-    <word id="102447425" form="πατρὸς" div_section="28" lemma="πατήρ" postag="n-s---mg-" head="102447422" relation="ATR_CO"/>
+    <word id="102447425" form="πατρὸς" div_section="28" lemma="πατήρ" postag="n-s---mg-" head="102447422" relation="ATR_CO" animacy="human" sense="father.n.01"/>
     <word id="102447426" form="τῆς" div_section="28" lemma="ὁ" postag="l-s---fg-" head="102447427" relation="ATR"/>
-    <word id="102447427" form="κακίας" div_section="28" lemma="κακία" postag="n-s---fg-" head="102447425" relation="ATR"/>
+    <word id="102447427" form="κακίας" div_section="28" lemma="κακία" postag="n-s---fg-" head="102447425" relation="ATR" animacy="nonconc" sense="baseness.n.01"/>
     <word id="102447428" form="πρὸς" div_section="28" lemma="πρός" postag="r--------" head="1000307134" relation="AuxP"/>
     <word id="102447429" form="τοῖς" div_section="28" lemma="ὁ" postag="l-p---nd-" head="102447428" relation="ADV"/>
     <word id="102447430" form="τῶν" div_section="28" lemma="ὁ" postag="l-p---mg-" head="102447431" relation="ATR"/>
@@ -1737,7 +1737,7 @@
     <word id="102447434" form="σύμφυτος" div_section="28" lemma="σύμφυτος" postag="a-s---fn-" head="1000307135" relation="PNOM"/>
     <word id="102447435" form="αὐτοῖς" div_section="28" lemma="αὐτός" postag="p-p---md-" head="102447434" relation="ADV"/>
     <word id="102447436" form="ἡ" div_section="28" lemma="ὁ" postag="l-s---fn-" head="102447437" relation="ATR"/>
-    <word id="102447437" form="δειλία" div_section="28" lemma="δειλία" postag="n-s---fn-" head="1000307135" relation="SBJ"/>
+    <word id="102447437" form="δειλία" div_section="28" lemma="δειλία" postag="n-s---fn-" head="1000307135" relation="SBJ" animacy="nonconc" sense="cowardice.n.01"/>
     <word id="102447438" form="." div_section="28" lemma="." postag="u--------" head="0" relation="AuxK"/>
     <word id="1000307135" form="E" lemma="E" postag="z--------" head="0" relation="PRED" artificial="elliptic" div_section="28"/>
   </sentence>
@@ -1747,20 +1747,20 @@
     <word id="102447441" form="δή" div_section="29" lemma="δή" postag="g--------" head="102447459" relation="AuxY"/>
     <word id="102447442" form="," div_section="29" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102447443" form="ὦ" div_section="29" lemma="ὦ" postag="i--------" head="102447444" relation="AuxZ"/>
-    <word id="102447444" form="ἄνδρες" div_section="29" lemma="ἀνήρ" postag="n-p---mv-" head="102447459" relation="ExD"/>
-    <word id="102447445" form="δικασταί" div_section="29" lemma="δικαστής" postag="n-p---mv-" head="102447444" relation="ATR"/>
+    <word id="102447444" form="ἄνδρες" div_section="29" lemma="ἀνήρ" postag="n-p---mv-" head="102447459" relation="ExD" animacy="human" sense="gentleman.n.01"/>
+    <word id="102447445" form="δικασταί" div_section="29" lemma="δικαστής" postag="n-p---mv-" head="102447444" relation="ATR" animacy="human" sense="jury.n.01"/>
     <word id="102447446" form="," div_section="29" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102447447" form="ὅσῳ" div_section="29" lemma="ὅσος" postag="p-s---nd-" head="102447448" relation="ADV"/>
     <word id="102447448" form="μείζους" div_section="29" lemma="μέγας" postag="a-p---mnc" head="102447449" relation="PNOM"/>
     <word id="102447449" form="εἰσὶ" div_section="29" lemma="εἰμί" postag="v3ppia---" head="102447455" relation="ATR"/>
     <word id="102447450" form="καὶ" div_section="29" lemma="καί" postag="c--------" head="102447451" relation="AuxY"/>
-    <word id="102447451" form="νεανίαι" div_section="29" lemma="νεανίας" postag="n-p---mn-" head="102447449" relation="SBJ"/>
+    <word id="102447451" form="νεανίαι" div_section="29" lemma="νεανίας" postag="n-p---mn-" head="102447449" relation="SBJ" animacy="human" sense="young_buck.n.01"/>
     <word id="102447452" form="τὰς" div_section="29" lemma="ὁ" postag="l-p---fa-" head="102447453" relation="ATR"/>
-    <word id="102447453" form="ὄψεις" div_section="29" lemma="ὄψις" postag="n-p---fa-" head="102447449" relation="SBJ"/>
+    <word id="102447453" form="ὄψεις" div_section="29" lemma="ὄψις" postag="n-p---fa-" head="102447449" relation="SBJ" animacy="nonconc" sense="appearance.n.01"/>
     <word id="102447454" form="," div_section="29" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102447455" form="τοσούτῳ" div_section="29" lemma="τοσοῦτος" postag="p-s---nd-" head="102447456" relation="ADV"/>
     <word id="102447456" form="μᾶλλον" div_section="29" lemma="μάλα" postag="d-------c" head="102447459" relation="ADV"/>
-    <word id="102447457" form="ὀργῆς" div_section="29" lemma="ὀργή" postag="n-s---fg-" head="102447458" relation="ADV"/>
+    <word id="102447457" form="ὀργῆς" div_section="29" lemma="ὀργή" postag="n-s---fg-" head="102447458" relation="ADV" animacy="nonconc" sense="anger.n.01"/>
     <word id="102447458" form="ἄξιοί" div_section="29" lemma="ἄξιος" postag="a-p---mn-" head="102447459" relation="PNOM"/>
     <word id="102447459" form="εἰσι" div_section="29" lemma="εἰμί" postag="v3ppia---" head="0" relation="PRED"/>
     <word id="102447460" form="." div_section="29" lemma="." postag="u--------" head="0" relation="AuxK"/>
@@ -1771,14 +1771,14 @@
     <word id="102447463" form="ὅτι" div_section="29" lemma="ὅτι" postag="c--------" head="1000307136" relation="AuxC"/>
     <word id="102447464" form="τοῖς" div_section="29" lemma="ὁ" postag="l-p---nd-" head="102447466" relation="ATR"/>
     <word id="102447465" form="μὲν" div_section="29" lemma="μέν" postag="g--------" head="102447470" relation="AuxY"/>
-    <word id="102447466" form="σώμασι" div_section="29" lemma="σῶμα" postag="n-p---nd-" head="102447467" relation="ADV"/>
+    <word id="102447466" form="σώμασι" div_section="29" lemma="σῶμα" postag="n-p---nd-" head="102447467" relation="ADV" animacy="body" sense="body.n.01"/>
     <word id="102447467" form="δύνανται" div_section="29" lemma="δύναμαι" postag="v3ppim---" head="102447470" relation="SBJ_CO"/>
     <word id="102447468" form="," div_section="29" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102447469" form="τὰς" div_section="29" lemma="ὁ" postag="l-p---fa-" head="102447471" relation="ATR"/>
     <word id="102447470" form="δὲ" div_section="29" lemma="δέ" postag="c--------" head="102447463" relation="COORD"/>
-    <word id="102447471" form="ψυχὰς" div_section="29" lemma="ψυχή" postag="n-p---fa-" head="102447474" relation="OBJ"/>
+    <word id="102447471" form="ψυχὰς" div_section="29" lemma="ψυχή" postag="n-p---fa-" head="102447474" relation="OBJ" animacy="nonconc" sense="soul.n.01"/>
     <word id="102447472" form="οὐκ" div_section="29" lemma="οὐ" postag="d--------" head="102447473" relation="AuxZ"/>
-    <word id="102447473" form="εὖ" form_original="&lt;εὖ&gt;" div_section="29" lemma="εὖ" postag="d--------" head="102447474" relation="ADV"/>
+    <word id="102447473" form="εὖ" form_original="<εὖ>" div_section="29" lemma="εὖ" postag="d--------" head="102447474" relation="ADV"/>
     <word id="102447474" form="ἔχουσιν" div_section="29" lemma="ἔχω" postag="v3ppia---" head="102447470" relation="SBJ_CO"/>
     <word id="102447475" form="." div_section="29" lemma="." postag="u--------" head="0" relation="AuxK"/>
     <word id="1000307136" form="E" lemma="E" postag="z--------" head="0" relation="PRED" artificial="elliptic" div_section="29"/>
@@ -1789,13 +1789,13 @@
     <word id="102447478" form="αὐτόν" div_section="30" lemma="αὐτός" postag="p-s---ma-" head="102447488" relation="SBJ"/>
     <word id="102447479" form="," div_section="30" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102447480" form="ὦ" div_section="30" lemma="ὦ" postag="i--------" head="102447481" relation="AuxZ"/>
-    <word id="102447481" form="ἄνδρες" div_section="30" lemma="ἀνήρ" postag="n-p---mv-" head="102447476" relation="ExD"/>
-    <word id="102447482" form="δικασταί" div_section="30" lemma="δικαστής" postag="n-p---mv-" head="102447481" relation="ATR"/>
+    <word id="102447481" form="ἄνδρες" div_section="30" lemma="ἀνήρ" postag="n-p---mv-" head="102447476" relation="ExD" animacy="human" sense="gentleman.n.01"/>
+    <word id="102447482" form="δικασταί" div_section="30" lemma="δικαστής" postag="n-p---mv-" head="102447481" relation="ATR" animacy="human" sense="jury.n.01"/>
     <word id="102447483" form="," div_section="30" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102447484" form="ἐπὶ" div_section="30" lemma="ἐπί" postag="r--------" head="102447488" relation="AuxP"/>
     <word id="102447485" form="τοῦτον" div_section="30" lemma="οὗτος" postag="p-s---ma-" head="102447487" relation="ATR"/>
     <word id="102447486" form="τὸν" div_section="30" lemma="ὁ" postag="l-s---ma-" head="102447487" relation="ATR"/>
-    <word id="102447487" form="λόγον" div_section="30" lemma="λόγος" postag="n-s---ma-" head="102447484" relation="OBJ"/>
+    <word id="102447487" form="λόγον" div_section="30" lemma="λόγος" postag="n-s---ma-" head="102447484" relation="OBJ" animacy="nonconc" sense="argument.n.01"/>
     <word id="102447488" form="τρέπεσθαι" div_section="30" lemma="τρέπω" postag="v--pnm---" head="102447476" relation="OBJ"/>
     <word id="102447489" form="," div_section="30" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102447490" form="ὡς" div_section="30" lemma="ὡς" postag="c--------" head="102447488" relation="AuxC"/>
@@ -1806,8 +1806,8 @@
     <word id="102447495" form="μαρτυρήσαντος" div_section="30" lemma="μαρτυρέω" postag="v-sapamg-" head="102447492" relation="ADV"/>
     <word id="102447496" form="τὴν" div_section="30" lemma="ὁ" postag="l-s---fa-" head="102447498" relation="ATR"/>
     <word id="102447497" form="αὐτὴν" div_section="30" lemma="αὐτός" postag="p-s---fa-" head="102447498" relation="ATR"/>
-    <word id="102447498" form="μαρτυρίαν" div_section="30" lemma="μαρτυρία" postag="n-s---fa-" head="102447495" relation="OBJ"/>
-    <word id="102447499" form="Διονυσίῳ" div_section="30" lemma="Διονύσιος" postag="n-s---md-" head="102447495" relation="OBJ"/>
+    <word id="102447498" form="μαρτυρίαν" div_section="30" lemma="μαρτυρία" postag="n-s---fa-" head="102447495" relation="OBJ" animacy="nonconc" sense="testimony.n.01"/>
+    <word id="102447499" form="Διονυσίῳ" div_section="30" lemma="Διονύσιος" postag="n-s---md-" head="102447495" relation="OBJ" animacy="human"/>
     <word id="102447500" form="." div_section="30" lemma="." postag="u--------" head="0" relation="AuxK"/>
   </sentence>
   <sentence struct_id="148613" id="84" document_id="0540-010" analysis="auto">
@@ -1816,15 +1816,15 @@
     <word id="102447503" form="ἐνθυμεῖσθε" div_section="30" lemma="ἐνθυμέομαι" postag="v2ppmm---" head="0" relation="PRED"/>
     <word id="102447504" form="," div_section="30" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102447505" form="ὦ" div_section="30" lemma="ὦ" postag="i--------" head="102447506" relation="AuxZ"/>
-    <word id="102447506" form="ἄνδρες" div_section="30" lemma="ἀνήρ" postag="n-p---mv-" head="102447503" relation="ExD"/>
-    <word id="102447507" form="δικασταί" div_section="30" lemma="δικαστής" postag="n-p---mv-" head="102447506" relation="ATR"/>
+    <word id="102447506" form="ἄνδρες" div_section="30" lemma="ἀνήρ" postag="n-p---mv-" head="102447503" relation="ExD" animacy="human" sense="gentleman.n.01"/>
+    <word id="102447507" form="δικασταί" div_section="30" lemma="δικαστής" postag="n-p---mv-" head="102447506" relation="ATR" animacy="human" sense="jury.n.01"/>
     <word id="102447508" form="," div_section="30" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102447509" form="ὅτι" div_section="30" lemma="ὅτι" postag="c--------" head="102447503" relation="AuxC"/>
     <word id="102447510" form="ὁ" div_section="30" lemma="ὁ" postag="l-s---mn-" head="102447511" relation="ATR"/>
-    <word id="102447511" form="νομοθέτης" div_section="30" lemma="νομοθέτης" postag="n-s---mn-" head="102447515" relation="SBJ"/>
+    <word id="102447511" form="νομοθέτης" div_section="30" lemma="νομοθέτης" postag="n-s---mn-" head="102447515" relation="SBJ" animacy="human" sense="lawgiver.n.01"/>
     <word id="102447512" form="οὐδεμίαν" div_section="30" lemma="οὐδείς" postag="p-s---fa-" head="102447514" relation="ATR"/>
-    <word id="102447513" form="ὀργῇ" div_section="30" lemma="ὀργή" postag="n-s---fd-" head="102447515" relation="ADV"/>
-    <word id="102447514" form="συγγνώμην" div_section="30" lemma="συγγνώμη" postag="n-s---fa-" head="102447515" relation="OBJ"/>
+    <word id="102447513" form="ὀργῇ" div_section="30" lemma="ὀργή" postag="n-s---fd-" head="102447515" relation="ADV" animacy="nonconc" sense="anger.n.01"/>
+    <word id="102447514" form="συγγνώμην" div_section="30" lemma="συγγνώμη" postag="n-s---fa-" head="102447515" relation="OBJ" animacy="nonconc" sense="indulgence.n.02"/>
     <word id="102447515" form="δίδωσιν" div_section="30" lemma="δίδωμι" postag="v3spia---" head="102447517" relation="OBJ_CO"/>
     <word id="102447516" form="," div_section="30" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102447517" form="ἀλλὰ" div_section="30" lemma="ἀλλά" postag="c--------" head="102447509" relation="COORD"/>
@@ -1867,7 +1867,7 @@
     <word id="102447550" form="τοῖς" div_section="30" lemma="ὁ" postag="l-p---md-" head="102447552" relation="ATR"/>
     <word id="102447551" form="δὲ" div_section="30" lemma="δέ" postag="c--------" head="102447543" relation="COORD"/>
     <word id="102447552" form="ἀποβαλοῦσι" div_section="30" lemma="ἀποβάλλω" postag="v-papamd-" head="102447554" relation="OBJ"/>
-    <word id="102447553" form="συγγνώμην" div_section="30" lemma="συγγνώμη" postag="n-s---fa-" head="102447554" relation="OBJ"/>
+    <word id="102447553" form="συγγνώμην" div_section="30" lemma="συγγνώμη" postag="n-s---fa-" head="102447554" relation="OBJ" animacy="nonconc" sense="forgiveness.n.02"/>
     <word id="102447554" form="ἔχετε" div_section="30" lemma="ἔχω" postag="v2ppia---" head="102447551" relation="OBJ_CO"/>
     <word id="102447555" form="." div_section="30" lemma="." postag="u--------" head="0" relation="AuxK"/>
   </sentence>
@@ -1891,7 +1891,7 @@
     <word id="102447570" form="ὑμῶν" div_section="31" lemma="σύ" postag="p-p---cg-" head="102447572" relation="OBJ"/>
     <word id="102447571" form="δέομαι" div_section="31" lemma="δέω" postag="v1spim---" head="0" relation="PRED"/>
     <word id="102447572" form="καταψηφίσασθαι" div_section="31" lemma="καταψηφίζομαι" postag="v--anm---" head="102447571" relation="OBJ"/>
-    <word id="102447573" form="Θεομνήστου" div_section="31" lemma="Θεόμνηστος" postag="n-s---mg-" head="102447572" relation="OBJ"/>
+    <word id="102447573" form="Θεομνήστου" div_section="31" lemma="Θεόμνηστος" postag="n-s---mg-" head="102447572" relation="OBJ" animacy="human"/>
     <word id="102447574" form="," div_section="31" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102447575" form="ἐνθυμουμένους" div_section="31" lemma="ἐνθυμέομαι" postag="v-pppmma-" head="102447572" relation="ADV"/>
     <word id="102447576" form="ὅτι" div_section="31" lemma="ὅτι" postag="c--------" head="102447575" relation="AuxC"/>
@@ -1900,7 +1900,7 @@
     <word id="102447579" form="γένοιτο" div_section="31" lemma="γίγνομαι" postag="v3saom---" head="102447576" relation="OBJ"/>
     <word id="102447580" form="τούτου" div_section="31" lemma="οὗτος" postag="p-s---mg-" head="102447581" relation="ADV"/>
     <word id="102447581" form="μείζων" div_section="31" lemma="μέγας" postag="a-s---mnc" head="102447582" relation="ATR"/>
-    <word id="102447582" form="ἀγών" div_section="31" lemma="ἀγών" postag="n-s---mn-" head="102447579" relation="SBJ"/>
+    <word id="102447582" form="ἀγών" div_section="31" lemma="ἀγών" postag="n-s---mn-" head="102447579" relation="SBJ" animacy="nonconc" sense="trial.n.04"/>
     <word id="102447583" form="μοι" div_section="31" lemma="ἐγώ" postag="p-s---cd-" head="102447581" relation="ADV"/>
     <word id="102447584" form="." div_section="31" lemma="." postag="u--------" head="0" relation="AuxK"/>
   </sentence>
@@ -1908,17 +1908,17 @@
     <word id="102447585" form="νῦν" div_section="31" lemma="νῦν" postag="d--------" head="102447592" relation="ADV"/>
     <word id="102447586" form="γὰρ" div_section="31" lemma="γάρ" postag="g--------" head="102447592" relation="AuxY"/>
     <word id="102447587" form="διώκω" div_section="31" lemma="διώκω" postag="v1spia---" head="102447592" relation="PRED_CO"/>
-    <word id="102447588" form="μὲν" form_original="&lt;μὲν&gt;" div_section="31" lemma="μέν" postag="g--------" head="102447592" relation="AuxY"/>
-    <word id="102447589" form="κακηγορίας" div_section="31" lemma="κακηγορία" postag="n-p---fa-" head="102447587" relation="OBJ"/>
+    <word id="102447588" form="μὲν" form_original="<μὲν>" div_section="31" lemma="μέν" postag="g--------" head="102447592" relation="AuxY"/>
+    <word id="102447589" form="κακηγορίας" div_section="31" lemma="κακηγορία" postag="n-p---fa-" head="102447587" relation="OBJ" animacy="nonconc" sense="aspersion.n.02"/>
     <word id="102447590" form="," div_section="31" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102447591" form="τῇ" div_section="31" lemma="ὁ" postag="l-s---fd-" head="102447594" relation="ATR"/>
     <word id="102447592" form="δ’" div_section="31" lemma="δέ" postag="c--------" head="0" relation="COORD"/>
     <word id="102447593" form="αὐτῇ" div_section="31" lemma="αὐτός" postag="p-s---fd-" head="102447594" relation="ATR"/>
-    <word id="102447594" form="ψήφῳ" div_section="31" lemma="ψῆφος" postag="n-s---fd-" head="102447596" relation="ADV"/>
-    <word id="102447595" form="φόνου" div_section="31" lemma="φόνος" postag="n-s---mg-" head="102447594" relation="ATR"/>
+    <word id="102447594" form="ψήφῳ" div_section="31" lemma="ψῆφος" postag="n-s---fd-" head="102447596" relation="ADV" animacy="nonconc" sense="vote.n.01"/>
+    <word id="102447595" form="φόνου" div_section="31" lemma="φόνος" postag="n-s---mg-" head="102447594" relation="ATR" animacy="nonconc" sense="murder.n.01"/>
     <word id="102447596" form="φεύγω" div_section="31" lemma="φεύγω" postag="v1spia---" head="102447592" relation="PRED_CO"/>
     <word id="102447597" form="τοῦ" div_section="31" lemma="ὁ" postag="l-s---mg-" head="102447598" relation="ATR"/>
-    <word id="102447598" form="πατρός" div_section="31" lemma="πατήρ" postag="n-s---mg-" head="102447595" relation="ATR"/>
+    <word id="102447598" form="πατρός" div_section="31" lemma="πατήρ" postag="n-s---mg-" head="102447595" relation="ATR" animacy="human" sense="father.n.01"/>
     <word id="102447599" form="," div_section="31" lemma="," postag="u--------" head="0" relation="AuxX"/>
     <word id="102447600" form="ὃς" div_section="31" lemma="ὅς" postag="p-s---mn-" head="102447607" relation="SBJ"/>
     <word id="102447601" form="μόνος" div_section="31" lemma="μόνος" postag="a-s---mn-" head="102447600" relation="ADV"/>
@@ -1932,7 +1932,7 @@
     <word id="102447609" form="τριάκοντα" div_section="31" lemma="τριάκοντα" postag="m--------" head="102447607" relation="OBJ"/>
     <word id="102447610" form="ἐν" div_section="31" lemma="ἐν" postag="r--------" head="102447607" relation="AuxP"/>
     <word id="102447611" form="Ἀρείῳ" div_section="31" lemma="Ἄρειος" postag="a-s---md-" head="102447612" relation="ATR"/>
-    <word id="102447612" form="πάγῳ" div_section="31" lemma="πάγος" postag="n-s---md-" head="102447610" relation="ADV"/>
+    <word id="102447612" form="πάγῳ" div_section="31" lemma="πάγος" postag="n-s---md-" head="102447610" relation="ADV" animacy="human" sense="hill.n.01"/>
     <word id="102447613" form="." div_section="31" lemma="." postag="u--------" head="0" relation="AuxK"/>
   </sentence>
   <sentence struct_id="148619" id="90" document_id="0540-010" analysis="auto">
@@ -1942,16 +1942,16 @@
     <word id="102447617" form="ἐμοὶ" div_section="32" lemma="ἐγώ" postag="p-s---cd-" head="102447618" relation="OBJ_CO"/>
     <word id="102447618" form="καὶ" div_section="32" lemma="καί" postag="c--------" head="102447615" relation="COORD"/>
     <word id="102447619" form="τῷ" div_section="32" lemma="ὁ" postag="l-s---md-" head="102447620" relation="ATR"/>
-    <word id="102447620" form="πατρὶ" div_section="32" lemma="πατήρ" postag="n-s---md-" head="102447618" relation="OBJ_CO"/>
+    <word id="102447620" form="πατρὶ" div_section="32" lemma="πατήρ" postag="n-s---md-" head="102447618" relation="OBJ_CO" animacy="human" sense="father.n.01"/>
     <word id="102447621" form="βοηθήσατε" div_section="32" lemma="βοηθέω" postag="v2pama---" head="0" relation="PRED"/>
     <word id="102447622" form="καὶ" div_section="32" lemma="καί" postag="c--------" head="102447627" relation="AuxY"/>
     <word id="102447623" form="τοῖς" div_section="32" lemma="ὁ" postag="l-p---md-" head="102447624" relation="ATR"/>
-    <word id="102447624" form="νόμοις" div_section="32" lemma="νόμος" postag="n-p---md-" head="102447627" relation="OBJ_CO"/>
+    <word id="102447624" form="νόμοις" div_section="32" lemma="νόμος" postag="n-p---md-" head="102447627" relation="OBJ_CO" animacy="nonconc" sense="law.n.01"/>
     <word id="102447625" form="τοῖς" div_section="32" lemma="ὁ" postag="l-p---md-" head="102447626" relation="ATR"/>
     <word id="102447626" form="κειμένοις" div_section="32" lemma="κεῖμαι" postag="v-prpmmd-" head="102447624" relation="ATR"/>
     <word id="102447627" form="καὶ" div_section="32" lemma="καί" postag="c--------" head="102447621" relation="COORD"/>
     <word id="102447628" form="τοῖς" div_section="32" lemma="ὁ" postag="l-p---md-" head="102447629" relation="ATR"/>
-    <word id="102447629" form="ὅρκοις" div_section="32" lemma="ὅρκος" postag="n-p---md-" head="102447627" relation="OBJ_CO"/>
+    <word id="102447629" form="ὅρκοις" div_section="32" lemma="ὅρκος" postag="n-p---md-" head="102447627" relation="OBJ_CO" animacy="nonconc" sense="oath.n.03"/>
     <word id="102447630" form="οἷς" div_section="32" lemma="ὅς" postag="p-p---md-" head="102447631" relation="OBJ"/>
     <word id="102447631" form="ὀμωμόκατε" div_section="32" lemma="ὄμνυμι" postag="v2pria---" head="102447629" relation="ATR"/>
     <word id="102447632" form="." div_section="32" lemma="." postag="u--------" head="0" relation="AuxK"/>

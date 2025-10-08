@@ -2,16 +2,16 @@
   <sentence struct_id="178360" id="1" document_id="1260-002" analysis="auto">
     <word id="102950338" form="ἐκ" line="1" lemma="ἐκ" postag="r--------" head="102950345" relation="AuxP"/>
     <word id="102950339" form="δὲ" line="1" lemma="δέ" postag="c--------" head="102950345" relation="AuxY"/>
-    <word id="102950340" form="Ποσειδάωνος" line="1" lemma="Ποσειδῶν" postag="n-s---mg-" head="102950342" relation="ADV_CO"/>
+    <word id="102950340" form="Ποσειδάωνος" line="1" lemma="Ποσειδῶν" postag="n-s---mg-" head="102950342" relation="ADV_CO" animacy="human" sense="neptune.n.02"/>
     <word id="102950341" form="ἀγακλειτῆς" line="1" lemma="ἀγακλειτός" postag="a-s---fg-" head="102950343" relation="ATR"/>
     <word id="102950342" form="τε" line="1" lemma="τε" postag="c--------" head="102950338" relation="COORD"/>
-    <word id="102950343" form="Μιδείης" line="1" lemma="Μίδεια" postag="n-s---fg-" head="102950342" relation="ADV_CO"/>
-    <word id="102950344" form="Ἀσπληδὼν" line="2" lemma="Ἀσπληδών" postag="n-s---mn-" head="102950345" relation="SBJ"/>
+    <word id="102950343" form="Μιδείης" line="1" lemma="Μίδεια" postag="n-s---fg-" head="102950342" relation="ADV_CO" animacy="animal"/>
+    <word id="102950344" form="Ἀσπληδὼν" line="2" lemma="Ἀσπληδών" postag="n-s---mn-" head="102950345" relation="SBJ" animacy="animal"/>
     <word id="102950345" form="γένεθ’" line="2" lemma="γίγνομαι" postag="v3saim---" head="0" relation="PRED"/>
-    <word id="102950346" form="υἱὸς" line="2" lemma="υἱός" postag="n-s---mn-" head="102950345" relation="SBJ"/>
+    <word id="102950346" form="υἱὸς" line="2" lemma="υἱός" postag="n-s---mn-" head="102950345" relation="SBJ" animacy="human" sense="son.n.01"/>
     <word id="102950347" form="ἀν’" line="2" lemma="ἀνά" postag="r--------" head="102950345" relation="AuxP"/>
     <word id="102950348" form="εὐρύχορον" line="2" lemma="εὐρύχορος" postag="a-s---na-" head="102950349" relation="ATR"/>
-    <word id="102950349" form="πτολίεθρον" line="2" lemma="πτολίεθρον" postag="n-s---na-" head="102950347" relation="ADV"/>
+    <word id="102950349" form="πτολίεθρον" line="2" lemma="πτολίεθρον" postag="n-s---na-" head="102950347" relation="ADV" animacy="place" sense="city.n.01"/>
     <word id="102950350" form="." line="2" lemma="." postag="u--------" head="0" relation="AuxK"/>
   </sentence>
 </treebank>
