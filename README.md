@@ -24,13 +24,27 @@ At the moment GLAUx includes morphology, lemmas and syntactic dependencies, all 
 All credits for the manual annotation belong to the respective projects.
 These treebank projects have also been used as training material for the automatic annotation (most of GLAUx is automatically annotated). For details on the methodology, for lemmas and syntax the methodology is still roughly following the paper cited below. For morphology I currently use a transformer-based approach. The most recent code, including a reference to the paper describing the automated morphological analysis, can be found on https://github.com/alekkeersmaekers/glaux-nlp.
 
+**New (10/2025)**: GLAUx now contains semantic annotation in terms of animacy and word senses. The animacy annotation roughly uses the standard developed by [Zaenen et al. 2004, Animacy Encoding in English: Why and How](https://aclanthology.org/W04-0216/), while the sense labels are from [WordNet (3.0)](https://wordnet.princeton.edu/). The training data for the animacy annotation is created by myself, Toon Van Hal and several students at the University of Leuven (Fien Torfs, Yannick Daalhuizen, Nicolas Vallaey, Sander Van Olmen, Fien Pauwels, Leen Janssens, Gitte Steurs, Marith Debels, Nore Van den bergh, Olivier Goossens, Sam Goven, Kobe Geerts, Lieselotte Lempens, Melanie Detrez, Rik Verachtert, Sophia Dillen, and Benjamin van Noordenne). The training data for sense annotation are created through a rather complex procedure, based on language pivoting techniques on English translations in the public domain: the translators are too many people to list there, but I am grateful to all of them for their indispensable work.
+
+## Accuracy
+
+The numbers in the table below give some idea how reliable the several layers of annotation are, but should be taken with a grain of salt: evaluating automatic annotation is an extremely difficult task, and can often not be captured in one single metric. More details on the results of specific annotation layers can be found in their respective papers (see https://github.com/alekkeersmaekers/glaux-nlp).
+
+| Annotation layer | Accuracy |
+| --- | --- |
+| Morphology | 97.2% |
+| Lemmas | 98.8% |
+| Syntax | ~80% |
+| Animacy | 89.2% |
+| Word senses | 82.0% |
+
 ## The future of GLAUx
 
 In the near future, the following steps will be taken in order to improve the quality of GLAUx:
-* Adding more texts from later periods.
 * Integrating the papyrus corpus available at https://github.com/alekkeersmaekers/duke-nlp.
+* Adding more texts from later periods.
 * Improving the quality of the automatic annotation, in particular syntax.
-* Adding more automatic annotations (in particular semantic annotation).
+* Adding more automatic annotations (in particular semantic roles).
 
 ## Credits
 
